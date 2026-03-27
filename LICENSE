@@ -1,0 +1,89 @@
+usa01 翻訳MODガイドライン / usa01 Translation Mod Guidelines
+Version 1.0 - 2026-03-27
+
+======================================================================
+日本語（正文）
+======================================================================
+
+本リポジトリに含まれるすべてのデータ（シナリオテキスト、ロケールファイル等）は、
+サークル「もちもち山」（以下「権利者」）に帰属する著作物です。
+
+■ ゲーム情報
+タイトル：うさみみ道具屋さんとおさわり出稼ぎ冒険者生活
+サークル：もちもち山（mochimochiyama）
+購入先：https://www.dlsite.com/maniax/work/=/product_id/RJ01575130.html
+
+■ 許可事項
+- 本データを利用した翻訳MODの作成（翻訳手法は問いません）
+- 翻訳MODの無償配布
+- 翻訳MODを適用した状態での実況・配信・スクリーンショットの公開
+
+■ 禁止事項
+- 本データまたは翻訳MODの商用利用（有償販売等）
+- 翻訳MODの形態を伴わない原文テキストの転載・再配布
+- ゲームの画像・音声・プログラムコード等、テキスト以外の資産を含む配布
+- 本データを利用した、ゲーム体験を代替するコンテンツの作成
+- 第三者の権利を侵害する行為
+
+■ クレジット表記
+翻訳MODを配布する際は、以下を説明文またはREADMEに記載してください。
+- ゲーム名：うさみみ道具屋さんとおさわり出稼ぎ冒険者生活
+- サークル名：もちもち山
+- 購入先：https://www.dlsite.com/maniax/work/=/product_id/RJ01575130.html
+
+■ 権利
+本リポジトリに含まれるすべてのデータの著作権は権利者に帰属します。
+本ガイドラインは、翻訳MOD作成のための限定的な利用許諾であり、
+著作権その他の権利の譲渡を意味するものではありません。
+権利者は、本ガイドラインの条項を変更または撤回する権利を留保します。
+
+■ 免責
+本データは「現状のまま」で提供されます。
+権利者は、本データの利用により生じたいかなる損害についても
+一切の責任を負いません。
+
+
+======================================================================
+English (Convenience Translation)
+======================================================================
+
+The Japanese text above is authoritative. This English translation
+is provided for convenience only.
+
+All data in this repository (scenario text, locale files, etc.)
+is copyrighted material belonging to circle "mochimochiyama"
+(the "Rights Holder").
+
+■ Game Information
+Title: Usamimi Dougu-ya-san to Osawari Dekasegi Boukensha Seikatsu
+Circle: mochimochiyama
+Purchase: https://www.dlsite.com/maniax/work/=/product_id/RJ01575130.html
+
+■ Permitted
+- Creating translation mods using this data (any translation method)
+- Free distribution of translation mods
+- Publishing gameplay videos, streams, and screenshots with translation mods applied
+
+■ Prohibited
+- Commercial use of this data or translation mods (including paid distribution)
+- Redistribution of original text outside the context of a translation mod
+- Distribution including game images, audio, program code, or other non-text assets
+- Creating content that substitutes the game experience using this data
+- Any action that infringes upon the rights of third parties
+
+■ Attribution
+When distributing a translation mod, include the following in the
+mod description or README:
+- Game: Usamimi Dougu-ya-san to Osawari Dekasegi Boukensha Seikatsu
+- Circle: mochimochiyama
+- Purchase: https://www.dlsite.com/maniax/work/=/product_id/RJ01575130.html
+
+■ Rights
+All copyrights to the data in this repository belong to the Rights Holder.
+These guidelines constitute a limited license for creating translation mods
+and do not imply any transfer of copyright or other rights.
+The Rights Holder reserves the right to modify or revoke these guidelines.
+
+■ Disclaimer
+This data is provided "as is." The Rights Holder assumes no liability
+for any damages arising from the use of this data.
