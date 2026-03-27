@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ===== Enemy Names =====
+
+msgctxt "enemy_name"
+msgid "enemy_0"
+msgstr "スライム"
+
+msgctxt "enemy_name"
+msgid "enemy_1"
+msgstr "ゴブリン"
+
+msgctxt "enemy_name"
+msgid "enemy_2"
+msgstr "スケルトン"
+
+msgctxt "enemy_name"
+msgid "enemy_3"
+msgstr "インプ"
+
+msgctxt "enemy_name"
+msgid "enemy_4"
+msgstr "オーク"
+
+msgctxt "enemy_name"
+msgid "enemy_5"
+msgstr "ハーピー"
+
+msgctxt "enemy_name"
+msgid "enemy_6"
+msgstr "トロル"
+
+msgctxt "enemy_name"
+msgid "enemy_7"
+msgstr "ゴーレム"
+
+msgctxt "enemy_name"
+msgid "enemy_8"
+msgstr "ワイバーン"
+
+msgctxt "enemy_name"
+msgid "enemy_9"
+msgstr "ナーガ"
+
+msgctxt "enemy_name"
+msgid "enemy_10"
+msgstr "クラーケン"
+
+msgctxt "enemy_name"
+msgid "enemy_11"
+msgstr "ゴールド・ドラゴン"

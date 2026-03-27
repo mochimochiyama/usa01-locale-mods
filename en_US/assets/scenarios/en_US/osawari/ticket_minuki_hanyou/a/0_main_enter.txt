@@ -1,0 +1,63 @@
+
+usa00:
+  腕: normal
+  前腕: normal
+  パンツ: normal
+  キャミ中: true
+  キャミ下: true
+  目: normal
+  口: normal
+  まんこ: normal
+  me構図: まえから
+
+
+usa00@rt:…
+
+…
+
+me:「アノ〜…」
+
+usa00@rt:あ〜♥
+
+usa00:
+  目: close_smile
+
+usa00@rt:なんかあっついな〜♥
+
+usa00:
+  前腕: たくし0
+usa00@lb:[wave]ちら♥[/wave]
+
+…!!!
+
+usa00:
+  前腕: normal
+
+usa00@rt:は〜♥
+
+usa00:
+  前腕: たくし0
+
+usa00@rt:[wave]ちら〜♥[/wave]
+
+…!!!
+
+
+usa00:
+  前腕: normal
+
+usa00@rt:あっちかった〜♥
+
+…
+
+usa00:
+  ちんこ: normal
+
+usa00:
+  目: normal
+
+usa00@rt:なんかでてきた〜♥
+usa00@lb:おっき〜♥
+
+…
+

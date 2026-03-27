@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# --- Section Titles ---
+
+msgid "STAT_SECTION_WHOLE_BODY"
+msgstr "全身"
+
+msgid "STAT_SECTION_HEAD"
+msgstr "頭"
+
+msgid "STAT_SECTION_MOUTH"
+msgstr "おくち"
+
+msgid "STAT_SECTION_SMELL"
+msgstr "におい"
+
+msgid "STAT_SECTION_NIPPLES"
+msgstr "乳首"
+
+msgid "STAT_SECTION_CLITORIS"
+msgstr "クリ"
+
+msgid "STAT_SECTION_VAGINA"
+msgstr "膣"
+
+# --- Stat Labels ---
+
+msgid "STAT_LABEL_CARESSED"
+msgstr "なでられた:"
+
+msgid "STAT_LABEL_KISSED"
+msgstr "キスされた:"
+
+msgid "STAT_LABEL_CAME_MOUTH"
+msgstr "イッた♥:"
+
+msgid "STAT_LABEL_FACIAL"
+msgstr "顔に射精された:"
+
+msgid "STAT_LABEL_SMELL_SNIFF"
+msgstr "ちんかぎさせられた:"
+
+msgid "STAT_LABEL_CAME_SMELL"
+msgstr "においでイッた♥:"
+
+msgid "STAT_LABEL_NIPPLE_PINCHED"
+msgstr "つままれた:"
+
+msgid "STAT_LABEL_CAME_NIPPLE"
+msgstr "乳首でイった♥:"
+
+msgid "STAT_LABEL_CHEST_EJAC"
+msgstr "胸に射精された:"
+
+msgid "STAT_LABEL_CLIT_RUB"
+msgstr "クリぷにシコ:"
+
+msgid "STAT_LABEL_CAME_CLIT"
+msgstr "クリイキ♥:"
+
+msgid "STAT_LABEL_FINGER_IN"
+msgstr "指を入れられた:"
+
+msgid "STAT_LABEL_INSERTED"
+msgstr "挿入された:"
+
+msgid "STAT_LABEL_CAME_VAGINA"
+msgstr "イッた♥:"
+
+msgid "STAT_LABEL_CREAMPIE"
+msgstr "なかだし♥:"
+
+# --- Format Strings ---
+
+msgid "STAT_FMT_COUNT"
+msgstr "%s %d回"
+
+msgid "STAT_UNKNOWN_ENTRY"
+msgstr "？？？: ？回"
+
+msgid "STAT_UNKNOWN"
+msgstr "？？？"

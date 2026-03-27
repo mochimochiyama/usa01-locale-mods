@@ -1,0 +1,31 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag (e.g. v1.1.0)"
+        required: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Create zip files
+        run: |
+          (cd en_US && zip -r ../en_US.zip .)
+          (cd zh_CN && zip -r ../zh_CN.zip .)
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag }}
+          name: ${{ github.event.inputs.tag }}
+          files: |
+            en_US.zip
+            zh_CN.zip
+          generate_release_notes: true

@@ -1,0 +1,35 @@
+
+bg: shop
+
+usa00:
+  posure: front
+
+usa00@rt:おはよ〜
+
+me:「チワース」
+
+usa00@rt:[tornado]バパン[/tornado] 語講座〜
+
+me: 「ﾏｯﾃﾏｼﾀｰｰｰ」
+
+usa00@rt:ありがとうは〜
+usa00@rt:[tornado]クニャ![/tornado]
+
+me: 「[shake]ｸﾆｬ[/shake]」
+
+usa00@rt: ちっちっち
+usa00@lb: 喉を開けて 鼻から
+
+usa00@rt:[tornado]クニャ![/tornado]
+
+me: 「[tornado][shake]ｸﾆｬ[/shake][/tornado]」
+
+あっちょっと回った!!
+
+
+
+usa00:exit
+
+…
+
+……今日も一日頑張るぞ!

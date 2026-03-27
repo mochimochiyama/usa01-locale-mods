@@ -1,0 +1,29 @@
+
+
+bg: room0
+
+usa00:
+  posure: front
+  上着: なし
+  手袋: なし
+
+
+me: 「ありがとうございます!!」
+
+usa00@rt:♥〜
+
+usa00:
+  posure: front
+  上着: なし
+  手袋: なし
+  目: close_smile
+
+usa00@rt: じゃあまたあした〜
+
+usa00: exit
+
+bg: shop
+
+ﾊﾞﾀﾝ
+
+…

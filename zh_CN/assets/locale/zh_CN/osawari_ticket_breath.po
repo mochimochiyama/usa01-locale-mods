@@ -1,0 +1,176 @@
+# おさわりシーン: 息/口 (ticket_breath)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文 - Phase 1
+msgctxt "osawari_hint"
+msgid "ticket_breath_p1_operation"
+msgstr "・頬を触る:クリック\n・頬を引っ張る:ドラッグ\n・頭を撫でる:クリック"
+
+msgctxt "osawari_hint"
+msgid "ticket_breath_p1_hint"
+msgstr "ほっぺたを10回揉むと次のシナリオへ"
+
+# ヒント本文 - Phase 2
+msgctxt "osawari_hint"
+msgid "ticket_breath_p2_operation"
+msgstr "・唇を触る: クリック\n・口に指を入れる:ドラッグ\n・頬を触る:頬をクリック\n・頬を引っ張る:頬を下にドラッグ\n・頭を撫でる:頭をクリック"
+
+msgctxt "osawari_hint"
+msgid "ticket_breath_p2_hint"
+msgstr "指を入れると次のシナリオへ"
+
+# ヒント本文 - Phase 3
+msgctxt "osawari_hint"
+msgid "ticket_breath_p3_operation"
+msgstr "・唇？を触る: 指を奥まで入れてクリック\n・口に指を入れる:ドラッグ\n・頬を触る:頬をクリック\n・頬を引っ張る:頬を下にドラッグ\n・頭を撫でる:頭をクリック"
+
+msgctxt "osawari_hint"
+msgid "ticket_breath_p3_hint"
+msgstr "10回唇?を触ると次のシナリオへ"
+
+# ヒント本文 - Phase 4
+msgctxt "osawari_hint"
+msgid "ticket_breath_p4_operation1"
+msgstr "・前歯を触る:クリック (前歯が見えているときだけ)\n・舌を触る: クリック\n・指を入れる: 口の左右をクリックしてドラッグ\n・舌を引っ張る: 口を広げた状態で舌先をクリックしてドラッグ"
+
+msgctxt "osawari_hint"
+msgid "ticket_breath_p4_operation2"
+msgstr "・頬を触る:頬をクリック\n・頬を引っ張る:頬を下にドラッグ\n・頭を撫でる:頭をクリック"
+
+msgctxt "osawari_hint"
+msgid "ticket_breath_p4_hint"
+msgstr "10回前歯を触ると終了\n前歯は口に指を入れていたりすると触れないので、頭を撫でたり頬を触ったりして露出させてください。"
+
+# バブル - Phase 1 (ほっぺ)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p1_hoppe_heart"
+msgstr "〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p1_hoppe_muni"
+msgstr "むに〜?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p1_hoppe_wa"
+msgstr "わ〜♥"
+
+# バブル - Phase 2 (唇)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p2_kuchibiru_mu"
+msgstr "む♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p2_kuchibiru_muu"
+msgstr "む〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p2_kuchibiru_heart"
+msgstr "♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p2_finger_insert"
+msgstr "〜♥？"
+
+# バブル - Phase 3 (指さわり)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p3_sawari_hawa"
+msgstr "は〜わ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p3_sawari_hawaio"
+msgstr "は〜あいお♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p3_sawari_oaiha"
+msgstr "おあいは♥"
+
+# バブル - Phase 4 (口開け)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_kuchi_ake"
+msgstr "[tornado]あぇ♥？[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_both1_eaa"
+msgstr "[tornado]えあぁ〜♥?[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_both1_he"
+msgstr "[tornado]へっ♥?[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_both1_ea"
+msgstr "[tornado]えあ♥?[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_both1_hea"
+msgstr "[tornado]へぁ♥[/tornado]"
+
+# バブル - Phase 4 (歯)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tooth_haho"
+msgstr "[tornado]はほ♥[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tooth_haea"
+msgstr "[tornado]はえあ♥[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tooth_ea"
+msgstr "[tornado]えあ♥[/tornado]"
+
+# バブル - Phase 4 (舌)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tongue_hoho"
+msgstr "[tornado]ほほ〜[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tongue_hahahaihehuho"
+msgstr "[tornado]はははいへふほ♥[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tongue_ea"
+msgstr "[tornado]えあ♥[/tornado]"
+
+# バブル - Phase 4 (舌つまみ0)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tsumami0_e"
+msgstr "[tornado]ぇ♥?[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tsumami0_ea"
+msgstr "[tornado]えぁ♥[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tsumami0_a"
+msgstr "[tornado]あ♥[/tornado]"
+
+# バブル - Phase 4 (舌つまみ1)
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tsumami1_ea"
+msgstr "[tornado]えあ♥?[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tsumami1_e"
+msgstr "[tornado]え♥[/tornado]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_breath_p4_tsumami1_eaa"
+msgstr "[tornado]えぁ〜♥?[/tornado]"
+
+# 選択肢
+msgctxt "osawari_choice"
+msgid "ticket_breath_p0_hoppe"
+msgstr "ほっぺ触らせてください!!!"
+
+msgctxt "osawari_choice"
+msgid "ticket_breath_p1_hoppe_futsuu"
+msgstr "ほっぺって♥ 普通じゃん♥!!!!"

@@ -1,0 +1,493 @@
+# VFX オノマトペ (osawari_toolkit/vfx/vfx_osawari_text.gd)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# MOMI
+msgctxt "osawari_vfx"
+msgid "momi_0"
+msgstr "もみ"
+
+msgctxt "osawari_vfx"
+msgid "momi_1"
+msgstr "むに"
+
+msgctxt "osawari_vfx"
+msgid "momi_2"
+msgstr "もみ♥"
+
+# NADE
+msgctxt "osawari_vfx"
+msgid "nade_0"
+msgstr "なで"
+
+msgctxt "osawari_vfx"
+msgid "nade_1"
+msgstr "なで"
+
+msgctxt "osawari_vfx"
+msgid "nade_2"
+msgstr "なで♥"
+
+msgctxt "osawari_vfx"
+msgid "nade_3"
+msgstr "♥"
+
+# SHIKO
+msgctxt "osawari_vfx"
+msgid "shiko_0"
+msgstr "しこ"
+
+msgctxt "osawari_vfx"
+msgid "shiko_1"
+msgstr "くちゅ"
+
+msgctxt "osawari_vfx"
+msgid "shiko_2"
+msgstr "ちゅこ"
+
+msgctxt "osawari_vfx"
+msgid "shiko_3"
+msgstr "ちゃっ♥"
+
+# ZURASHI_PANTS
+msgctxt "osawari_vfx"
+msgid "zurashi_pants_0"
+msgstr "ずっ"
+
+msgctxt "osawari_vfx"
+msgid "zurashi_pants_1"
+msgstr "ずりっ"
+
+# AKUSYU
+msgctxt "osawari_vfx"
+msgid "akusyu_0"
+msgstr "ぎゅっ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_1"
+msgstr "にぎっ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_2"
+msgstr "にぎ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_3"
+msgstr "ぎゅ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_4"
+msgstr "にぎゅ♥"
+
+# SHIPPO
+msgctxt "osawari_vfx"
+msgid "shippo_0"
+msgstr "もふっ"
+
+msgctxt "osawari_vfx"
+msgid "shippo_1"
+msgstr "ぎゅっ"
+
+msgctxt "osawari_vfx"
+msgid "shippo_2"
+msgstr "ふあっ"
+
+msgctxt "osawari_vfx"
+msgid "shippo_3"
+msgstr "ふわっ"
+
+# SHIPPO_HURI
+msgctxt "osawari_vfx"
+msgid "shippo_huri_0"
+msgstr "ふり"
+
+msgctxt "osawari_vfx"
+msgid "shippo_huri_1"
+msgstr "ふり♥"
+
+msgctxt "osawari_vfx"
+msgid "shippo_huri_2"
+msgstr "ぷり"
+
+# HOPPE_MUNI
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_0"
+msgstr "むに"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_1"
+msgstr "むみ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_2"
+msgstr "むに♥"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_3"
+msgstr "むにゅ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_4"
+msgstr "み"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_5"
+msgstr "む"
+
+# HOPPE_HIPPARI
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_0"
+msgstr "むぎゅ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_1"
+msgstr "むみ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_2"
+msgstr "む"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_3"
+msgstr "にゅ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_4"
+msgstr "みゅ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_5"
+msgstr "みぃ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_6"
+msgstr "もち"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_7"
+msgstr "にゃ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_8"
+msgstr "むにぃ"
+
+# KUTI_YUBIIRE_PRESSED
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_0"
+msgstr "ちま"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_1"
+msgstr "ちゃ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_2"
+msgstr "ぽっ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_3"
+msgstr "ちゅ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_4"
+msgstr "にち"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_5"
+msgstr "むちゃ"
+
+# KUTI_TIN_PRESSED
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_0"
+msgstr "ぬぽっ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_1"
+msgstr "ぬちゅ♥"
+
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_2"
+msgstr "にゅ♥"
+
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_3"
+msgstr "のぽ"
+
+# MUWA
+msgctxt "osawari_vfx"
+msgid "muwa_0"
+msgstr "むわっ♥"
+
+msgctxt "osawari_vfx"
+msgid "muwa_1"
+msgstr "むわ♥"
+
+msgctxt "osawari_vfx"
+msgid "muwa_2"
+msgstr "むわぁ♥"
+
+# KOKAN_KARI
+msgctxt "osawari_vfx"
+msgid "kokan_kari_0"
+msgstr "かり♥"
+
+msgctxt "osawari_vfx"
+msgid "kokan_kari_1"
+msgstr "すり♥"
+
+msgctxt "osawari_vfx"
+msgid "kokan_kari_2"
+msgstr "すり"
+
+# KISS
+msgctxt "osawari_vfx"
+msgid "kiss_0"
+msgstr "ちゅっ"
+
+msgctxt "osawari_vfx"
+msgid "kiss_1"
+msgstr "ちゅ♥"
+
+# SAWARI_PITYA
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_0"
+msgstr "ぴちゃ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_1"
+msgstr "ちゃ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_2"
+msgstr "ぺちゃ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_3"
+msgstr "ちゃ♥"
+
+# SAWARI_PITO
+msgctxt "osawari_vfx"
+msgid "sawari_pito_0"
+msgstr "ぴと"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pito_1"
+msgstr "ぴた♥"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pito_2"
+msgstr "ぴと♥"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pito_3"
+msgstr "ぴた♥"
+
+# TINKO_SOUNYU_GU
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_gu_0"
+msgstr "ぐっ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_gu_1"
+msgstr "ぐぐっ♥"
+
+# TINKO_SOUNYU_PRE
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_0"
+msgstr "ちゃ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_1"
+msgstr "ちゅ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_2"
+msgstr "ぱ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_3"
+msgstr "ぱっ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_4"
+msgstr "ぶっ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_5"
+msgstr "ぼ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_6"
+msgstr "にゅ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_7"
+msgstr "ぱ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_8"
+msgstr "ちゃ"
+
+# TINKO_SOUNYU_POST
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_0"
+msgstr "ごっ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_1"
+msgstr "ぐっ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_2"
+msgstr "っ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_3"
+msgstr "ぢゅ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_4"
+msgstr "♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_5"
+msgstr "♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_6"
+msgstr "ご♥"
+
+# KISS_DEEP
+msgctxt "osawari_vfx"
+msgid "kiss_deep_0"
+msgstr "ぢゅ♥"
+
+msgctxt "osawari_vfx"
+msgid "kiss_deep_1"
+msgstr "ぢゅる♥"
+
+msgctxt "osawari_vfx"
+msgid "kiss_deep_2"
+msgstr "じゅ"
+
+msgctxt "osawari_vfx"
+msgid "kiss_deep_3"
+msgstr "じゅっ"
+
+# MANKO_PUNI
+msgctxt "osawari_vfx"
+msgid "manko_puni_0"
+msgstr "ぷに"
+
+msgctxt "osawari_vfx"
+msgid "manko_puni_1"
+msgstr "ぷに♥"
+
+# TIKUBI_GYU
+msgctxt "osawari_vfx"
+msgid "tikubi_gyu_0"
+msgstr "ぎゅ"
+
+msgctxt "osawari_vfx"
+msgid "tikubi_gyu_1"
+msgstr "ぎゅっ♥"
+
+# TINKO_SHIKO_HANA
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_0"
+msgstr "しこ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_1"
+msgstr "くちゅ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_2"
+msgstr "ちゅこ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_3"
+msgstr "くん…"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_4"
+msgstr "くん"
+
+# SEIEKI_TORO
+msgctxt "osawari_vfx"
+msgid "seieki_toro_0"
+msgstr "とろっ♥"
+
+# SEIEKI_BYURU
+msgctxt "osawari_vfx"
+msgid "seieki_byuru_0"
+msgstr "びゅっ♥"
+
+msgctxt "osawari_vfx"
+msgid "seieki_byuru_1"
+msgstr "びゅるっ♥"
+
+# ORGASM_PUSI
+msgctxt "osawari_vfx"
+msgid "orgasm_pusi_0"
+msgstr "ぷしっ♥"
+
+msgctxt "osawari_vfx"
+msgid "orgasm_pusi_1"
+msgstr "ぷしゃっ♥"
+
+# KYAMI_GABA
+msgctxt "osawari_vfx"
+msgid "kyami_gaba_0"
+msgstr "がばっ♥"
+
+# SUMATA_PANTSU
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_0"
+msgstr "しゅっ"
+
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_1"
+msgstr "ちゃっ"
+
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_2"
+msgstr "しゃっ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_3"
+msgstr "ちゃ♥"
+
+# SUMATA_NAMA
+msgctxt "osawari_vfx"
+msgid "sumata_nama_0"
+msgstr "くちゅ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_1"
+msgstr "ちゃ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_2"
+msgstr "じゅ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_3"
+msgstr "むちゃ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_4"
+msgstr "♥"
+
+# CLOTH_BUTTON
+msgctxt "osawari_vfx"
+msgid "cloth_button_0"
+msgstr "ぱち"

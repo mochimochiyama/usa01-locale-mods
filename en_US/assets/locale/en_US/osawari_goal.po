@@ -1,0 +1,269 @@
+# おさわりシーン: ゴール/挿入 (goal)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ヒント本文 - Phase 1
+msgctxt "osawari_hint"
+msgid "goal_p1_operation"
+msgstr "・ちんちんを挿入する:ちんちんを上にドラッグ"
+
+msgctxt "osawari_hint"
+msgid "goal_p1_hint"
+msgstr "・ちんちんを挿れよう!"
+
+# ヒント本文 - Phase 2
+msgctxt "osawari_hint"
+msgid "goal_p2_operation"
+msgstr "・ちんちんを動かす:ちんちんをクリック\n・乳首をつまむ:乳首をクリック"
+
+msgctxt "osawari_hint"
+msgid "goal_p2_hint"
+msgstr "・限界まで射精しよう!!"
+
+# ヒント本文 - Phase 4 (イキあり)
+msgctxt "osawari_hint"
+msgid "goal_p4_iki_operation"
+msgstr "・キスをしながらちんちんで突く:舌をクリック"
+
+msgctxt "osawari_hint"
+msgid "goal_p4_iki_hint"
+msgstr "・限界まで射精しよう!!"
+
+# バブル - SPEECH_ROUND_1
+msgctxt "osawari_bubble"
+msgid "goal_r1_t0_strong"
+msgstr "はっ… はっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t0_default"
+msgstr "もっと♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t1_strong"
+msgstr "はっ… はっ… はっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t1_middle"
+msgstr "そごっ♥ "
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t1_default"
+msgstr "もっとこしふって♥ ふって♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t2_strong"
+msgstr "へっ♥へっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t2_middle"
+msgstr "あっ♥ あっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r1_t2_default"
+msgstr "あ〜♥\nなんかでっか〜♥"
+
+# バブル - SPEECH_ROUND_2
+msgctxt "osawari_bubble"
+msgid "goal_r2_t0_strong"
+msgstr "はっ… はっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t0_default"
+msgstr "なんか〜べちゃべちゃ〜♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t1_strong"
+msgstr "そごっ♥ おぐぎもぢ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t1_middle"
+msgstr "もっと♥ がんばれ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t1_default"
+msgstr "もっと♥ がんばれ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t2_strong"
+msgstr "はっ… へっ♥ へっ♥\nだじでっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t2_middle"
+msgstr "あっ♥ へっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r2_t2_default"
+msgstr "あ〜♥\nまたおっきくなった♥"
+
+# バブル - SPEECH_ROUND_3
+msgctxt "osawari_bubble"
+msgid "goal_r3_t0_strong"
+msgstr "はっ… はっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t0_default"
+msgstr "ふれっ♥ ふれっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t1_strong"
+msgstr "ぎもっ♥ おぐ♥\nぎもぢっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t1_middle"
+msgstr "そごっ♥ へっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t1_default"
+msgstr "もっとこしふれ♥ ふれっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t2_strong"
+msgstr "なが いぎっ… ぐ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t2_middle"
+msgstr "へっ♥ だせっ♥\nいっぱいだせっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_r3_t2_default"
+msgstr "出せっ♥ 出せっ♥"
+
+# バブル - SPEECH_FINAL (イキなし)
+msgctxt "osawari_bubble"
+msgid "goal_final_t0_strong"
+msgstr "はっ… はっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t0_default"
+msgstr "ふれっ♥ ふれっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t1_strong"
+msgstr "ぎもっ♥ おぐ♥\nぎもぢっ…"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t1_middle"
+msgstr "そごっ♥ へっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t1_default"
+msgstr "もっとこしふれ♥ ふれっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t2_strong"
+msgstr "なが いぎっ… ぐ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t2_middle"
+msgstr "へっ♥ だせっ♥\nいっぱいだせっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t2_default"
+msgstr "出せっ♥ 出せっ♥ さいごっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_t3_default"
+msgstr "[shake]♥♥♥♥♥♥♥♥♥[/shake]"
+
+# バブル - SPEECH_FINAL_IKI (イキあり)
+msgctxt "osawari_bubble"
+msgid "goal_final_iki_t0"
+msgstr "ちゅぃ♥ こぇちゅい♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_iki_t1"
+msgstr "ぇ♥ ぁえっ♥ ちゅき♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_iki_t2"
+msgstr "ぇっ♥ぇあ♥ "
+
+msgctxt "osawari_bubble"
+msgid "goal_final_iki_t3"
+msgstr "ちゅき♥ ちゅきっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_final_iki_t4"
+msgstr "だちぇっ♥ だちぇっ♥"
+
+# バブル - NIPPLE_SPEECH (乳首)
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c1_strong"
+msgstr "ぇあ!?"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c1_default"
+msgstr "っにゃ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c10_strong"
+msgstr "ち、ちぐびすき…"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c10_middle"
+msgstr "あっ♥ ちくび♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c10_default"
+msgstr "あっ♥ あっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c50_strong"
+msgstr "ぢぐ、ちぐびしゅき…"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c50_middle"
+msgstr "ちぐびっ♥ すきっ♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_nipple_c100_strong"
+msgstr "ぢぐ、ちぐびゆるじて…"
+
+# バブル - SPEECH_ORGASM (オーガズム)
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_0_chest"
+msgstr "ぢぐびいグ♥♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_0_default"
+msgstr "[shake]ぁあ゛♥♥♥♥[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_1_chest"
+msgstr "ぢぐびいぎゅ♥♥"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_1_default"
+msgstr "[shake]いぐ♥♥♥[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_2"
+msgstr "[shake]ィぐ♥♥♥♥♥♥♥[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_3"
+msgstr "[shake]…ぐっ ゅるじで♥♥♥♥♥♥[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_4"
+msgstr "[shake]ぐ♥♥♥♥[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_5"
+msgstr "[shake]♥♥♥[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_6"
+msgstr "[shake]…♥♥!?[/shake]"
+
+msgctxt "osawari_bubble"
+msgid "goal_orgasm_fallback"
+msgstr "……"

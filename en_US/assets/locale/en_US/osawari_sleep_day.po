@@ -1,0 +1,28 @@
+# おさわりシーン: 昼寝 (sleep_day)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "sleep_day_beginner"
+msgstr "・頭を撫でる\n・上着を脱がす(紐:クリック 脱衣:ドラッグ)\n・パンツを見る(ドラッグ)\n・ふともも見抜き♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_day_intermediate"
+msgstr "・胸めくり\n・ちゅー\n・まんぷに\n・顔見抜き(ちんかぎ)♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_day_advanced"
+msgstr "・全部脱がす\n・乳首をつまむ\n・乳首見抜き♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_day_operation"
+msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"

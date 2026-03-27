@@ -1,0 +1,53 @@
+
+usa00:
+  腕: normal
+  前腕: normal
+  パンツ: none
+  キャミ中: true
+  キャミ下: true
+  目: normal
+  口: normal
+  まんこ: normal
+
+me:「アノ~…」
+
+me:「今日もうしろからぎゅーってしていいですかね…」
+
+usa00:
+  目: close_smile
+usa00@rt:え〜?♥
+
+usa00:
+  目: close_hun
+usa00@lb:また〜♥
+
+
+usa00:
+  me構図: すまた
+
+…ぎゅっ!
+
+usa00:
+  目: close_smile
+usa00@rt:勝手〜♥
+
+usa00:
+  目: normal
+usa00@lb:これ やっぱりアウトのような〜♥?
+
+
+usa00:
+  目: close_hun
+usa00@rt: あん♥
+
+……?
+
+
+
+usa00:
+  目: normal
+  すまた: normal
+
+
+…
+

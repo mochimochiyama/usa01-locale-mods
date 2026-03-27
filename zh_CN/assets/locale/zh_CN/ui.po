@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- App ---
+
+msgid "APP_TITLE"
+msgstr "うさみみ道具屋さんとおさわり出稼ぎ冒険者生活"
+
+msgid "APP_TITLE_DEMO"
+msgstr "うさみみ道具屋さんとおさわり出稼ぎ冒険者生活 体験版"
+
+# --- Common UI ---
+
+msgid "UI_CLOSE"
+msgstr "とじる"
+
+msgid "UI_BACK"
+msgstr "戻る"
+
+msgid "UI_CONFIRM"
+msgstr "決定"
+
+msgid "UI_RETURN_TO_TITLE"
+msgstr "タイトルに戻る"
+
+msgid "UI_YES"
+msgstr "はい"
+
+msgid "UI_NO"
+msgstr "いいえ"
+
+msgid "UI_SAVE"
+msgstr "セーブ"
+
+msgid "UI_LOAD"
+msgstr "ロード"
+
+msgid "UI_CONFIG"
+msgstr "設定"
+
+msgid "UI_HINT"
+msgstr "ヒント"
+
+msgid "UI_NONE"
+msgstr "なし"
+
+# --- Title ---
+
+msgid "TITLE_NEW_GAME"
+msgstr "はじめから"
+
+msgid "TITLE_CONTINUE"
+msgstr "つづきから"
+
+msgid "TITLE_GALLERY"
+msgstr "回想"
+
+msgid "TITLE_QUIT_GAME"
+msgstr "ゲームを終了"
+
+# --- Settings ---
+
+msgid "SETTING_FULL_SCREEN"
+msgstr "フルスクリーン"
+
+msgid "SETTING_RESOLUTION"
+msgstr "解像度"
+
+msgid "SETTING_MONOCHROME"
+msgstr "モノクロモード"
+
+msgid "SETTING_MAIN_VOLUME"
+msgstr "メイン"
+
+msgid "SETTING_BGM_VOLUME"
+msgstr "環境音"
+
+msgid "SETTING_SFX_VOLUME"
+msgstr "効果音"
+
+msgid "SETTING_SEND_ERROR_REPORTS"
+msgstr "エラー情報を送信"
+
+msgid "SETTING_PAWN_COLOR"
+msgstr "カラー"
+
+msgid "SETTING_PAWN_ALPHA"
+msgstr "透明度"
+
+msgid "TOOLTIP_ERROR_REPORTING"
+msgstr "プレイ中に発生したエラー情報を送信します。\n個人を特定できる情報は収集していません。"
+
+msgid "TOOLTIP_HAND_ALPHA"
+msgstr "手の透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+
+msgid "TOOLTIP_HAND_COLOR"
+msgstr "手の色を黒から白の間で設定します"
+
+msgid "TOOLTIP_HEAD_ALPHA"
+msgstr "頭の透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+
+msgid "TOOLTIP_HEAD_COLOR"
+msgstr "頭の色を黒から白の間で設定します"
+
+msgid "TOOLTIP_OCHIN_ALPHA"
+msgstr "ちんちんの透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+
+msgid "TOOLTIP_OCHIN_COLOR"
+msgstr "ちんちんの色を黒から白の間で設定します"
+
+msgid "TOOLTIP_MSAA"
+msgstr "セリフ吹き出しや画像の滑らかさが向上します"
+
+msgid "TOOLTIP_MONOCHROME"
+msgstr "モノクロモードを有効にします。\nフィルターでの表現のため、一部見づらいシーンが発生します"
+
+# --- Home ---
+
+msgid "HOME_SHOW_ITEMS"
+msgstr "商品みせて!"
+
+msgid "HOME_SELL_MATERIALS"
+msgstr "素材売りたい"
+
+msgid "HOME_PUT_TO_SLEEP"
+msgstr "ねむらせる"
+
+msgid "HOME_SECRETS"
+msgstr "ひみつ"
+
+msgid "HOME_GO_TO_SLEEP"
+msgstr "もう寝るか…"
+
+msgid "HOME_GO_TO_ROOM"
+msgstr "へやにいく"
+
+msgid "HOME_GO_ON_QUEST"
+msgstr "クエストいくか…"
+
+msgid "HOME_WANDER"
+msgstr "ぶらぶらする"
+
+msgid "HOME_GALLERY"
+msgstr "回想"
+
+msgid "TUTORIAL_SHOP"
+msgstr "道具屋さんから\nアイテムを購入ができます"
+
+msgid "TUTORIAL_QUEST"
+msgstr "クエストに出発できます"
+
+msgid "HOME_KINTAMA"
+msgstr "金玉:"
+
+msgid "HOME_WEALTH"
+msgstr "所持金:"
+
+# --- Shop ---
+
+msgid "SHOP_NAME"
+msgstr "名前"
+
+msgid "SHOP_ITEM"
+msgstr "アイテム"
+
+msgid "SHOP_QUANTITY"
+msgstr "所持数"
+
+msgid "SHOP_SELL_PRICE"
+msgstr "売却価格"
+
+msgid "SHOP_PRICE"
+msgstr "価格"
+
+msgid "SHOP_REQUIRED_MATERIALS"
+msgstr "必要素材"
+
+msgid "SHOP_STOCK"
+msgstr "在庫"
+
+msgid "SELECT_ITEM_PROMPT"
+msgstr "アイテムを選択してください"
+
+# --- Battle ---
+
+msgid "BATTLE_VICTORY"
+msgstr "勝利!"
+
+msgid "BATTLE_FAST_MODE"
+msgstr "高速戦闘モード"
+
+msgid "BATTLE_STRENGTH"
+msgstr "つよさ:"
+
+msgid "BATTLE_ATTACK_POWER"
+msgstr "攻撃力:"
+
+msgid "BATTLE_MATERIALS"
+msgstr "素材:"
+
+msgid "BATTLE_REWARD"
+msgstr "報酬:"
+
+msgid "BATTLE_CLEARED"
+msgstr "攻略済み!"
+
+msgid "BATTLE_BUFF_TALISMAN"
+msgstr "タリスマン"
+
+msgid "BATTLE_DEBUFF_SLEEP_MAGIC"
+msgstr "睡眠魔法"
+
+# --- Room ---
+
+msgid "ROOM_REQUEST"
+msgstr "あの、お願いが"
+
+msgid "ROOM_USE_BOTTLE"
+msgstr "とっておきの小瓶をつかう"
+
+msgid "ROOM_GO_DOWNSTAIRS"
+msgstr "したにおりる"
+
+# --- Scenario ---
+
+msgid "SCENARIO_BACKLOG"
+msgstr "バックログ"
+
+msgid "SCENARIO_CONTROLS"
+msgstr "クリック: 進める Ctrl: スキップ"
+
+# --- Save/Load ---
+
+msgid "SAVE_SELECT_SLOT"
+msgstr "セーブするスロットを選択"
+
+msgid "SAVE_SELECT_LOAD_SLOT"
+msgstr "スロットを選択してロード"
+
+msgid "SAVE_AUTO_NEWEST"
+msgstr "オートセーブ (最新⇧)"
+
+msgid "SAVE_AUTO_NOTE"
+msgstr "※就寝時にオートセーブされます(最大10件)"
+
+# --- Osawari ---
+
+msgid "OSAWARI_SLOW"
+msgstr "おそい"
+
+msgid "OSAWARI_FAST"
+msgstr "はやい"
+
+msgid "OSAWARI_RIGHT_HAND"
+msgstr "右手"
+
+msgid "OSAWARI_LEFT_HAND"
+msgstr "左手"
+
+msgid "OSAWARI_KISS"
+msgstr "キス"
+
+msgid "OSAWARI_WAIST"
+msgstr " 腰 "
+
+msgid "OSAWARI_RESET_TOUCH"
+msgstr "おさわり状態をリセット"
+
+msgid "OSAWARI_STOP"
+msgstr "やめる"
+
+msgid "OSAWARI_CONTROLS"
+msgstr "操作"
+
+msgid "HINT_PLACEHOLDER"
+msgstr "（ヒントが表示されます）"
+
+# --- Ending ---
+
+msgid "ENDING_THE_END"
+msgstr "〜おわり〜"
+
+msgid "ENDING_VIEW_SECRETS"
+msgstr "ひみつをみる"
+
+msgid "DEMO_ENDING_MESSAGE"
+msgstr "体験版をプレイしていただきありがとうございます！\n\n製品版ではセーブデータを引き継ぎ、続きからプレイすることができます。\nよろしければ、ぜひ製品版もお楽しみください。"
+
+# --- Gallery ---
+
+msgid "GALLERY_HINT_LABEL"
+msgstr "ヒント:"
+
+# --- Format ---
+
+# --- Confirm ---
+
+msgid "CONFIRM_OVERWRITE_SAVE"
+msgstr "%s を上書きしますか？\n以前のデータは失われます。"
+
+msgid "CONFIRM_DELETE_SAVE"
+msgstr "%s を削除しますか？"
+
+msgid "CONFIRM_LOAD"
+msgstr "ロードしますか？\n現在の進行状況は失われます"
+
+msgid "CONFIRM_RETURN_TITLE"
+msgstr "タイトルに戻りますか？\n現在の進行状況は失われます"
+
+msgid "CONFIRM_UNLOCK_GALLERY"
+msgstr "回想を全て解放しますか？"
+
+# --- Hints ---
+
+msgid "HINT_GOAL_BOTTLE"
+msgstr "夜、へやに行って\nとっておきの小瓶を使おう!!"
+
+msgid "HINT_RETURN_KEY"
+msgstr "夜、へやに行ってカギを返そう!!"
+
+msgid "HINT_MINUKI"
+msgstr "夜、へやに行って見抜きさせてもらおう!!"
+
+msgid "HINT_VISIT_ROOM"
+msgstr "夜、へやに行こう!!"
+
+msgid "HINT_ACTION_SLEEP"
+msgstr "就寝して翌日の朝を迎えます"
+
+msgid "HINT_ACTION_QUEST"
+msgstr "クエスト選択画面を開きます"
+
+msgid "HINT_ACTION_IDLE"
+msgstr "特に何もせず、時間を進めます"
+
+msgid "HINT_ACTION_STATISTICS"
+msgstr "道具屋さんのひみつを閲覧します"
+
+msgid "HINT_ACTION_EVENING_VISIT"
+msgstr "道具屋さんのおうちを訪ねます…"
+
+msgid "HINT_ACTION_BUY"
+msgstr "道具屋さんからアイテムを購入します"
+
+msgid "HINT_ACTION_SELL"
+msgstr "道具屋さんにモンスターの素材を売却します"
+
+msgid "HINT_ACTION_GO_DOWNSTAIRS"
+msgstr "1Fに戻ります"
+
+msgid "HINT_NOT_SET"
+msgstr "（ヒント未設定）"
+
+msgid "HINT_UNLOCK_NEXT_EVENT"
+msgstr "つぎの[color=gray][s]ぼったくり[/s][/color]イベントで開放"
+
+msgid "HINT_UNLOCK_SPECIFIC_ITEM"
+msgstr "特定のアイテムを入手すると解放"
+
+msgid "HINT_ACTION_UNKNOWN"
+msgstr "……？"
+
+# --- Battle (extended) ---
+
+msgid "BATTLE_DEFEAT"
+msgstr "敗北..."
+
+msgid "BATTLE_NO_LOOT"
+msgstr "何も獲得できませんでした..."
+
+# --- Shop (extended) ---
+
+msgid "SHOP_NO_ITEMS"
+msgstr "アイテムがありません"
+
+msgid "SHOP_HINT_LABEL"
+msgstr "[b]ヒント[/b]"
+
+msgid "SHOP_DESCRIPTION_LABEL"
+msgstr "[b]説明[/b]"
+
+# --- Scenario (extended) ---
+
+msgid "SPEAKER_SELF"
+msgstr "自分"
+
+# --- Item Description ---
+
+msgid "FMT_STRENGTH_SINGLE"
+msgstr "つよさ: %d "
+
+msgid "FMT_STRENGTH_RANGE"
+msgstr "つよさ: %d-%d "
+
+msgid "FMT_STRENGTH_RANGE_LABEL"
+msgstr " (つよさ：%d～%d)"
+
+msgid "FMT_ARMOR_HP_BONUS_LABEL"
+msgstr " (HP：+%d)"
+
+msgid "FMT_ITEM_COUNT"
+msgstr "%d個"
+
+msgid "NO_DESCRIPTION"
+msgstr "（説明なし）"

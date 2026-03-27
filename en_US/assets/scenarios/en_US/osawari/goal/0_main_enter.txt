@@ -1,0 +1,25 @@
+
+usa00:
+  pose: normal
+  表情: weak
+  目: normal
+  口: normal
+  乳首_左: normal
+  乳首_右: normal
+
+me:「…あの〜」
+
+usa00@rt:[wave]はっはやく[/wave]
+
+…様子がおかしいですが…
+
+usa00:
+  目: close_smile
+
+usa00@rt:[wave]いれてっいれてっ[/wave]
+
+…
+
+usa00:
+  目: normal
+  ちんこ: normal
