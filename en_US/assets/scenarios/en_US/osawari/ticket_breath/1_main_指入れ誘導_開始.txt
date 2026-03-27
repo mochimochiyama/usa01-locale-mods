@@ -1,0 +1,41 @@
+
+
+usa00:
+  目: close_smile
+
+usa00@rt:おしまい〜
+
+usa00:
+  目: normal
+
+usa00@lb:どうでしたか〜?
+usa00@rt:実はちょっと自信あった〜
+
+me:すごい、 スゴイ柔らかかったです!
+me:モチでした！
+
+usa00:
+  目: close_smile
+
+usa00@rt: やった〜♥
+
+usa00:
+  目: normal
+
+usa00@lb: もち〜?
+
+me:「ｱﾉ…」
+
+usa00:
+  目: normal
+usa00@rt: あの〜?
+usa00@lb: なにか〜\n思ってることがあったり〜
+
+me:「や...」
+
+何も思ってないぞ!
+
+usa00:
+  目: close_smile
+
+usa00@rt:「ほっぺって♥ 普通じゃん♥」

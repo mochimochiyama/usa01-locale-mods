@@ -1,0 +1,130 @@
+# おさわりシーン: 見抜き汎用 (ticket_minuki_hanyou)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ヒント本文 - バリアント a
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_a_operation"
+msgstr "・シコる:ちんちんをクリック\n・パンツをずらす:クリック→下にドラッグ"
+
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_a_hint"
+msgstr "パンツが見えているときに、ずらせます"
+
+# ヒント本文 - バリアント b
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_b_operation"
+msgstr "・すまた:おかなをクリック"
+
+# ヒント本文 - バリアント c
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_c_operation"
+msgstr "・すまた:おかなをクリック"
+
+# バブル - バリアント a (ERECTION_HINTS_A)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_heart"
+msgstr "〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_mottookiku"
+msgstr "もっとおっきくしろ〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_kucha"
+msgstr "くちゃ♥ くちゃ〜い♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_sugoi"
+msgstr "すごいおと〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_deru"
+msgstr "でる?♥ でる?♥"
+
+# バブル - バリアント b (ERECTION_HINTS_B)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_honntoni"
+msgstr "これほんとにミヌキ〜♥?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_nani"
+msgstr "なにしてる〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_atteru"
+msgstr "なんか〜あたってるような〜♥？"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_atyu"
+msgstr "あちゅ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_a"
+msgstr "あっ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_aa"
+msgstr "ああ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_mecha"
+msgstr "めっちゃぎゅーしてくる〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_derune"
+msgstr "でる〜?♥ でるよね〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_dase"
+msgstr "だせ〜♥"
+
+# バブル - バリアント c (ERECTION_HINTS_C)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_a"
+msgstr "あっ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_aaa"
+msgstr "ああ♥♥♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_chigau"
+msgstr "なんか〜音がちがう〜♥？"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_onaji"
+msgstr "おなじだろ~♥ あ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_haya"
+msgstr "はやっ♥はやっ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_he"
+msgstr "へっ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_syugo"
+msgstr "しゅご〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_atyu"
+msgstr "あちゅ♥あっちゅい♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_dase"
+msgstr "だせ♥だしぇ♥"
+
+# バブル - バリアント a (パンツ添え)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_pantsu_soe"
+msgstr "え〜♥??"

@@ -1,0 +1,9 @@
+
+
+usa00:
+  目: close_smile
+
+usa00@rt: いたたた〜♥
+
+usa00:
+  目: normal

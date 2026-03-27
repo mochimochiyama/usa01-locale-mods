@@ -1,0 +1,28 @@
+# おさわりシーン: 夜仰向け (sleep_night_on_back)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_beginner"
+msgstr "・頭を撫でる\n・布団をずらす\n・服をずらす(ドラッグ)\n・ちゅ\n・顔見抜き♥\n・ちんかぎ見抜き♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_intermediate"
+msgstr "・下着(胸/パンツ)をずらす(ドラッグ)\n・乳首すりすり(クリック)\n・乳首ぎゅ(ドラッグ)\n・乳首見抜き♥\n・クリいじめ"
+
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_advanced"
+msgstr "・服を脱がす(ドラッグ)\n・ディープキス(ドラッグ)\n・脚を開く(パンツを脱がして脚をドラッグ)\n・まんぷに(クリック)\n・まん指入れ(ドラッグ)\n・おなか見抜き♥\n・えっち♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_operation"
+msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"

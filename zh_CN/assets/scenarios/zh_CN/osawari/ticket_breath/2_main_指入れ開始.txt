@@ -1,0 +1,18 @@
+
+
+usa00@rt:[tornado]ふ〜♥[/tornado]
+
+...
+
+
+usa00:
+  目: close_smile
+usa00@rt:[tornado]は〜わはう~?[/tornado]
+
+……
+
+usa00:
+  目: normal
+usa00@rt:[tornado]まえはおわあいわはう?[/tornado]
+
+me:「...うん！」(適当)

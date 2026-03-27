@@ -1,0 +1,45 @@
+
+bg: shop
+
+usa00:
+  posure: front
+
+usa00@rt:おはよ〜
+
+me:「チワース」
+
+usa00@rt:[tornado]バパン[/tornado] 語講座〜
+
+me: 「やった〜!!!」
+
+usa00@rt:今日は〜 [tornado]クゥ[/tornado] について〜
+
+me: 「いつも言ってるやつじゃん!!!!!」
+
+usa00@rt:これは 便利〜
+usa00@lb:うん も へぇ も いいね も\n全部これ〜
+
+me: 「全部？」
+
+usa00@rt:[tornado]クゥ♪[/tornado]
+
+me: 「くぅ」
+
+usa00@rt:それだと "うん"〜
+usa00@lb:もっと喉を閉じて〜
+
+me: 「[tornado]くぅ[/tornado]」
+
+ちょっとまわったぞ!!!
+
+usa00@rt:ンー
+usa00@rt:練習あるのみ〜
+
+くぅ……
+
+
+usa00:exit
+
+…
+
+……今日も一日頑張るぞ!

@@ -1,0 +1,76 @@
+# おさわりシーン: 見抜き (ticket_minuki)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "ticket_minuki_operation"
+msgstr "・ちんちんを触る:ちんちんをクリック"
+
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hint"
+msgstr "・ちんちんを触って、見抜きしよう!"
+
+# バブル - Erection ヒント (ERECTION_HINTS)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_kyaa"
+msgstr "[wave]きゃ〜♥[/wave]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_fun"
+msgstr "そんなふうにやるんだ〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_okiku"
+msgstr "なんかおっきくなってきた〜?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_kunkun"
+msgstr "くんくん…"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_hen"
+msgstr "へんなにおい〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_kucha"
+msgstr "くちゃ くちゃい♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_deru"
+msgstr "でる?♥ でる?♥"
+
+# バブル - インライン呼び出し
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_gaman_miru"
+msgstr "みるだけでいいの〜?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_gaman_gamman"
+msgstr "なんか我慢してますか~?"
+
+# バブル - Phase 2 シコカウント
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_atsui"
+msgstr "なんかあついな〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_chira"
+msgstr "ちら〜♥"
+
+# 選択肢
+msgctxt "osawari_choice"
+msgid "ticket_minuki_p1_dasasete"
+msgstr "ﾁﾝﾁﾝださせてください!"
+
+msgctxt "osawari_choice"
+msgid "ticket_minuki_p1b_ochin"
+msgstr "ちんちんを出す"

@@ -1,0 +1,13 @@
+
+usa00:
+  目: close_smile
+
+usa00@rt: あ〜♥
+
+usa00:
+  目: normal
+
+usa00@lb: あたま〜？
+
+
+me:「顔、顔！ セーフ、セーフ!!」

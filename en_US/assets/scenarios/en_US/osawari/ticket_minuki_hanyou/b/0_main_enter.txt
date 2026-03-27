@@ -1,0 +1,56 @@
+
+usa00:
+  腕: normal
+  前腕: normal
+  パンツ: normal
+  キャミ中: true
+  キャミ下: true
+  目: normal
+  口: normal
+  まんこ: normal
+
+
+me:「アノ~…」
+
+usa00:
+  目: close_smile
+usa00@rt:なんですか〜?
+
+me:「今日はうしろからつかまっていいですかね…」
+
+usa00:
+  目: close_hun
+usa00@rt:えー?
+
+
+usa00:
+  me構図: すまた
+
+…ぎゅっ!
+
+usa00:
+  目: close_smile
+
+usa00@rt:あ〜♥
+usa00@lb:かってにぎゅするな〜♥
+
+…
+
+usa00:
+  目: normal
+usa00@lb:へんなとこさわってないか〜♥
+
+usa00@rt:これめっちゃ触ってるような〜♥?
+
+me: 「…ギリ、 ギリっす!」
+
+usa00:
+  目: close_hun
+usa00@rt:しかたないな〜♥
+
+usa00:
+  目: normal
+  すまた: normal
+
+…
+

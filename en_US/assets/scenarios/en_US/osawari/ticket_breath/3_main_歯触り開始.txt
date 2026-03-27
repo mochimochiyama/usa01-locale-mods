@@ -1,0 +1,82 @@
+
+usa00@rt:[tornado]っぽ[/tornado]
+
+usa00@rt:
+  口: normal
+
+usa00@lb:[tornado]ぱあ♥[/tornado]
+
+…!
+
+usa00@rt:はーい♥
+
+usa00:
+  目: close_smile
+
+usa00@lb:おしま〜い
+
+…
+
+usa00:
+  目: normal
+
+usa00@rt:なんか〜
+usa00@lb:違うとこさわられてたような〜?
+
+me: 「よく、 わかりませんでした!!!!!!」
+
+usa00:
+  目: close_smile
+usa00@rt:え〜♥
+usa00:
+  目: normal
+usa00@lb:ホントかなあ〜
+
+me: 「ぷにぷにではありました!!!!!!!」
+usa00:
+  目: close_smile
+usa00@rt: ぷに〜?
+
+me: 「もうちょっとだけ、おねがいできませんか!!」
+
+
+usa00@rt: え〜
+
+usa00:
+  目: normal
+usa00@lb: ほんとはもうおわるつもりだったけど〜
+usa00@rt: しかたないな〜
+
+me: 「仕方ないｷﾀ! やさしい! やさしい!」
+
+usa00@rt: やさしいので〜
+usa00@lb:トクベツに〜
+usa00@lb: はみがき〜？
+
+me: 「[shake]!!!!! はみがき??????????!!!![/shake]」
+
+usa00@rt: 声でか〜♥
+
+me: 「[shake]でも!!!! はみがきいまないです!! 棒の 棒のやつが!!!!![/shake]」
+
+usa00@rt: じゃあトクベツに〜\nしかたがないので〜
+usa00@lb: ゆびで〜
+
+me: アー……
+
+usa00:
+  口: 舌出し
+
+usa00@rt:[tornado]あ〜っ[/tornado]
+
+
+usa00:
+  目: close_smile
+
+usa00@lb:[tornado]ほっへはあっっへひーへっほ♥[/tornado]
+
+usa00:
+  area_口: none
+  目: normal
+  口: 舌出し
+  camera_focus: mouth
