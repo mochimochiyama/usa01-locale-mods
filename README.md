@@ -55,49 +55,202 @@ mods/
 > [!NOTE]
 > すべての翻訳を行わなくても、部分的な翻訳に対応していますので、都度確認可能です。
 
+---
+
+## .po ファイルの翻訳方法
+
+`msgstr` の中身を翻訳してください。それ以外の行は変更しないでください。
+
+```po
+# OK — msgstr を翻訳する
+msgid "UI_CLOSE"
+msgstr "Close"
+
+# NG — msgid を変えてしまっている
+msgid "Close"
+msgstr "Close"
+```
+
+アイテム名と説明のように、同じキーが複数の場面で使われる場合は `msgctxt` で区別されています。`msgctxt` はそのまま残してください。
+
+```po
+# OK — msgctxt はそのまま、msgstr だけ翻訳
+msgctxt "item_name"
+msgid "notebook"
+msgstr "Mysterious Book"
+
+msgctxt "item_description"
+msgid "notebook"
+msgstr "Might reveal the shopkeeper's secret!"
+
+# NG — msgctxt を消してしまっている
+msgid "notebook"
+msgstr "Mysterious Book"
+```
+
+`{enemy_11}` のようなプレースホルダーはゲームが実行時に別のテキストに置き換えます。そのまま残してください。
+
+```po
+# OK — {enemy_11} を保持
+msgctxt "item_description"
+msgid "drop_11"
+msgstr "Dropped by {enemy_11}."
+
+# NG — {enemy_11} が消えている
+msgctxt "item_description"
+msgid "drop_11"
+msgstr "A monster drop."
+```
+
+`%02d` や `%s` も同様に保持してください。
+
+```po
+# OK — %02d と %s をすべて保持
+msgid "FMT_DAY_PERIOD"
+msgstr "Day %02d %s"
+
+# NG — %s が消えている
+msgid "FMT_DAY_PERIOD"
+msgstr "Day %02d"
+```
+
+`msgstr ""` になっているエントリは意図的に空です。そのままにしてください。
+
+---
+
+## シナリオファイルの翻訳方法
+
+シナリオファイルにはゲームへの命令行と、プレイヤーに表示されるテキスト行が混在しています。
+
+**翻訳する行** — プレイヤーに表示されるテキスト:
+- `me:` で始まる行（主人公のセリフ・独白）
+- `???@rt:` `usa00@lb:` のように `キャラ名@位置:` で始まる行（キャラクターのセリフ）
+- 上記のどれにも当てはまらない普通のテキスト行（ナレーション）
+
+**そのままにする行** — ゲームへの命令:
+- `bg:` で始まる行（背景画像の指定）
+- `usa00:` の直後にインデントされたブロック（`posure:` `目:` `body:` など、キャラクターの表示制御）
+- `usa00:exit`（キャラクターの退場命令）
+
+```
+# 翻訳前
+bg: roji0
+
+usa00:
+  posure: front
+
+振り返るとなんかちっちゃい子が立ってい――
+
+???@rt:お兄さん、冒険者ですか〜？
+
+me:「ｱ、ああ……今日来たばっかりで」
+
+usa00:exit
+```
+
+```
+# OK
+bg: roji0                               ← そのまま
+
+usa00:                                  ← そのまま
+  posure: front                         ← そのまま
+
+I turned around and saw a small girl standing there——
+
+???@rt:Hey, are you an adventurer?
+
+me: "Oh, uh... I just arrived today."
+
+usa00:exit                              ← そのまま
+```
+
+```
+# NG
+bg: alley                               ← bg を変えてしまっている
+
+usa00:
+  posure: forward                       ← キャラクター表示を変えてしまっている
+
+I turned around and saw a small girl standing there——
+
+rt:Hey, are you an adventurer?          ← ???@rt: を消してしまっている
+
+me: "Oh, uh... I just arrived today."
+
+exit                                    ← usa00:exit を変えてしまっている
+```
+
+`[wave]` や `[shake]` などの BBCode タグはテキスト演出です。タグはそのまま残し、中のテキストだけ翻訳してください。
+
+```
+# OK — タグを保持して中身だけ翻訳
+usa00@rt:[wave]Yes♥[/wave]
+
+# NG — タグを消してしまっている
+usa00@rt:Yes♥
+```
+
+`\n` はセリフ内の改行です。翻訳先の言語に合わせて位置を変えたり、増やしたりして構いません。フキダシからはみ出る場合はセリフ行を分割することもできます。
+
+```
+# 翻訳前
+usa00@lb:わたし、この先で道具屋\nやってるんですけど〜
+
+# OK — \n の位置を調整
+usa00@lb:I run a tool shop\njust up ahead~
+
+# OK — セリフを2行に分割
+usa00@lb:I run a tool shop
+usa00@lb:just up ahead~
+```
+
+---
 
 ## ファイル一覧
 
-### .po ファイル（UIテキスト・アイテム名など）
+<details>
+<summary>.po ファイル（UIテキスト・アイテム名など）</summary>
 
-`assets/locale/{ロケール}/` 以下に 19 ファイルあります。通常のテキストエディタで編集できます。
+`assets/locale/{ロケール}/` 以下に 19 ファイルあります。
 
-#### Core UI（ 169 msgid）
-
-| ファイル | 内容 |
-|---------|------|
-| `ui.po` | タイトルやインゲーム等共通 UI（121 msgid） |
-| `statistics.po` | 統計(秘密)画面（25 msgid） |
-| `gallery.po` | 回想画面（16 msgid） |
-| `time.po` | 時間帯名、日付（7 msgid） |
-
-#### ゲームコンテンツ（246 msgid）
+#### Core UI
 
 | ファイル | 内容 |
 |---------|------|
-| `items.po` | アイテム名・説明・ヒント（128 msgid） |
-| `merchant.po` | 拠点での道具屋さんのセリフ（94 msgid） |
-| `quests.po` | クエスト名（12 msgid） |
-| `enemies.po` | 敵の名前（12 msgid） |
+| `ui.po` | タイトルやインゲーム等共通 UI |
+| `statistics.po` | 統計(秘密)画面 |
+| `gallery.po` | 回想画面 |
+| `time.po` | 時間帯名、日付 |
 
-#### おさわりシーン（330 msgid）
+#### ゲームコンテンツ
 
 | ファイル | 内容 |
 |---------|------|
-| `osawari_vfx.po` | エフェクト文字・擬音語（113 msgid） |
-| `osawari_common.po` | 共通UI（7 msgid） |
-| `osawari_ticket_hand.po` | 握手券（16 msgid） |
-| `osawari_ticket_foot.po` | 握手券(足)（23 msgid） |
-| `osawari_ticket_tail.po` | 握手券(尻尾)（20 msgid） |
-| `osawari_ticket_breath.po` | 握手券(顔)（38 msgid） |
-| `osawari_ticket_minuki.po` | ミヌキ券(初回)（15 msgid） |
-| `osawari_ticket_minuki_hanyou.po` | ミヌキ券 (2~4回)（28 msgid） |
-| `osawari_goal.po` | 小瓶（62 msgid） |
-| `osawari_sleep_day.po` | すやすや(昼)（4 msgid） |
-| `osawari_sleep_night_on_back.po` | すやすや(よる)（4 msgid） |
+| `items.po` | アイテム名・説明・ヒント |
+| `merchant.po` | 拠点での道具屋さんのセリフ |
+| `quests.po` | クエスト名 |
+| `enemies.po` | 敵の名前 |
 
+#### おさわりシーン
 
-### シナリオファイル（.txt）
+| ファイル | 内容 |
+|---------|------|
+| `osawari_vfx.po` | エフェクト文字・擬音語 |
+| `osawari_common.po` | 共通UI |
+| `osawari_ticket_hand.po` | 握手券 |
+| `osawari_ticket_foot.po` | 握手券(足) |
+| `osawari_ticket_tail.po` | 握手券(尻尾) |
+| `osawari_ticket_breath.po` | 握手券(顔) |
+| `osawari_ticket_minuki.po` | ミヌキ券(初回) |
+| `osawari_ticket_minuki_hanyou.po` | ミヌキ券 (2~4回) |
+| `osawari_goal.po` | 小瓶 |
+| `osawari_sleep_day.po` | すやすや(昼) |
+| `osawari_sleep_night_on_back.po` | すやすや(よる) |
+
+</details>
+
+<details>
+<summary>シナリオファイル（.txt）</summary>
 
 `assets/scenarios/{ロケール}/` 以下に 139 ファイルあります。
 
@@ -123,8 +276,10 @@ scenarios/{ロケール}/
     purchase/ ← 特定アイテム購入前、購入後イベント
 ```
 
+</details>
 
-### フォント（任意）
+<details>
+<summary>フォントの差し替え（任意）</summary>
 
 `assets/fonts/{ロケール}/` 以下にフォントファイルを置くと、ゲーム内フォントを差し替えられます。
 
@@ -135,148 +290,26 @@ scenarios/{ロケール}/
 
 デフォルトの日本語フォントは中国語・韓国語などのグリフを含まないため、これらの言語では独自フォントの同梱を推奨します。
 
+</details>
 
 ---
 
-## 文法・書式ルール
+## 翻訳MODの配布
 
-### .po ファイルの書き方
-
-#### 基本エントリ
-
-`msgid` はゲームが使用するキーです。**変更しないでください。** `msgstr` に翻訳を記入します。
-
-```po
-# 翻訳前（テンプレートの状態）
-msgid "UI_CLOSE"
-msgstr "とじる"
-
-# 翻訳後（英語の場合）
-msgid "UI_CLOSE"
-msgstr "Close"
-```
-
-#### msgctxt 付きエントリ
-
-同じ `msgid` が異なる場面で使われる場合、`msgctxt`（コンテキスト）で区別されています。**`msgctxt` 行はそのまま残し、`msgstr` だけ翻訳してください。**
-
-```po
-# 同じ "notebook" でも、アイテム名と説明は別々の翻訳を持つ
-msgctxt "item_name"
-msgid "notebook"
-msgstr "魔導書(たぶん)"        ← アイテム名の翻訳を記入
-
-msgctxt "item_description"
-msgid "notebook"
-msgstr "道具屋さんのひみつが見れるかも!"  ← 説明文の翻訳を記入
-```
-
-
-#### プレースホルダー `{key}`
-
-`{drop_11}` や `{enemy_11}` のような `{key}` 形式はゲームが実行時に別のテキストに置き換えます。**そのまま残してください。**
-
-```po
-msgctxt "item_description"
-msgid "drop_11"
-msgstr "{enemy_11}のドロップ品。"   ← {enemy_11} はそのまま残す
-```
-
-#### フォーマット文字列 `%02d`, `%d`, `%s`
-
-数値や文字列が入るプレースホルダーです。**すべてのフォーマット文字列をそのまま保持してください。**
-
-```po
-# time.po (ja_JP)
-msgid "FMT_DAY_PERIOD"
-msgstr "%02d日目 %s"
-
-# OK
-msgid "FMT_DAY_PERIOD"
-msgstr "Day %02d %s"
-
-# NG
-msgstr "Day"
-msgstr "%s Day %02d"
-```
-
-#### 空の `msgstr ""`
-
-`msgstr ""` になっているエントリは意図的に空のままにしてあります。そのままにしておいてください。
-
----
-
-### シナリオファイルの書き方
-
-シナリオファイルには「翻訳する行」と「翻訳しない行」が混在しています。
-
-**翻訳する行:**
-
-| 種類 | 例 | 翻訳のしかた |
-|------|---|-------------|
-| 地の文（ナレーション） | `船から降りると人々でごった返していた。` | そのまま翻訳 |
-| 主人公 `me:` | `me:「うおー……」` | `「」` ごと翻訳 |
-| キャラのセリフ | `???@rt:お兄さん、冒険者ですか〜？` | `:` の後のテキストを翻訳 |
-| `usa00@lb:` など | `usa00@lb:[wave]やった♥[/wave]` | `:` の後のテキストを翻訳（タグは保持） |
-
-**翻訳しない行:**
-
-| 種類 | 例 |
-|------|---|
-| 背景指定 | `bg: shop` |
-| キャラクター状態ブロック | `usa00:` / `  posure: front` / `  目: close_smile` / `  body: ひろげ` |
-| キャラクター退場 | `usa00:exit` |
-| コメント | `# この行はコメント` |
-
-**実例:**
+翻訳MODは zip にまとめてゲームの `mods/` ディレクトリに配置すれば動作します。
 
 ```
-bg: roji0              ← 翻訳しない（背景指定）
-
-usa00:                 ← 翻訳しない（キャラクター状態ブロック開始）
-  posure: front        ← 翻訳しない
-
-振り返るとなんかちっちゃい子が立ってい――  ← 翻訳する（地の文）
-
-???@rt:お兄さん、冒険者ですか〜？          ← 翻訳する（セリフ）
-
-me:「ｱ、ああ……今日来たばっかりで」        ← 翻訳する（プレイヤー）
-
-usa00:exit             ← 翻訳しない
+usa01.exe
+mods/
+  en_US.zip   ← これでOK
 ```
 
-#### BBCode タグ
+### MOD 配布について
+ライセンスの範囲で各自で自由に配布していただいて構いません。
 
-`[wave]`, `[shake]`, `[tornado]`, `[font_size=N]` などのタグはテキスト演出です。**タグは保持して、中のテキストだけ翻訳してください。**
+このリポジトリへ [Pull Request](../../pulls) を送っていただくか、`mochi2yama@gmail.com` までメールで送付いただければこちらでどこかにまとめます。
 
-```
-# 翻訳前
-usa00@rt:[wave]やった♥[/wave]
-
-# 翻訳後（英語の場合）
-usa00@rt:[wave]Yes♥[/wave]
-```
-
-#### `\n`（改行）
-
-セリフ内の改行です。翻訳後も適切な位置に残してください。
-
-```
-usa00@lb:わたし、この先で道具屋\nやってるんですけど〜
-```
-
----
-
-## 配布時のクレジット・ライセンス
-
-翻訳MODを配布する際は、説明文や README に以下を記載してください。
-
-```
-ゲーム名：うさみみ道具屋さんとおさわり出稼ぎ冒険者生活
-サークル：もちもち山
-購入先：https://www.dlsite.com/maniax/work/=/product_id/RJ01575130.html
-```
-
+### ライセンス
 **許可されていること:**
 - 翻訳MODの作成・無償配布
 - 翻訳MOD適用状態での実況・配信・スクリーンショット公開
