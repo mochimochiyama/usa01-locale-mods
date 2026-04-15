@@ -25,7 +25,7 @@ usa00:
   body: ひろげ
 
 usa00@rt: あっ そうだ〜
-usaoO@lb: おでこ、 どうぞ〜! [tornado]バパン[/tornado] 式挨拶〜
+usa00@lb: おでこ、 どうぞ〜! [tornado]バパン[/tornado] 式挨拶〜
 
 …
 
