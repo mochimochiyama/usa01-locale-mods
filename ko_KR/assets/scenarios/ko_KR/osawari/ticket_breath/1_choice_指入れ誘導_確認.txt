@@ -1,0 +1,49 @@
+
+usa00:
+  目: close_smile
+
+usa00@rt: きゃ〜♥♥
+usa00@lb: やっぱり〜
+
+usa00:
+  目: normal
+
+
+usa00@rt:じゃあ~
+
+usa00:
+  area_口: 待機
+
+usa00@rt: う〜♥
+
+me: [shake]う〜!?[/shake]
+
+usa00:
+  目: close_smile
+
+usa00@rt: くちびう〜♥
+
+usa00:
+  目: normal
+
+me: ｴ―――― だめじゃない!?
+
+usa00:
+  目: normal
+  口: normal
+
+usa00@rt: え〜♥ だめか〜♥
+
+me: だめじゃないかも!!!!!!
+
+usa00:
+  目: close_smile
+  口: う_指入れ待機
+
+usa00@rt: う〜♥
+
+
+usa00:
+  目: normal
+  area_口: 待機
+  camera_focus: face

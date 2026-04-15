@@ -1,0 +1,19 @@
+
+
+usa00:
+  目: close_smile
+  尻尾: normal
+
+usa00@rt:[wave]声でか〜♥[/wave]
+
+usa00:
+  目: normal
+  尻尾: ふりふり
+
+usa00@rt:じゃあどうぞ~
+
+me:「[shake]ﾔｯﾀｰｰｰｰｰｰｰｰ!!!![/shake]」
+
+
+usa00:
+  camera_focus: hip

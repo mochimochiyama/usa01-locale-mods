@@ -1,0 +1,20 @@
+
+bg: shop
+
+usa00:
+  posure: front
+
+usa00:
+  口: o
+
+usa00@rt:？
+
+ぴた
+
+usa00:
+  目: close_doya
+
+usa00@rt:[tornado]く[/tornado]
+usa00@lb: [tornado]くぅ…[/tornado]
+
+…

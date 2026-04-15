@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ===== Quest Names =====
+
+msgctxt "quest_name"
+msgid "quest_0"
+msgstr "スライム討伐"
+
+msgctxt "quest_name"
+msgid "quest_1"
+msgstr "ゴブリン討伐"
+
+msgctxt "quest_name"
+msgid "quest_2"
+msgstr "スケルトン討伐"
+
+msgctxt "quest_name"
+msgid "quest_3"
+msgstr "インプ討伐"
+
+msgctxt "quest_name"
+msgid "quest_4"
+msgstr "オーク討伐"
+
+msgctxt "quest_name"
+msgid "quest_5"
+msgstr "ハーピー討伐"
+
+msgctxt "quest_name"
+msgid "quest_6"
+msgstr "トロル討伐"
+
+msgctxt "quest_name"
+msgid "quest_7"
+msgstr "ゴーレム討伐"
+
+msgctxt "quest_name"
+msgid "quest_8"
+msgstr "ワイバーン討伐"
+
+msgctxt "quest_name"
+msgid "quest_9"
+msgstr "ナーガ討伐"
+
+msgctxt "quest_name"
+msgid "quest_10"
+msgstr "クラーケン討伐"
+
+msgctxt "quest_name"
+msgid "quest_11"
+msgstr "ゴールド・ドラゴン討伐"

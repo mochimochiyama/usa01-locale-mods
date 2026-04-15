@@ -1,0 +1,11 @@
+
+usa00:
+  目: close_smile
+
+usa00@rt:[wave]きゃ〜[/wave]
+usa00@lb:[wave]ぜんぜん話きいてな〜い[/wave]
+
+usa00:
+  目: normal
+usa00@rt: ちんちん出せ〜
+
