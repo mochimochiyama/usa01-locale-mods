@@ -52,6 +52,11 @@ msgstr "ヒント"
 msgid "UI_NONE"
 msgstr "なし"
 
+# --- Credit ---
+
+msgid "UI_CREDIT"
+msgstr "クレジット"
+
 # --- Title ---
 
 msgid "TITLE_NEW_GAME"
