@@ -1,0 +1,39 @@
+
+usa00:
+  focus: default
+  目: close_smile
+
+usa00@rt:はい10回で〜す♥
+
+usa00:
+  腕: normal
+  目: normal
+
+me:「[shake]ｱ…[/shake]」
+
+usa00@rt:あ〜?
+
+me:「[shake]アンコール!! アンコール!!![/shake]」
+
+usa00@rt:きゃ〜♥
+
+me:「[shake]アンコール!! アンコール!!![/shake]」
+
+usa00@lb:しょうがないですね〜
+
+usa00:
+  左脚: 上げ
+  目: close_smile
+
+usa00@rt:両足〜♥
+
+me:「わぁ...(冷静)」
+
+2つ並ぶと、かなり情報量がスゴイ!!
+
+usa00@lb:ほら、どうぞ♥〜
+
+
+usa00:
+  目: normal
+  focus: 足裏0

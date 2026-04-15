@@ -1,0 +1,87 @@
+
+
+usa00@rt:あ〜っ
+
+usa00:
+  口: う_指入れ待機
+
+usa00@lb: う〜♥
+
+usa00:
+  口: normal
+
+usa00@lb:おしまいです〜
+
+me:………
+
+usa00@rt:ちょっと〜
+
+usa00:
+  目: close_smile
+
+usa00@lb:なんか違うとこ〜? \n 触られてたような〜?
+
+
+me: …
+
+usa00:
+  目: normal
+usa00@rt: はみがきできたかな〜？
+
+usa00@lb: ちょっとちかづいて〜
+
+me: ﾊｲｯ…
+
+usa00:
+  camera_focus: face
+  口開け舌つかまれ: normal
+  口開け指状況: normal
+  口: 舌出し
+  舌: normal
+
+usa00@rt: あ〜♥
+
+me: ………
+
+usa00:
+  camera_focus: mouth
+  目: close_smile
+
+usa00@rt: はぁ〜♥♥
+
+…!!!!!!!!!!!!!!!!!!!!!!
+
+usa00:
+  舌: でてる0
+
+usa00@rt: はぁぁぁ〜♥♥
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+usa00:
+  目: normal
+  口: normal
+  camera_focus: face
+
+usa00@rt:どうでしたか〜
+
+me: 「めっちゃいいにおいした!!! できてたかも!!!!」
+
+usa00:
+  目: close_smile
+
+usa00@rt: きゃ〜♥
+
+usa00:
+  目: normal
+
+usa00@lb: てんさいかも〜?
+
+me: 「俺、天才なんです!!!」
+
+usa00:
+  camera_focus: normal
+
+…
+
+……

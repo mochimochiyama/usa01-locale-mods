@@ -1,0 +1,79 @@
+# おさわりシーン: 握手 (ticket_hand)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "ticket_hand_operation"
+msgstr "・握手:手をクリック"
+
+msgctxt "osawari_hint"
+msgid "ticket_hand_hint"
+msgstr "・握手してみよう！"
+
+# バブル - Phase 1 (手袋握手)
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p1_kyaa"
+msgstr "きゃあ〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p1_go"
+msgstr "ご〜"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p1_yoon"
+msgstr "よ〜ん"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p1_saan"
+msgstr "さ〜ん"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p1_ni"
+msgstr "に〜"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p1_ichi"
+msgstr "い〜ち♥"
+
+# バブル - Phase 2 (素手握手)
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p2_heart"
+msgstr "〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p2_go"
+msgstr "ご〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p2_yoon"
+msgstr "よ〜ん♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p2_saan"
+msgstr "さ〜ん♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p2_ni"
+msgstr "に〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_hand_p2_ichi"
+msgstr "い〜ち♥"
+
+# 選択肢
+msgctxt "osawari_choice"
+msgid "ticket_hand_p0_akusyu"
+msgstr "ｱｸｼｭｼﾃｸﾀﾞｻｲ"
+
+msgctxt "osawari_choice"
+msgid "ticket_hand_p0_nigitte"
+msgstr "握手してください！"

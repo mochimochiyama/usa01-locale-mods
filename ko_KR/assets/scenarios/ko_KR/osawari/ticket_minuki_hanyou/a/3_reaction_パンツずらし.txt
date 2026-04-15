@@ -1,0 +1,19 @@
+
+usa00@rt: あ〜〜〜♥???
+
+usa00:
+  目: close_smile
+
+usa00@lb: なんかさわってる〜\nような〜♥?
+
+me: …ギリ触ってない! ギリセーフ!
+
+usa00:
+  目: close_hun
+usa00@rt: 服がじゃまで〜
+usa00:
+  目: close_smile
+usa00@lb: よくみえないな〜♥
+
+usa00:
+  目: normal

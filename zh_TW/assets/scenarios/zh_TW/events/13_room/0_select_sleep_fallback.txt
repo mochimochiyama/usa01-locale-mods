@@ -1,0 +1,22 @@
+
+bg: room0
+
+usa00:
+  posure: front
+  上着: なし
+  手袋: なし
+
+usa00:
+  口: o
+
+usa00@rt:？
+
+ぴた
+
+usa00:
+  目: close_doya
+
+usa00@rt:[tornado]く[/tornado]
+usa00@lb: [tornado]くぅ…[/tornado]
+
+…

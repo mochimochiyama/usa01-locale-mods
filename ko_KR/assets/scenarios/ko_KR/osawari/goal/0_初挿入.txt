@@ -1,0 +1,10 @@
+
+usa00:
+  目: close_smile
+
+usa00@rt:[shake]んぁ[/shake]
+
+…！
+
+usa00:
+  目: normal
