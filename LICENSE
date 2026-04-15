@@ -1,5 +1,5 @@
 usa01 翻訳MODガイドライン / usa01 Translation Mod Guidelines
-Version 1.0 - 2026-03-27
+Version 2.0 - 2026-04-15
 
 ======================================================================
 日本語（正文）
@@ -41,6 +41,43 @@ Version 1.0 - 2026-03-27
 本データは「現状のまま」で提供されます。
 権利者は、本データの利用により生じたいかなる損害についても
 一切の責任を負いません。
+
+■ 翻訳成果物の取扱い
+本条項は、本リポジトリへ翻訳成果物を投稿・送付する方（以下「翻訳者」）
+と権利者の間に適用されます。
+
+1. 著作権
+翻訳者は、自身が作成した翻訳成果物の著作権を保持します。
+
+2. 権利者への利用許諾
+本リポジトリへ Pull Request を送信する行為、または権利者へ翻訳成果物
+を送付する行為により、翻訳者は権利者に対し、当該翻訳成果物を以下の
+目的で利用する非排他的・取消不可・無償・永続的な許諾を付与するもの
+とします。
+  - 本作およびその修正版・追加コンテンツへの組み込み
+  - 上記を組み込んだ状態での本作の有償販売
+  - 翻訳 MOD としての本リポジトリでの再配布
+本許諾は本作に限定され、続編・移植・派生作品への利用は別途翻訳者の
+同意を必要とします。
+
+3. クレジット表示義務
+権利者は、翻訳成果物を組み込み・配布する際、翻訳者名（本人希望により
+ハンドル・匿名表記も可）をゲーム内クレジット画面および DLsite 商品
+ページに明記する義務を負います。
+
+4. 翻訳者による独自配布
+翻訳者は、自身の翻訳成果物を本ガイドラインの範囲内で独自に配布する
+ことを妨げられません。
+
+5. 翻訳者の表明・保証
+翻訳者は、自身の翻訳が各国法令に違反しないこと、および第三者の権利
+を侵害しないことを表明・保証します。権利者は、不適切と判断した翻訳
+の組み込み・配布を拒否する権利を持ちます。
+
+6. 撤回権の制限
+権利者は本ガイドライン全体を改定・撤回する権利を留保しますが、既に
+投稿された翻訳成果物に対する本条第 2 項の利用許諾は撤回できない
+ものとします。
 
 
 ======================================================================
@@ -87,3 +124,43 @@ The Rights Holder reserves the right to modify or revoke these guidelines.
 ■ Disclaimer
 This data is provided "as is." The Rights Holder assumes no liability
 for any damages arising from the use of this data.
+
+■ Treatment of Translation Works
+This section applies between contributors who submit translation works
+to this repository (hereinafter "Translators") and the Rights Holder.
+
+1. Copyright
+Translators retain copyright of their translation works.
+
+2. License Grant to the Rights Holder
+By submitting a Pull Request to this repository or sending translation
+works to the Rights Holder, the Translator grants the Rights Holder a
+non-exclusive, irrevocable, royalty-free, perpetual license to use the
+translation works for the following purposes:
+  - Incorporation into the Work and its revisions or additional content
+  - Paid distribution of the Work with such translations incorporated
+  - Redistribution of the translation works as translation mods via
+    this repository
+This license is limited to the Work. Use in sequels, ports, or other
+derivative works requires separate consent from the Translator.
+
+3. Attribution Obligation
+When incorporating or distributing translation works, the Rights Holder
+shall credit the Translator (by name, handle, or anonymous designation
+per the Translator's preference) in the in-game credits screen and on
+the DLsite product page.
+
+4. Independent Distribution by Translators
+Translators may independently distribute their own translation works
+within the scope of these guidelines.
+
+5. Translator Representations and Warranties
+Translators represent and warrant that their translations do not
+violate any applicable laws and do not infringe upon the rights of
+third parties. The Rights Holder reserves the right to refuse
+incorporation or distribution of translations deemed inappropriate.
+
+6. Limitation on Revocation
+While the Rights Holder reserves the right to modify or revoke these
+guidelines as a whole, the license granted in Section 2 above for
+translation works already submitted shall not be revocable.
