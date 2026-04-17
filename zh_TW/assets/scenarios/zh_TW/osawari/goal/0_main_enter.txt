@@ -7,16 +7,16 @@ usa00:
   乳首_左: normal
   乳首_右: normal
 
-me:「…あの〜」
+me:「…那個〜」
 
-usa00@rt:[wave]はっはやく[/wave]
+usa00@rt:[wave]快、快一點[/wave]
 
-…様子がおかしいですが…
+…樣子有點奇怪…
 
 usa00:
   目: close_smile
 
-usa00@rt:[wave]いれてっいれてっ[/wave]
+usa00@rt:[wave]插進來插進來[/wave]
 
 …
 

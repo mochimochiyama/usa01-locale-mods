@@ -8,40 +8,40 @@ usa00:
 
 …
 
-usa00@rt:[tornado]くぅ…[/tornado]
-usa00@lb: [tornado]く…![/tornado]
+usa00@rt:[tornado]咕嗚…[/tornado]
+usa00@lb:[tornado]咕…！[/tornado]
 
 usa00:
   目: normal
 
-usa00@rt: …ん?
+usa00@rt:…嗯？
 
-me: 「……」
+me:「……」
 
-usa00@lb: なんの話でしたっけ…?
+usa00@lb:剛剛聊到哪裡了…？
 
 usa00:
   口: normal
   body: ひろげ
 
-usa00@rt: あっ そうだ〜
-usa00@lb: おでこ、 どうぞ〜! [tornado]バパン[/tornado] 式挨拶〜
+usa00@rt:啊、對了～
+usa00@lb:額頭，請用～！[tornado]巴潘[/tornado]式打招呼～
 
 …
 
-me: 「… あー 今日は大丈夫っす…」
+me:「…啊ー 今天就先不用了…」
 
 usa00:
   口: o
 
-usa00@rt: え〜？
+usa00@rt:欸～？
 
 …
 
 usa00:exit
 
-…これ、使って大丈夫な魔法…??
+…這魔法，用了真的沒問題嗎…？？
 
-……まあいいか!!!!!
+……算了沒差啦！！！！！
 
 …

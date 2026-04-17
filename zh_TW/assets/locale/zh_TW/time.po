@@ -12,24 +12,24 @@ msgstr ""
 # --- Time Periods ---
 
 msgid "TIME_MORNING"
-msgstr "朝"
+msgstr "早上"
 
 msgid "TIME_AFTERNOON"
-msgstr "昼"
+msgstr "白天"
 
 msgid "TIME_NIGHT"
-msgstr "夜"
+msgstr "晚上"
 
 # --- Format Strings ---
 
 msgid "FMT_DAY_PERIOD"
-msgstr "%02d日目 %s"
+msgstr "第%02d天 %s"
 
 msgid "TIME_JUST_NOW"
-msgstr "いま"
+msgstr "剛剛"
 
 msgid "FMT_MINUTES_AGO"
-msgstr "%d分前"
+msgstr "%d分鐘前"
 
 msgid "FMT_HOURS_AGO"
-msgstr "%d時間前"
+msgstr "%d小時前"

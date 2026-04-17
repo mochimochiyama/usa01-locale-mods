@@ -12,213 +12,213 @@ msgstr ""
 # --- App ---
 
 msgid "APP_TITLE"
-msgstr "うさみみ道具屋さんとおさわり出稼ぎ冒険者生活"
+msgstr "兔耳道具店老闆娘與摸摸打工冒險者生活"
 
 msgid "APP_TITLE_DEMO"
-msgstr "うさみみ道具屋さんとおさわり出稼ぎ冒険者生活 体験版"
+msgstr "兔耳道具店老闆娘與摸摸打工冒險者生活 體驗版"
 
 # --- Common UI ---
 
 msgid "UI_CLOSE"
-msgstr "とじる"
+msgstr "關閉"
 
 msgid "UI_BACK"
-msgstr "戻る"
+msgstr "返回"
 
 msgid "UI_CONFIRM"
-msgstr "決定"
+msgstr "確定"
 
 msgid "UI_RETURN_TO_TITLE"
-msgstr "タイトルに戻る"
+msgstr "回到標題"
 
 msgid "UI_YES"
-msgstr "はい"
+msgstr "是"
 
 msgid "UI_NO"
-msgstr "いいえ"
+msgstr "否"
 
 msgid "UI_SAVE"
-msgstr "セーブ"
+msgstr "儲存"
 
 msgid "UI_LOAD"
-msgstr "ロード"
+msgstr "讀取"
 
 msgid "UI_CONFIG"
 msgstr "設定"
 
 msgid "UI_HINT"
-msgstr "ヒント"
+msgstr "提示"
 
 msgid "UI_NONE"
-msgstr "なし"
+msgstr "無"
 
 # --- Credit ---
 
 msgid "UI_CREDIT"
-msgstr "クレジット"
+msgstr "製作人員"
 
 # --- Title ---
 
 msgid "TITLE_NEW_GAME"
-msgstr "はじめから"
+msgstr "從頭開始"
 
 msgid "TITLE_CONTINUE"
-msgstr "つづきから"
+msgstr "繼續遊戲"
 
 msgid "TITLE_GALLERY"
 msgstr "回想"
 
 msgid "TITLE_QUIT_GAME"
-msgstr "ゲームを終了"
+msgstr "結束遊戲"
 
 # --- Settings ---
 
 msgid "SETTING_FULL_SCREEN"
-msgstr "フルスクリーン"
+msgstr "全螢幕"
 
 msgid "SETTING_RESOLUTION"
-msgstr "解像度"
+msgstr "解析度"
 
 msgid "SETTING_MONOCHROME"
-msgstr "モノクロモード"
+msgstr "黑白模式"
 
 msgid "SETTING_MAIN_VOLUME"
-msgstr "メイン"
+msgstr "主音量"
 
 msgid "SETTING_BGM_VOLUME"
 msgstr "環境音"
 
 msgid "SETTING_SFX_VOLUME"
-msgstr "効果音"
+msgstr "音效"
 
 msgid "SETTING_SEND_ERROR_REPORTS"
-msgstr "エラー情報を送信"
+msgstr "傳送錯誤資訊"
 
 msgid "SETTING_PAWN_COLOR"
-msgstr "カラー"
+msgstr "顏色"
 
 msgid "SETTING_PAWN_ALPHA"
 msgstr "透明度"
 
 msgid "TOOLTIP_ERROR_REPORTING"
-msgstr "プレイ中に発生したエラー情報を送信します。\n個人を特定できる情報は収集していません。"
+msgstr "將傳送遊玩時發生的錯誤資訊。\n不會收集任何可識別個人的資訊。"
 
 msgid "TOOLTIP_HAND_ALPHA"
-msgstr "手の透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+msgstr "設定手的透明度\n(若調到最低，在某些場景會變得難以看清)"
 
 msgid "TOOLTIP_HAND_COLOR"
-msgstr "手の色を黒から白の間で設定します"
+msgstr "將手的顏色設定在黑與白之間"
 
 msgid "TOOLTIP_HEAD_ALPHA"
-msgstr "頭の透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+msgstr "設定頭部的透明度\n(若調到最低，在某些場景會變得難以看清)"
 
 msgid "TOOLTIP_HEAD_COLOR"
-msgstr "頭の色を黒から白の間で設定します"
+msgstr "將頭部的顏色設定在黑與白之間"
 
 msgid "TOOLTIP_OCHIN_ALPHA"
-msgstr "ちんちんの透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+msgstr "設定雞雞的透明度\n(若調到最低，在某些場景會變得難以看清)"
 
 msgid "TOOLTIP_OCHIN_COLOR"
-msgstr "ちんちんの色を黒から白の間で設定します"
+msgstr "將雞雞的顏色設定在黑與白之間"
 
 msgid "TOOLTIP_MSAA"
-msgstr "セリフ吹き出しや画像の滑らかさが向上します"
+msgstr "可提升對話框與圖片的平滑度"
 
 msgid "TOOLTIP_MONOCHROME"
-msgstr "モノクロモードを有効にします。\nフィルターでの表現のため、一部見づらいシーンが発生します"
+msgstr "啟用黑白模式。\n由於是透過濾鏡呈現，部分場景可能會變得難以看清"
 
 # --- Home ---
 
 msgid "HOME_SHOW_ITEMS"
-msgstr "商品みせて!"
+msgstr "給我看商品！"
 
 msgid "HOME_SELL_MATERIALS"
-msgstr "素材売りたい"
+msgstr "想賣素材"
 
 msgid "HOME_PUT_TO_SLEEP"
-msgstr "ねむらせる"
+msgstr "讓她睡覺"
 
 msgid "HOME_SECRETS"
-msgstr "ひみつ"
+msgstr "秘密"
 
 msgid "HOME_GO_TO_SLEEP"
-msgstr "もう寝るか…"
+msgstr "該睡了嗎…"
 
 msgid "HOME_GO_TO_ROOM"
-msgstr "へやにいく"
+msgstr "去房間"
 
 msgid "HOME_GO_ON_QUEST"
-msgstr "クエストいくか…"
+msgstr "去接任務吧…"
 
 msgid "HOME_WANDER"
-msgstr "ぶらぶらする"
+msgstr "閒晃"
 
 msgid "HOME_GALLERY"
 msgstr "回想"
 
 msgid "TUTORIAL_SHOP"
-msgstr "道具屋さんから\nアイテムを購入ができます"
+msgstr "可以向道具店老闆娘\n購買道具"
 
 msgid "TUTORIAL_QUEST"
-msgstr "クエストに出発できます"
+msgstr "可以出發前往任務"
 
 msgid "HOME_KINTAMA"
-msgstr "金玉:"
+msgstr "蛋蛋："
 
 msgid "HOME_WEALTH"
-msgstr "所持金:"
+msgstr "持有金錢："
 
 # --- Shop ---
 
 msgid "SHOP_NAME"
-msgstr "名前"
+msgstr "名稱"
 
 msgid "SHOP_ITEM"
-msgstr "アイテム"
+msgstr "道具"
 
 msgid "SHOP_QUANTITY"
-msgstr "所持数"
+msgstr "持有數"
 
 msgid "SHOP_SELL_PRICE"
-msgstr "売却価格"
+msgstr "賣出價格"
 
 msgid "SHOP_PRICE"
-msgstr "価格"
+msgstr "價格"
 
 msgid "SHOP_REQUIRED_MATERIALS"
-msgstr "必要素材"
+msgstr "所需素材"
 
 msgid "SHOP_STOCK"
-msgstr "在庫"
+msgstr "庫存"
 
 msgid "SELECT_ITEM_PROMPT"
-msgstr "アイテムを選択してください"
+msgstr "請選擇道具"
 
 # --- Battle ---
 
 msgid "BATTLE_VICTORY"
-msgstr "勝利!"
+msgstr "勝利！"
 
 msgid "BATTLE_FAST_MODE"
-msgstr "高速戦闘モード"
+msgstr "高速戰鬥模式"
 
 msgid "BATTLE_STRENGTH"
-msgstr "つよさ:"
+msgstr "力量："
 
 msgid "BATTLE_ATTACK_POWER"
-msgstr "攻撃力:"
+msgstr "攻擊力："
 
 msgid "BATTLE_MATERIALS"
-msgstr "素材:"
+msgstr "素材："
 
 msgid "BATTLE_REWARD"
-msgstr "報酬:"
+msgstr "報酬："
 
 msgid "BATTLE_CLEARED"
-msgstr "攻略済み!"
+msgstr "已攻略！"
 
 msgid "BATTLE_BUFF_TALISMAN"
-msgstr "タリスマン"
+msgstr "護身符"
 
 msgid "BATTLE_DEBUFF_SLEEP_MAGIC"
 msgstr "睡眠魔法"
@@ -226,43 +226,43 @@ msgstr "睡眠魔法"
 # --- Room ---
 
 msgid "ROOM_REQUEST"
-msgstr "あの、お願いが"
+msgstr "那個，我有個請求"
 
 msgid "ROOM_USE_BOTTLE"
-msgstr "とっておきの小瓶をつかう"
+msgstr "使用珍藏的小瓶子"
 
 msgid "ROOM_GO_DOWNSTAIRS"
-msgstr "したにおりる"
+msgstr "下樓"
 
 # --- Scenario ---
 
 msgid "SCENARIO_BACKLOG"
-msgstr "バックログ"
+msgstr "歷史訊息"
 
 msgid "SCENARIO_CONTROLS"
-msgstr "クリック: 進める Ctrl: スキップ"
+msgstr "點擊：推進 Ctrl：略過"
 
 # --- Save/Load ---
 
 msgid "SAVE_SELECT_SLOT"
-msgstr "セーブするスロットを選択"
+msgstr "請選擇要儲存的欄位"
 
 msgid "SAVE_SELECT_LOAD_SLOT"
-msgstr "スロットを選択してロード"
+msgstr "請選擇要讀取的欄位"
 
 msgid "SAVE_AUTO_NEWEST"
-msgstr "オートセーブ (最新⇧)"
+msgstr "自動儲存 (最新⇧)"
 
 msgid "SAVE_AUTO_NOTE"
-msgstr "※就寝時にオートセーブされます(最大10件)"
+msgstr "※就寢時會自動儲存 (最多10筆)"
 
 # --- Osawari ---
 
 msgid "OSAWARI_SLOW"
-msgstr "おそい"
+msgstr "慢"
 
 msgid "OSAWARI_FAST"
-msgstr "はやい"
+msgstr "快"
 
 msgid "OSAWARI_RIGHT_HAND"
 msgstr "右手"
@@ -271,104 +271,104 @@ msgid "OSAWARI_LEFT_HAND"
 msgstr "左手"
 
 msgid "OSAWARI_KISS"
-msgstr "キス"
+msgstr "親吻"
 
 msgid "OSAWARI_WAIST"
-msgstr " 腰 "
+msgstr " 腰部 "
 
 msgid "OSAWARI_RESET_TOUCH"
-msgstr "おさわり状態をリセット"
+msgstr "重置觸摸狀態"
 
 msgid "OSAWARI_STOP"
-msgstr "やめる"
+msgstr "停止"
 
 msgid "OSAWARI_CONTROLS"
 msgstr "操作"
 
 msgid "HINT_PLACEHOLDER"
-msgstr "（ヒントが表示されます）"
+msgstr "（將會顯示提示）"
 
 # --- Ending ---
 
 msgid "ENDING_THE_END"
-msgstr "〜おわり〜"
+msgstr "～完～"
 
 msgid "ENDING_VIEW_SECRETS"
-msgstr "ひみつをみる"
+msgstr "查看秘密"
 
 msgid "DEMO_ENDING_MESSAGE"
-msgstr "体験版をプレイしていただきありがとうございます！\n\n製品版ではセーブデータを引き継ぎ、続きからプレイすることができます。\nよろしければ、ぜひ製品版もお楽しみください。"
+msgstr "感謝您遊玩體驗版！\n\n正式版可以繼承存檔，接續目前的進度繼續遊玩。\n如果喜歡的話，也請務必享受正式版。"
 
 # --- Gallery ---
 
 msgid "GALLERY_HINT_LABEL"
-msgstr "ヒント:"
+msgstr "提示："
 
 # --- Format ---
 
 # --- Confirm ---
 
 msgid "CONFIRM_OVERWRITE_SAVE"
-msgstr "%s を上書きしますか？\n以前のデータは失われます。"
+msgstr "要覆寫 %s 嗎？\n先前的紀錄將會遺失。"
 
 msgid "CONFIRM_DELETE_SAVE"
-msgstr "%s を削除しますか？"
+msgstr "要刪除 %s 嗎？"
 
 msgid "CONFIRM_LOAD"
-msgstr "ロードしますか？\n現在の進行状況は失われます"
+msgstr "要讀取進度嗎？\n目前的進度將會遺失。"
 
 msgid "CONFIRM_RETURN_TITLE"
-msgstr "タイトルに戻りますか？\n現在の進行状況は失われます"
+msgstr "要回到標題畫面嗎？\n目前的進度將會遺失。"
 
 msgid "CONFIRM_UNLOCK_GALLERY"
-msgstr "回想を全て解放しますか？"
+msgstr "要解鎖所有回想嗎？"
 
 # --- Hints ---
 
 msgid "HINT_GOAL_BOTTLE"
-msgstr "夜、へやに行って\nとっておきの小瓶を使おう!!"
+msgstr "晚上去房間\n使用珍藏的小瓶子吧！！"
 
 msgid "HINT_RETURN_KEY"
-msgstr "夜、へやに行ってカギを返そう!!"
+msgstr "晚上去房間把鑰匙還回去吧！！"
 
 msgid "HINT_MINUKI"
-msgstr "夜、へやに行って見抜きさせてもらおう!!"
+msgstr "晚上去房間看著她打手槍吧！！"
 
 msgid "HINT_VISIT_ROOM"
-msgstr "夜、へやに行こう!!"
+msgstr "晚上去房間吧！！"
 
 msgid "HINT_ACTION_SLEEP"
-msgstr "就寝して翌日の朝を迎えます"
+msgstr "就寢並迎接隔天早晨"
 
 msgid "HINT_ACTION_QUEST"
-msgstr "クエスト選択画面を開きます"
+msgstr "開啟任務選擇畫面"
 
 msgid "HINT_ACTION_IDLE"
-msgstr "特に何もせず、時間を進めます"
+msgstr "什麼都不做，讓時間推進"
 
 msgid "HINT_ACTION_STATISTICS"
-msgstr "道具屋さんのひみつを閲覧します"
+msgstr "瀏覽道具店老闆娘的秘密"
 
 msgid "HINT_ACTION_EVENING_VISIT"
-msgstr "道具屋さんのおうちを訪ねます…"
+msgstr "拜訪道具店老闆娘的家…"
 
 msgid "HINT_ACTION_BUY"
-msgstr "道具屋さんからアイテムを購入します"
+msgstr "向道具店老闆娘購買道具"
 
 msgid "HINT_ACTION_SELL"
-msgstr "道具屋さんにモンスターの素材を売却します"
+msgstr "向道具店老闆娘賣出怪物的素材"
 
 msgid "HINT_ACTION_GO_DOWNSTAIRS"
-msgstr "1Fに戻ります"
+msgstr "回到1F"
 
 msgid "HINT_NOT_SET"
-msgstr "（ヒント未設定）"
+msgstr "（未設定提示）"
 
 msgid "HINT_UNLOCK_NEXT_EVENT"
-msgstr "つぎの[color=gray][s]ぼったくり[/s][/color]イベントで開放"
+msgstr "在下一次的[color=gray][s]敲竹槓[/s][/color]事件中解鎖"
 
 msgid "HINT_UNLOCK_SPECIFIC_ITEM"
-msgstr "特定のアイテムを入手すると解放"
+msgstr "獲得特定道具後解鎖"
 
 msgid "HINT_ACTION_UNKNOWN"
 msgstr "……？"
@@ -379,34 +379,34 @@ msgid "BATTLE_DEFEAT"
 msgstr "敗北..."
 
 msgid "BATTLE_NO_LOOT"
-msgstr "何も獲得できませんでした..."
+msgstr "什麼都沒獲得..."
 
 # --- Shop (extended) ---
 
 msgid "SHOP_NO_ITEMS"
-msgstr "アイテムがありません"
+msgstr "沒有道具"
 
 msgid "SHOP_HINT_LABEL"
-msgstr "[b]ヒント[/b]"
+msgstr "[b]提示[/b]"
 
 msgid "SHOP_DESCRIPTION_LABEL"
-msgstr "[b]説明[/b]"
+msgstr "[b]說明[/b]"
 
 # --- Scenario (extended) ---
 
 msgid "SPEAKER_SELF"
-msgstr "自分"
+msgstr "我"
 
 # --- Item Description ---
 
 msgid "FMT_STRENGTH_SINGLE"
-msgstr "つよさ: %d "
+msgstr "力量：%d "
 
 msgid "FMT_STRENGTH_RANGE"
-msgstr "つよさ: %d-%d "
+msgstr "力量：%d-%d "
 
 msgid "FMT_STRENGTH_RANGE_LABEL"
-msgstr " (つよさ：%d～%d)"
+msgstr " (力量：%d～%d)"
 
 msgid "FMT_ARMOR_HP_BONUS_LABEL"
 msgstr " (HP：+%d)"
@@ -415,4 +415,4 @@ msgid "FMT_ITEM_COUNT"
 msgstr "%d個"
 
 msgid "NO_DESCRIPTION"
-msgstr "（説明なし）"
+msgstr "（無說明）"

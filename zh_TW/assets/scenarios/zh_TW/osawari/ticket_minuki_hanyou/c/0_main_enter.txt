@@ -9,38 +9,38 @@ usa00:
   口: normal
   まんこ: normal
 
-me:「アノ~…」
+me:「那個～…」
 
-me:「今日もうしろからぎゅーってしていいですかね…」
+me:「今天也可以從後面緊緊抱住妳嗎…」
 
 usa00:
   目: close_smile
-usa00@rt:え〜?♥
+usa00@rt:欸～？♥
 
 usa00:
   目: close_hun
-usa00@lb:また〜♥
+usa00@lb:又來了～♥
 
 
 usa00:
   me構図: すまた
 
-…ぎゅっ!
+…抱緊！
 
 usa00:
   目: close_smile
-usa00@rt:勝手〜♥
+usa00@rt:真愛自作主張～♥
 
 usa00:
   目: normal
-usa00@lb:これ やっぱりアウトのような〜♥?
+usa00@lb:這個 果然已經算是犯規了吧～♥？
 
 
 usa00:
   目: close_hun
-usa00@rt: あん♥
+usa00@rt: 啊嗯♥
 
-……?
+……？
 
 
 
@@ -50,4 +50,3 @@ usa00:
 
 
 …
-

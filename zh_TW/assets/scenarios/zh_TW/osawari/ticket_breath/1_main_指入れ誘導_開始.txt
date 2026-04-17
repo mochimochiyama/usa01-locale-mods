@@ -1,41 +1,39 @@
 
-
 usa00:
   目: close_smile
 
-usa00@rt:おしまい〜
+usa00@rt:結束囉～
 
 usa00:
   目: normal
 
-usa00@lb:どうでしたか〜?
-usa00@rt:実はちょっと自信あった〜
+usa00@lb:感覺怎麼樣啊～？
+usa00@rt:其實我對這個有點自信喔～
 
-me:すごい、 スゴイ柔らかかったです!
-me:モチでした！
-
-usa00:
-  目: close_smile
-
-usa00@rt: やった〜♥
-
-usa00:
-  目: normal
-
-usa00@lb: もち〜?
-
-me:「ｱﾉ…」
-
-usa00:
-  目: normal
-usa00@rt: あの〜?
-usa00@lb: なにか〜\n思ってることがあったり〜
-
-me:「や...」
-
-何も思ってないぞ!
+me:好厲害、超級軟的啦！
+me:簡直就像麻糬一樣！
 
 usa00:
   目: close_smile
 
-usa00@rt:「ほっぺって♥ 普通じゃん♥」
+usa00@rt: 太棒啦～♥
+
+usa00:
+  目: normal
+
+usa00@lb: 麻糬～？
+me:「那個…」
+
+usa00:
+  目: normal
+usa00@rt: 那個～？
+usa00@lb: 是不是～\n有在想些什麼呢～
+
+me:「不...」
+
+我什麼都沒想喔！
+
+usa00:
+  目: close_smile
+
+usa00@rt:「臉頰什麼的♥ 不是很普通嘛♥」

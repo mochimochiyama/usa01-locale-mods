@@ -2,7 +2,7 @@
 usa00:
   目: close_smile
 
-usa00@rt:[shake]んぁ[/shake]
+usa00@rt:[shake]嗯啊[/shake]
 
 …！
 

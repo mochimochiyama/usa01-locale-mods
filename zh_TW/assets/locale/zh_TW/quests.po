@@ -13,48 +13,48 @@ msgstr ""
 
 msgctxt "quest_name"
 msgid "quest_0"
-msgstr "スライム討伐"
+msgstr "討伐史萊姆"
 
 msgctxt "quest_name"
 msgid "quest_1"
-msgstr "ゴブリン討伐"
+msgstr "討伐哥布林"
 
 msgctxt "quest_name"
 msgid "quest_2"
-msgstr "スケルトン討伐"
+msgstr "討伐骷髏"
 
 msgctxt "quest_name"
 msgid "quest_3"
-msgstr "インプ討伐"
+msgstr "討伐小惡魔"
 
 msgctxt "quest_name"
 msgid "quest_4"
-msgstr "オーク討伐"
+msgstr "討伐獸人"
 
 msgctxt "quest_name"
 msgid "quest_5"
-msgstr "ハーピー討伐"
+msgstr "討伐鳥身女妖"
 
 msgctxt "quest_name"
 msgid "quest_6"
-msgstr "トロル討伐"
+msgstr "討伐巨魔"
 
 msgctxt "quest_name"
 msgid "quest_7"
-msgstr "ゴーレム討伐"
+msgstr "討伐魔像"
 
 msgctxt "quest_name"
 msgid "quest_8"
-msgstr "ワイバーン討伐"
+msgstr "討伐飛龍"
 
 msgctxt "quest_name"
 msgid "quest_9"
-msgstr "ナーガ討伐"
+msgstr "討伐蛇妖"
 
 msgctxt "quest_name"
 msgid "quest_10"
-msgstr "クラーケン討伐"
+msgstr "討伐巨型章魚怪"
 
 msgctxt "quest_name"
 msgid "quest_11"
-msgstr "ゴールド・ドラゴン討伐"
+msgstr "討伐黃金龍"

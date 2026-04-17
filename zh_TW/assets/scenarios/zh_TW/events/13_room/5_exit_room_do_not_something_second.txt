@@ -1,7 +1,7 @@
 
 bg: room0
 
-me: 「じゃ、ｵﾔｽﾐﾅｻｰｲ」
+me:「那、晚安囉ー」
 
 usa00:
   posure: front
@@ -9,12 +9,12 @@ usa00:
   手袋: なし
   目: close_smile
 
-usa00@rt: またあした〜
+usa00@rt:明天見囉～
 
 usa00: exit
 
 bg: shop
 
-ﾊﾞﾀﾝ
+砰
 
 …

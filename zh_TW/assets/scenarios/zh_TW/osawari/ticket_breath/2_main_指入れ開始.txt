@@ -1,18 +1,18 @@
 
 
-usa00@rt:[tornado]ふ〜♥[/tornado]
+usa00@rt:[tornado]呼～♥[/tornado]
 
 ...
 
 
 usa00:
   目: close_smile
-usa00@rt:[tornado]は〜わはう~?[/tornado]
+usa00@rt:[tornado]哈～懂嗚～？[/tornado]
 
 ……
 
 usa00:
   目: normal
-usa00@rt:[tornado]まえはおわあいわはう?[/tornado]
+usa00@rt:[tornado]底以淺更軟，懂嗚？[/tornado]
 
-me:「...うん！」(適当)
+me:「...嗯！」(隨便敷衍)

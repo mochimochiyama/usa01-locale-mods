@@ -4,27 +4,27 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:早安～
 
-me:「チワース」
+me:「早安啊」
 
-usa00@rt:[tornado]バパン[/tornado] 語講座〜
+usa00@rt:[tornado]巴潘[/tornado]語講座～
 
-me: 「ﾏｯﾃﾏｼﾀｰｰｰ」
+me: 「等很久啦－－－」
 
-usa00@rt:ありがとうは〜
-usa00@rt:[tornado]クニャ![/tornado]
+usa00@rt:謝謝的說法是～
+usa00@rt:[tornado]庫喵！[/tornado]
 
-me: 「[shake]ｸﾆｬ[/shake]」
+me: 「[shake]庫喵[/shake]」
 
-usa00@rt: ちっちっち
-usa00@lb: 喉を開けて 鼻から
+usa00@rt: 嘖嘖嘖
+usa00@lb: 打開喉嚨，從鼻子發音
 
-usa00@rt:[tornado]クニャ![/tornado]
+usa00@rt:[tornado]庫喵！[/tornado]
 
-me: 「[tornado][shake]ｸﾆｬ[/shake][/tornado]」
+me: 「[tornado][shake]庫喵[/shake][/tornado]」
 
-あっちょっと回った!!
+啊，有點那個味道了！！
 
 
 
@@ -32,4 +32,4 @@ usa00:exit
 
 …
 
-……今日も一日頑張るぞ!
+……今天一整天也要加油！

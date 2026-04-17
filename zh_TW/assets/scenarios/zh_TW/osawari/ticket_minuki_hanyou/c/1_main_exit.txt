@@ -3,22 +3,22 @@ usa00:
   ちんこ: しこ0
   目: close_smile
 
-usa00@rt:[wave]きゃ〜♥[/wave]
-usa00@lb:[wave]あちゅ〜♥[/wave]
+usa00@rt:[wave]呀～♥[/wave]
+usa00@lb:[wave]好燙～♥[/wave]
 
 usa00:
   ちんこ: normal
   目: normal
 
 
-usa00@rt:なんか〜ちがった〜??
+usa00@rt:總覺得～不太一樣嗎～？？
 
 …
 
 usa00:
   目: close_smile
 
-usa00@lb:なんのことですか〜♥
+usa00@lb:你在說什麼呀～♥
 
 ………
 

@@ -13,46 +13,46 @@ msgid "gallery_ticket_hand"
 msgstr "握手券"
 
 msgid "gallery_ticket_foot"
-msgstr "握手券(足)"
+msgstr "握手券(腳)"
 
 msgid "gallery_ticket_tail"
-msgstr "握手券(尻尾)"
+msgstr "握手券(尾巴)"
 
 msgid "gallery_ticket_breath"
-msgstr "握手券(顔)"
+msgstr "握手券(臉)"
 
 msgid "gallery_ticket_minuki_0"
-msgstr "ミヌキ券 (初回)"
+msgstr "打手槍券 (首次)"
 
 msgid "gallery_ticket_minuki_1"
-msgstr "ミヌキ券 (2回目)"
+msgstr "打手槍券 (第2次)"
 
 msgid "gallery_ticket_minuki_2"
-msgstr "ミヌキ券 (3回目)"
+msgstr "打手槍券 (第3次)"
 
 msgid "gallery_ticket_minuki_3"
-msgstr "ミヌキ券 (4回目)"
+msgstr "打手槍券 (第4次)"
 
 msgid "gallery_ticket_hand_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "提示：購買券事件"
 
 msgid "gallery_ticket_foot_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "提示：購買券事件"
 
 msgid "gallery_ticket_tail_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "提示：購買券事件"
 
 msgid "gallery_ticket_breath_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "提示：購買券事件"
 
 msgid "gallery_ticket_minuki_0_hint"
-msgstr "ヒント: おへやでのお願いイベント(1回目)"
+msgstr "提示：在房間的請求事件(第1次)"
 
 msgid "gallery_ticket_minuki_1_hint"
-msgstr "ヒント: おへやでのお願いイベント(2回目)"
+msgstr "提示：在房間的請求事件(第2次)"
 
 msgid "gallery_ticket_minuki_2_hint"
-msgstr "ヒント: おへやでのお願いイベント(3回目)"
+msgstr "提示：在房間的請求事件(第3次)"
 
 msgid "gallery_ticket_minuki_3_hint"
-msgstr "ヒント: おへやでのお願いイベント(4回目)"
+msgstr "提示：在房間的請求事件(第4次)"

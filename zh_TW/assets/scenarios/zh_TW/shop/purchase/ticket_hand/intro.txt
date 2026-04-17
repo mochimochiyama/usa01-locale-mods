@@ -5,10 +5,10 @@ bg: shop
 
 ......
 
-......なんかよくわからんものを買ってしまったぞ
+......買了個不知道是什麼的東西啊
 
 
 usa00:
   posure: front
 
-usa00@lb:[wave]まいどあり〜♥[/wave]
+usa00@lb:[wave]多謝惠顧～♥[/wave]

@@ -1,9 +1,8 @@
 
-
 usa00:
   目: close_smile
 
-usa00@rt: いた〜♥
+usa00@rt: 好痛～♥
 
 usa00:
   目: normal

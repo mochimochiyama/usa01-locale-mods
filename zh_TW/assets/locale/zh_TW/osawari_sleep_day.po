@@ -1,4 +1,3 @@
-# おさわりシーン: 昼寝 (sleep_day)
 msgid ""
 msgstr ""
 "Project-Id-Version: usa01\n"
@@ -13,16 +12,16 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "sleep_day_beginner"
-msgstr "・頭を撫でる\n・上着を脱がす(紐:クリック 脱衣:ドラッグ)\n・パンツを見る(ドラッグ)\n・ふともも見抜き♥"
+msgstr "・摸摸頭\n・脫掉上衣(繩子：點擊 脫衣：拖曳)\n・看內褲(拖曳)\n・對大腿打手槍♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_intermediate"
-msgstr "・胸めくり\n・ちゅー\n・まんぷに\n・顔見抜き(ちんかぎ)♥"
+msgstr "・掀開胸前\n・親親\n・揉捏小穴\n・對臉部打手槍(聞雞雞)♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_advanced"
-msgstr "・全部脱がす\n・乳首をつまむ\n・乳首見抜き♥"
+msgstr "・全部脫光\n・捏乳頭\n・對乳頭打手槍♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_operation"
-msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"
+msgstr "點擊目標部位，或透過拖曳進行操作。\n雞雞：透過拖曳，可將其放置於目標部位(♥)。點擊已放置狀態的雞雞即可進行操作。"

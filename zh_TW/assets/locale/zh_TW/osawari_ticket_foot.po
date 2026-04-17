@@ -1,4 +1,3 @@
-# おさわりシーン: 足 (ticket_foot)
 msgid ""
 msgstr ""
 "Project-Id-Version: usa01\n"
@@ -13,98 +12,98 @@ msgstr ""
 # ヒント本文 - Phase 1
 msgctxt "osawari_hint"
 msgid "ticket_foot_p1_operation"
-msgstr "・足裏:クリック"
+msgstr "・腳底：點擊"
 
 msgctxt "osawari_hint"
 msgid "ticket_foot_p1_hint"
-msgstr "足裏を10回揉むと次のシナリオへ"
+msgstr "揉捏腳底10次後進入下一段劇情"
 
 # ヒント本文 - Phase 2
 msgctxt "osawari_hint"
 msgid "ticket_foot_p2_operation"
-msgstr "・足裏:クリック"
+msgstr "・腳底：點擊"
 
 msgctxt "osawari_hint"
 msgid "ticket_foot_p2_hint"
-msgstr "両足をもんでから、合計10回揉むと次のシナリオへ"
+msgstr "揉捏雙腳後，合計揉捏10次進入下一段劇情"
 
 # ヒント本文 - Phase 3
 msgctxt "osawari_hint"
 msgid "ticket_foot_p3_operation"
-msgstr "・足裏:クリック"
+msgstr "・腳底：點擊"
 
 msgctxt "osawari_hint"
 msgid "ticket_foot_p3_hint"
-msgstr "合計10回揉むと終了"
+msgstr "合計揉捏10次後結束"
 
 # バブル - Phase 1
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p1_go"
-msgstr "ご〜"
+msgstr "五～"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p1_yoon"
-msgstr "よ〜ん"
+msgstr "四～"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p1_saan"
-msgstr "さ〜ん"
+msgstr "三～"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p1_ni"
-msgstr "に〜"
+msgstr "二～"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p1_ichi"
-msgstr "い〜ち"
+msgstr "一～"
 
 # バブル - Phase 2
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p2_heart"
-msgstr "♥〜"
+msgstr "♥～"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p2_go"
-msgstr "ご〜♥"
+msgstr "五～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p2_yoon"
-msgstr "よ〜ん♥"
+msgstr "四～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p2_saan"
-msgstr "さ〜ん♥"
+msgstr "三～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p2_ni"
-msgstr "に〜♥"
+msgstr "二～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p2_ichi"
-msgstr "い〜ち♥"
+msgstr "一～♥"
 
 # バブル - Phase 3
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p3_wa"
-msgstr "わ〜♥"
+msgstr "哇～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p3_a"
-msgstr "あ〜"
+msgstr "啊～"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p3_saan"
-msgstr "さ〜ん♥"
+msgstr "三～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p3_ni"
-msgstr "に〜♥"
+msgstr "二～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_foot_p3_ichi"
-msgstr "い〜ち♥"
+msgstr "一～♥"
 
 # 選択肢
 msgctxt "osawari_choice"
 msgid "ticket_foot_p0_ashisawari"
-msgstr "足触らせてください"
+msgstr "請讓我摸腳"
