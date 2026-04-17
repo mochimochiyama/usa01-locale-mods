@@ -1,4 +1,3 @@
-# おさわりシーン: 尻尾/おしり (ticket_tail)
 msgid ""
 msgstr ""
 "Project-Id-Version: usa01\n"
@@ -13,87 +12,87 @@ msgstr ""
 # ヒント本文 - 初期 (HINTS_INITIAL)
 msgctxt "osawari_hint"
 msgid "ticket_tail_initial_operation"
-msgstr "・尻尾を触る:クリック\n・服をたくし上げる:裾を上にドラッグ"
+msgstr "・摸尾巴：點擊\n・掀起衣服：將下襬向上拖曳"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_initial_hint"
-msgstr "尻尾を10回触るとリアクションがあります。\nそのリアクション後服をたくし上げると次のシナリオへ"
+msgstr "摸尾巴10次後會有反應。\n有反應之後掀起衣服即可進入下一段劇情"
 
 # ヒント本文 - 怒られ (HINTS_SCOLDED)
 msgctxt "osawari_hint"
 msgid "ticket_tail_scolded_operation"
-msgstr "・服を戻す:裾を下にドラッグ"
+msgstr "・把衣服拉好：將下襬向下拖曳"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_scolded_hint"
-msgstr "服をもとに戻すと次のシナリオへ"
+msgstr "把衣服拉好後即可進入下一段劇情"
 
 # ヒント本文 - キャミ待ち (HINTS_CAMI_WAIT)
 msgctxt "osawari_hint"
 msgid "ticket_tail_cami_operation"
-msgstr "・服をたくし上げる:裾を上にドラッグ"
+msgstr "・掀起衣服：將下襬向上拖曳"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_cami_hint"
-msgstr "服を限界までたくし上げると次のシナリオへ"
+msgstr "將衣服掀到極限後即可進入下一段劇情"
 
 # ヒント本文 - シフト後 (HINTS_AFTER_SHIFT)
 msgctxt "osawari_hint"
 msgid "ticket_tail_after_operation"
-msgstr "・尻尾を触る:クリック\n・おしりを揉む:クリック/ドラッグ"
+msgstr "・摸尾巴：點擊\n・揉屁股：點擊/拖曳"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_after_hint"
-msgstr "尻尾を10回触ると終了"
+msgstr "摸尾巴10次後結束"
 
 # バブル - Phase 1 (尻尾タッチ)
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_wa"
-msgstr "[wave]わ♥[/wave]"
+msgstr "[wave]哇♥[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_kusuguta"
-msgstr "[wave]くすぐった〜[/wave]"
+msgstr "[wave]好癢～[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_ahaha"
-msgstr "[wave]あはは〜♥[/wave]"
+msgstr "[wave]啊哈哈～♥[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_hira"
-msgstr "[wave]ひら…ひら…[/wave]"
+msgstr "[wave]搖啊…搖…[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_hirari"
-msgstr "[wave]ひらり〜[/wave]"
+msgstr "[wave]搖啊搖～[/wave]"
 
 # バブル - Phase 4 (尻のせ)
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_nose_n"
-msgstr "ん〜?"
+msgstr "嗯～？"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_nose_shippo"
-msgstr "え〜♥ 尻尾かあ〜?"
+msgstr "欸～♥ 是在摸尾巴嗎～？"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_nose_a"
-msgstr "あ♥"
+msgstr "啊♥"
 
 # バブル - Phase 4 (尻もみ)
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_a"
-msgstr "あ〜♥？"
+msgstr "啊～♥？"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_chigau"
-msgstr "なんかちがうような〜♥"
+msgstr "總覺得好像不太對耶～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_e"
-msgstr "え〜♥"
+msgstr "欸～♥"
 
 # 選択肢
 msgctxt "osawari_choice"
 msgid "ticket_tail_p0_shippo"
-msgstr "尻尾触らせてください"
+msgstr "請讓我摸尾巴"

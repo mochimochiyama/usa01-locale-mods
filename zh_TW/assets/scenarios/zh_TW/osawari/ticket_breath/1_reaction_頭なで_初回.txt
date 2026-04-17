@@ -2,12 +2,12 @@
 usa00:
   目: close_smile
 
-usa00@rt: あ〜♥
+usa00@rt: 啊〜♥
 
 usa00:
   目: normal
 
-usa00@lb: あたま〜？
+usa00@lb: 是摸頭〜？
 
 
-me:「顔、顔！ セーフ、セーフ!!」
+me:「是臉啦、臉！安全、安全！！」

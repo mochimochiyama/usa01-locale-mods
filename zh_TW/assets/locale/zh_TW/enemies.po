@@ -13,48 +13,48 @@ msgstr ""
 
 msgctxt "enemy_name"
 msgid "enemy_0"
-msgstr "スライム"
+msgstr "史萊姆"
 
 msgctxt "enemy_name"
 msgid "enemy_1"
-msgstr "ゴブリン"
+msgstr "哥布林"
 
 msgctxt "enemy_name"
 msgid "enemy_2"
-msgstr "スケルトン"
+msgstr "骷髏"
 
 msgctxt "enemy_name"
 msgid "enemy_3"
-msgstr "インプ"
+msgstr "小惡魔"
 
 msgctxt "enemy_name"
 msgid "enemy_4"
-msgstr "オーク"
+msgstr "獸人"
 
 msgctxt "enemy_name"
 msgid "enemy_5"
-msgstr "ハーピー"
+msgstr "鳥身女妖"
 
 msgctxt "enemy_name"
 msgid "enemy_6"
-msgstr "トロル"
+msgstr "巨魔"
 
 msgctxt "enemy_name"
 msgid "enemy_7"
-msgstr "ゴーレム"
+msgstr "魔像"
 
 msgctxt "enemy_name"
 msgid "enemy_8"
-msgstr "ワイバーン"
+msgstr "飛龍"
 
 msgctxt "enemy_name"
 msgid "enemy_9"
-msgstr "ナーガ"
+msgstr "蛇妖"
 
 msgctxt "enemy_name"
 msgid "enemy_10"
-msgstr "クラーケン"
+msgstr "巨型章魚怪"
 
 msgctxt "enemy_name"
 msgid "enemy_11"
-msgstr "ゴールド・ドラゴン"
+msgstr "黃金龍"

@@ -9,12 +9,12 @@ usa00:
 
 usa00@rt:？
 
-ぴた
+（輕觸）
 
 usa00:
   目: close_doya
 
-usa00@rt:[tornado]く[/tornado]
-usa00@lb: [tornado]くぅ…[/tornado]
+usa00@rt:[tornado]咕[/tornado]
+usa00@lb:[tornado]咕嗚…[/tornado]
 
 …

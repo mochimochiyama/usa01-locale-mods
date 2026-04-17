@@ -15,38 +15,37 @@ usa00@rt:…
 
 …
 
-me:「アノ〜…」
+me:「那個～…」
 
-usa00@rt:あ〜♥
+usa00@rt:啊～♥
 
 usa00:
   目: close_smile
 
-usa00@rt:なんかあっついな〜♥
+usa00@rt:總覺得好熱啊～♥
 
 usa00:
   前腕: たくし0
-usa00@lb:[wave]ちら♥[/wave]
+usa00@lb:[wave]偷瞄♥[/wave]
 
 …!!!
+usa00:
+  前腕: normal
+
+usa00@rt:哈啊～♥
+
+usa00:
+  前腕: たくし0
+
+usa00@rt:[wave]偷瞄～♥[/wave]
+
+…!!!
+
 
 usa00:
   前腕: normal
 
-usa00@rt:は〜♥
-
-usa00:
-  前腕: たくし0
-
-usa00@rt:[wave]ちら〜♥[/wave]
-
-…!!!
-
-
-usa00:
-  前腕: normal
-
-usa00@rt:あっちかった〜♥
+usa00@rt:真熱啊～♥
 
 …
 
@@ -56,8 +55,7 @@ usa00:
 usa00:
   目: normal
 
-usa00@rt:なんかでてきた〜♥
-usa00@lb:おっき〜♥
+usa00@rt:好像有什麼跑出來了耶～♥
+usa00@lb:好大喔～♥
 
 …
-

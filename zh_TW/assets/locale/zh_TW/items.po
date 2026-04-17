@@ -14,29 +14,29 @@ msgstr ""
 # --- notebook ---
 msgctxt "item_name"
 msgid "notebook"
-msgstr "魔導書(たぶん)"
+msgstr "魔導書（大概）"
 
 msgctxt "item_description"
 msgid "notebook"
-msgstr "道具屋さんのひみつが見れるかも!"
+msgstr "說不定能看到道具店老闆娘的秘密！"
 
 # --- room_ticket ---
 msgctxt "item_name"
 msgid "room_ticket"
-msgstr "おへや券"
+msgstr "房間券"
 
 msgctxt "item_description"
 msgid "room_ticket"
-msgstr "使用すると合鍵になる"
+msgstr "使用後會變成備用鑰匙"
 
 # --- room_key ---
 msgctxt "item_name"
 msgid "room_key"
-msgstr "おへやの鍵"
+msgstr "房間鑰匙"
 
 msgctxt "item_description"
 msgid "room_key"
-msgstr "道具屋2階の合鍵♥ 夜にたずねられるように…"
+msgstr "道具店2樓的備用鑰匙♥ 為了方便晚上去拜訪…"
 
 msgctxt "item_hint"
 msgid "room_key"
@@ -45,24 +45,24 @@ msgstr ""
 # --- ticket_minuki ---
 msgctxt "item_name"
 msgid "ticket_minuki"
-msgstr "ミヌキ券"
+msgstr "打手槍券"
 
 msgctxt "item_description"
 msgid "ticket_minuki"
-msgstr "めちゃくちゃ頼み込んだらつくってくれた!字が汚い!"
+msgstr "死纏爛打拜託之後終於做給我了！字好醜！"
 
 # --- goal ---
 msgctxt "item_name"
 msgid "goal"
-msgstr "とっておきの小瓶"
+msgstr "珍藏的小瓶子"
 
 msgctxt "item_description"
 msgid "goal"
-msgstr "なんかトッテオキとか言ってるが…"
+msgstr "雖然她說是什麼珍藏之類的…"
 
 msgctxt "item_hint"
 msgid "goal"
-msgstr "見抜きをしてもらった状態で、{drop_11}を所持"
+msgstr "在被允許打手槍的狀態下，持有{drop_11}"
 
 # ===== Tickets =====
 
@@ -70,11 +70,11 @@ msgstr "見抜きをしてもらった状態で、{drop_11}を所持"
 # --- ticket_breath ---
 msgctxt "item_name"
 msgid "ticket_breath"
-msgstr "握手券(顔)"
+msgstr "握手券(臉)"
 
 msgctxt "item_description"
 msgid "ticket_breath"
-msgstr "道具屋さんの手書きっぽいｱﾔｼｲ券"
+msgstr "像是道具店老闆娘手寫的可疑券"
 
 # --- ticket_hand ---
 msgctxt "item_name"
@@ -83,317 +83,317 @@ msgstr "握手券"
 
 msgctxt "item_description"
 msgid "ticket_hand"
-msgstr "道具屋さんの手書きっぽいｱﾔｼｲ券"
+msgstr "像是道具店老闆娘手寫的可疑券"
 
 msgctxt "item_hint"
 msgid "ticket_hand"
-msgstr "ショップレベル1で解放"
+msgstr "商店等級1時解鎖"
 
 # --- ticket_foot ---
 msgctxt "item_name"
 msgid "ticket_foot"
-msgstr "握手券(足)"
+msgstr "握手券(腳)"
 
 msgctxt "item_description"
 msgid "ticket_foot"
-msgstr "道具屋さんの手書きっぽいｱﾔｼｲ券"
+msgstr "像是道具店老闆娘手寫的可疑券"
 
 # --- ticket_tail ---
 msgctxt "item_name"
 msgid "ticket_tail"
-msgstr "握手券(尻尾)"
+msgstr "握手券(尾巴)"
 
 msgctxt "item_description"
 msgid "ticket_tail"
-msgstr "道具屋さんの手書きっぽいｱﾔｼｲ券"
+msgstr "像是道具店老闆娘手寫的可疑券"
 
 # ===== Kintama =====
 
 # --- kintama_left ---
 msgctxt "item_name"
 msgid "kintama_left"
-msgstr "金玉のタリスマン(左)"
+msgstr "金蛋護符(左)"
 
 msgctxt "item_description"
 msgid "kintama_left"
-msgstr "古いお守り プレイヤーの出目 +1"
+msgstr "古老的護身符 玩家的點數 +1"
 
 # --- kintama_right ---
 msgctxt "item_name"
 msgid "kintama_right"
-msgstr "金玉のタリスマン(右)"
+msgstr "金蛋護符(右)"
 
 msgctxt "item_description"
 msgid "kintama_right"
-msgstr "古いお守り プレイヤーの出目 +1"
+msgstr "古老的護身符 玩家的點數 +1"
 
 msgctxt "item_hint"
 msgid "kintama_right"
-msgstr "ミヌキ券を購入すると解放"
+msgstr "購買打手槍券後解鎖"
 
 # ===== Drop Materials =====
 
 # --- drop_0 ---
 msgctxt "item_name"
 msgid "drop_0"
-msgstr "スライムゼリー"
+msgstr "史萊姆果凍"
 
 msgctxt "item_description"
 msgid "drop_0"
-msgstr "スライムから取れたゼリー ぷるぷるしている"
+msgstr "從史萊姆身上取得的果凍 QQ彈彈的"
 
 # --- drop_1 ---
 msgctxt "item_name"
 msgid "drop_1"
-msgstr "ゴブリンの牙"
+msgstr "哥布林之牙"
 
 msgctxt "item_description"
 msgid "drop_1"
-msgstr "ゴブリンから取れた鋭い牙 ちょっと血がついてる…"
+msgstr "從哥布林身上取得的銳利牙齒 沾著一點血…"
 
 # --- drop_2 ---
 msgctxt "item_name"
 msgid "drop_2"
-msgstr "スケルトンの骨"
+msgstr "骷髏的骨頭"
 
 msgctxt "item_description"
 msgid "drop_2"
-msgstr "スケルトンが落とした骨 軽〜"
+msgstr "骷髏掉落的骨頭 好輕～"
 
 # --- drop_3 ---
 msgctxt "item_name"
 msgid "drop_3"
-msgstr "インプの尻尾"
+msgstr "小惡魔的尾巴"
 
 msgctxt "item_description"
 msgid "drop_3"
-msgstr "インプから取れた尻尾? 尻尾キモいな…"
+msgstr "從小惡魔身上取得的尾巴？尾巴感覺好噁心…"
 
 # --- drop_4 ---
 msgctxt "item_name"
 msgid "drop_4"
-msgstr "オークの骨"
+msgstr "獸人的骨頭"
 
 msgctxt "item_description"
 msgid "drop_4"
-msgstr "オークの頑丈な骨 ずっしり重い"
+msgstr "獸人堅硬的骨頭 沉甸甸的"
 
 # --- drop_5 ---
 msgctxt "item_name"
 msgid "drop_5"
-msgstr "ハーピーの羽"
+msgstr "鳥身女妖的羽毛"
 
 msgctxt "item_description"
 msgid "drop_5"
-msgstr "ハーピーから取れた美しい羽 見る角度で色が変わる"
+msgstr "從鳥身女妖身上取得的美麗羽毛 隨著觀看角度會變色"
 
 # --- drop_6 ---
 msgctxt "item_name"
 msgid "drop_6"
-msgstr "トロルの牙"
+msgstr "巨魔之牙"
 
 msgctxt "item_description"
 msgid "drop_6"
-msgstr "トロルから取れた牙 歯とは思えないくらい巨大"
+msgstr "從巨魔身上取得的牙齒 巨大到讓人難以相信這是牙齒"
 
 # --- drop_7 ---
 msgctxt "item_name"
 msgid "drop_7"
-msgstr "ゴーレムの魔石"
+msgstr "魔像的魔石"
 
 msgctxt "item_description"
 msgid "drop_7"
-msgstr "ゴーレムの体内にある魔石 ほのかにあったけ〜"
+msgstr "魔像體內的魔石 微微透著暖意～"
 
 # --- drop_8 ---
 msgctxt "item_name"
 msgid "drop_8"
-msgstr "ワイバーンの皮"
+msgstr "飛龍的皮"
 
 msgctxt "item_description"
 msgid "drop_8"
-msgstr "ワイバーンからとれる皮 しなやかで丈夫"
+msgstr "從飛龍身上取得的皮 柔韌且堅固"
 
 # --- drop_9 ---
 msgctxt "item_name"
 msgid "drop_9"
-msgstr "ナーガの鱗"
+msgstr "蛇妖的鱗片"
 
 msgctxt "item_description"
 msgid "drop_9"
-msgstr "ナーガからとれる深緑色の鱗 くせ〜"
+msgstr "從蛇妖身上取得的深綠色鱗片 好臭～"
 
 # --- drop_10 ---
 msgctxt "item_name"
 msgid "drop_10"
-msgstr "クラーケンの触手"
+msgstr "巨型章魚怪的觸手"
 
 msgctxt "item_description"
 msgid "drop_10"
-msgstr "クラーケンから切り取った触手 でけ〜"
+msgstr "從巨型章魚怪身上切下來的觸手 好大～"
 
 # --- drop_11 ---
 msgctxt "item_name"
 msgid "drop_11"
-msgstr "黄金龍の鱗"
+msgstr "黃金龍的鱗片"
 
 msgctxt "item_description"
 msgid "drop_11"
-msgstr "ゴールド・ドラゴンからとれた鱗 ぴか〜"
+msgstr "從黃金龍身上取得的鱗片 亮晶晶的～"
 
 # ===== Weapons =====
 
 # --- weapon_0 ---
 msgctxt "item_name"
 msgid "weapon_0"
-msgstr "木の棒"
+msgstr "木棒"
 
 msgctxt "item_description"
 msgid "weapon_0"
-msgstr "ただの棒"
+msgstr "普通的棒子"
 
 # --- weapon_1 ---
 msgctxt "item_name"
 msgid "weapon_1"
-msgstr "スライムゲルスピア"
+msgstr "史萊姆凝膠槍"
 
 msgctxt "item_description"
 msgid "weapon_1"
-msgstr "スライムゼリーを使った槍"
+msgstr "使用史萊姆果凍製成的長槍"
 
 msgctxt "item_hint"
 msgid "weapon_1"
-msgstr "{weapon_0}を購入すると解放"
+msgstr "購買{weapon_0}後解鎖"
 
 # --- weapon_2 ---
 msgctxt "item_name"
 msgid "weapon_2"
-msgstr "ゴブリンタスクナイフ"
+msgstr "哥布林牙匕首"
 
 msgctxt "item_description"
 msgid "weapon_2"
-msgstr "ゴブリンの牙を使った短剣"
+msgstr "使用哥布林之牙製成的短劍"
 
 msgctxt "item_hint"
 msgid "weapon_2"
-msgstr "{weapon_1}を購入すると解放"
+msgstr "購買{weapon_1}後解鎖"
 
 # --- weapon_3 ---
 msgctxt "item_name"
 msgid "weapon_3"
-msgstr "スケルトンダガー"
+msgstr "骷髏匕首"
 
 msgctxt "item_description"
 msgid "weapon_3"
-msgstr "スケルトンの骨を使った短剣"
+msgstr "使用骷髏骨頭製成的短劍"
 
 msgctxt "item_hint"
 msgid "weapon_3"
-msgstr "{weapon_2}を購入すると解放"
+msgstr "購買{weapon_2}後解鎖"
 
 # --- weapon_4 ---
 msgctxt "item_name"
 msgid "weapon_4"
-msgstr "インプウィップ"
+msgstr "小惡魔長鞭"
 
 msgctxt "item_description"
 msgid "weapon_4"
-msgstr "インプの尻尾を使った鞭"
+msgstr "使用小惡魔尾巴製成的鞭子"
 
 msgctxt "item_hint"
 msgid "weapon_4"
-msgstr "{weapon_3}を購入すると解放"
+msgstr "購買{weapon_3}後解鎖"
 
 # --- weapon_5 ---
 msgctxt "item_name"
 msgid "weapon_5"
-msgstr "オークメイス"
+msgstr "獸人戰鎚"
 
 msgctxt "item_description"
 msgid "weapon_5"
-msgstr "オークの骨を使ったメイス"
+msgstr "使用獸人骨頭製成的戰鎚"
 
 msgctxt "item_hint"
 msgid "weapon_5"
-msgstr "{weapon_4}を購入すると解放"
+msgstr "購買{weapon_4}後解鎖"
 
 # --- weapon_6 ---
 msgctxt "item_name"
 msgid "weapon_6"
-msgstr "フェザーブレード"
+msgstr "羽毛刃"
 
 msgctxt "item_description"
 msgid "weapon_6"
-msgstr "ハーピーの羽を使った刃"
+msgstr "使用鳥身女妖羽毛製成的刀刃"
 
 msgctxt "item_hint"
 msgid "weapon_6"
-msgstr "{weapon_5}を購入すると解放"
+msgstr "購買{weapon_5}後解鎖"
 
 # --- weapon_7 ---
 msgctxt "item_name"
 msgid "weapon_7"
-msgstr "トロルタスクハンマー"
+msgstr "巨魔牙錘"
 
 msgctxt "item_description"
 msgid "weapon_7"
-msgstr "トロルの牙を使ったハンマー"
+msgstr "使用巨魔之牙製成的鐵鎚"
 
 msgctxt "item_hint"
 msgid "weapon_7"
-msgstr "{weapon_6}を購入すると解放"
+msgstr "購買{weapon_6}後解鎖"
 
 # --- weapon_8 ---
 msgctxt "item_name"
 msgid "weapon_8"
-msgstr "ゴーレムハンマー"
+msgstr "魔像大錘"
 
 msgctxt "item_description"
 msgid "weapon_8"
-msgstr "ゴーレムの魔石を使ったハンマー"
+msgstr "使用魔像魔石製成的鐵鎚"
 
 msgctxt "item_hint"
 msgid "weapon_8"
-msgstr "{weapon_7}を購入すると解放"
+msgstr "購買{weapon_7}後解鎖"
 
 # --- weapon_9 ---
 msgctxt "item_name"
 msgid "weapon_9"
-msgstr "ワイバーンレイピア"
+msgstr "飛龍細劍"
 
 msgctxt "item_description"
 msgid "weapon_9"
-msgstr "ワイバーンの皮を使った細剣"
+msgstr "使用飛龍皮製成的細劍"
 
 msgctxt "item_hint"
 msgid "weapon_9"
-msgstr "{weapon_8}を購入すると解放"
+msgstr "購買{weapon_8}後解鎖"
 
 # --- weapon_10 ---
 msgctxt "item_name"
 msgid "weapon_10"
-msgstr "ナーガランス"
+msgstr "蛇妖長槍"
 
 msgctxt "item_description"
 msgid "weapon_10"
-msgstr "ナーガの鱗を使った槍"
+msgstr "使用蛇妖鱗片製成的長槍"
 
 msgctxt "item_hint"
 msgid "weapon_10"
-msgstr "{weapon_9}を購入すると解放"
+msgstr "購買{weapon_9}後解鎖"
 
 # --- weapon_11 ---
 msgctxt "item_name"
 msgid "weapon_11"
-msgstr "クラーケンクラブ"
+msgstr "巨型章魚怪棍棒"
 
 msgctxt "item_description"
 msgid "weapon_11"
-msgstr "クラーケンの触手を使った棍棒"
+msgstr "使用巨型章魚怪觸手製成的棍棒"
 
 msgctxt "item_hint"
 msgid "weapon_11"
-msgstr "{weapon_10}を購入すると解放"
+msgstr "購買{weapon_10}後解鎖"
 
 
 # ===== Armors =====
@@ -401,154 +401,154 @@ msgstr "{weapon_10}を購入すると解放"
 # --- armor_0 ---
 msgctxt "item_name"
 msgid "armor_0"
-msgstr "木の鎧"
+msgstr "木甲"
 
 msgctxt "item_description"
 msgid "armor_0"
-msgstr "木材を使った鎧？ささくれだらけ…"
+msgstr "使用木材製成的鎧甲？全都是木刺…"
 
 # --- armor_1 ---
 msgctxt "item_name"
 msgid "armor_1"
-msgstr "スライムゲルアーマー"
+msgstr "史萊姆凝膠甲"
 
 msgctxt "item_description"
 msgid "armor_1"
-msgstr "木の鎧にスライムをくっつけただけ"
+msgstr "只是把史萊姆黏在木甲上而已"
 
 msgctxt "item_hint"
 msgid "armor_1"
-msgstr "{armor_0}を購入すると解放"
+msgstr "購買{armor_0}後解鎖"
 
 # --- armor_2 ---
 msgctxt "item_name"
 msgid "armor_2"
-msgstr "ゴブリンタスクメイル"
+msgstr "哥布林牙甲"
 
 msgctxt "item_description"
 msgid "armor_2"
-msgstr "ゴブリンの牙をあしらった鎧"
+msgstr "裝飾著哥布林之牙的鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_2"
-msgstr "{armor_1}を購入すると解放"
+msgstr "購買{armor_1}後解鎖"
 
 # --- armor_3 ---
 msgctxt "item_name"
 msgid "armor_3"
-msgstr "スケルトンアーマー"
+msgstr "骷髏甲"
 
 msgctxt "item_description"
 msgid "armor_3"
-msgstr "スケルトンの肋骨の鎧 スカスカ"
+msgstr "骷髏肋骨製成的鎧甲 漏風漏很大"
 
 msgctxt "item_hint"
 msgid "armor_3"
-msgstr "{armor_2}を購入すると解放"
+msgstr "購買{armor_2}後解鎖"
 
 # --- armor_4 ---
 msgctxt "item_name"
 msgid "armor_4"
-msgstr "インプアーマー"
+msgstr "小惡魔甲"
 
 msgctxt "item_description"
 msgid "armor_4"
-msgstr "インプの尻尾だけで作られた前衛的な鎧"
+msgstr "全用小惡魔尾巴做成的前衛鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_4"
-msgstr "{armor_3}を購入すると解放"
+msgstr "購買{armor_3}後解鎖"
 
 # --- armor_5 ---
 msgctxt "item_name"
 msgid "armor_5"
-msgstr "オークボーンアーマー"
+msgstr "獸人骨甲"
 
 msgctxt "item_description"
 msgid "armor_5"
-msgstr "オークの骨を使った鎧"
+msgstr "使用獸人骨頭製成的鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_5"
-msgstr "{armor_4}を購入すると解放"
+msgstr "購買{armor_4}後解鎖"
 
 # --- armor_6 ---
 msgctxt "item_name"
 msgid "armor_6"
-msgstr "ハーピーコート"
+msgstr "鳥身女妖大衣"
 
 msgctxt "item_description"
 msgid "armor_6"
-msgstr "ハーピーの羽を使った外套"
+msgstr "使用鳥身女妖羽毛製成的外套"
 
 msgctxt "item_hint"
 msgid "armor_6"
-msgstr "{armor_5}を購入すると解放"
+msgstr "購買{armor_5}後解鎖"
 
 # --- armor_7 ---
 msgctxt "item_name"
 msgid "armor_7"
-msgstr "トロルキュイラス"
+msgstr "巨魔胸甲"
 
 msgctxt "item_description"
 msgid "armor_7"
-msgstr "トロルの牙を使った胸甲"
+msgstr "使用巨魔之牙製成的胸甲"
 
 msgctxt "item_hint"
 msgid "armor_7"
-msgstr "{armor_6}を購入すると解放"
+msgstr "購買{armor_6}後解鎖"
 
 # --- armor_8 ---
 msgctxt "item_name"
 msgid "armor_8"
-msgstr "ゴーレムアーマー"
+msgstr "魔像甲"
 
 msgctxt "item_description"
 msgid "armor_8"
-msgstr "ゴーレムの魔石を使った鎧"
+msgstr "使用魔像魔石製成的鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_8"
-msgstr "{armor_7}を購入すると解放"
+msgstr "購買{armor_7}後解鎖"
 
 # --- armor_9 ---
 msgctxt "item_name"
 msgid "armor_9"
-msgstr "ワイバーンアーマー"
+msgstr "飛龍甲"
 
 msgctxt "item_description"
 msgid "armor_9"
-msgstr "ワイバーンの皮を使った鎧"
+msgstr "使用飛龍皮製成的鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_9"
-msgstr "{armor_8}を購入すると解放"
+msgstr "購買{armor_8}後解鎖"
 
 # --- armor_10 ---
 msgctxt "item_name"
 msgid "armor_10"
-msgstr "ナーガアーマー"
+msgstr "蛇妖甲"
 
 msgctxt "item_description"
 msgid "armor_10"
-msgstr "ナーガの鱗を使った鎧"
+msgstr "使用蛇妖鱗片製成的鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_10"
-msgstr "{armor_9}を購入すると解放"
+msgstr "購買{armor_9}後解鎖"
 
 # --- armor_11 ---
 msgctxt "item_name"
 msgid "armor_11"
-msgstr "クラーケンアーマー"
+msgstr "巨型章魚怪甲"
 
 msgctxt "item_description"
 msgid "armor_11"
-msgstr "クラーケンの触手を使った鎧"
+msgstr "使用巨型章魚怪觸手製成的鎧甲"
 
 msgctxt "item_hint"
 msgid "armor_11"
-msgstr "{armor_10}を購入すると解放"
+msgstr "購買{armor_10}後解鎖"
 
 # ===== Magic Books =====
 
@@ -559,7 +559,7 @@ msgstr "睡眠魔術書(初級)"
 
 msgctxt "item_description"
 msgid "magic_0"
-msgstr "敵の出目を-1 眠らせることができるらしい…"
+msgstr "敵人的點數-1 似乎能讓人睡著…"
 
 # --- magic_1 ---
 msgctxt "item_name"
@@ -568,11 +568,11 @@ msgstr "睡眠魔術書(中級)"
 
 msgctxt "item_description"
 msgid "magic_1"
-msgstr "敵の出目を-2 大胆なことができるようになるらしい…"
+msgstr "敵人的點數-2 似乎變得可以做出大膽的事情…"
 
 msgctxt "item_hint"
 msgid "magic_1"
-msgstr "{magic_0}を購入すると解放"
+msgstr "購買{magic_0}後解鎖"
 
 # --- magic_2 ---
 msgctxt "item_name"
@@ -581,8 +581,8 @@ msgstr "睡眠魔術書(上級)"
 
 msgctxt "item_description"
 msgid "magic_2"
-msgstr "敵の出目を-4 さらに大胆なことができるようになる"
+msgstr "敵人的點數-4 變得可以做出更大膽的事情"
 
 msgctxt "item_hint"
 msgid "magic_2"
-msgstr "{magic_1}を購入すると解放"
+msgstr "購買{magic_1}後解鎖"

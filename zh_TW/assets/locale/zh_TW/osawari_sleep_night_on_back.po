@@ -1,4 +1,3 @@
-# おさわりシーン: 夜仰向け (sleep_night_on_back)
 msgid ""
 msgstr ""
 "Project-Id-Version: usa01\n"
@@ -13,16 +12,16 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_beginner"
-msgstr "・頭を撫でる\n・布団をずらす\n・服をずらす(ドラッグ)\n・ちゅ\n・顔見抜き♥\n・ちんかぎ見抜き♥"
+msgstr "・摸摸頭\n・掀開棉被\n・拉開衣服(拖曳)\n・親親\n・對臉部打手槍♥\n・聞雞雞打手槍♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_intermediate"
-msgstr "・下着(胸/パンツ)をずらす(ドラッグ)\n・乳首すりすり(クリック)\n・乳首ぎゅ(ドラッグ)\n・乳首見抜き♥\n・クリいじめ"
+msgstr "・拉開內衣(胸罩/內褲)(拖曳)\n・搓揉乳頭(點擊)\n・捏乳頭(拖曳)\n・對乳頭打手槍♥\n・玩弄陰蒂"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_advanced"
-msgstr "・服を脱がす(ドラッグ)\n・ディープキス(ドラッグ)\n・脚を開く(パンツを脱がして脚をドラッグ)\n・まんぷに(クリック)\n・まん指入れ(ドラッグ)\n・おなか見抜き♥\n・えっち♥"
+msgstr "・脫衣服(拖曳)\n・舌吻(拖曳)\n・張開雙腿(脫下內褲後拖曳腿部)\n・揉捏小穴(點擊)\n・手指插入小穴(拖曳)\n・對肚子打手槍♥\n・做愛♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_operation"
-msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"
+msgstr "點擊目標部位，或透過拖曳進行操作。\n雞雞：透過拖曳，可將其放置於目標部位(♥)。點擊已放置狀態的雞雞即可進行操作。"

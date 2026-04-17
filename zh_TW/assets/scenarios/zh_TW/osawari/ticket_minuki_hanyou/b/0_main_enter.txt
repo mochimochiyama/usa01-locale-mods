@@ -10,47 +10,44 @@ usa00:
   まんこ: normal
 
 
-me:「アノ~…」
+me:「那個～…」
 
 usa00:
   目: close_smile
-usa00@rt:なんですか〜?
-
-me:「今日はうしろからつかまっていいですかね…」
+usa00@rt:怎麼了呀～？
+me:「今天可以從後面抱住妳嗎…」
 
 usa00:
   目: close_hun
-usa00@rt:えー?
+usa00@rt:欸～？
 
 
 usa00:
   me構図: すまた
 
-…ぎゅっ!
+…緊抱！
 
 usa00:
   目: close_smile
 
-usa00@rt:あ〜♥
-usa00@lb:かってにぎゅするな〜♥
+usa00@rt:啊～♥
+usa00@lb:不要隨便緊緊抱上來啦～♥
 
 …
 
 usa00:
   目: normal
-usa00@lb:へんなとこさわってないか〜♥
+usa00@lb:沒有摸到奇怪的地方吧～♥
 
-usa00@rt:これめっちゃ触ってるような〜♥?
-
-me: 「…ギリ、 ギリっす!」
+usa00@rt:這個感覺已經完全摸到了吧～♥？
+me: 「…勉強、勉強沒碰到啦！」
 
 usa00:
   目: close_hun
-usa00@rt:しかたないな〜♥
+usa00@rt:真拿你沒辦法呢～♥
 
 usa00:
   目: normal
   すまた: normal
 
 …
-

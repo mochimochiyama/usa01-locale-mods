@@ -1,15 +1,14 @@
 
+me:「啊，[font_size=24][shake]請和我握手!!![/shake][/font_size]」
 
-me:「あ,[font_size=24][shake]握手してください!!![/shake][/font_size]」
+usa00@rt:[tornado]咕嗚咕嗚♥[/tornado]
+usa00@lb:你就這麼想摸\n我的手嗎〜?
 
-usa00@rt:[tornado]くぅくぅ♥[/tornado]
-usa00@lb:そんなにわたしの手\n触りたい〜?
+me: 「[shake]很想摸!!!![/shake]」
 
-me: 「[shake]触りたいかも!!!![/shake]」
+……是很純潔的那種喔!!!!
 
-……純粋なやつな!!!!
-
-usa00@rt:しょうがないですね〜
+usa00@rt:真拿你沒辦法呢〜
 
 usa00:
   上腕: 握手待機_右手
@@ -17,11 +16,11 @@ usa00:
   右手: 待機
   手袋: あり
 
-usa00@lb:どうぞ〜♥
+usa00@lb:請用〜♥
 
-me: 「ﾔｯﾀｰｰｰ」
+me: 「太棒啦ーーー」
 
-usa00@rt:あ, そうそう
-usa00@lb:10回だけですよ〜
+usa00@rt:啊，對了對了
+usa00@lb:只能10次喔〜
 
-me: 「[shake]そんなこと書いてなかったぞ!![/shake]」
+me: 「[shake]上面根本沒寫這種事啊!![/shake]」

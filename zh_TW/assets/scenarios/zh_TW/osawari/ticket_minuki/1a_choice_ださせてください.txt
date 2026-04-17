@@ -2,10 +2,9 @@
 usa00:
   目: close_smile
 
-usa00@rt:[wave]きゃ〜[/wave]
-usa00@lb:[wave]ぜんぜん話きいてな〜い[/wave]
+usa00@rt:[wave]呀～[/wave]
+usa00@lb:[wave]根本沒在聽人說話嘛～[/wave]
 
 usa00:
   目: normal
-usa00@rt: ちんちん出せ〜
-
+usa00@rt: 把雞雞拿出來吧～

@@ -2,26 +2,26 @@
 usa00:
   目: close_smile
 
-usa00@rt:[wave]きゃ〜[/wave]
-usa00@lb: ヒトのちんちん初めてみた〜
+usa00@rt:[wave]呀～[/wave]
+usa00@lb: 還是第一次看到人類的雞雞呢～
 
 me: …
 
 usa00:
   目: normal
-usa00@rt: これっておっきい〜?
+usa00@rt: 這樣算是大嗎～？
 
-me: …ﾄﾞｳｯｽｶﾈ…
+me: …誰知道呢…
 
 usa00:
   目: close_smile
-usa00@rt: なんかおイモみたい〜
+usa00@rt: 總覺得好像地瓜喔～
 
-me: あまりちんちんの話しないでｸﾀﾞｻｲ…
+me: 請不要一直談論雞雞的話題啦…
 
 usa00:
   目: close_hun
-usa00@rt:え〜?
+usa00@rt:欸～？
 
 usa00:
   目: normal
