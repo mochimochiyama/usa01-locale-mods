@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- Section Titles ---
+
+msgid "STAT_SECTION_WHOLE_BODY"
+msgstr "ทั้งตัว"
+
+msgid "STAT_SECTION_HEAD"
+msgstr "หัว"
+
+msgid "STAT_SECTION_MOUTH"
+msgstr "ปาก"
+
+msgid "STAT_SECTION_SMELL"
+msgstr "กลิ่น"
+
+msgid "STAT_SECTION_NIPPLES"
+msgstr "หัวนม"
+
+msgid "STAT_SECTION_CLITORIS"
+msgstr "เม็ดติ่ง"
+
+msgid "STAT_SECTION_VAGINA"
+msgstr "น้องสาว"
+
+# --- Stat Labels ---
+
+msgid "STAT_LABEL_CARESSED"
+msgstr "ถูกลูบไล้:"
+
+msgid "STAT_LABEL_KISSED"
+msgstr "ถูกจูบ:"
+
+msgid "STAT_LABEL_CAME_MOUTH"
+msgstr "เสร็จด้วยปาก♥:"
+
+msgid "STAT_LABEL_FACIAL"
+msgstr "โดนแตกใส่หน้า:"
+
+msgid "STAT_LABEL_SMELL_SNIFF"
+msgstr "โดนบังคับดมเจ้านั่น:"
+
+msgid "STAT_LABEL_CAME_SMELL"
+msgstr "เสร็จด้วยกลิ่น♥:"
+
+msgid "STAT_LABEL_NIPPLE_PINCHED"
+msgstr "ถูกหยิกหัวนม:"
+
+msgid "STAT_LABEL_CAME_NIPPLE"
+msgstr "เสร็จด้วยหัวนม♥:"
+
+msgid "STAT_LABEL_CHEST_EJAC"
+msgstr "โดนแตกใส่นม:"
+
+msgid "STAT_LABEL_CLIT_RUB"
+msgstr "เขี่ยเม็ดติ่ง:"
+
+msgid "STAT_LABEL_CAME_CLIT"
+msgstr "เสร็จด้วยเม็ดติ่ง♥:"
+
+msgid "STAT_LABEL_FINGER_IN"
+msgstr "ถูกสอดนิ้ว:"
+
+msgid "STAT_LABEL_INSERTED"
+msgstr "ถูกสอดใส่:"
+
+msgid "STAT_LABEL_CAME_VAGINA"
+msgstr "เสร็จข้างใน♥:"
+
+msgid "STAT_LABEL_CREAMPIE"
+msgstr "ปล่อยใน♥:"
+
+# --- Format Strings ---
+
+msgid "STAT_FMT_COUNT"
+msgstr "%s %d ครั้ง"
+
+msgid "STAT_UNKNOWN_ENTRY"
+msgstr "？？？: ？ ครั้ง"
+
+msgid "STAT_UNKNOWN"
+msgstr "？？？"

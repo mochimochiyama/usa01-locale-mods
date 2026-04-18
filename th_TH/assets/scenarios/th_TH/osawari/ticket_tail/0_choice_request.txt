@@ -1,0 +1,19 @@
+
+usa00:
+  目: close_smile
+  尻尾: normal
+
+usa00@rt:[wave]เสียงดังจังเลยค่า〜♥[/wave]
+
+usa00:
+  目: normal
+  尻尾: ふりふり
+
+usa00@rt:งั้นก็เชิญเลยค่า〜
+
+me:「[shake]ไชโย้ーーーーーーーー!!!![/shake]」
+
+
+usa00:
+  camera_focus: hip
+

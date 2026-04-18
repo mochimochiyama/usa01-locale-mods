@@ -1,0 +1,27 @@
+bg: room0
+
+usa00:
+  posure: front
+  上着: なし
+  手袋: なし
+
+
+me: 「ขอบคุณมากคร้าบ!!」
+
+usa00@rt:♥〜
+
+usa00:
+  posure: front
+  上着: なし
+  手袋: なし
+  目: close_smile
+
+usa00@rt: งั้นเจอกันพรุ่งนี้นะค้า〜
+
+usa00: exit
+
+bg: shop
+
+ปัง
+
+…

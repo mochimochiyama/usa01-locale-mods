@@ -1,0 +1,74 @@
+# おさわりシーン: 見抜き (ticket_minuki)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "ticket_minuki_operation"
+msgstr "・จับเจ้านั่น: คลิกที่เจ้านั่น"
+
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hint"
+msgstr "・จับเจ้านั่นรูดไปพร้อมกับมองซะ!"
+
+# バブル - Erection ヒント (ERECTION_HINTS)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_kyaa"
+msgstr "[wave]กรี๊ด〜♥[/wave]"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_fun"
+msgstr "ทำแบบนั้นเองเหรอค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_okiku"
+msgstr "รู้สึกเหมือนมันใหญ่ขึ้นเลยนะค้า〜?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_kunkun"
+msgstr "ฟุดฟิด…"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_hen"
+msgstr "กลิ่นแปลกๆ จังเลยค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_kucha"
+msgstr "เหม็น กลิ่นเหม็นคาว〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_erection_deru"
+msgstr "จะออกไหมค้า?♥ จะแตกไหมค้า?♥"
+
+# バブル - インライン呼び出し
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_gaman_miru"
+msgstr "แค่มองก็พอใจแล้วเหรอค้า〜?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_gaman_gamman"
+msgstr "อดกลั้นอะไรอยู่เหรอค้า〜?"
+
+# バブル - Phase 2 シコカウント
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_atsui"
+msgstr "อุ่นจังเลยนะค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_chira"
+msgstr "แอบมอง〜♥"
+
+# 選択肢
+msgctxt "osawari_choice"
+msgid "ticket_minuki_p1_dasasete"
+msgstr "ขอเอาเจ้านั่นออกมานะครับ!"
+
+msgctxt "osawari_choice"
+msgid "ticket_minuki_p1b_ochin"
+msgstr "เอาเจ้านั่นออกมา"

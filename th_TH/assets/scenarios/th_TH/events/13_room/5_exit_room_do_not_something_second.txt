@@ -1,0 +1,19 @@
+bg: room0
+
+me: 「งั้นก็ ราตรีสวัสดิ์คร้าบ」
+
+usa00:
+  posure: front
+  上着: なし
+  手袋: なし
+  目: close_smile
+
+usa00@rt: ไว้เจอกันพรุ่งนี้น้า〜
+
+usa00: exit
+
+bg: shop
+
+ปัง
+
+…

@@ -1,0 +1,128 @@
+# おさわりシーン: 見抜き汎用 (ticket_minuki_hanyou)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文 - バリアント a
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_a_operation"
+msgstr "・รูดเจ้านั่น: คลิกที่เจ้านั่น\n・เลื่อนกางเกงในลง: คลิก→ลากลง"
+
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_a_hint"
+msgstr "ถือกางเกงในให้เห็นชัดๆ แล้วเลื่อนลงได้"
+
+# ヒント本文 - バリアント b
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_b_operation"
+msgstr "・เอาไถหว่างขา (ซูมาตะ): คลิกหน้าท้อง"
+
+# ヒント本文 - バリアント c
+msgctxt "osawari_hint"
+msgid "ticket_minuki_hanyou_c_operation"
+msgstr "・เอาไถหว่างขา (ซูมาตะ): คลิกหน้าท้อง"
+
+# バブル - バリアント a (ERECTION_HINTS_A)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_heart"
+msgstr "〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_mottookiku"
+msgstr "ทำให้ใหญ่กว่านี้อีกสิค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_kucha"
+msgstr "เหม็นคาว♥ เหม็นคาวจังค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_sugoi"
+msgstr "เสียงสุดยอดเลยค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_deru"
+msgstr "จะออกไหมค้า?♥ จะแตกไหมค้า?♥"
+
+# バブル - バリアント b (ERECTION_HINTS_B)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_honntoni"
+msgstr "นี่แค่มองจริงๆ เหรอค้า〜♥?"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_nani"
+msgstr "ทำอะไรอยู่ค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_atteru"
+msgstr "เหมือนมีอะไรโดนเลยค้า〜♥？"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_atyu"
+msgstr "อุ่นค้า♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_a"
+msgstr "อ๊ะ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_aa"
+msgstr "อ๊า♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_mecha"
+msgstr "กอดแน่นจังเลยค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_derune"
+msgstr "จะแตกไหมค้า〜?♥ แตกใช่ไหมค้า〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_b_dase"
+msgstr "ปล่อยออกมาสิค้า〜♥"
+
+# バブル - バリアント c (ERECTION_HINTS_C)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_a"
+msgstr "อ๊ะ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_aaa"
+msgstr "อ๊าา♥♥♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_chigau"
+msgstr "เสียง〜รู้สึกจะต่างไปนะค้า〜♥？"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_onaji"
+msgstr "ก็เหมือนเดิมนี่น่า~♥ อ๊ะ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_haya"
+msgstr "เร็ว♥เร็วไปแล้วค้า♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_he"
+msgstr "เฮะ♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_syugo"
+msgstr "สุดยอดด〜♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_atyu"
+msgstr "อุ่น♥ อุ่นจังค้า♥"
+
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_c_dase"
+msgstr "ปล่อยมาค้า♥ ปล่อยออกมาค้า♥"
+
+# バブル - バリアント a (パンツ添え)
+msgctxt "osawari_bubble"
+msgid "ticket_minuki_hanyou_a_pantsu_soe"
+msgstr "เอ๋〜♥??"

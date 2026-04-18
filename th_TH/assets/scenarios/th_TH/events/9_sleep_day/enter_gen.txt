@@ -1,0 +1,19 @@
+bg: shop
+
+usa00:
+  posure: front
+
+usa00:
+  口: o
+
+usa00@rt:？
+
+แปะ
+
+usa00:
+  目: close_doya
+
+usa00@rt:[tornado]ฟี้[/tornado]
+usa00@lb: [tornado]ฟี้…[/tornado]
+
+…

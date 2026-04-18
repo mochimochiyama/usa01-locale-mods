@@ -1,0 +1,26 @@
+# おさわりシーン: 昼寝 (sleep_day)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "sleep_day_beginner"
+msgstr "・ลูบหัว\n・ถอดเสื้อนอก (เชือก: คลิก, ถอด: ลาก)\n・แอบดูกางเกงใน (ลาก)\n・ขอดูต้นขา♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_day_intermediate"
+msgstr "・เลิกเสื้อดูนม\n・จู๊บๆ\n・บีบน้องสาว\n・ขอดูหน้า (ดมเจ้านั่น)♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_day_advanced"
+msgstr "・ถอดออกให้หมด\n・หยิกหัวนม\n・ขอดูหัวนม♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_day_operation"
+msgstr "ควบคุมโดยการคลิกหรือลากที่ส่วนเป้าหมาย\nเจ้านั่น: ลากและปล่อยไปยังส่วนเป้าหมาย (♥) ได้ จากนั้นคลิกเพื่อขยับได้เลย"

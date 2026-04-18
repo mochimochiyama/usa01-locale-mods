@@ -1,0 +1,8 @@
+
+usa00:
+  目: close_smile
+
+usa00@rt: เจ็บค่า〜♥
+
+usa00:
+  目: normal

@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- App ---
+msgid "APP_TITLE"
+msgstr "ร้านขายไอเทมของคุณกระต่ายกับชีวิตนักผจญภัย"
+
+msgid "APP_TITLE_DEMO"
+msgstr "ร้านขายไอเทมของคุณกระต่ายกับชีวิตนักผจญภัย (เวอร์ชันทดลอง)"
+
+# --- Common UI ---
+msgid "UI_CLOSE"
+msgstr "ปิด"
+
+msgid "UI_BACK"
+msgstr "กลับ"
+
+msgid "UI_CONFIRM"
+msgstr "ตกลง"
+
+msgid "UI_RETURN_TO_TITLE"
+msgstr "กลับสู่หน้าไตเติ้ล"
+
+msgid "UI_YES"
+msgstr "ใช่"
+
+msgid "UI_NO"
+msgstr "ไม่ใช่"
+
+msgid "UI_SAVE"
+msgstr "เซฟ"
+
+msgid "UI_LOAD"
+msgstr "โหลด"
+
+msgid "UI_CONFIG"
+msgstr "ตั้งค่า"
+
+msgid "UI_HINT"
+msgstr "คำใบ้"
+
+msgid "UI_NONE"
+msgstr "ไม่มี"
+
+# --- Title ---
+msgid "TITLE_NEW_GAME"
+msgstr "เริ่มเกมใหม่"
+
+msgid "TITLE_CONTINUE"
+msgstr "เล่นต่อ"
+
+msgid "TITLE_GALLERY"
+msgstr "แกลเลอรี"
+
+msgid "TITLE_QUIT_GAME"
+msgstr "ออกจากเกม"
+
+# --- Settings ---
+msgid "SETTING_FULL_SCREEN"
+msgstr "เต็มจอ"
+
+msgid "SETTING_RESOLUTION"
+msgstr "ความละเอียด"
+
+msgid "SETTING_MONOCHROME"
+msgstr "โหมดขาวดำ"
+
+msgid "SETTING_MAIN_VOLUME"
+msgstr "เสียงหลัก"
+
+msgid "SETTING_BGM_VOLUME"
+msgstr "เสียงสภาพแวดล้อม"
+
+msgid "SETTING_SFX_VOLUME"
+msgstr "เสียงเอฟเฟกต์"
+
+msgid "SETTING_SEND_ERROR_REPORTS"
+msgstr "ส่งข้อผิดพลาด"
+
+msgid "SETTING_PAWN_COLOR"
+msgstr "สี"
+
+msgid "SETTING_PAWN_ALPHA"
+msgstr "ความโปร่งใส"
+
+msgid "TOOLTIP_ERROR_REPORTING"
+msgstr "ส่งข้อมูลข้อผิดพลาดที่เกิดขึ้นระหว่างเล่น\nไม่ได้เก็บข้อมูลระบุตัวตน"
+
+msgid "TOOLTIP_HAND_ALPHA"
+msgstr "ตั้งค่าความโปร่งใสของมือ\n(หากต่ำสุดอาจทำให้บางฉากมองเห็นยาก)"
+
+msgid "TOOLTIP_HAND_COLOR"
+msgstr "ตั้งค่าสีมือ (ดำถึงขาว)"
+
+msgid "TOOLTIP_HEAD_ALPHA"
+msgstr "ตั้งค่าความโปร่งใสของหัว\n(หากต่ำสุดอาจทำให้บางฉากมองเห็นยาก)"
+
+msgid "TOOLTIP_HEAD_COLOR"
+msgstr "ตั้งค่าสีหัว (ดำถึงขาว)"
+
+msgid "TOOLTIP_OCHIN_ALPHA"
+msgstr "ตั้งค่าความโปร่งใสของอวัยวะ\n(หากต่ำสุดอาจทำให้บางฉากมองเห็นยาก)"
+
+msgid "TOOLTIP_OCHIN_COLOR"
+msgstr "ตั้งค่าสีอวัยวะ (ดำถึงขาว)"
+
+msgid "TOOLTIP_MSAA"
+msgstr "เพิ่มความเรียบเนียนของกรอบคำพูดและรูปภาพ"
+
+msgid "TOOLTIP_MONOCHROME"
+msgstr "เปิดใช้โหมดขาวดำ\nจะใช้ฟิลเตอร์ทำให้บางฉากมองยากขึ้น"
+
+# --- Home ---
+msgid "HOME_SHOW_ITEMS"
+msgstr "ขอดูสินค้าหน่อย!"
+
+msgid "HOME_SELL_MATERIALS"
+msgstr "อยากขายวัตถุดิบ"
+
+msgid "HOME_PUT_TO_SLEEP"
+msgstr "ทำให้หลับ"
+
+msgid "HOME_SECRETS"
+msgstr "ความลับ"
+
+msgid "HOME_GO_TO_SLEEP"
+msgstr "นอนดีกว่า..."
+
+msgid "HOME_GO_TO_ROOM"
+msgstr "ไปที่ห้อง"
+
+msgid "HOME_GO_ON_QUEST"
+msgstr "ไปทำเควสต์..."
+
+msgid "HOME_WANDER"
+msgstr "เดินเล่น"
+
+msgid "HOME_GALLERY"
+msgstr "แกลเลอรี"
+
+msgid "TUTORIAL_SHOP"
+msgstr "สามารถซื้อไอเทม\nได้จากร้านค้า"
+
+msgid "TUTORIAL_QUEST"
+msgstr "สามารถออกไปทำเควสต์ได้"
+
+msgid "HOME_KINTAMA"
+msgstr "อัณฑะ:"
+
+msgid "HOME_WEALTH"
+msgstr "เงินที่มี:"
+
+# --- Shop ---
+msgid "SHOP_NAME"
+msgstr "ชื่อ"
+
+msgid "SHOP_ITEM"
+msgstr "ไอเทม"
+
+msgid "SHOP_QUANTITY"
+msgstr "จำนวนที่มี"
+
+msgid "SHOP_SELL_PRICE"
+msgstr "ราคาขาย"
+
+msgid "SHOP_PRICE"
+msgstr "ราคา"
+
+msgid "SHOP_REQUIRED_MATERIALS"
+msgstr "วัตถุดิบที่ต้องใช้"
+
+msgid "SHOP_STOCK"
+msgstr "ในสต็อก"
+
+msgid "SELECT_ITEM_PROMPT"
+msgstr "กรุณาเลือกไอเทม"
+
+# --- Battle ---
+msgid "BATTLE_VICTORY"
+msgstr "ชนะ!"
+
+msgid "BATTLE_FAST_MODE"
+msgstr "โหมดเร่งความเร็ว"
+
+msgid "BATTLE_STRENGTH"
+msgstr "ความแข็งแกร่ง"
+msgid "BATTLE_ATTACK_POWER"
+msgstr "พลังโจมตี:"
+
+msgid "BATTLE_MATERIALS"
+msgstr "วัตถุดิบ:"
+
+msgid "BATTLE_REWARD"
+msgstr "รางวัล:"
+
+msgid "BATTLE_CLEARED"
+msgstr "เคลียร์แล้ว!"
+
+msgid "BATTLE_BUFF_TALISMAN"
+msgstr "เครื่องราง"
+
+msgid "BATTLE_DEBUFF_SLEEP_MAGIC"
+msgstr "เวทมนตร์หลับใหล"
+
+# --- Room ---
+
+msgid "ROOM_REQUEST"
+msgstr "เอ่อ, มีเรื่องอยากขอร้องน่ะ"
+
+msgid "ROOM_USE_BOTTLE"
+msgstr "ใช้ขวดเล็กๆ ที่เก็บไว้เป็นไม้ตาย"
+
+msgid "ROOM_GO_DOWNSTAIRS"
+msgstr "ลงไปข้างล่าง"
+
+# --- Scenario ---
+
+msgid "SCENARIO_BACKLOG"
+msgstr "บันทึกย้อนหลัง"
+
+msgid "SCENARIO_CONTROLS"
+msgstr "คลิก: ถัดไป Ctrl: ข้าม"
+
+# --- Save/Load ---
+
+msgid "SAVE_SELECT_SLOT"
+msgstr "เลือกช่องเพื่อเซฟ"
+
+msgid "SAVE_SELECT_LOAD_SLOT"
+msgstr "เลือกช่องเพื่อโหลด"
+
+msgid "SAVE_AUTO_NEWEST"
+msgstr "ออโต้เซฟ (ล่าสุด⇧)"
+
+msgid "SAVE_AUTO_NOTE"
+msgstr "※จะมีการออโต้เซฟตอนไปนอน (สูงสุด 10 ไฟล์)"
+
+# --- Osawari ---
+
+msgid "OSAWARI_SLOW"
+msgstr "ช้า"
+
+msgid "OSAWARI_FAST"
+msgstr "เร็ว"
+
+msgid "OSAWARI_RIGHT_HAND"
+msgstr "มือขวา"
+
+msgid "OSAWARI_LEFT_HAND"
+msgstr "มือซ้าย"
+
+msgid "OSAWARI_KISS"
+msgstr "จูบ"
+
+msgid "OSAWARI_WAIST"
+msgstr " เอว "
+
+msgid "OSAWARI_RESET_TOUCH"
+msgstr "รีเซ็ตสถานะสัมผัส"
+
+msgid "OSAWARI_STOP"
+msgstr "หยุด"
+
+msgid "OSAWARI_CONTROLS"
+msgstr "การควบคุม"
+
+msgid "HINT_PLACEHOLDER"
+msgstr "(คำใบ้จะแสดงที่นี่)"
+
+# --- Ending ---
+
+msgid "ENDING_THE_END"
+msgstr "〜จบ〜"
+
+msgid "ENDING_VIEW_SECRETS"
+msgstr "ดูความลับ"
+
+msgid "DEMO_ENDING_MESSAGE"
+msgstr "ขอบคุณที่เล่นเวอร์ชันทดลอง!\n\nในเวอร์ชันเต็ม สามารถใช้เซฟเดิมและเล่นต่อจากที่ค้างไว้ได้เลย\nถ้าถูกใจ อย่าลืมอุดหนุนเวอร์ชันเต็มด้วยนะครับ"
+
+# --- Gallery ---
+
+msgid "GALLERY_HINT_LABEL"
+msgstr "คำใบ้:"
+
+# --- Confirm ---
+
+msgid "CONFIRM_OVERWRITE_SAVE"
+msgstr "ต้องการเขียนทับ %s หรือไม่?\nข้อมูลเดิมจะหายไป"
+
+msgid "CONFIRM_DELETE_SAVE"
+msgstr "ต้องการลบ %s หรือไม่?"
+
+msgid "CONFIRM_LOAD"
+msgstr "ต้องการโหลดหรือไม่?\nความคืบหน้าปัจจุบันจะหายไป"
+
+msgid "CONFIRM_RETURN_TITLE"
+msgstr "กลับไปหน้าไตเติ้ลหรือไม่?\nความคืบหน้าปัจจุบันจะหายไป"
+
+msgid "CONFIRM_UNLOCK_GALLERY"
+msgstr "ต้องการปลดล็อคแกลเลอรีทั้งหมดหรือไม่?"
+
+# --- Hints ---
+
+msgid "HINT_GOAL_BOTTLE"
+msgstr "ตอนกลางคืน ให้ไปที่ห้อง\nและใช้ขวดเล็กสุดพิเศษสิ!!"
+
+msgid "HINT_RETURN_KEY"
+msgstr "ตอนกลางคืน ให้ไปที่ห้องแล้วคืนกุญแจซะ!!"
+
+msgid "HINT_MINUKI"
+msgstr "ตอนกลางคืน ให้ไปที่ห้องและขอดูของดีหน่อย!!"
+
+msgid "HINT_VISIT_ROOM"
+msgstr "ตอนกลางคืน ให้ไปที่ห้อง!!"
+
+msgid "HINT_ACTION_SLEEP"
+msgstr "เข้านอนแล้วตื่นขึ้นมาในเช้าวันถัดไป"
+
+msgid "HINT_ACTION_QUEST"
+msgstr "หน้าต่างเลือกเควสต์จะเปิดขึ้น"
+
+msgid "HINT_ACTION_IDLE"
+msgstr "ข้ามเวลาไปข้างหน้าโดยไม่ได้ทำอะไรพิเศษ"
+
+msgid "HINT_ACTION_STATISTICS"
+msgstr "ดูความลับของคุณเจ้าของร้าน"
+
+msgid "HINT_ACTION_EVENING_VISIT"
+msgstr "แวะไปที่บ้านของคุณเจ้าของร้าน…"
+
+msgid "HINT_ACTION_BUY"
+msgstr "ซื้อไอเทมจากคุณเจ้าของร้าน"
+
+msgid "HINT_ACTION_SELL"
+msgstr "ขายวัตถุดิบมอนสเตอร์ให้คุณเจ้าของร้าน"
+
+msgid "HINT_ACTION_GO_DOWNSTAIRS"
+msgstr "กลับไปที่ชั้น 1F"
+
+msgid "HINT_NOT_SET"
+msgstr "(ยังไม่ได้ตั้งคำใบ้)"
+
+msgid "HINT_UNLOCK_NEXT_EVENT"
+msgstr "จะถูกปลดล็อคในอีเวนต์[color=gray][s]ขูดรีด[/s][/color]ครั้งถัดไป"
+
+msgid "HINT_UNLOCK_SPECIFIC_ITEM"
+msgstr "จะถูกปลดล็อคเมื่อได้รับไอเทมที่กำหนด"
+
+msgid "HINT_ACTION_UNKNOWN"
+msgstr "……？"
+
+# --- Battle (extended) ---
+
+msgid "BATTLE_DEFEAT"
+msgstr "พ่ายแพ้..."
+
+msgid "BATTLE_NO_LOOT"
+msgstr "ไม่ได้รับของรางวัลอะไรเลย..."
+
+# --- Shop (extended) ---
+
+msgid "SHOP_NO_ITEMS"
+msgstr "ไม่มีไอเทม"
+
+msgid "SHOP_HINT_LABEL"
+msgstr "[b]คำใบ้[/b]"
+
+msgid "SHOP_DESCRIPTION_LABEL"
+msgstr "[b]คำอธิบาย[/b]"
+
+# --- Scenario (extended) ---
+
+msgid "SPEAKER_SELF"
+msgstr "ตัวเอง"
+
+# --- Item Description ---
+
+msgid "FMT_STRENGTH_SINGLE"
+msgstr "ความแข็งแกร่ง: %d "
+
+msgid "FMT_STRENGTH_RANGE"
+msgstr "ความแข็งแกร่ง: %d-%d "
+
+msgid "FMT_STRENGTH_RANGE_LABEL"
+msgstr " (ความแข็งแกร่ง: %d~%d)"
+
+msgid "FMT_ARMOR_HP_BONUS_LABEL"
+msgstr " (HP: +%d)"
+
+msgid "FMT_ITEM_COUNT"
+msgstr "%d อัน"
+
+msgid "NO_DESCRIPTION"
+msgstr "(ไม่มีคำอธิบาย)"

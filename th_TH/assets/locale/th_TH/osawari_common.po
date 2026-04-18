@@ -1,0 +1,38 @@
+# おさわりシーン共通 - ヒントタブ名
+# Hint tab display names shared across all osawari scenes
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "osawari_hint_tab"
+msgid "operation"
+msgstr "การควบคุม"
+
+msgctxt "osawari_hint_tab"
+msgid "operation1"
+msgstr "การควบคุม 1"
+
+msgctxt "osawari_hint_tab"
+msgid "operation2"
+msgstr "การควบคุม 2"
+
+msgctxt "osawari_hint_tab"
+msgid "hint"
+msgstr "คำใบ้"
+
+msgctxt "osawari_hint_tab"
+msgid "beginner"
+msgstr "ระดับเริ่มต้น"
+
+msgctxt "osawari_hint_tab"
+msgid "intermediate"
+msgstr "ระดับกลาง"
+
+msgctxt "osawari_hint_tab"
+msgid "advanced"
+msgstr "ระดับสูง"

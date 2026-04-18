@@ -1,0 +1,38 @@
+usa00:
+  focus: default
+  目: close_smile
+
+usa00@rt:ครบ 10 ครั้งแล้วค่า〜♥
+
+usa00:
+  腕: normal
+  目: normal
+
+me:「[shake]อะ…[/shake]」
+
+usa0@rt:อ๋า〜?
+
+me:「[shake]เอาอีก!! เอาอีก!!![/shake]」
+
+usa00@rt:ว้าย〜♥
+
+me:「[shake]เอาอีก!! เอาอีก!!![/shake]」
+
+usa00@lb:ช่วยไม่ได้นะคะ〜
+
+usa00:
+  左脚: 上げ
+  目: close_smile
+
+usa00@rt:สองข้างเลย〜♥
+
+me:「ว้าว...(ใจเย็น)」
+
+พอเอามาเรียงคู่กันสองข้าง ข้อมูลก็ทะลักล้นสุดๆ!!
+
+usa00@lb:เอ้านี่ เชิญค่า♥〜
+
+
+usa00:
+  目: normal
+  focus: 足裏0

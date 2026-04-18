@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- Time Periods ---
+
+msgid "TIME_MORNING"
+msgstr "ตอนเช้า"
+
+msgid "TIME_AFTERNOON"
+msgstr "ตอนกลางวัน"
+
+msgid "TIME_NIGHT"
+msgstr "ตอนกลางคืน"
+
+# --- Format Strings ---
+
+msgid "FMT_DAY_PERIOD"
+msgstr "วันที่ %02d %s"
+
+msgid "TIME_JUST_NOW"
+msgstr "ตอนนี้"
+
+msgid "FMT_MINUTES_AGO"
+msgstr "%d นาทีก่อน"
+
+msgid "FMT_HOURS_AGO"
+msgstr "%d ชั่วโมงก่อน"

@@ -1,0 +1,63 @@
+usa00:
+  腕: normal
+  前腕: normal
+  パンツ: normal
+  キャミ中: true
+  キャミ下: true
+  目: normal
+  口: normal
+  まんこ: normal
+  me構図: まえから
+
+
+usa00@rt:…
+
+…
+
+me:「เอ่อ〜…」
+
+usa00@rt:อา〜♥
+
+usa00:
+  目: close_smile
+
+usa00@rt:รู้สึกร้อนจังเลยค่า〜♥
+
+usa00:
+  前腕: たくし0
+usa00@lb:[wave]วับ♥[/wave]
+
+…!!!
+
+usa00:
+  前腕: normal
+
+usa00@rt:ฮ้า〜♥
+
+usa00:
+  前腕: たくし0
+
+usa00@rt:[wave]แว้บ〜♥[/wave]
+
+…!!!
+
+
+usa00:
+  前腕: normal
+
+usa00@rt:ร้อนจังเลยค่า〜♥
+
+…
+
+usa00:
+  ちんこ: normal
+
+usa00:
+  目: normal
+
+usa00@rt:มีอะไรออกมาด้วยค้า〜♥
+usa00@lb:ใหญ่จัง〜♥
+
+…
+
+

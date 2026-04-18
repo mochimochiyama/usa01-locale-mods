@@ -1,0 +1,26 @@
+# おさわりシーン: 夜仰向け (sleep_night_on_back)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ヒント本文
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_beginner"
+msgstr "・ลูบหัว\n・เลิกผ้าห่มออก\n・เลิกเสื้อขึ้น (ลาก)\n・จู๊บๆ\n・ขอดูหน้า♥\n・ดมเจ้านั่น♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_intermediate"
+msgstr "・เลิกชุดชั้นใน (อก/กางเกงใน) (ลาก)\n・ถูหัวนม (คลิก)\n・บีบหัวนม (ลาก)\n・ขอดูหัวนม♥\n・แกล้งเม็ดติ่ง"
+
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_advanced"
+msgstr "・ถอดเสื้อ (ลาก)\n・แลกจูบ (ลาก)\n・อ้าขาออก (ถอดกางเกงในแล้วลากขา)\n・บีบคลึงน้องสาว (คลิก)\n・สอดนิ้วเข้า (ลาก)\n・ขอดูท้อง♥\n・ทำเรื่องเสียวๆ♥"
+
+msgctxt "osawari_hint"
+msgid "sleep_night_on_back_operation"
+msgstr "ควบคุมโดยการคลิกหรือลากที่ส่วนเป้าหมาย\nเจ้านั่น: ลากและปล่อยไปยังส่วนเป้าหมาย (♥) ได้ จากนั้นคลิกเพื่อขยับได้เลย"
