@@ -5,23 +5,23 @@ usa00:
 
 usa00@rt:อรุณสวัสดิ์〜
 
-me:「ดีคร้าบ」
+me:ดีคร้าบ
 
 usa00@rt:[tornado]วิชาภาษาบาปัน[/tornado]ค่า〜
 
-me: 「รออยู่เลยคร้าบบบーーー」
+me: รออยู่เลยคร้าบบบーーー
 
 usa00@rt:ขอบคุณคือ〜
 usa00@rt:[tornado]คุนยะ![/tornado]
 
-me: 「[shake]คุ้นยะ[/shake]」
+me: [shake]คุ้นยะ[/shake]
 
 usa00@rt: จุ๊จุ๊จุ๊
 usa00@lb: อ้าคอหน่อย แล้วออกเสียงทางจมูกค่า
 
 usa00@rt:[tornado]คุนยะ![/tornado]
 
-me: 「[tornado][shake]คุนยะ[/shake][/tornado]」
+me: [tornado][shake]คุนยะ[/shake][/tornado]
 
 อ๊ะ เริ่มเวียนหัวนิดนึงล่ะ!!
 
