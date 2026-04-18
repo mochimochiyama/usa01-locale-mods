@@ -21,6 +21,7 @@ jobs:
           (cd zh_CN && zip -r ../zh_CN.zip .)
           (cd zh_TW && zip -r ../zh_TW.zip .)
           (cd ko_KR && zip -r ../ko_KR.zip .)
+          (cd th_TH && zip -r ../th_TH.zip .)
 
       - name: Create release
         uses: softprops/action-gh-release@v2
@@ -32,4 +33,5 @@ jobs:
             zh_CN.zip
             zh_TW.zip
             ko_KR.zip
+            th_TH.zip
           generate_release_notes: true
