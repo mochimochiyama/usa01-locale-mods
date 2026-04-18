@@ -11,6 +11,7 @@
 | Language | Status | Contributors | Version |
 |---|---|---|---|
 | 繁體中文 (zh_TW) | 🎉 | Jason.H | v1.2.0 |
+| ภาษาไทย (th_TH) | 🎉 | DiNoTong | v1.2.1 |
 | 简体中文 (zh_CN) | 😢 | - | - |
 | English (en_US) | 😢 | - | - |
 | 한국어 (ko_KR) | 😢 | - | - |
