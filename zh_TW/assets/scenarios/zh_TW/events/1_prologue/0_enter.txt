@@ -257,9 +257,9 @@ me:「……大概多少錢呢」
 
 耳朵豎了起來，狠狠地盯著這邊。
 
-usa00@rt:[tornado]呼呼…[/tornado]
+usa00@rt:[tornado]咕嗚咕嗚…[/tornado]
 
-me:「…呼？」
+me:「…咕嗚？」
 
 usa00:
   目: close_smile
