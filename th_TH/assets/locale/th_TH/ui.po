@@ -48,6 +48,10 @@ msgstr "คำใบ้"
 msgid "UI_NONE"
 msgstr "ไม่มี"
 
+# --- Credit ---
+msgid "UI_CREDIT"
+msgstr "เครดิต"
+
 # --- Title ---
 msgid "TITLE_NEW_GAME"
 msgstr "เริ่มเกมใหม่"
@@ -399,3 +403,5 @@ msgstr "%d อัน"
 
 msgid "NO_DESCRIPTION"
 msgstr "(ไม่มีคำอธิบาย)"
+
+
