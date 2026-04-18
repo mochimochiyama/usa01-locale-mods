@@ -1,0 +1,46 @@
+bg: shop
+
+usa00:
+  posure: front
+  目: close_doya
+  口: o
+
+…
+
+usa00@rt:[tornado]ฟี้…[/tornado]
+usa00@lb: [tornado]ฟี้…![/tornado]
+
+usa00:
+  目: normal
+
+usa00@rt: …หืม?
+
+me: ……
+
+usa00@lb: คุยเรื่องอะไรกันอยู่เหรอค้า…?
+
+usa00:
+  口: normal
+  body: ひろげ
+
+usa00@rt: อ๊ะ จริงด้วย〜
+usa00@lb: หน้าผาก เชิญเลยค่า〜! ทักทายแบบ [tornado]บาปัน[/tornado]〜
+
+…
+
+me: … อ่า วันนี้ไม่เป็นไรแล้วครับ…
+
+usa00:
+  口: o
+
+usa00@rt: เอ๋〜？
+
+…
+
+usa00:exit
+
+…นี่มัน เวทมนตร์ที่ใช้แล้วจะไม่เป็นไรแน่นะ…??
+
+……ช่างมันเถอะ!!!!!
+
+…

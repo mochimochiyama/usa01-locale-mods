@@ -1,0 +1,589 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ===== Key Items =====
+
+# --- notebook ---
+msgctxt "item_name"
+msgid "notebook"
+msgstr "หนังสือเวทมนตร์(มั้ง)"
+
+msgctxt "item_description"
+msgid "notebook"
+msgstr "อาจจะได้เห็นความลับของร้านขายไอเทม!"
+
+# --- room_ticket ---
+msgctxt "item_name"
+msgid "room_ticket"
+msgstr "ตั๋วห้อง"
+
+msgctxt "item_description"
+msgid "room_ticket"
+msgstr "เมื่อใช้จะเป็นกุญแจสำรอง"
+
+# --- room_key ---
+msgctxt "item_name"
+msgid "room_key"
+msgstr "กุญแจเข้าห้อง / กุญแจสำรองสำหรับชั้น 2"
+
+msgctxt "item_description"
+msgid "room_key"
+msgstr "กุญแจสำรองชั้น 2 ของร้านขายไอเทม♥ เพื่อที่จะได้แวะไปหาตอนกลางคืน..."
+
+msgctxt "item_hint"
+msgid "room_key"
+msgstr ""
+
+# --- ticket_minuki ---
+msgctxt "item_name"
+msgid "ticket_minuki"
+msgstr "ตั๋วขอดูหน่อย"
+
+msgctxt "item_description"
+msgid "ticket_minuki"
+msgstr "ขอร้องตั้งนานกว่าจะยอมทำให้! ลายมือไก่เขี่ยมาก!"
+
+# --- goal ---
+msgctxt "item_name"
+msgid "goal"
+msgstr "ขวดทรงคุณค่า"
+
+msgctxt "item_description"
+msgid "goal"
+msgstr "เห็นบอกว่าเป็นของทรงคุณค่า..."
+
+msgctxt "item_hint"
+msgid "goal"
+msgstr "ขณะที่ให้ดู ต้องมี {drop_11} ไว้ครอบครอง"
+
+# ===== Tickets =====
+
+
+# --- ticket_breath ---
+msgctxt "item_name"
+msgid "ticket_breath"
+msgstr "ตั๋วจับมือ(หน้า)"
+
+msgctxt "item_description"
+msgid "ticket_breath"
+msgstr "ตั๋วต้องสงสัยที่เหมือนลายมือของร้านขายไอเทม"
+
+# --- ticket_hand ---
+msgctxt "item_name"
+msgid "ticket_hand"
+msgstr "ตั๋วนวดมือ"
+
+msgctxt "item_description"
+msgid "ticket_hand"
+msgstr "ตั๋วต้องสงสัยที่เหมือนลายมือของร้านขายไอเทม"
+
+msgctxt "item_hint"
+msgid "ticket_hand"
+msgstr "ปลดล็อกที่ร้านค้าเลเวล 1"
+
+# --- ticket_foot ---
+msgctxt "item_name"
+msgid "ticket_foot"
+msgstr "ตั๋วนวดเท้า"
+
+msgctxt "item_description"
+msgid "ticket_foot"
+msgstr "ตั๋วต้องสงสัยที่เหมือนลายมือของร้านขายไอเทม"
+
+# --- ticket_tail ---
+msgctxt "item_name"
+msgid "ticket_tail"
+msgstr "ตั๋วนวดหาง"
+
+msgctxt "item_description"
+msgid "ticket_tail"
+msgstr "ตั๋วต้องสงสัยที่เหมือนลายมือของร้านขายไอเทม"
+
+# ===== Kintama =====
+
+# --- kintama_left ---
+msgctxt "item_name"
+msgid "kintama_left"
+msgstr "เครื่องรางอัณฑะ(ซ้าย)"
+
+msgctxt "item_description"
+msgid "kintama_left"
+msgstr "เครื่องรางเก่าแก่ แต้มผู้เล่น +1"
+
+# --- kintama_right ---
+msgctxt "item_name"
+msgid "kintama_right"
+msgstr "เครื่องรางอัณฑะ(ขวา)"
+
+msgctxt "item_description"
+msgid "kintama_right"
+msgstr "เครื่องรางเก่าแก่ แต้มผู้เล่น +1"
+
+msgctxt "item_hint"
+msgid "kintama_right"
+msgstr "ปลดล็อกเมื่อซื้อตั๋วขอดูหน่อย"
+
+# ===== Drop Materials =====
+
+# --- drop_0 ---
+msgctxt "item_name"
+msgid "drop_0"
+msgstr "เยลลี่สไลม์"
+
+msgctxt "item_description"
+msgid "drop_0"
+msgstr "เยลลี่ที่ได้จากสไลม์ เด้งดึ๋งๆ"
+
+# --- drop_1 ---
+msgctxt "item_name"
+msgid "drop_1"
+msgstr "เขี้ยวก็อบลิน"
+
+msgctxt "item_description"
+msgid "drop_1"
+msgstr "เขี้ยวแหลมที่ได้จากก็อบลิน มีเลือดติดอยู่นิดหน่อย..."
+
+# --- drop_2 ---
+msgctxt "item_name"
+msgid "drop_2"
+msgstr "กระดูกโครงกระดูก"
+
+msgctxt "item_description"
+msgid "drop_2"
+msgstr "กระดูกที่โครงกระดูกทำตกไว้ เบาหวิว"
+
+# --- drop_3 ---
+msgctxt "item_name"
+msgid "drop_3"
+msgstr "หางอิมป์"
+
+msgctxt "item_description"
+msgid "drop_3"
+msgstr "หางที่ได้จากอิมป์? หางน่าขยะแขยงจัง..."
+
+# --- drop_4 ---
+msgctxt "item_name"
+msgid "drop_4"
+msgstr "กระดูกออร์ค"
+
+msgctxt "item_description"
+msgid "drop_4"
+msgstr "กระดูกออร์คที่แข็งแรง หนักอึ้ง"
+
+# --- drop_5 ---
+msgctxt "item_name"
+msgid "drop_5"
+msgstr "ขนนกฮาร์ปี้"
+
+msgctxt "item_description"
+msgid "drop_5"
+msgstr "ขนนกสวยงามที่ได้จากฮาร์ปี้ สีเปลี่ยนไปตามมุมที่มอง"
+
+# --- drop_6 ---
+msgctxt "item_name"
+msgid "drop_6"
+msgstr "เขี้ยวโทรล"
+
+msgctxt "item_description"
+msgid "drop_6"
+msgstr "เขี้ยวที่ได้จากโทรล ใหญ่จนไม่น่าเชื่อว่าเป็นฟัน"
+
+# --- drop_7 ---
+msgctxt "item_name"
+msgid "drop_7"
+msgstr "หินเวทโกเล็ม"
+
+msgctxt "item_description"
+msgid "drop_7"
+msgstr "หินเวทในตัวโกเล็ม อบอุ่นนิดๆ"
+
+# --- drop_8 ---
+msgctxt "item_name"
+msgid "drop_8"
+msgstr "หนังไวเวิร์น"
+
+msgctxt "item_description"
+msgid "drop_8"
+msgstr "หนังที่ได้จากไวเวิร์น ยืดหยุ่นและทนทาน"
+
+# --- drop_9 ---
+msgctxt "item_name"
+msgid "drop_9"
+msgstr "เกล็ดนากา"
+
+msgctxt "item_description"
+msgid "drop_9"
+msgstr "เกล็ดสีเขียวเข้มที่ได้จากนากา เหม็นจัง~"
+
+# --- drop_10 ---
+msgctxt "item_name"
+msgid "drop_10"
+msgstr "หนวดคราเคน"
+
+msgctxt "item_description"
+msgid "drop_10"
+msgstr "หนวดที่ตัดมาจากคราเคน ใหญ่มาก~"
+
+# --- drop_11 ---
+msgctxt "item_name"
+msgid "drop_11"
+msgstr "เกล็ดมังกรทอง"
+
+msgctxt "item_description"
+msgid "drop_11"
+msgstr "เกล็ดที่ได้จากโกลด์ดราก้อน วิบวับ~"
+
+# ===== Weapons =====
+
+# --- weapon_0 ---
+msgctxt "item_name"
+msgid "weapon_0"
+msgstr "ไม้พลอง"
+
+msgctxt "item_description"
+msgid "weapon_0"
+msgstr "แค่ไม้ธรรมดา"
+
+# --- weapon_1 ---
+msgctxt "item_name"
+msgid "weapon_1"
+msgstr "หอกสไลม์เจล"
+
+msgctxt "item_description"
+msgid "weapon_1"
+msgstr "หอกที่ทำจากเยลลี่สไลม์"
+
+msgctxt "item_hint"
+msgid "weapon_1"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_0}"
+
+# --- weapon_2 ---
+msgctxt "item_name"
+msgid "weapon_2"
+msgstr "มีดเขี้ยวก็อบลิน"
+
+msgctxt "item_description"
+msgid "weapon_2"
+msgstr "มีดสั้นที่ทำจากเขี้ยวก็อบลิน"
+
+msgctxt "item_hint"
+msgid "weapon_2"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_1}"
+
+# --- weapon_3 ---
+msgctxt "item_name"
+msgid "weapon_3"
+msgstr "มีดสั้นโครงกระดูก"
+
+msgctxt "item_description"
+msgid "weapon_3"
+msgstr "มีดสั้นที่ทำจากกระดูกโครงกระดูก"
+
+msgctxt "item_hint"
+msgid "weapon_3"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_2}"
+
+# --- weapon_4 ---
+msgctxt "item_name"
+msgid "weapon_4"
+msgstr "แส้อิมป์"
+
+msgctxt "item_description"
+msgid "weapon_4"
+msgstr "แส้ที่ทำจากหางอิมป์"
+
+msgctxt "item_hint"
+msgid "weapon_4"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_3}"
+
+# --- weapon_5 ---
+msgctxt "item_name"
+msgid "weapon_5"
+msgstr "กระบองออร์ค"
+
+msgctxt "item_description"
+msgid "weapon_5"
+msgstr "กระบองที่ทำจากกระดูกออร์ค"
+
+msgctxt "item_hint"
+msgid "weapon_5"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_4}"
+
+# --- weapon_6 ---
+msgctxt "item_name"
+msgid "weapon_6"
+msgstr "ดาบขนนก"
+
+msgctxt "item_description"
+msgid "weapon_6"
+msgstr "ดาบที่ทำจากขนนกฮาร์ปี้"
+
+msgctxt "item_hint"
+msgid "weapon_6"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_5}"
+
+# --- weapon_7 ---
+msgctxt "item_name"
+msgid "weapon_7"
+msgstr "ค้อนเขี้ยวโทรล"
+
+msgctxt "item_description"
+msgid "weapon_7"
+msgstr "ค้อนที่ทำจากเขี้ยวโทรล"
+
+msgctxt "item_hint"
+msgid "weapon_7"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_6}"
+
+# --- weapon_8 ---
+msgctxt "item_name"
+msgid "weapon_8"
+msgstr "ค้อนโกเล็ม"
+
+msgctxt "item_description"
+msgid "weapon_8"
+msgstr "ค้อนที่ทำจากหินเวทโกเล็ม"
+
+msgctxt "item_hint"
+msgid "weapon_8"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_7}"
+
+# --- weapon_9 ---
+msgctxt "item_name"
+msgid "weapon_9"
+msgstr "เรเปียร์ไวเวิร์น"
+
+msgctxt "item_description"
+msgid "weapon_9"
+msgstr "ดาบเรียวที่ทำจากหนังไวเวิร์น"
+
+msgctxt "item_hint"
+msgid "weapon_9"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_8}"
+
+# --- weapon_10 ---
+msgctxt "item_name"
+msgid "weapon_10"
+msgstr "หอกนากา"
+
+msgctxt "item_description"
+msgid "weapon_10"
+msgstr "หอกที่ทำจากเกล็ดนากา"
+
+msgctxt "item_hint"
+msgid "weapon_10"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_9}"
+
+# --- weapon_11 ---
+msgctxt "item_name"
+msgid "weapon_11"
+msgstr "กระบองคราเคน"
+
+msgctxt "item_description"
+msgid "weapon_11"
+msgstr "กระบองที่ทำจากหนวดคราเคน"
+
+msgctxt "item_hint"
+msgid "weapon_11"
+msgstr "ปลดล็อกเมื่อซื้อ {weapon_10}"
+
+
+# ===== Armors =====
+
+# --- armor_0 ---
+msgctxt "item_name"
+msgid "armor_0"
+msgstr "เกราะไม้"
+
+msgctxt "item_description"
+msgid "armor_0"
+msgstr "เกราะที่ทำจากไม้? มีแต่เสี้ยน..."
+
+# --- armor_1 ---
+msgctxt "item_name"
+msgid "armor_1"
+msgstr "เกราะสไลม์เจล"
+
+msgctxt "item_description"
+msgid "armor_1"
+msgstr "เกราะไม้ที่เอาสไลม์มาแปะเฉยๆ"
+
+msgctxt "item_hint"
+msgid "armor_1"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_0}"
+
+# --- armor_2 ---
+msgctxt "item_name"
+msgid "armor_2"
+msgstr "เกราะเขี้ยวก็อบลิน"
+
+msgctxt "item_description"
+msgid "armor_2"
+msgstr "เกราะที่ประดับด้วยเขี้ยวก็อบลิน"
+
+msgctxt "item_hint"
+msgid "armor_2"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_1}"
+
+# --- armor_3 ---
+msgctxt "item_name"
+msgid "armor_3"
+msgstr "เกราะโครงกระดูก"
+
+msgctxt "item_description"
+msgid "armor_3"
+msgstr "เกราะซี่โครงกระดูก โหวงเหวง"
+
+msgctxt "item_hint"
+msgid "armor_3"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_2}"
+
+# --- armor_4 ---
+msgctxt "item_name"
+msgid "armor_4"
+msgstr "เกราะอิมป์"
+
+msgctxt "item_description"
+msgid "armor_4"
+msgstr "เกราะล้ำยุคที่สร้างจากหางอิมป์ล้วนๆ"
+
+msgctxt "item_hint"
+msgid "armor_4"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_3}"
+
+# --- armor_5 ---
+msgctxt "item_name"
+msgid "armor_5"
+msgstr "เกราะกระดูกออร์ค"
+
+msgctxt "item_description"
+msgid "armor_5"
+msgstr "เกราะที่ทำจากกระดูกออร์ค"
+
+msgctxt "item_hint"
+msgid "armor_5"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_4}"
+
+# --- armor_6 ---
+msgctxt "item_name"
+msgid "armor_6"
+msgstr "เสื้อโค้ทฮาร์ปี้"
+
+msgctxt "item_description"
+msgid "armor_6"
+msgstr "เสื้อคลุมที่ทำจากขนนกฮาร์ปี้"
+
+msgctxt "item_hint"
+msgid "armor_6"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_5}"
+
+# --- armor_7 ---
+msgctxt "item_name"
+msgid "armor_7"
+msgstr "เกราะอกโทรล"
+
+msgctxt "item_description"
+msgid "armor_7"
+msgstr "เกราะหน้าอกที่ทำจากเขี้ยวโทรล"
+
+msgctxt "item_hint"
+msgid "armor_7"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_6}"
+
+# --- armor_8 ---
+msgctxt "item_name"
+msgid "armor_8"
+msgstr "เกราะโกเล็ม"
+
+msgctxt "item_description"
+msgid "armor_8"
+msgstr "เกราะที่ทำจากหินเวทโกเล็ม"
+
+msgctxt "item_hint"
+msgid "armor_8"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_7}"
+
+# --- armor_9 ---
+msgctxt "item_name"
+msgid "armor_9"
+msgstr "เกราะไวเวิร์น"
+
+msgctxt "item_description"
+msgid "armor_9"
+msgstr "เกราะที่ทำจากหนังไวเวิร์น"
+
+msgctxt "item_hint"
+msgid "armor_9"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_8}"
+
+# --- armor_10 ---
+msgctxt "item_name"
+msgid "armor_10"
+msgstr "เกราะนากา"
+
+msgctxt "item_description"
+msgid "armor_10"
+msgstr "เกราะที่ทำจากเกล็ดนากา"
+
+msgctxt "item_hint"
+msgid "armor_10"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_9}"
+
+# --- armor_11 ---
+msgctxt "item_name"
+msgid "armor_11"
+msgstr "เกราะคราเคน"
+
+msgctxt "item_description"
+msgid "armor_11"
+msgstr "เกราะที่ทำจากหนวดคราเคน"
+
+msgctxt "item_hint"
+msgid "armor_11"
+msgstr "ปลดล็อกเมื่อซื้อ {armor_10}"
+
+# ===== Magic Books =====
+
+# --- magic_0 ---
+msgctxt "item_name"
+msgid "magic_0"
+msgstr "สมุดเวทมนตร์แห่งการหลับใหล(ระดับต้น)"
+
+msgctxt "item_description"
+msgid "magic_0"
+msgstr "ลดแต้มศัตรู -1 ดูเหมือนว่าจะทำให้หลับได้..."
+
+# --- magic_1 ---
+msgctxt "item_name"
+msgid "magic_1"
+msgstr "สมุดเวทมนตร์แห่งการหลับใหล(ระดับกลาง)"
+
+msgctxt "item_description"
+msgid "magic_1"
+msgstr "ลดแต้มศัตรู -2 ดูเหมือนว่าจะทำเรื่องกล้าๆได้มากขึ้นนะ..."
+
+msgctxt "item_hint"
+msgid "magic_1"
+msgstr "ปลดล็อกเมื่อซื้อ {magic_0}"
+
+# --- magic_2 ---
+msgctxt "item_name"
+msgid "magic_2"
+msgstr "สมุดเวทมนตร์แห่งการหลับใหล(ระดับสูง)"
+
+msgctxt "item_description"
+msgid "magic_2"
+msgstr "ลดแต้มศัตรู -4 จะทำเรื่องที่กล้ามากๆได้"
+
+msgctxt "item_hint"
+msgid "magic_2"
+msgstr "ปลดล็อกเมื่อซื้อ {magic_1}"

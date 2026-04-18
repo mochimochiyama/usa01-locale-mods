@@ -1,0 +1,8 @@
+usa00:
+  目: close_smile
+
+usa00@rt: ว้าย〜♥
+usa00@lb: เชิญเลยค่า〜♥
+
+usa00:
+  目: normal

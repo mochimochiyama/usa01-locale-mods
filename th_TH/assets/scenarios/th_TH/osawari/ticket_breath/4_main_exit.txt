@@ -1,0 +1,86 @@
+
+usa00@rt:อ้า〜
+
+usa00:
+  口: う_指入れ待機
+
+usa00@lb: อือ〜♥
+
+usa00:
+  口: normal
+
+usa00@lb:จบแล้วค่า〜
+
+me:………
+
+usa00@rt:นี่〜
+
+usa00:
+  目: close_smile
+
+usa00@lb:เหมือนจะจับโดน〜? \n ตรงที่ไม่ใช่นะค้า〜?
+
+
+me: …
+
+usa00:
+  目: normal
+usa00@rt: แปรงฟันสะอาดไหมน้า〜？
+
+usa00@lb: ขยับเข้ามาใกล้อีกนิดสิค้า〜
+
+me: ครั๊บ…
+
+usa00:
+  camera_focus: face
+  口開け舌つかまれ: normal
+  口開け指状況: normal
+  口: 舌出し
+  舌: normal
+
+usa00@rt: อ้า〜♥
+
+me: ………
+
+usa00:
+  camera_focus: mouth
+  目: close_smile
+
+usa00@rt: ฮ้า〜♥♥
+
+…!!!!!!!!!!!!!!!!!!!!!!
+
+usa00:
+  舌: でてる0
+
+usa00@rt: ฮ้าาา〜♥♥
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+usa00:
+  目: normal
+  口: normal
+  camera_focus: face
+
+usa00@rt:เป็นยังไงบ้างค้า〜
+
+me: กลิ่นหอมสุดๆ ไปเลยครับ!!! น่าจะสะอาดยันซอกเลย!!!!
+
+usa00:
+  目: close_smile
+
+usa00@rt: ว้าย〜♥
+
+usa00:
+  目: normal
+
+usa00@lb: อัจฉริยะเลยมั้งเนี่ยค้า〜?
+
+me: ผมมันอัจฉริยะอยู่แล้วครับ!!!
+
+usa00:
+  camera_focus: normal
+
+…
+
+……

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "gallery_ticket_hand"
+msgstr "ตั๋วจับมือ"
+
+msgid "gallery_ticket_foot"
+msgstr "ตั๋วจับมือ (เท้า)"
+
+msgid "gallery_ticket_tail"
+msgstr "ตั๋วจับมือ (หาง)"
+
+msgid "gallery_ticket_breath"
+msgstr "ตั๋วจับมือ (ใบหน้า)"
+
+msgid "gallery_ticket_minuki_0"
+msgstr "ตั๋วขอดูหน่อย (ครั้งแรก)"
+
+msgid "gallery_ticket_minuki_1"
+msgstr "ตั๋วขอดูหน่อย (ครั้งที่ 2)"
+
+msgid "gallery_ticket_minuki_2"
+msgstr "ตั๋วขอดูหน่อย (ครั้งที่ 3)"
+
+msgid "gallery_ticket_minuki_3"
+msgstr "ตั๋วขอดูหน่อย (ครั้งที่ 4)"
+
+msgid "gallery_ticket_hand_hint"
+msgstr "คำใบ้: อีเวนต์ซื้อตั๋ว"
+
+msgid "gallery_ticket_foot_hint"
+msgstr "คำใบ้: อีเวนต์ซื้อตั๋ว"
+
+msgid "gallery_ticket_tail_hint"
+msgstr "คำใบ้: อีเวนต์ซื้อตั๋ว"
+
+msgid "gallery_ticket_breath_hint"
+msgstr "คำใบ้: อีเวนต์ซื้อตั๋ว"
+
+msgid "gallery_ticket_minuki_0_hint"
+msgstr "คำใบ้: อีเวนต์ขอร้องในห้อง (ครั้งที่ 1)"
+
+msgid "gallery_ticket_minuki_1_hint"
+msgstr "คำใบ้: อีเวนต์ขอร้องในห้อง (ครั้งที่ 2)"
+
+msgid "gallery_ticket_minuki_2_hint"
+msgstr "คำใบ้: อีเวนต์ขอร้องในห้อง (ครั้งที่ 3)"
+
+msgid "gallery_ticket_minuki_3_hint"
+msgstr "คำใบ้: อีเวนต์ขอร้องในห้อง (ครั้งที่ 4)"

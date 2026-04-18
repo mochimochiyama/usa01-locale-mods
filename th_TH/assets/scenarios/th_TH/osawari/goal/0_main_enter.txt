@@ -1,0 +1,24 @@
+usa00:
+  pose: normal
+  表情: weak
+  目: normal
+  口: normal
+  乳首_左: normal
+  乳首_右: normal
+
+me:…เอ่อ〜
+
+usa00@rt:[wave]ระ เร็วเข้าค้า[/wave]
+
+…ท่าทางดูแปลกๆ ไปแฮะ…
+
+usa00:
+  目: close_smile
+
+usa00@rt:[wave]ใส่เข้ามาเลยค้า ใส่เข้ามาค้า[/wave]
+
+…
+
+usa00:
+  目: normal
+  ちんこ: normal

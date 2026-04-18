@@ -1,0 +1,491 @@
+# VFX オノマトペ (osawari_toolkit/vfx/vfx_osawari_text.gd)
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# MOMI
+msgctxt "osawari_vfx"
+msgid "momi_0"
+msgstr "ขยำ"
+
+msgctxt "osawari_vfx"
+msgid "momi_1"
+msgstr "บีบ"
+
+msgctxt "osawari_vfx"
+msgid "momi_2"
+msgstr "ขยำ♥"
+
+# NADE
+msgctxt "osawari_vfx"
+msgid "nade_0"
+msgstr "ลูบ"
+
+msgctxt "osawari_vfx"
+msgid "nade_1"
+msgstr "ลูบ"
+
+msgctxt "osawari_vfx"
+msgid "nade_2"
+msgstr "ลูบ♥"
+
+msgctxt "osawari_vfx"
+msgid "nade_3"
+msgstr "♥"
+
+# SHIKO
+msgctxt "osawari_vfx"
+msgid "shiko_0"
+msgstr "รูด"
+
+msgctxt "osawari_vfx"
+msgid "shiko_1"
+msgstr "ชัก"
+
+msgctxt "osawari_vfx"
+msgid "shiko_2"
+msgstr "ถู"
+
+msgctxt "osawari_vfx"
+msgid "shiko_3"
+msgstr "รูด♥"
+
+# ZURASHI_PANTS
+msgctxt "osawari_vfx"
+msgid "zurashi_pants_0"
+msgstr "เลื่อน"
+
+msgctxt "osawari_vfx"
+msgid "zurashi_pants_1"
+msgstr "ร่น"
+
+# AKUSYU
+msgctxt "osawari_vfx"
+msgid "akusyu_0"
+msgstr "บีบ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_1"
+msgstr "จับ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_2"
+msgstr "กำ"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_3"
+msgstr "บีบแน่น"
+
+msgctxt "osawari_vfx"
+msgid "akusyu_4"
+msgstr "จับ♥"
+
+# SHIPPO
+msgctxt "osawari_vfx"
+msgid "shippo_0"
+msgstr "นุ่ม"
+
+msgctxt "osawari_vfx"
+msgid "shippo_1"
+msgstr "ฟู"
+
+msgctxt "osawari_vfx"
+msgid "shippo_2"
+msgstr "ฟุ่บ"
+
+msgctxt "osawari_vfx"
+msgid "shippo_3"
+msgstr "ฟูฟ่อง"
+
+# SHIPPO_HURI
+msgctxt "osawari_vfx"
+msgid "shippo_huri_0"
+msgstr "ขยับ"
+
+msgctxt "osawari_vfx"
+msgid "shippo_huri_1"
+msgstr "ส่าย♥"
+
+msgctxt "osawari_vfx"
+msgid "shippo_huri_2"
+msgstr "แกว่ง"
+
+# HOPPE_MUNI
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_0"
+msgstr "จิ้ม"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_1"
+msgstr "นิ่ม"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_2"
+msgstr "นิ่ม♥"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_3"
+msgstr "ยืด"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_4"
+msgstr "ดึง"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_muni_5"
+msgstr "บีบ"
+
+# HOPPE_HIPPARI
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_0"
+msgstr "ยืด"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_1"
+msgstr "หนึบ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_2"
+msgstr "ย้วย"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_3"
+msgstr "ตึง"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_4"
+msgstr "ปริ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_5"
+msgstr "ดึง"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_6"
+msgstr "ยืดด"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_7"
+msgstr "แผละ"
+
+msgctxt "osawari_vfx"
+msgid "hoppe_hippari_8"
+msgstr "ยาาง"
+
+# KUTI_YUBIIRE_PRESSED
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_0"
+msgstr "จ๊วบ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_1"
+msgstr "จู๊บ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_2"
+msgstr "จุ๊บ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_3"
+msgstr "แฉะ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_4"
+msgstr "จ๊วบด"
+
+msgctxt "osawari_vfx"
+msgid "kuti_yubiire_pressed_5"
+msgstr "ดูด"
+
+# KUTI_TIN_PRESSED
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_0"
+msgstr "ปุบ"
+
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_1"
+msgstr "สวบ♥"
+
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_2"
+msgstr "มุบ♥"
+
+msgctxt "osawari_vfx"
+msgid "kuti_tin_pressed_3"
+msgstr "บึบ"
+
+# MUWA
+msgctxt "osawari_vfx"
+msgid "muwa_0"
+msgstr "พรูด♥"
+
+msgctxt "osawari_vfx"
+msgid "muwa_1"
+msgstr "คลุ้ง♥"
+
+msgctxt "osawari_vfx"
+msgid "muwa_2"
+msgstr "พรูดด♥"
+
+# KOKAN_KARI
+msgctxt "osawari_vfx"
+msgid "kokan_kari_0"
+msgstr "ถู♥"
+
+msgctxt "osawari_vfx"
+msgid "kokan_kari_1"
+msgstr "ไถ♥"
+
+msgctxt "osawari_vfx"
+msgid "kokan_kari_2"
+msgstr "ถูไถ"
+
+# KISS
+msgctxt "osawari_vfx"
+msgid "kiss_0"
+msgstr "จุ๊บ"
+
+msgctxt "osawari_vfx"
+msgid "kiss_1"
+msgstr "จ๊วบ♥"
+
+# SAWARI_PITYA
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_0"
+msgstr "แฉะ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_1"
+msgstr "ฉับ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_2"
+msgstr "เฉอะ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pitya_3"
+msgstr "แฉะ♥"
+
+# SAWARI_PITO
+msgctxt "osawari_vfx"
+msgid "sawari_pito_0"
+msgstr "แปะ"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pito_1"
+msgstr "หนึบ♥"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pito_2"
+msgstr "แปะ♥"
+
+msgctxt "osawari_vfx"
+msgid "sawari_pito_3"
+msgstr "หนับ♥"
+
+# TINKO_SOUNYU_GU
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_gu_0"
+msgstr "สวบ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_gu_1"
+msgstr "สวบสวบ♥"
+
+# TINKO_SOUNYU_PRE
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_0"
+msgstr "จึ้ก"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_1"
+msgstr "จวบ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_2"
+msgstr "ปึบ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_3"
+msgstr "ปับ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_4"
+msgstr "บึบ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_5"
+msgstr "บวบ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_6"
+msgstr "นึบ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_7"
+msgstr "ปึบ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_pre_8"
+msgstr "จึบ"
+
+# TINKO_SOUNYU_POST
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_0"
+msgstr "ตับ"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_1"
+msgstr "ตับ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_2"
+msgstr "อึก♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_3"
+msgstr "ป้าบ♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_4"
+msgstr "♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_5"
+msgstr "♥"
+
+msgctxt "osawari_vfx"
+msgid "tinko_sounyu_post_6"
+msgstr "กร๊อบ♥"
+
+# KISS_DEEP
+msgctxt "osawari_vfx"
+msgid "kiss_deep_0"
+msgstr "จ๊วบ♥"
+
+msgctxt "osawari_vfx"
+msgid "kiss_deep_1"
+msgstr "แผล่บ♥"
+
+msgctxt "osawari_vfx"
+msgid "kiss_deep_2"
+msgstr "จู๊บ"
+
+msgctxt "osawari_vfx"
+msgid "kiss_deep_3"
+msgstr "จ๊วบบ"
+
+# MANKO_PUNI
+msgctxt "osawari_vfx"
+msgid "manko_puni_0"
+msgstr "นิ่ม"
+
+msgctxt "osawari_vfx"
+msgid "manko_puni_1"
+msgstr "นิ่ม♥"
+
+# TIKUBI_GYU
+msgctxt "osawari_vfx"
+msgid "tikubi_gyu_0"
+msgstr "บีบ"
+
+msgctxt "osawari_vfx"
+msgid "tikubi_gyu_1"
+msgstr "บีบ♥"
+
+# TINKO_SHIKO_HANA
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_0"
+msgstr "รูด"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_1"
+msgstr "ชัก"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_2"
+msgstr "รูด"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_3"
+msgstr "ฟุด…"
+
+msgctxt "osawari_vfx"
+msgid "tinko_shiko_hana_4"
+msgstr "ฟิด"
+
+# SEIEKI_TORO
+msgctxt "osawari_vfx"
+msgid "seieki_toro_0"
+msgstr "เยิ้ม♥"
+
+# SEIEKI_BYURU
+msgctxt "osawari_vfx"
+msgid "seieki_byuru_0"
+msgstr "ปรี๊ด♥"
+
+msgctxt "osawari_vfx"
+msgid "seieki_byuru_1"
+msgstr "พุ่ง♥"
+
+# ORGASM_PUSI
+msgctxt "osawari_vfx"
+msgid "orgasm_pusi_0"
+msgstr "ปริ๊ด♥"
+
+msgctxt "osawari_vfx"
+msgid "orgasm_pusi_1"
+msgstr "แฉะ♥"
+
+# KYAMI_GABA
+msgctxt "osawari_vfx"
+msgid "kyami_gaba_0"
+msgstr "ถลก♥"
+
+# SUMATA_PANTSU
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_0"
+msgstr "ฟึบ"
+
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_1"
+msgstr "ฟับ"
+
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_2"
+msgstr "ฟุบ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_pantsu_3"
+msgstr "ฟับ♥"
+
+# SUMATA_NAMA
+msgctxt "osawari_vfx"
+msgid "sumata_nama_0"
+msgstr "แฉะ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_1"
+msgstr "แจ๊ะ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_2"
+msgstr "จึ๊บ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_3"
+msgstr "แจะ♥"
+
+msgctxt "osawari_vfx"
+msgid "sumata_nama_4"
+msgstr "♥"
+
+# CLOTH_BUTTON
+msgctxt "osawari_vfx"
+msgid "cloth_button_0"
+msgstr "แป๊ะ"

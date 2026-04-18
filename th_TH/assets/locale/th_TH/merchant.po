@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: usa01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# === Merchant Speech (System) ===
+msgctxt "merchant_speech"
+msgid "locked"
+msgstr "...♥"
+
+msgctxt "merchant_speech"
+msgid "restock"
+msgstr "ของมาลงแล้วค่า〜"
+
+msgctxt "merchant_speech"
+msgid "purchase_thanks_0"
+msgstr "ขอบคุณที่อุดหนุนค่า〜♥"
+
+msgctxt "merchant_speech"
+msgid "purchase_thanks_1"
+msgstr "ขอบคุณที่มาอุดหนุนค้า〜"
+
+msgctxt "merchant_speech"
+msgid "purchase_thanks_2"
+msgstr "ขอบคุณค่า〜"
+
+msgctxt "merchant_speech"
+msgid "first_morning"
+msgstr "ทางนี้ค่า〜"
+
+msgctxt "merchant_speech"
+msgid "first_day_farewell"
+msgstr "พยายามเข้านะค้า〜♥"
+
+msgctxt "merchant_speech"
+msgid "greeting"
+msgstr "สวัสดีค่า〜"
+
+# === Merchant Chat (Shop Level) ===
+msgctxt "merchant_chat_shop"
+msgid "lv0_0"
+msgstr "แวะมาอีกแล้วเหรอค้า〜？"
+
+msgctxt "merchant_chat_shop"
+msgid "lv0_1"
+msgstr "กำลังจะไปทำเควสต์เหรอค้า〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv0_2"
+msgstr "มีสินค้าที่เหมาะกับคุณนักผจญภัยพอดีเลยค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv0_3"
+msgstr "ต้องทำความสะอาดแล้วสิค่า〜..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv0_4"
+msgstr "ของสำหรับมือใหม่ก็มีวางขายนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv0_5"
+msgstr "งบประมาณพอไหวไหมค้า〜？"
+
+msgctxt "merchant_chat_shop"
+msgid "lv1_0"
+msgstr "สินค้าเริ่มมีให้เลือกเยอะขึ้นทีละนิดแล้วค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv1_1"
+msgstr "ช่วยซื้ออุปกรณที่แพงกว่านี้หน่อยสิค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv1_2"
+msgstr "การใช้งานสำคัญนะค้า〜？ เลือกแค่หน้าตาเดี๋ยวจะเจ็บตัวเอาได้นะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv1_3"
+msgstr "ชั้นนี่ เมื่อวานก็เพิ่งจะเติมของไปไม่ใช่หรือไงนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv1_4"
+msgstr "เป็นพวกพอใจกับของถูกๆ เหรอค้า〜？"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_0"
+msgstr "ช่วงนี้เริ่มยุ่งแล้วสินะค้า〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_1"
+msgstr "อุปกรณ์ดูเข้าท่ากว่าแต่ก่อนแล้วนะค้า〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_2"
+msgstr "ได้เวลาอัปเกรดอุปกรณ์แล้วไหมค้า〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_3"
+msgstr "มาทุกวันเลยนะค้า〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_4"
+msgstr "เริ่มใช้อุปกรณ์พวกนั้นชินมือแล้วสินะค้า〜? ตอนแรกยังดูเก้ๆ กังๆ อยู่เลยค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_5"
+msgstr "เอ๊ะ〜 ฉันเปลี่ยนที่วางชั้นวางของหรือเปล่านะค้า〜..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_6"
+msgstr "อย่าฝืนเกินไปนะค้า〜 ขืนตายไปคงแย่แน่เลย〜ค่า"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_7"
+msgstr "ของที่น่าจะจำเป็นชิ้นต่อไป〜 คืออะไรกันนะค้า..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_8"
+msgstr "ของแถวๆ นี้บนชั้น ช่วงนี้หมดไวเหมือนกันนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv2_9"
+msgstr "ต้องสั่งเจ้านั่นมา แล้วก่อนหน้านั้นก็เจ้านี่สินะค้า〜..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_0"
+msgstr "เก่งกว่าที่คิดนะเนี่ยค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_1"
+msgstr "ป้ายราคากับของข้างใน ตรงกันไหมนะ...? เดี๋ยวค่อยเช็กก็แล้วกันค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_2"
+msgstr "ช่วงนี้ดูเคลื่อนไหวคล่องแคล่วเข้าท่าขึ้นแล้วนะค้า〜... หรือเปล่าคะ?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_3"
+msgstr "ตาถึงจังเลยนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_4"
+msgstr "ดีค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_5"
+msgstr "ช่วยเก็บกล่องตรงนั้นให้หน่อยสิค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_6"
+msgstr "เอ๋〜 เควสต์นั้น ปกติไม่มีใครไปกันหรอกนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv3_7"
+msgstr "ถ้าประมาท ระวังจะโดนเล่นงานทีเผลอนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_0"
+msgstr "สั่งของมา ไม่ได้ผิดใช่ไหมนะค้า〜？"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_1"
+msgstr "ใบสั่งของ... เอาไปวางไว้ไหนกันนะค้า..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_2"
+msgstr "ต้องคิดเรื่องจัดหาสินค้าบ้างแล้วสิค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_3"
+msgstr "หวัดดีค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_4"
+msgstr "โอ้〜 อุปกรณ์ชุดนั้นก็ดูเข้ากันดีนะค้า〜 อาจจะนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_5"
+msgstr "อ๊ะ ป้ายราคาเบี้ยวอยู่ค่า〜..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_6"
+msgstr "ใช้งานที่นี่บ่อยๆ〜 ช่วยได้เยอะเลยนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_7"
+msgstr "ของที่จะสั่งรอบหน้า เอาอะไรดีนะค้า〜...... เอาเป็นเจ้านี่ก็แล้วกันค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv4_8"
+msgstr "ไปทำเควสต์แบบนั้นมาเหรอค้า〜... น่าขนลุกค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_0"
+msgstr "สวัสดีค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_1"
+msgstr "ร้านเริ่มขายดีแล้วค่า〜♥"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_2"
+msgstr "คงไม่ต้องอธิบายอะไรแล้วสินะค้า〜 ซื้อเลยค่า〜♥"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_3"
+msgstr "ไปโค่นอะไรมาเหรอค้า... สุดยอดไปเลยค่า〜..."
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_4"
+msgstr "เผลอแป๊บเดียว ดูเป็นนักผจญภัยเต็มตัวแล้วนะค้าเนี่ย〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_5"
+msgstr "อย่าไปเควสต์ที่ดูอันตรายแบบนั้นสิค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_6"
+msgstr "หวัดดีค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_7"
+msgstr "คราวหน้ามาช่วยจัดห้องอีกนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_8"
+msgstr "เอ๋〜 จะอยู่พักต่ออีกหน่อยก็ได้นะค้า〜♥"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_9"
+msgstr "ช่วยซื้ออะไรหน่อยสิค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_10"
+msgstr "ช่วยจัดชั้นวางของตรงนั้นให้หน่อยค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_11"
+msgstr "เห็นว่าช่วงนี้มอนสเตอร์เริ่มลดลงแล้วนะค้า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_12"
+msgstr "วันนี้ชักจะไม่มีกะจิตกะใจทำอะไรแล้วสิค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_13"
+msgstr "ร้านนี้ เทียบกับตอนแรกๆ แล้ว ดูใหญ่ขึ้นเยอะเลยไหมค้า〜？"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_14"
+msgstr "อ๊ะ ตรงนั้นรกอยู่นะค้า ระวังด้วยค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_15"
+msgstr "แล้วเจอกันค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_16"
+msgstr "วันนี้ไม่ได้ทำอะไรเหรอค้า〜?"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_17"
+msgstr "อุปกรณ์ชุดนั้น ดูจนชินตาแล้วนะค้า ทั้งที่ตอนแรกดูขัดตาชะมัดเลยค่า〜"
+
+msgctxt "merchant_chat_shop"
+msgid "lv5_18"
+msgstr "กรุณานั่งรอตรงนั้นแป๊บนึงนะค้า〜"
+
+# === Merchant Chat (Quest Progress) ===
+msgctxt "merchant_chat_quest"
+msgid "0_0"
+msgstr "โค่น {enemy_0} ได้แล้วสินะค้า〜 ก้าวแรกเลยนะค่า〜"
+
+msgctxt "merchant_chat_quest"
+msgid "0_1"
+msgstr "ปลอดภัยก็ดีที่สุดแล้วล่ะค่า คุณนักผจญภัย ...เรื่องปกติเหรอค้า？"
+
+msgctxt "merchant_chat_quest"
+msgid "0_2"
+msgstr "ถึงคู่ต่อสู้จะเป็น {enemy_0} ก็ประมาทไม่ได้หรอกนะค้า〜"
+
+msgctxt "merchant_chat_quest"
+msgid "0_3"
+msgstr "แหม ก็ต้องเริ่มจาก {enemy_0} นั่นแหละค่า〜"
+
+msgctxt "merchant_chat_quest"
+msgid "1_0"
+msgstr "แหม ระดับคุณคงปราบ {enemy_1} ได้สบายๆ อยู่แล้วสินะค้า〜"
+
+msgctxt "merchant_chat_quest"
+msgid "1_1"
+msgstr "พวกที่มากันเยอะๆ นี่รับมือยากจังเลยนะค้า〜 อย่างพวก {enemy_1} อะไรแบบนั้น..."
+
+msgctxt "merchant_chat_quest"
+msgid "1_2"
+msgstr "ยังเร็วไปที่จะได้ใจนะค้า〜?"
+
+msgctxt "merchant_chat_quest"
+msgid "2_0"
+msgstr "พวก {enemy_2} น่ะ กระจอกจะตายไปค่า〜?"
+
+msgctxt "merchant_chat_quest"
+msgid "2_1"
+msgstr "รับมือกับ {enemy_2} ก็ยังไหวเหรอค้าเนี่ย？ โห〜"
+
+msgctxt "merchant_chat_quest"
+msgid "2_2"
+msgstr "หืม〜 เริ่มหาวัตถุดิบดีๆ มาได้เยอะแล้วสินะค้า"
+
+msgctxt "merchant_chat_quest"
+msgid "3_0"
+msgstr "{enemy_3} เหรอค้า? สบายๆ เลยสินะค้า〜?"
+
+msgctxt "merchant_chat_quest"
+msgid "3_1"
+msgstr "แหม... เริ่มชินกับการต่อสู้แล้วสินะค้า〜？"
+
+msgctxt "merchant_chat_quest"
+msgid "3_2"
+msgstr "รับเควสต์แบบนั้นด้วยเหรอค้าเนี่ย〜"
+
+msgctxt "merchant_chat_quest"
+msgid "4_0"
+msgstr "จัดการ {enemy_4} ได้แล้วเหรอค้า〜? สุดยอด〜"
+
+msgctxt "merchant_chat_quest"
+msgid "4_1"
+msgstr "เห็นว่า {enemy_4} เนี่ยอร่อยผิดคาดเลยนะค้า〜"
+
+msgctxt "merchant_chat_quest"
+msgid "5_0"
+msgstr "พวก {enemy_5} นี่น่ารำคาญจังเลยนะค้า〜"
+
+msgctxt "merchant_chat_quest"
+msgid "5_1"
+msgstr "รับมือกับพวกบนฟ้าได้แล้วเหรอค้า〜？"
+
+msgctxt "merchant_chat_quest"
+msgid "5_2"
+msgstr "วัตถุดิบจาก {enemy_5} นี่นา〜"
+
+msgctxt "merchant_chat_quest"
+msgid "6_0"
+msgstr "วัตถุดิบจาก {enemy_6} ค่า〜 ของแท้เหรอค้า〜？"
+
+msgctxt "merchant_chat_quest"
+msgid "6_1"
+msgstr "แบบนี้ก็แข็งแกร่งขึ้นไม่เบาเลยไม่ใช่เหรอค้า〜？"
+
+msgctxt "merchant_chat_quest"
+msgid "7_0"
+msgstr "{enemy_7} เหรอค้า〜 โหดไปไหมค้า〜？"
+
+msgctxt "merchant_chat_quest"
+msgid "7_1"
+msgstr "เจอกับ {enemy_7} ซึ่งๆ หน้าเลยเหรอค้า〜？ ตาบ๊องเอ๊ย〜♥"
+
+msgctxt "merchant_chat_quest"
+msgid "8_0"
+msgstr "ทั้งที่ {enemy_8} มันบินได้แท้ๆ นะค้า〜?"
+
+msgctxt "merchant_chat_quest"
+msgid "8_1"
+msgstr "วัตถุดิบแบบนี้ไม่มีประโยชน์หรอกค่า〜♥"
+
+msgctxt "merchant_chat_quest"
+msgid "9_0"
+msgstr "{enemy_9}... ไม่เคยได้ยินชื่อเลยค่า〜♥"
+
+msgctxt "merchant_chat_quest"
+msgid "9_1"
+msgstr "นี่มันวัตถุดิบอะไรกันค้าเนี่ย〜?"
+
+msgctxt "merchant_chat_quest"
+msgid "10_0"
+msgstr "ไอ้ตัวอย่าง {enemy_10} นี่มันจัดการได้ด้วยเหรอค้า〜?"
+
+msgctxt "merchant_chat_quest"
+msgid "10_1"
+msgstr "ไอ้นั่นน่ะ ไปโค่นมันเข้าจริงๆ จะดีเหรอค้า〜？"
+
+msgctxt "merchant_chat_quest"
+msgid "11_0"
+msgstr "{enemy_11} ค่า〜♥"

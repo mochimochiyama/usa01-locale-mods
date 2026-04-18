@@ -1,0 +1,53 @@
+usa00:
+  腕: normal
+  前腕: normal
+  パンツ: none
+  キャミ中: true
+  キャミ下: true
+  目: normal
+  口: normal
+  まんこ: normal
+
+me:เอ่อ〜…
+
+me:วันนี้ก็ขอกอดแน่นๆ จากข้างหลังแบบคราวก่อนได้ไหมครับ…
+
+usa00:
+  目: close_smile
+usa00@rt:เอ๋〜?♥
+
+usa00:
+  目: close_hun
+usa00@lb:อีกแล้วเหรอค้า〜♥
+
+
+usa00:
+  me構図: すまた
+
+…หมับ!
+
+usa00:
+  目: close_smile
+usa00@rt:เอาแต่ใจจังเลยค้า〜♥
+
+usa00:
+  目: normal
+usa00@lb:แบบนี้ มันจะล้ำเส้นไปหน่อยมั้ยค้า〜♥?
+
+
+usa00:
+  目: close_hun
+usa00@rt: อ๊าง♥
+
+……?
+
+
+
+usa00:
+  目: normal
+  すまた: normal
+
+
+…
+
+
