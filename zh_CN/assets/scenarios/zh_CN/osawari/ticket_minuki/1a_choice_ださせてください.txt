@@ -1,11 +1,9 @@
-
 usa00:
   目: close_smile
 
-usa00@rt:[wave]きゃ〜[/wave]
-usa00@lb:[wave]ぜんぜん話きいてな〜い[/wave]
+usa00@rt:[wave]哇~♥[/wave]
+usa00@lb:[wave]完全没在听人家说话呢~♥[/wave]
 
 usa00:
   目: normal
-usa00@rt: ちんちん出せ〜
-
+usa00@rt: 把肉棒掏出来吧~♥

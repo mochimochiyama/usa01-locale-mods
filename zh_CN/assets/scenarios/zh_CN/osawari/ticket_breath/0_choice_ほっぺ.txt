@@ -4,8 +4,8 @@
 usa00:
   目: close_smile
 
-usa00@rt: きゃ〜♥
-usa00@lb: どうぞ〜♥
+usa00@rt: 呀〜♥
+usa00@lb: 请用吧〜♥
 
 usa00:
   目: normal

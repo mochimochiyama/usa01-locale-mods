@@ -13,161 +13,161 @@ msgstr ""
 # ヒント本文 - Phase 1
 msgctxt "osawari_hint"
 msgid "goal_p1_operation"
-msgstr "・ちんちんを挿入する:ちんちんを上にドラッグ"
+msgstr "・插入：向上拖动肉棒"
 
 msgctxt "osawari_hint"
 msgid "goal_p1_hint"
-msgstr "・ちんちんを挿れよう!"
+msgstr "・把肉棒插进去吧！"
 
 # ヒント本文 - Phase 2
 msgctxt "osawari_hint"
 msgid "goal_p2_operation"
-msgstr "・ちんちんを動かす:ちんちんをクリック\n・乳首をつまむ:乳首をクリック"
+msgstr "・抽插：点击肉棒\n・揉捏乳头：点击乳头"
 
 msgctxt "osawari_hint"
 msgid "goal_p2_hint"
-msgstr "・限界まで射精しよう!!"
+msgstr "・射精到极限为止吧！！"
 
 # ヒント本文 - Phase 4 (イキあり)
 msgctxt "osawari_hint"
 msgid "goal_p4_iki_operation"
-msgstr "・キスをしながらちんちんで突く:舌をクリック"
+msgstr "・一边接吻一边抽插：点击舌头"
 
 msgctxt "osawari_hint"
 msgid "goal_p4_iki_hint"
-msgstr "・限界まで射精しよう!!"
+msgstr "・射精到极限为止吧！！"
 
 # バブル - SPEECH_ROUND_1
 msgctxt "osawari_bubble"
 msgid "goal_r1_t0_strong"
-msgstr "はっ… はっ…"
+msgstr "哈… 哈…"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t0_default"
-msgstr "もっと♥"
+msgstr "还要♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t1_strong"
-msgstr "はっ… はっ… はっ…"
+msgstr "哈… 哈… 哈…"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t1_middle"
-msgstr "そごっ♥ "
+msgstr "那里♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t1_default"
-msgstr "もっとこしふって♥ ふって♥"
+msgstr "再多扭扭腰♥ 扭扭♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t2_strong"
-msgstr "へっ♥へっ♥"
+msgstr "嘿♥ 嘿♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t2_middle"
-msgstr "あっ♥ あっ♥"
+msgstr "啊♥ 啊♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r1_t2_default"
-msgstr "あ〜♥\nなんかでっか〜♥"
+msgstr "啊～♥\n感觉好大～♥"
 
 # バブル - SPEECH_ROUND_2
 msgctxt "osawari_bubble"
 msgid "goal_r2_t0_strong"
-msgstr "はっ… はっ…"
+msgstr "哈… 哈…"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t0_default"
-msgstr "なんか〜べちゃべちゃ〜♥"
+msgstr "感觉～湿答答的～♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t1_strong"
-msgstr "そごっ♥ おぐぎもぢ♥"
+msgstr "那里♥ 顶到最深处了好舒服♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t1_middle"
-msgstr "もっと♥ がんばれ♥"
+msgstr "还要♥ 加油呀♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t1_default"
-msgstr "もっと♥ がんばれ♥"
+msgstr "还要♥ 加油呀♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t2_strong"
-msgstr "はっ… へっ♥ へっ♥\nだじでっ♥"
+msgstr "哈… 嘿♥ 嘿♥\n射出来♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t2_middle"
-msgstr "あっ♥ へっ♥"
+msgstr "啊♥ 嘿♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r2_t2_default"
-msgstr "あ〜♥\nまたおっきくなった♥"
+msgstr "啊～♥\n又变大了♥"
 
 # バブル - SPEECH_ROUND_3
 msgctxt "osawari_bubble"
 msgid "goal_r3_t0_strong"
-msgstr "はっ… はっ…"
+msgstr "哈… 哈…"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t0_default"
-msgstr "ふれっ♥ ふれっ♥"
+msgstr "加油♥ 加油♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t1_strong"
-msgstr "ぎもっ♥ おぐ♥\nぎもぢっ…"
+msgstr "舒服♥ 最深处♥\n好舒服…"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t1_middle"
-msgstr "そごっ♥ へっ♥"
+msgstr "那里♥ 嘿♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t1_default"
-msgstr "もっとこしふれ♥ ふれっ♥"
+msgstr "再多扭扭腰♥ 动一动♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t2_strong"
-msgstr "なが いぎっ… ぐ♥"
+msgstr "里面 要去了… 唔♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t2_middle"
-msgstr "へっ♥ だせっ♥\nいっぱいだせっ♥"
+msgstr "嘿♥ 射吧♥\n全部射出来♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_r3_t2_default"
-msgstr "出せっ♥ 出せっ♥"
+msgstr "射出来♥ 射出来♥"
 
 # バブル - SPEECH_FINAL (イキなし)
 msgctxt "osawari_bubble"
 msgid "goal_final_t0_strong"
-msgstr "はっ… はっ…"
+msgstr "哈… 哈…"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t0_default"
-msgstr "ふれっ♥ ふれっ♥"
+msgstr "加油♥ 加油♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t1_strong"
-msgstr "ぎもっ♥ おぐ♥\nぎもぢっ…"
+msgstr "舒服♥ 深处♥\n好舒服…"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t1_middle"
-msgstr "そごっ♥ へっ♥"
+msgstr "那里♥ 嘿♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t1_default"
-msgstr "もっとこしふれ♥ ふれっ♥"
+msgstr "再多扭扭腰♥ 动一动♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t2_strong"
-msgstr "なが いぎっ… ぐ♥"
+msgstr "里面 要去了… 唔♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t2_middle"
-msgstr "へっ♥ だせっ♥\nいっぱいだせっ♥"
+msgstr "嘿♥ 射出来♥\n全都射出来吧♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t2_default"
-msgstr "出せっ♥ 出せっ♥ さいごっ♥"
+msgstr "射出来♥ 射出来♥ 最后一发♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_t3_default"
@@ -176,85 +176,85 @@ msgstr "[shake]♥♥♥♥♥♥♥♥♥[/shake]"
 # バブル - SPEECH_FINAL_IKI (イキあり)
 msgctxt "osawari_bubble"
 msgid "goal_final_iki_t0"
-msgstr "ちゅぃ♥ こぇちゅい♥"
+msgstr "啾呜♥ 深深地接吻♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_iki_t1"
-msgstr "ぇ♥ ぁえっ♥ ちゅき♥"
+msgstr "诶♥ 啊呃♥ 喜欢♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_iki_t2"
-msgstr "ぇっ♥ぇあ♥ "
+msgstr "呃♥ 呃啊♥ "
 
 msgctxt "osawari_bubble"
 msgid "goal_final_iki_t3"
-msgstr "ちゅき♥ ちゅきっ♥"
+msgstr "最喜欢了♥ 喜欢♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_final_iki_t4"
-msgstr "だちぇっ♥ だちぇっ♥"
+msgstr "射出类♥ 射出类♥"
 
 # バブル - NIPPLE_SPEECH (乳首)
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c1_strong"
-msgstr "ぇあ!?"
+msgstr "诶啊！？"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c1_default"
-msgstr "っにゃ♥"
+msgstr "嗯呀♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c10_strong"
-msgstr "ち、ちぐびすき…"
+msgstr "最、最喜欢摸乳头了…"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c10_middle"
-msgstr "あっ♥ ちくび♥"
+msgstr "啊♥ 乳头♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c10_default"
-msgstr "あっ♥ あっ♥"
+msgstr "啊♥ 啊♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c50_strong"
-msgstr "ぢぐ、ちぐびしゅき…"
+msgstr "奶、奶头好舒服…"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c50_middle"
-msgstr "ちぐびっ♥ すきっ♥"
+msgstr "乳头♥ 喜欢♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_nipple_c100_strong"
-msgstr "ぢぐ、ちぐびゆるじて…"
+msgstr "奶、奶头要坏掉了，饶了我吧…"
 
 # バブル - SPEECH_ORGASM (オーガズム)
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_0_chest"
-msgstr "ぢぐびいグ♥♥"
+msgstr "乳头要去了♥♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_0_default"
-msgstr "[shake]ぁあ゛♥♥♥♥[/shake]"
+msgstr "[shake]啊啊啊♥♥♥♥[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_1_chest"
-msgstr "ぢぐびいぎゅ♥♥"
+msgstr "乳头要丢了♥♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_1_default"
-msgstr "[shake]いぐ♥♥♥[/shake]"
+msgstr "[shake]要去了♥♥♥[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_2"
-msgstr "[shake]ィぐ♥♥♥♥♥♥♥[/shake]"
+msgstr "[shake]要、要去了♥♥♥♥♥♥♥[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_3"
-msgstr "[shake]…ぐっ ゅるじで♥♥♥♥♥♥[/shake]"
+msgstr "[shake]…唔 饶了我吧♥♥♥♥♥♥[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_4"
-msgstr "[shake]ぐ♥♥♥♥[/shake]"
+msgstr "[shake]咕♥♥♥♥[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_5"
@@ -262,7 +262,7 @@ msgstr "[shake]♥♥♥[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_6"
-msgstr "[shake]…♥♥!?[/shake]"
+msgstr "[shake]…♥♥！？[/shake]"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_fallback"

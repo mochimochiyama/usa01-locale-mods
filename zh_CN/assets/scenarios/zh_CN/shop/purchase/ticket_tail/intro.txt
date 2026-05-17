@@ -1,4 +1,3 @@
-
 bg: shop
 
 ...
@@ -10,5 +9,4 @@ bg: shop
 usa00:
   posure: front
 
-
-usa00@rt:[wave]あ♥[/wave]\nやっぱり興味あった〜
+usa00@rt:[wave]啊♥[/wave]\n果然还是有兴趣的呀~

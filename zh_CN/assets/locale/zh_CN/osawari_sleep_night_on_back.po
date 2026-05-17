@@ -13,16 +13,16 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_beginner"
-msgstr "・頭を撫でる\n・布団をずらす\n・服をずらす(ドラッグ)\n・ちゅ\n・顔見抜き♥\n・ちんかぎ見抜き♥"
+msgstr "・抚摸头部\n・移开被子\n・拨开衣服(拖动)\n・亲亲\n・脸部欣赏♥\n・闻肉棒欣赏♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_intermediate"
-msgstr "・下着(胸/パンツ)をずらす(ドラッグ)\n・乳首すりすり(クリック)\n・乳首ぎゅ(ドラッグ)\n・乳首見抜き♥\n・クリいじめ"
+msgstr "・拨开内衣(胸部/内裤)(拖动)\n・摩擦乳头(点击)\n・紧捏乳头(拖动)\n・乳头欣赏♥\n・玩弄阴蒂"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_advanced"
-msgstr "・服を脱がす(ドラッグ)\n・ディープキス(ドラッグ)\n・脚を開く(パンツを脱がして脚をドラッグ)\n・まんぷに(クリック)\n・まん指入れ(ドラッグ)\n・おなか見抜き♥\n・えっち♥"
+msgstr "・脱掉衣服(拖动)\n・深吻(拖动)\n・掰开双腿(脱掉内裤后拖动腿部)\n・揉捏阴部(点击)\n・手指插入(拖动)\n・腹部欣赏♥\n・做爱♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_operation"
-msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"
+msgstr "点击目标部位，或通过拖动进行操作。\n肉棒：通过拖动可以指派到目标部位(♥)。点击已指派状态的肉棒即可进行操作。"

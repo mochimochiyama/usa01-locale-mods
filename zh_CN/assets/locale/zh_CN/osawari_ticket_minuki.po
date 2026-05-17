@@ -13,64 +13,64 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "ticket_minuki_operation"
-msgstr "・ちんちんを触る:ちんちんをクリック"
+msgstr "・撸动肉棒：点击肉棒"
 
 msgctxt "osawari_hint"
 msgid "ticket_minuki_hint"
-msgstr "・ちんちんを触って、見抜きしよう!"
+msgstr "・撸动肉棒，开始福利自慰吧！"
 
 # バブル - Erection ヒント (ERECTION_HINTS)
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_kyaa"
-msgstr "[wave]きゃ〜♥[/wave]"
+msgstr "[wave]呀啊～♥[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_fun"
-msgstr "そんなふうにやるんだ〜♥"
+msgstr "原来是这样弄的呀～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_okiku"
-msgstr "なんかおっきくなってきた〜?"
+msgstr "感觉好像变大了～？"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_kunkun"
-msgstr "くんくん…"
+msgstr "闻闻……"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_hen"
-msgstr "へんなにおい〜♥"
+msgstr "怪怪的味道～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_kucha"
-msgstr "くちゃ くちゃい♥"
+msgstr "臭，臭臭的♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_erection_deru"
-msgstr "でる?♥ でる?♥"
+msgstr "要出来了吗？♥ 要出来了吗？♥"
 
 # バブル - インライン呼び出し
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_gaman_miru"
-msgstr "みるだけでいいの〜?"
+msgstr "只是看看就可以了吗～？"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_gaman_gamman"
-msgstr "なんか我慢してますか~?"
+msgstr "是在忍耐着什么吗～？"
 
 # バブル - Phase 2 シコカウント
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_atsui"
-msgstr "なんかあついな〜♥"
+msgstr "感觉好烫呀～♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_chira"
-msgstr "ちら〜♥"
+msgstr "偷瞄～♥"
 
 # 選択肢
 msgctxt "osawari_choice"
 msgid "ticket_minuki_p1_dasasete"
-msgstr "ﾁﾝﾁﾝださせてください!"
+msgstr "请让我把肉棒掏出来！"
 
 msgctxt "osawari_choice"
 msgid "ticket_minuki_p1b_ochin"
-msgstr "ちんちんを出す"
+msgstr "掏出肉棒"

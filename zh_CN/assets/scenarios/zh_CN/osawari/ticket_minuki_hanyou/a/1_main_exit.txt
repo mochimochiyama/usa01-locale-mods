@@ -1,10 +1,9 @@
-
 usa00:
   ちんこ: しこ0
   目: close_smile
 
-usa00@rt:[wave]きゃ〜♥[/wave]
-usa00@lb:[wave]でた〜♥[/wave]
+usa00@rt:[wave]哇~♥[/wave]
+usa00@lb:[wave]出来了~♥[/wave]
 
 
 usa00:
@@ -12,12 +11,12 @@ usa00:
   目: normal
 
 
-usa00@lb:[wave]あっつーい♥[/wave]
-usa00@rt:すごいにおい〜♥
+usa00@lb:[wave]好热哦~♥[/wave]
+usa00@rt:好浓的味道~♥
 
 …
 
-usa00@lb:なんか〜 見られてた〜 ような〜♥
+usa00@lb:总觉得~ 好像被~ 盯着看了~♥
 
 ……
 

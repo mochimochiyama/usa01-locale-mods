@@ -9,27 +9,27 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-# --- Time Periods ---
+# --- Time Periods (时间段) ---
 
 msgid "TIME_MORNING"
-msgstr "朝"
+msgstr "早晨"
 
 msgid "TIME_AFTERNOON"
-msgstr "昼"
+msgstr "白天"
 
 msgid "TIME_NIGHT"
-msgstr "夜"
+msgstr "夜晚"
 
-# --- Format Strings ---
+# --- Format Strings (格式化字符串) ---
 
 msgid "FMT_DAY_PERIOD"
-msgstr "%02d日目 %s"
+msgstr "第 %02d 天 %s"
 
 msgid "TIME_JUST_NOW"
-msgstr "いま"
+msgstr "刚刚"
 
 msgid "FMT_MINUTES_AGO"
-msgstr "%d分前"
+msgstr "%d 分钟前"
 
 msgid "FMT_HOURS_AGO"
-msgstr "%d時間前"
+msgstr "%d 小时前"

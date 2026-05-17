@@ -1,27 +1,26 @@
-
 usa00:
   目: close_smile
 
-usa00@rt:[wave]きゃ〜[/wave]
-usa00@lb: ヒトのちんちん初めてみた〜
+usa00@rt:[wave]哇~♥[/wave]
+usa00@lb: 第一次见到人类的肉棒呢~♥
 
 me: …
 
 usa00:
   目: normal
-usa00@rt: これっておっきい〜?
+usa00@rt: 这个算大的吗~?
 
-me: …ﾄﾞｳｯｽｶﾈ…
+me: …您觉得呢……
 
 usa00:
   目: close_smile
-usa00@rt: なんかおイモみたい〜
+usa00@rt: 感觉好像地瓜一样~
 
-me: あまりちんちんの話しないでｸﾀﾞｻｲ…
+me: 请不要一直聊肉棒的话题啦……
 
 usa00:
   目: close_hun
-usa00@rt:え〜?
+usa00@rt:诶~?
 
 usa00:
   目: normal

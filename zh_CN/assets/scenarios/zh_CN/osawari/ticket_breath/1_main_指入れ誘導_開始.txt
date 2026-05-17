@@ -1,41 +1,40 @@
 
-
 usa00:
   目: close_smile
 
-usa00@rt:おしまい〜
+usa00@rt: 结束啦〜
 
 usa00:
   目: normal
 
-usa00@lb:どうでしたか〜?
-usa00@rt:実はちょっと自信あった〜
+usa00@lb: 感觉怎么样呀〜?
+usa00@rt: 其实我刚才还挺有自信的〜
 
-me:すごい、 スゴイ柔らかかったです!
-me:モチでした！
-
-usa00:
-  目: close_smile
-
-usa00@rt: やった〜♥
-
-usa00:
-  目: normal
-
-usa00@lb: もち〜?
-
-me:「ｱﾉ…」
-
-usa00:
-  目: normal
-usa00@rt: あの〜?
-usa00@lb: なにか〜\n思ってることがあったり〜
-
-me:「や...」
-
-何も思ってないぞ!
+me: 厉害，真的超级软！
+me: 简直就像年糕一样！
 
 usa00:
   目: close_smile
 
-usa00@rt:「ほっぺって♥ 普通じゃん♥」
+usa00@rt: 太好啦〜♥
+
+usa00:
+  目: normal
+
+usa00@lb: 年糕〜?
+
+me:「那个……」
+
+usa00:
+  目: normal
+usa00@rt: 那个〜?
+usa00@lb: 是不是〜\n在想些什么事情呀〜
+
+me:「没……」
+
+我可什么都没想喔！
+
+usa00:
+  目: close_smile
+
+usa00@rt:「脸颊什么的♥ 很普通嘛♥」

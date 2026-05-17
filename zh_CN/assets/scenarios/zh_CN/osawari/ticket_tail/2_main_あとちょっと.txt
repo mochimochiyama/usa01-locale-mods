@@ -1,21 +1,20 @@
-
 usa00:
   camera_focus: default
   尻尾: normal
 
-usa00@rt:[wave]あ〜♥[/wave]
+usa00@rt:[wave]啊~♥[/wave]
 
-ﾜｯ! この服、 ここ穴あいてんだ…!!
+哇！这件衣服，这里竟然有个洞……！！
 
-なんか、 エッチかも!!!!!!!!!!!
+总觉得，好色哦！！！！！
 
-usa00@rt: あとちょっと〜♥
-usa00@rt:そこ、持ち上げちゃって〜
+usa00@rt: 再加把劲~♥
+usa00@rt:那里，直接拎起来~
 
-me: ｽﾞﾎﾞｯ ってやっちゃってｲｲﾉ???????
+me: 直接“噗哧”一下塞进去也行吗？？？？？？？
 
-usa00@rt: [wave]ずぼ〜って♥[/wave]
-usa00@lb: がんばれ〜
+usa00@rt: [wave]噗哧~地弄进来♥[/wave]
+usa00@lb: 加油哦~
 
 usa00:
   camera_focus: hip

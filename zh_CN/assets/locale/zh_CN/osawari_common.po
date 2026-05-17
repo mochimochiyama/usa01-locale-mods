@@ -25,16 +25,16 @@ msgstr "操作2"
 
 msgctxt "osawari_hint_tab"
 msgid "hint"
-msgstr "ヒント"
+msgstr "提示"
 
 msgctxt "osawari_hint_tab"
 msgid "beginner"
-msgstr "初級"
+msgstr "初级"
 
 msgctxt "osawari_hint_tab"
 msgid "intermediate"
-msgstr "中級"
+msgstr "中级"
 
 msgctxt "osawari_hint_tab"
 msgid "advanced"
-msgstr "上級"
+msgstr "高级"

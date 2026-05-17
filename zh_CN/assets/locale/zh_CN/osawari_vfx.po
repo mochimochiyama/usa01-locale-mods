@@ -10,348 +10,348 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-# MOMI
+# MOMI (揉捏)
 msgctxt "osawari_vfx"
 msgid "momi_0"
-msgstr "もみ"
+msgstr "揉揉"
 
 msgctxt "osawari_vfx"
 msgid "momi_1"
-msgstr "むに"
+msgstr "软绵"
 
 msgctxt "osawari_vfx"
 msgid "momi_2"
-msgstr "もみ♥"
+msgstr "揉捏♥"
 
-# NADE
+# NADE (抚摸)
 msgctxt "osawari_vfx"
 msgid "nade_0"
-msgstr "なで"
+msgstr "抚摸"
 
 msgctxt "osawari_vfx"
 msgid "nade_1"
-msgstr "なで"
+msgstr "摸摸"
 
 msgctxt "osawari_vfx"
 msgid "nade_2"
-msgstr "なで♥"
+msgstr "摸摸♥"
 
 msgctxt "osawari_vfx"
 msgid "nade_3"
 msgstr "♥"
 
-# SHIKO
+# SHIKO (撸动)
 msgctxt "osawari_vfx"
 msgid "shiko_0"
-msgstr "しこ"
+msgstr "撸动"
 
 msgctxt "osawari_vfx"
 msgid "shiko_1"
-msgstr "くちゅ"
+msgstr "咕啾"
 
 msgctxt "osawari_vfx"
 msgid "shiko_2"
-msgstr "ちゅこ"
+msgstr "啾噜"
 
 msgctxt "osawari_vfx"
 msgid "shiko_3"
-msgstr "ちゃっ♥"
+msgstr "啪呲♥"
 
-# ZURASHI_PANTS
+# ZURASHI_PANTS (拨开内裤)
 msgctxt "osawari_vfx"
 msgid "zurashi_pants_0"
-msgstr "ずっ"
+msgstr "嘶"
 
 msgctxt "osawari_vfx"
 msgid "zurashi_pants_1"
-msgstr "ずりっ"
+msgstr "滑下"
 
-# AKUSYU
+# AKUSYU (握手)
 msgctxt "osawari_vfx"
 msgid "akusyu_0"
-msgstr "ぎゅっ"
+msgstr "紧握"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_1"
-msgstr "にぎっ"
+msgstr "攥住"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_2"
-msgstr "にぎ"
+msgstr "握"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_3"
-msgstr "ぎゅ"
+msgstr "紧"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_4"
-msgstr "にぎゅ♥"
+msgstr "捏住♥"
 
-# SHIPPO
+# SHIPPO (尾巴)
 msgctxt "osawari_vfx"
 msgid "shippo_0"
-msgstr "もふっ"
+msgstr "毛绒"
 
 msgctxt "osawari_vfx"
 msgid "shippo_1"
-msgstr "ぎゅっ"
+msgstr "攥"
 
 msgctxt "osawari_vfx"
 msgid "shippo_2"
-msgstr "ふあっ"
+msgstr "呼诶"
 
 msgctxt "osawari_vfx"
 msgid "shippo_3"
-msgstr "ふわっ"
+msgstr "轻飘"
 
-# SHIPPO_HURI
+# SHIPPO_HURI (摇尾巴)
 msgctxt "osawari_vfx"
 msgid "shippo_huri_0"
-msgstr "ふり"
+msgstr "摇摇"
 
 msgctxt "osawari_vfx"
 msgid "shippo_huri_1"
-msgstr "ふり♥"
+msgstr "摆动♥"
 
 msgctxt "osawari_vfx"
 msgid "shippo_huri_2"
-msgstr "ぷり"
+msgstr "晃动"
 
-# HOPPE_MUNI
+# HOPPE_MUNI (揉脸颊)
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_0"
-msgstr "むに"
+msgstr "软乎"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_1"
-msgstr "むみ"
+msgstr "软软"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_2"
-msgstr "むに♥"
+msgstr "捏捏♥"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_3"
-msgstr "むにゅ"
+msgstr "捏"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_4"
-msgstr "み"
+msgstr "咪"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_5"
-msgstr "む"
+msgstr "唔"
 
-# HOPPE_HIPPARI
+# HOPPE_HIPPARI (拉脸颊)
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_0"
-msgstr "むぎゅ"
+msgstr "扯"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_1"
-msgstr "むみ"
+msgstr "软"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_2"
-msgstr "む"
+msgstr "唔"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_3"
-msgstr "にゅ"
+msgstr "扭"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_4"
-msgstr "みゅ"
+msgstr "缪"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_5"
-msgstr "みぃ"
+msgstr "唔咦"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_6"
-msgstr "もち"
+msgstr "糯"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_7"
-msgstr "にゃ"
+msgstr "喵"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_8"
-msgstr "むにぃ"
+msgstr "软叽"
 
-# KUTI_YUBIIRE_PRESSED
+# KUTI_YUBIIRE_PRESSED (手指入口)
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_0"
-msgstr "ちま"
+msgstr "唔"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_1"
-msgstr "ちゃ"
+msgstr "哈"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_2"
-msgstr "ぽっ"
+msgstr "啵"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_3"
-msgstr "ちゅ"
+msgstr "啾"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_4"
-msgstr "にち"
+msgstr "滋"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_5"
-msgstr "むちゃ"
+msgstr "呜滋"
 
-# KUTI_TIN_PRESSED
+# KUTI_TIN_PRESSED (肉棒入口)
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_0"
-msgstr "ぬぽっ"
+msgstr "噗哈"
 
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_1"
-msgstr "ぬちゅ♥"
+msgstr "唔滋♥"
 
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_2"
-msgstr "にゅ♥"
+msgstr "唔♥"
 
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_3"
-msgstr "のぽ"
+msgstr "噗"
 
-# MUWA
+# MUWA (热气/气味)
 msgctxt "osawari_vfx"
 msgid "muwa_0"
-msgstr "むわっ♥"
+msgstr "热烘烘♥"
 
 msgctxt "osawari_vfx"
 msgid "muwa_1"
-msgstr "むわ♥"
+msgstr "气味♥"
 
 msgctxt "osawari_vfx"
 msgid "muwa_2"
-msgstr "むわぁ♥"
+msgstr "烘热♥"
 
-# KOKAN_KARI
+# KOKAN_KARI (股间摩擦)
 msgctxt "osawari_vfx"
 msgid "kokan_kari_0"
-msgstr "かり♥"
+msgstr "摩擦♥"
 
 msgctxt "osawari_vfx"
 msgid "kokan_kari_1"
-msgstr "すり♥"
+msgstr "蹭蹭♥"
 
 msgctxt "osawari_vfx"
 msgid "kokan_kari_2"
-msgstr "すり"
+msgstr "磨"
 
-# KISS
+# KISS (接吻)
 msgctxt "osawari_vfx"
 msgid "kiss_0"
-msgstr "ちゅっ"
+msgstr "啾"
 
 msgctxt "osawari_vfx"
 msgid "kiss_1"
-msgstr "ちゅ♥"
+msgstr "啵♥"
 
-# SAWARI_PITYA
+# SAWARI_PITYA (湿漉的触碰)
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_0"
-msgstr "ぴちゃ"
+msgstr "啪嗒"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_1"
-msgstr "ちゃ"
+msgstr "滋"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_2"
-msgstr "ぺちゃ"
+msgstr "吧唧"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_3"
-msgstr "ちゃ♥"
+msgstr "滋♥"
 
-# SAWARI_PITO
+# SAWARI_PITO (紧贴的触碰)
 msgctxt "osawari_vfx"
 msgid "sawari_pito_0"
-msgstr "ぴと"
+msgstr "贴住"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pito_1"
-msgstr "ぴた♥"
+msgstr "吸附♥"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pito_2"
-msgstr "ぴと♥"
+msgstr "贴贴♥"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pito_3"
-msgstr "ぴた♥"
+msgstr "粘住♥"
 
-# TINKO_SOUNYU_GU
+# TINKO_SOUNYU_GU (插入用力)
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_gu_0"
-msgstr "ぐっ♥"
+msgstr "顶入♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_gu_1"
-msgstr "ぐぐっ♥"
+msgstr "用力♥"
 
-# TINKO_SOUNYU_PRE
+# TINKO_SOUNYU_PRE (插入前奏)
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_0"
-msgstr "ちゃ"
+msgstr "啪"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_1"
-msgstr "ちゅ"
+msgstr "啾"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_2"
-msgstr "ぱ"
+msgstr "哈"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_3"
-msgstr "ぱっ"
+msgstr "啪呲"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_4"
-msgstr "ぶっ"
+msgstr "噗呲"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_5"
-msgstr "ぼ"
+msgstr "波"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_6"
-msgstr "にゅ"
+msgstr "挤入"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_7"
-msgstr "ぱ"
+msgstr "啪"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_8"
-msgstr "ちゃ"
+msgstr "滋"
 
-# TINKO_SOUNYU_POST
+# TINKO_SOUNYU_POST (插入后)
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_0"
-msgstr "ごっ"
+msgstr "撞击"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_1"
-msgstr "ぐっ♥"
+msgstr "沉入♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_2"
-msgstr "っ♥"
+msgstr "唔♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_3"
-msgstr "ぢゅ♥"
+msgstr "滋溜♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_4"
@@ -363,131 +363,131 @@ msgstr "♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_6"
-msgstr "ご♥"
+msgstr "顶♥"
 
-# KISS_DEEP
+# KISS_DEEP (深吻)
 msgctxt "osawari_vfx"
 msgid "kiss_deep_0"
-msgstr "ぢゅ♥"
+msgstr "滋♥"
 
 msgctxt "osawari_vfx"
 msgid "kiss_deep_1"
-msgstr "ぢゅる♥"
+msgstr "滋溜♥"
 
 msgctxt "osawari_vfx"
 msgid "kiss_deep_2"
-msgstr "じゅ"
+msgstr "吮"
 
 msgctxt "osawari_vfx"
 msgid "kiss_deep_3"
-msgstr "じゅっ"
+msgstr "吮吸"
 
-# MANKO_PUNI
+# MANKO_PUNI (揉捏私处)
 msgctxt "osawari_vfx"
 msgid "manko_puni_0"
-msgstr "ぷに"
+msgstr "揉捏"
 
 msgctxt "osawari_vfx"
 msgid "manko_puni_1"
-msgstr "ぷに♥"
+msgstr "软乎♥"
 
-# TIKUBI_GYU
+# TIKUBI_GYU (拧捏乳头)
 msgctxt "osawari_vfx"
 msgid "tikubi_gyu_0"
-msgstr "ぎゅ"
+msgstr "拧"
 
 msgctxt "osawari_vfx"
 msgid "tikubi_gyu_1"
-msgstr "ぎゅっ♥"
+msgstr "揪住♥"
 
-# TINKO_SHIKO_HANA
+# TINKO_SHIKO_HANA (闻着撸)
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_0"
-msgstr "しこ"
+msgstr "撸"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_1"
-msgstr "くちゅ"
+msgstr "咕啾"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_2"
-msgstr "ちゅこ"
+msgstr "啾噜"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_3"
-msgstr "くん…"
+msgstr "闻闻……"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_4"
-msgstr "くん"
+msgstr "闻"
 
-# SEIEKI_TORO
+# SEIEKI_TORO (精液滴落)
 msgctxt "osawari_vfx"
 msgid "seieki_toro_0"
-msgstr "とろっ♥"
+msgstr "滴落♥"
 
-# SEIEKI_BYURU
+# SEIEKI_BYURU (精液喷发)
 msgctxt "osawari_vfx"
 msgid "seieki_byuru_0"
-msgstr "びゅっ♥"
+msgstr "射♥"
 
 msgctxt "osawari_vfx"
 msgid "seieki_byuru_1"
-msgstr "びゅるっ♥"
+msgstr "滋溜♥"
 
-# ORGASM_PUSI
+# ORGASM_PUSI (高潮喷射)
 msgctxt "osawari_vfx"
 msgid "orgasm_pusi_0"
-msgstr "ぷしっ♥"
+msgstr "噗呲♥"
 
 msgctxt "osawari_vfx"
 msgid "orgasm_pusi_1"
-msgstr "ぷしゃっ♥"
+msgstr "噗唰♥"
 
-# KYAMI_GABA
+# KYAMI_GABA (掀起背心)
 msgctxt "osawari_vfx"
 msgid "kyami_gaba_0"
-msgstr "がばっ♥"
+msgstr "掀起♥"
 
-# SUMATA_PANTSU
+# SUMATA_PANTSU (穿着内裤素股)
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_0"
-msgstr "しゅっ"
+msgstr "咻"
 
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_1"
-msgstr "ちゃっ"
+msgstr "擦"
 
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_2"
-msgstr "しゃっ♥"
+msgstr "唰♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_3"
-msgstr "ちゃ♥"
+msgstr "啪♥"
 
-# SUMATA_NAMA
+# SUMATA_NAMA (裸露素股)
 msgctxt "osawari_vfx"
 msgid "sumata_nama_0"
-msgstr "くちゅ♥"
+msgstr "咕啾♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_1"
-msgstr "ちゃ♥"
+msgstr "吧唧♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_2"
-msgstr "じゅ♥"
+msgstr "湿润♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_3"
-msgstr "むちゃ♥"
+msgstr "黏糊♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_4"
 msgstr "♥"
 
-# CLOTH_BUTTON
+# CLOTH_BUTTON (解开扣子)
 msgctxt "osawari_vfx"
 msgid "cloth_button_0"
-msgstr "ぱち"
+msgstr "啪嗒"
