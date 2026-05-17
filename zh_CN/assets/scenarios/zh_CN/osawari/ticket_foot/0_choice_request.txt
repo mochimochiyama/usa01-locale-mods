@@ -1,12 +1,12 @@
 
-me:「[shake]足触らせてください！!!![/shake]」
+me:「[shake]请让我摸摸你的脚！！！！[/shake]」
 
-usa00@rt:[tornado]くぅくぅ♥[/tornado]
+usa00@rt:[tornado]呵呵♥[/tornado]
 
 usa00:
   右脚: 上げ
 
-usa00@rt:[wave]どうぞ〜♥[/wave]
+usa00@rt:[wave]请用吧〜♥[/wave]
 
 usa00:
   focus: 足裏0

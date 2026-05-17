@@ -1,18 +1,16 @@
-
-
 usa00:
   目: close_smile
   尻尾: normal
 
-usa00@rt:[wave]声でか〜♥[/wave]
+usa00@rt:[wave]声音好大~♥[/wave]
 
 usa00:
   目: normal
   尻尾: ふりふり
 
-usa00@rt:じゃあどうぞ~
+usa00@rt:那么请吧~
 
-me:「[shake]ﾔｯﾀｰｰｰｰｰｰｰｰ!!!![/shake]」
+me:「[shake]太棒了——————！！！！[/shake]」
 
 
 usa00:

@@ -4,42 +4,42 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:早呀～
 
-me:「チワース」
+me:「早啊——」
 
-usa00@rt:[tornado]バパン[/tornado] 語講座〜
+usa00@rt:[tornado]巴潘族[/tornado] 语言讲座～
 
-me: 「やった〜!!!」
+me: 「好耶～！！！」
 
-usa00@rt:今日は〜 [tornado]クゥ[/tornado] について〜
+usa00@rt:今天讲的是～关于 [tornado]“咕”[/tornado] 〜
 
-me: 「いつも言ってるやつじゃん!!!!!」
+me: 「那不是你一直都在说的那个词吗！！！」
 
-usa00@rt:これは 便利〜
-usa00@lb:うん も へぇ も いいね も\n全部これ〜
+usa00@rt:这个词超方便哦～
+usa00@lb:无论是“嗯”、“诶”还是“不错呢”\n全部都能用这一个词搞定～
 
 me: 「全部？」
 
-usa00@rt:[tornado]クゥ♪[/tornado]
+usa00@rt:[tornado]咕♪[/tornado]
 
-me: 「くぅ」
+me: 「咕。」
 
-usa00@rt:それだと "うん"〜
-usa00@lb:もっと喉を閉じて〜
+usa00@rt:那样说是表示“嗯”～
+usa00@lb:喉咙要再收紧一点～
 
-me: 「[tornado]くぅ[/tornado]」
+me: 「[tornado]咕[/tornado]」
 
-ちょっとまわったぞ!!!
+感觉练得头都有点晕了！！！
 
-usa00@rt:ンー
-usa00@rt:練習あるのみ〜
+usa00@rt:嗯——
+usa00@rt:只能靠多加练习了呢～
 
-くぅ……
+咕……
 
 
 usa00:exit
 
 …
 
-……今日も一日頑張るぞ!
+……今天一天也要努力呀！

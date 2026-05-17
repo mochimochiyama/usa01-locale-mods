@@ -16,152 +16,152 @@ msgstr "...♥"
 
 msgctxt "merchant_speech"
 msgid "restock"
-msgstr "入荷しました〜"
+msgstr "进货啦～"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_0"
-msgstr "まいどあり〜♥"
+msgstr "多谢惠顾～♥"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_1"
-msgstr "まいどで〜す"
+msgstr "多谢惠顾呀"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_2"
-msgstr "どうも〜"
+msgstr "多谢啦～"
 
 msgctxt "merchant_speech"
 msgid "first_morning"
-msgstr "こちらですよ〜"
+msgstr "往这边走哦～"
 
 msgctxt "merchant_speech"
 msgid "first_day_farewell"
-msgstr "がんばれ〜♥"
+msgstr "加油哦～♥"
 
 msgctxt "merchant_speech"
 msgid "greeting"
-msgstr "こんにちは〜"
+msgstr "您好呀～"
 
 # === Merchant Chat (Shop Level) ===
 msgctxt "merchant_chat_shop"
 msgid "lv0_0"
-msgstr "また来てくださったんですか～？"
+msgstr "您又来啦～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv0_1"
-msgstr "これからクエスト～ですか〜?"
+msgstr "接下来是要去任务～吗？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv0_2"
-msgstr "冒険者さんにぴったりの商品があるんですけど～"
+msgstr "我有件非常适合冒险者的商品哦～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv0_3"
-msgstr "掃除しないと〜…"
+msgstr "得打扫一下了～……"
 
 msgctxt "merchant_chat_shop"
 msgid "lv0_4"
-msgstr "初心者向けも置いてますよ～"
+msgstr "也有适合新手的商品哦～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv0_5"
-msgstr "予算大丈夫ですか～？"
+msgstr "预算没问题吧～？"
 
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_0"
-msgstr "ちょっとずつ品揃えが良くなってきました〜"
+msgstr "种类一点点丰富起来了呢～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_1"
-msgstr "もっと高い装備買ってくださ～い"
+msgstr "请多买点更贵的装备吧～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_2"
-msgstr "使い勝手、大事〜？見た目だけで選ぶと痛い目みるかも～"
+msgstr "好不好用很重要哦～？只凭外表选的话，小心吃大亏呢～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_3"
-msgstr "この棚、昨日補充したはずなんだけどな〜"
+msgstr "这个架子，昨天明明应该补过货了呀～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_4"
-msgstr "安物で満足しちゃうタイプですか〜？"
+msgstr "您是那种买便宜货就能满足的类型吗～？"
 
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_0"
-msgstr "最近忙しくなってきました〜?"
+msgstr "最近变得忙碌起来了吗～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_1"
-msgstr "装備、前より様になってきました～?"
+msgstr "装备穿在身上，比以前更有模样了嘛～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_2"
-msgstr "そろそろ装備更新しません〜?"
+msgstr "差不多该更新下装备了吧～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_3"
-msgstr "毎日きますね〜?"
+msgstr "您每天都来呢～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_4"
-msgstr "その装備、扱いに慣れてきた感じですか〜? 最初はぎこちなかったのに〜"
+msgstr "那套装备，看来您已经用习惯了呢～ 明明刚开始还笨手笨脚的～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_5"
-msgstr "あれ〜 棚の配置変えたっけ〜…"
+msgstr "哎呀～ 我改过货架的陈列吗～……"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_6"
-msgstr "無理しないように〜 死なれたら困る〜かも"
+msgstr "别太勉强哦～ 要是您死了我会很困扰～的，大概吧"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_7"
-msgstr "次に必要になりそうなのは〜 なんだろう…"
+msgstr "接下来可能需要的东西是～ 会是什么呢……"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_8"
-msgstr "棚のこの辺、最近減り早い～"
+msgstr "货架这一块，最近空得真快～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_9"
-msgstr "アレを仕入れて, そのまえにコレか〜…"
+msgstr "先进那个货，在那之前还得先弄到这个吗～……"
 
 
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_0"
-msgstr "意外とやる～"
+msgstr "意外地挺能干嘛～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_1"
-msgstr "値札と中身、合ってる…？後で確認"
+msgstr "标价和商品，对得上吗……？等会儿确认下"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_2"
-msgstr "最近動きが様になってきた〜… ような?"
+msgstr "最近动作变得有模有样了～…… 错觉吗？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_3"
-msgstr "おめがたかい〜"
+msgstr "眼光真好～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_4"
-msgstr "ちわ〜"
+msgstr "您好呀～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_5"
-msgstr "そこの箱片付けといてくださ〜い"
+msgstr "顺便帮我把那边的箱子收拾一下吧～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_6"
-msgstr "え〜 そのクエスト、普通は行かないのに〜"
+msgstr "诶～ 那种任务，一般人可不会去啊～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_7"
-msgstr "油断してると足元すくわれるかも〜"
+msgstr "大意的话，可是会栽跟头的哦～"
 
 
 
@@ -170,116 +170,116 @@ msgstr "油断してると足元すくわれるかも〜"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_0"
-msgstr "発注、間違えてないかな〜？"
+msgstr "订货，没弄错吧～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_1"
-msgstr "仕入れ伝票…どこ置いたんだっけ…"
+msgstr "进货单……放哪儿去了来着……"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_2"
-msgstr "品揃え考えないとな〜"
+msgstr "得考虑下进些什么货了呢～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_3"
-msgstr "んちわ〜"
+msgstr "您好～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_4"
-msgstr "お〜 その装備 似合ってる〜 かも〜"
+msgstr "哦～ 那身装备 很适合您～ 也许吧～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_5"
-msgstr "あ、値札がずれてる…"
+msgstr "啊，标价牌歪了……"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_6"
-msgstr "よくここ使ってくれて～ 助かっちゃうな～"
+msgstr "经常光顾这里～ 真是帮大忙了呢～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_7"
-msgstr "次の仕入れ、どうしようかな〜…… まあこれか〜"
+msgstr "下次进货怎么办呢～…… 算了就这个吧～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_8"
-msgstr "そんなクエスト行ってきたの〜… ひく…"
+msgstr "您竟然去了那种任务吗～…… 怕怕……"
 
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_0"
-msgstr "こんちは〜"
+msgstr "午好～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_1"
-msgstr "繁盛してきた〜♥"
+msgstr "生意兴隆起来了呢～♥"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_2"
-msgstr "もう説明いらないですね〜 買って〜♥"
+msgstr "已经不需要多解释了吧～ 快买买买～♥"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_3"
-msgstr "なに倒してきたの… すご〜い…"
+msgstr "您讨伐了什么啊…… 好厉害……"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_4"
-msgstr "なんかいつの間にか、だいぶ冒険者っぽい〜?"
+msgstr "感觉不知不觉间，已经很有冒险者的样子了呢～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_5"
-msgstr "そんなヤバそうなクエストいくな〜"
+msgstr "别去那么危险的任务啦～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_6"
-msgstr "ちわ〜"
+msgstr "哟～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_7"
-msgstr "今度また部屋片付け手伝って〜"
+msgstr "下次再来帮我收拾房间吧～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_8"
-msgstr "え〜 もうちょっとゆっくりしていってもいいのに〜♥"
+msgstr "诶～ 再多坐会儿走也行嘛～♥"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_9"
-msgstr "なんか買って〜"
+msgstr "买点什么吧～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_10"
-msgstr "そこの棚片付けといて〜"
+msgstr "帮我把那边的架子整理一下～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_11"
-msgstr "最近モンスター減ってるらしいよ〜"
+msgstr "听说最近怪物变少了哦～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_12"
-msgstr "今日はやる気でないかも〜"
+msgstr "今天可能提不起劲呢～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_13"
-msgstr "この店、最初の頃と比べると結構おおきくなったような〜？"
+msgstr "这家店和刚开始比起来，感觉变大了很多呢～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_14"
-msgstr "あ、そこちらかってるから気をつけて〜"
+msgstr "啊，那边乱糟糟的，小心点哦～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_15"
-msgstr "じゃね〜"
+msgstr "走好哦～"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_16"
-msgstr "今日はなんもしないの〜?"
+msgstr "今天什么也不干吗～？"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_17"
-msgstr "その装備、もう見慣れましたね 最初は違和感すごかったのに"
+msgstr "这身装备，已经看习惯了呢。刚开始的时候违和感超强的。"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_18"
-msgstr "ちょっとそこ座って待ってて〜"
+msgstr "在那儿坐着等一下吧～"
 
 
 
@@ -287,130 +287,130 @@ msgstr "ちょっとそこ座って待ってて〜"
 # === Merchant Chat (Quest Progress) ===
 msgctxt "merchant_chat_quest"
 msgid "0_0"
-msgstr "{enemy_0}撃破ですか～ 最初の一歩〜"
+msgstr "击败了{enemy_0}吗～ 迈出了第一步呢～"
 
 msgctxt "merchant_chat_quest"
 msgid "0_1"
-msgstr "無事で何よりです、冒険者さん …当たり前？"
+msgstr "平安无事就好，冒险者先生 ……这也是理所当然的？"
 
 msgctxt "merchant_chat_quest"
 msgid "0_2"
-msgstr "{enemy_0}相手でも油断は禁物ですよ～"
+msgstr "就算是面对{enemy_0}也不能掉以轻心哦～"
 
 msgctxt "merchant_chat_quest"
 msgid "0_3"
-msgstr "まあ、まずは{enemy_0}からですよね"
+msgstr "嘛，首先就是要从{enemy_0}开始呢"
 
 
 
 msgctxt "merchant_chat_quest"
 msgid "1_0"
-msgstr "まあ{enemy_1}討伐くらいはできますよね～"
+msgstr "嘛，讨伐{enemy_1}这种程度还是没问题的吧～"
 
 msgctxt "merchant_chat_quest"
 msgid "1_1"
-msgstr "数が多いと厄介なんですよね〜 {enemy_1}とかああいうの…"
+msgstr "像{enemy_1}之类的东西……数量变多的话就很麻烦呢～"
 
 msgctxt "merchant_chat_quest"
 msgid "1_2"
-msgstr "調子に乗るには、まだ早いかも〜?"
+msgstr "想要得意忘形的话，现在还太早了点吧～？"
 
 
 
 msgctxt "merchant_chat_quest"
 msgid "2_0"
-msgstr "{enemy_2}とかザコですよ〜?"
+msgstr "{enemy_2}什么的只是杂鱼哦～？"
 
 msgctxt "merchant_chat_quest"
 msgid "2_1"
-msgstr "{enemy_2}相手でもいけるんですか？ へえ～"
+msgstr "连{enemy_2}也能对付了吗？ 嘿诶～"
 
 msgctxt "merchant_chat_quest"
 msgid "2_2"
-msgstr "ふーん、けっこういい素材入手できるようになったんですね"
+msgstr "哼～ 已经能入手挺不错的素材了嘛"
 
 
 msgctxt "merchant_chat_quest"
 msgid "3_0"
-msgstr "{enemy_3}?余裕なんだ～?"
+msgstr "{enemy_3}？能轻松搞定吗～？"
 
 msgctxt "merchant_chat_quest"
 msgid "3_1"
-msgstr "結構… 戦うの慣れてきました〜？"
+msgstr "变得非常……习惯战斗了呢～？"
 
 msgctxt "merchant_chat_quest"
 msgid "3_2"
-msgstr "そんなクエスト受けてるんですね〜"
+msgstr "您接了这种任务啊～"
 
 
 msgctxt "merchant_chat_quest"
 msgid "4_0"
-msgstr "{enemy_4}倒したんですか〜? すご～"
+msgstr "打倒了{enemy_4}吗～？ 好厉害～"
 
 msgctxt "merchant_chat_quest"
 msgid "4_1"
-msgstr "{enemy_4}は意外とおいしいらしいですよ〜"
+msgstr "听说{enemy_4}意外地很有赚头哦～"
 
 
 
 msgctxt "merchant_chat_quest"
 msgid "5_0"
-msgstr "{enemy_5}って面倒くさいよね～"
+msgstr "{enemy_5}这种东西很麻烦吧～"
 
 msgctxt "merchant_chat_quest"
 msgid "5_1"
-msgstr "空の相手、対応できた〜？"
+msgstr "能应对空中的对手了吗～？"
 
 msgctxt "merchant_chat_quest"
 msgid "5_2"
-msgstr "{enemy_5}素材だ～"
+msgstr "是{enemy_5}的素材呢～"
 
 
 msgctxt "merchant_chat_quest"
 msgid "6_0"
-msgstr "{enemy_6}の素材だ〜 ホンモノ〜？"
+msgstr "{enemy_6}的素材呀～ 是真货吗～？"
 
 msgctxt "merchant_chat_quest"
 msgid "6_1"
-msgstr "普通に強くなってない〜？"
+msgstr "您不是变强了很多吗～？"
 
 
 msgctxt "merchant_chat_quest"
 msgid "7_0"
-msgstr "{enemy_7}〜 やば~？"
+msgstr "{enemy_7}吗～？ 糟了～？"
 
 msgctxt "merchant_chat_quest"
 msgid "7_1"
-msgstr "{enemy_7}を正面から〜？ 馬鹿〜♥"
+msgstr "要从正面硬刚{enemy_7}～？ 笨蛋～♥"
 
 
 msgctxt "merchant_chat_quest"
 msgid "8_0"
-msgstr "{enemy_8}って空飛んでるのに〜?"
+msgstr "{enemy_8}明明是在天上飞的吧～？"
 
 msgctxt "merchant_chat_quest"
 msgid "8_1"
-msgstr "こんな素材使い道ないな〜♥"
+msgstr "这种素材根本没用处嘛～♥"
 
 
 msgctxt "merchant_chat_quest"
 msgid "9_0"
-msgstr "{enemy_9}… って聞いたことな〜い♥"
+msgstr "{enemy_9}…… 没听说过呢～♥"
 
 msgctxt "merchant_chat_quest"
 msgid "9_1"
-msgstr "これ何の素材〜?"
+msgstr "这是什么的素材啊～？"
 
 
 msgctxt "merchant_chat_quest"
 msgid "10_0"
-msgstr "{enemy_10}って倒せるやつなの〜?"
+msgstr "{enemy_10}是能被打倒的东西吗～？"
 
 msgctxt "merchant_chat_quest"
 msgid "10_1"
-msgstr "それ、本当に倒していいやつ～？"
+msgstr "那个，真的是可以杀掉的东西吗～？"
 
 
 msgctxt "merchant_chat_quest"
 msgid "11_0"
-msgstr "{enemy_11}〜♥"
+msgstr "{enemy_11}～♥"

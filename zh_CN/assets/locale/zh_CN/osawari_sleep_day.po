@@ -13,16 +13,16 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "sleep_day_beginner"
-msgstr "・頭を撫でる\n・上着を脱がす(紐:クリック 脱衣:ドラッグ)\n・パンツを見る(ドラッグ)\n・ふともも見抜き♥"
+msgstr "・抚摸头部\n・脱掉外套(抽绳：点击 脱衣：拖动)\n・看内裤(拖动)\n・大腿欣赏♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_intermediate"
-msgstr "・胸めくり\n・ちゅー\n・まんぷに\n・顔見抜き(ちんかぎ)♥"
+msgstr "・掀起上衣看胸部\n・亲亲\n・揉捏阴部\n・脸部欣赏(闻肉棒)♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_advanced"
-msgstr "・全部脱がす\n・乳首をつまむ\n・乳首見抜き♥"
+msgstr "・全部脱光\n・揉捏乳头\n・乳头欣赏♥"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_operation"
-msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"
+msgstr "点击目标部位，或通过拖动进行操作。\n肉棒：通过拖动可以指派到目标部位(♥)。点击已指派状态的肉棒即可进行操作。"

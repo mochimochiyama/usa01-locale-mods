@@ -1,4 +1,3 @@
-
 usa00:
   腕: normal
   前腕: normal
@@ -10,47 +9,46 @@ usa00:
   まんこ: normal
 
 
-me:「アノ~…」
+me:「那个~……」
 
 usa00:
   目: close_smile
-usa00@rt:なんですか〜?
+usa00@rt:有什么事吗~?
 
-me:「今日はうしろからつかまっていいですかね…」
+me:「今天可以从后面抱住你吗……」
 
 usa00:
   目: close_hun
-usa00@rt:えー?
+usa00@rt:诶~?
 
 
 usa00:
   me構図: すまた
 
-…ぎゅっ!
+……紧抱！
 
 usa00:
   目: close_smile
 
-usa00@rt:あ〜♥
-usa00@lb:かってにぎゅするな〜♥
+usa00@rt:啊~♥
+usa00@lb:不要擅自抱过来呀~♥
 
 …
 
 usa00:
   目: normal
-usa00@lb:へんなとこさわってないか〜♥
+usa00@lb:有没有在摸奇怪的地方呀~♥
 
-usa00@rt:これめっちゃ触ってるような〜♥?
+usa00@rt:这个感觉完全就是在摸吧~♥?
 
-me: 「…ギリ、 ギリっす!」
+me: 「……勉强，勉强算没碰到！」
 
 usa00:
   目: close_hun
-usa00@rt:しかたないな〜♥
+usa00@rt:真拿你没办法呢~♥
 
 usa00:
   目: normal
   すまた: normal
 
 …
-

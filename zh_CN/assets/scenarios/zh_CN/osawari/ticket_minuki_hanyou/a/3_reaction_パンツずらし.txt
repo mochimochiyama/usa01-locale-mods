@@ -1,19 +1,18 @@
-
-usa00@rt: あ〜〜〜♥???
+usa00@rt: 啊~~~♥???
 
 usa00:
   目: close_smile
 
-usa00@lb: なんかさわってる〜\nような〜♥?
+usa00@lb: 感觉好像被碰到了~\n一样的~♥?
 
-me: …ギリ触ってない! ギリセーフ!
+me: …勉强没碰到！算安全上垒！
 
 usa00:
   目: close_hun
-usa00@rt: 服がじゃまで〜
+usa00@rt: 衣服好碍事哦~
 usa00:
   目: close_smile
-usa00@lb: よくみえないな〜♥
+usa00@lb: 看不太清楚呢~♥
 
 usa00:
   目: normal

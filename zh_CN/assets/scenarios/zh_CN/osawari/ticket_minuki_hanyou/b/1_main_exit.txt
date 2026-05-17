@@ -1,30 +1,29 @@
-
 usa00:
   ちんこ: しこ0
   目: close_smile
 
-usa00@rt:[wave]きゃ〜♥[/wave]
-usa00@lb:[wave]す[/wave]
+usa00@rt:[wave]哇~♥[/wave]
+usa00@lb:[wave]呼[/wave]
 
 usa00:
   ちんこ: normal
   目: normal
 
 
-usa00@rt:これ〜
-usa00@lb: なんか〜ちがったような〜♥
+usa00@rt:这个~
+usa00@lb: 感觉~ 好像不太一样呢~♥
 
 …
 
 usa00:
   目: close_hun
 
-usa00@rt:くんくん
+usa00@rt:嗅嗅
 
 usa00:
   目: close_smile
 
-usa00@lb:すごいにおい〜♥
+usa00@lb:好浓的味道~♥
 
 ………
 

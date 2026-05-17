@@ -1,36 +1,36 @@
 
 
-usa00@rt:あ〜っ
+usa00@rt:啊〜
 
 usa00:
   口: う_指入れ待機
 
-usa00@lb: う〜♥
+usa00@lb: 呜〜♥
 
 usa00:
   口: normal
 
-usa00@lb:おしまいです〜
+usa00@lb:结束咯〜
 
 me:………
 
-usa00@rt:ちょっと〜
+usa00@rt:等一下〜
 
 usa00:
   目: close_smile
 
-usa00@lb:なんか違うとこ〜? \n 触られてたような〜?
+usa00@lb:感觉是不是〜\n摸了什么奇怪的地方呀〜？
 
 
 me: …
 
 usa00:
   目: normal
-usa00@rt: はみがきできたかな〜？
+usa00@rt: 刷好牙了吗〜？
 
-usa00@lb: ちょっとちかづいて〜
+usa00@lb: 再靠近一点点〜
 
-me: ﾊｲｯ…
+me: 是……
 
 usa00:
   camera_focus: face
@@ -39,7 +39,7 @@ usa00:
   口: 舌出し
   舌: normal
 
-usa00@rt: あ〜♥
+usa00@rt: 啊〜♥
 
 me: ………
 
@@ -47,14 +47,14 @@ usa00:
   camera_focus: mouth
   目: close_smile
 
-usa00@rt: はぁ〜♥♥
+usa00@rt: 哈啊〜♥♥
 
-…!!!!!!!!!!!!!!!!!!!!!!
+……!!!!!!!!!!!!!!!!!!!!!!
 
 usa00:
   舌: でてる0
 
-usa00@rt: はぁぁぁ〜♥♥
+usa00@rt: 哈啊啊啊〜♥♥
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -63,21 +63,21 @@ usa00:
   口: normal
   camera_focus: face
 
-usa00@rt:どうでしたか〜
+usa00@rt:感觉怎么样呀〜
 
-me: 「めっちゃいいにおいした!!! できてたかも!!!!」
+me: 「超级好闻的味道！！！说不定已经刷好了！！！！」
 
 usa00:
   目: close_smile
 
-usa00@rt: きゃ〜♥
+usa00@rt: 呀〜♥
 
 usa00:
   目: normal
 
-usa00@lb: てんさいかも〜?
+usa00@lb: 说不定是天才哦〜？
 
-me: 「俺、天才なんです!!!」
+me: 「我，其实是天才来着！！！」
 
 usa00:
   camera_focus: normal

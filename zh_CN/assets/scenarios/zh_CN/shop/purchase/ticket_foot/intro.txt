@@ -1,14 +1,12 @@
-
 bg: shop
 
 ...
 
 ......
 
-......買ってしまった...
+......买下来了...
 
 usa00:
   posure: front
 
-
-usa00@rt:[wave]あ♥[/wave]\nやっぱり興味あった〜
+usa00@rt:[wave]啊♥[/wave]\n果然还是有兴趣的呀~

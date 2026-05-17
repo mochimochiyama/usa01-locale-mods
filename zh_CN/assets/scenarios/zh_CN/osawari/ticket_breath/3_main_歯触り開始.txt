@@ -1,79 +1,78 @@
-
-usa00@rt:[tornado]っぽ[/tornado]
+usa00@rt:[tornado]啵[/tornado]
 
 usa00@rt:
   口: normal
 
-usa00@lb:[tornado]ぱあ♥[/tornado]
+usa00@lb:[tornado]啪啊♥[/tornado]
 
-…!
+…！
 
-usa00@rt:はーい♥
+usa00@rt:到此为止啦♥
 
 usa00:
   目: close_smile
 
-usa00@lb:おしま〜い
+usa00@lb:结束咯〜
 
 …
 
 usa00:
   目: normal
 
-usa00@rt:なんか〜
-usa00@lb:違うとこさわられてたような〜?
+usa00@rt:感觉〜
+usa00@lb:好像被摸了不一样的地方呢〜？
 
-me: 「よく、 わかりませんでした!!!!!!」
+me: 「完全、听不懂你在说什么！！！！！（装傻）」
 
 usa00:
   目: close_smile
-usa00@rt:え〜♥
+usa00@rt:诶〜♥
 usa00:
   目: normal
-usa00@lb:ホントかなあ〜
+usa00@lb:真的吗〜
 
-me: 「ぷにぷにではありました!!!!!!!」
+me: 「不过确实是软绵绵的！！！！！（确信）」
 usa00:
   目: close_smile
-usa00@rt: ぷに〜?
+usa00@rt: 软绵绵〜?
 
-me: 「もうちょっとだけ、おねがいできませんか!!」
+me: 「能不能请你……再多让我摸一会儿！！」
 
 
-usa00@rt: え〜
+usa00@rt: 诶〜
 
 usa00:
   目: normal
-usa00@lb: ほんとはもうおわるつもりだったけど〜
-usa00@rt: しかたないな〜
+usa00@lb: 虽然本来是打算要结束了的〜
+usa00@rt: 真拿你没办法呢〜
 
-me: 「仕方ないｷﾀ! やさしい! やさしい!」
+me: 「“真拿你没办法”来了！温柔！太温柔了！」
 
-usa00@rt: やさしいので〜
-usa00@lb:トクベツに〜
-usa00@lb: はみがき〜？
+usa00@rt: 既然这么温柔〜
+usa00@lb: 那就特别奖励〜
+usa00@lb: 刷牙吗〜？
 
-me: 「[shake]!!!!! はみがき??????????!!!![/shake]」
+me: 「[shake]！！！！！刷牙？？？？？？？？？？！！！！[/shake]」
 
-usa00@rt: 声でか〜♥
+usa00@rt: 声音太大了啦〜♥
 
-me: 「[shake]でも!!!! はみがきいまないです!! 棒の 棒のやつが!!!!![/shake]」
+me: 「[shake]但是！！！！现在没有刷牙工具啊！！那个棒子、那个棒状的东西！！！！！[/shake]」
 
-usa00@rt: じゃあトクベツに〜\nしかたがないので〜
-usa00@lb: ゆびで〜
+usa00@rt: 那就特别奖励〜\n真没办法呢〜
+usa00@lb: 用手指吧〜
 
-me: アー……
+me: 啊……
 
 usa00:
   口: 舌出し
 
-usa00@rt:[tornado]あ〜っ[/tornado]
+usa00@rt:[tornado]啊〜[/tornado]
 
 
 usa00:
   目: close_smile
 
-usa00@lb:[tornado]ほっへはあっっへひーへっほ♥[/tornado]
+usa00@lb:[tornado]连夹口以摸喔♥[/tornado]
 
 usa00:
   area_口: none

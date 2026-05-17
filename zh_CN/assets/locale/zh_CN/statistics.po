@@ -9,83 +9,83 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-# --- Section Titles ---
+# --- Section Titles (部位分类) ---
 
 msgid "STAT_SECTION_WHOLE_BODY"
 msgstr "全身"
 
 msgid "STAT_SECTION_HEAD"
-msgstr "頭"
+msgstr "头部"
 
 msgid "STAT_SECTION_MOUTH"
-msgstr "おくち"
+msgstr "小嘴"
 
 msgid "STAT_SECTION_SMELL"
-msgstr "におい"
+msgstr "气味"
 
 msgid "STAT_SECTION_NIPPLES"
-msgstr "乳首"
+msgstr "乳头"
 
 msgid "STAT_SECTION_CLITORIS"
-msgstr "クリ"
+msgstr "阴蒂"
 
 msgid "STAT_SECTION_VAGINA"
-msgstr "膣"
+msgstr "阴道"
 
-# --- Stat Labels ---
+# --- Stat Labels (统计标签) ---
 
 msgid "STAT_LABEL_CARESSED"
-msgstr "なでられた:"
+msgstr "被抚摸次数:"
 
 msgid "STAT_LABEL_KISSED"
-msgstr "キスされた:"
+msgstr "接吻次数:"
 
 msgid "STAT_LABEL_CAME_MOUTH"
-msgstr "イッた♥:"
+msgstr "嘴巴高潮♥:"
 
 msgid "STAT_LABEL_FACIAL"
-msgstr "顔に射精された:"
+msgstr "颜射次数:"
 
 msgid "STAT_LABEL_SMELL_SNIFF"
-msgstr "ちんかぎさせられた:"
+msgstr "被强迫闻肉棒:"
 
 msgid "STAT_LABEL_CAME_SMELL"
-msgstr "においでイッた♥:"
+msgstr "闻着气味高潮♥:"
 
 msgid "STAT_LABEL_NIPPLE_PINCHED"
-msgstr "つままれた:"
+msgstr "被拧捏次数:"
 
 msgid "STAT_LABEL_CAME_NIPPLE"
-msgstr "乳首でイった♥:"
+msgstr "乳头高潮♥:"
 
 msgid "STAT_LABEL_CHEST_EJAC"
-msgstr "胸に射精された:"
+msgstr "乳交射精次数:"
 
 msgid "STAT_LABEL_CLIT_RUB"
-msgstr "クリぷにシコ:"
+msgstr "揉捏阴蒂撸动:"
 
 msgid "STAT_LABEL_CAME_CLIT"
-msgstr "クリイキ♥:"
+msgstr "阴蒂高潮♥:"
 
 msgid "STAT_LABEL_FINGER_IN"
-msgstr "指を入れられた:"
+msgstr "手指插入次数:"
 
 msgid "STAT_LABEL_INSERTED"
-msgstr "挿入された:"
+msgstr "被插入次数:"
 
 msgid "STAT_LABEL_CAME_VAGINA"
-msgstr "イッた♥:"
+msgstr "阴道高潮♥:"
 
 msgid "STAT_LABEL_CREAMPIE"
-msgstr "なかだし♥:"
+msgstr "内射次数♥:"
 
-# --- Format Strings ---
+# --- Format Strings (格式化字符串) ---
 
 msgid "STAT_FMT_COUNT"
-msgstr "%s %d回"
+msgstr "%s %d次"
 
 msgid "STAT_UNKNOWN_ENTRY"
-msgstr "？？？: ？回"
+msgstr "？？？: ？次"
 
 msgid "STAT_UNKNOWN"
 msgstr "？？？"
