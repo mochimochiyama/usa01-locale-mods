@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "quest_name"
 msgid "quest_0"
-msgstr "スライム討伐"
+msgstr "Slime Hunt"
 
 msgctxt "quest_name"
 msgid "quest_1"

@@ -10,49 +10,49 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "gallery_ticket_hand"
-msgstr "握手券"
+msgstr "Handshake Ticket"
 
 msgid "gallery_ticket_foot"
-msgstr "握手券(足)"
+msgstr "Handshake Ticket (Feet)"
 
 msgid "gallery_ticket_tail"
-msgstr "握手券(尻尾)"
+msgstr "Handshake Ticket (Tail)"
 
 msgid "gallery_ticket_breath"
-msgstr "握手券(顔)"
+msgstr "Handshake Ticket (Cheeks)"
 
 msgid "gallery_ticket_minuki_0"
-msgstr "ミヌキ券 (初回)"
+msgstr "JO Ticket I"
 
 msgid "gallery_ticket_minuki_1"
-msgstr "ミヌキ券 (2回目)"
+msgstr "JO Ticket II"
 
 msgid "gallery_ticket_minuki_2"
-msgstr "ミヌキ券 (3回目)"
+msgstr "JO Ticket III"
 
 msgid "gallery_ticket_minuki_3"
-msgstr "ミヌキ券 (4回目)"
+msgstr "JO Ticket IV"
 
 msgid "gallery_ticket_hand_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "Hint: Buy ticket to unlock"
 
 msgid "gallery_ticket_foot_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "Hint: Buy ticket to unlock"
 
 msgid "gallery_ticket_tail_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "Hint: Buy ticket to unlock"
 
 msgid "gallery_ticket_breath_hint"
-msgstr "ヒント: 券購入イベント"
+msgstr "Hint: Buy ticket to unlock"
 
 msgid "gallery_ticket_minuki_0_hint"
-msgstr "ヒント: おへやでのお願いイベント(1回目)"
+msgstr "Hint: Go through the first request event at her home"
 
 msgid "gallery_ticket_minuki_1_hint"
-msgstr "ヒント: おへやでのお願いイベント(2回目)"
+msgstr "Hint: Go through the second request event at her home"
 
 msgid "gallery_ticket_minuki_2_hint"
-msgstr "ヒント: おへやでのお願いイベント(3回目)"
+msgstr "Hint: Go through the third request event at her home"
 
 msgid "gallery_ticket_minuki_3_hint"
-msgstr "ヒント: おへやでのお願いイベント(4回目)"
+msgstr "Hint: Go through the fourth request event at her home"

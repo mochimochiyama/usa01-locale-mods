@@ -16,31 +16,31 @@ msgstr "...♥"
 
 msgctxt "merchant_speech"
 msgid "restock"
-msgstr "入荷しました〜"
+msgstr "I got new stuff~"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_0"
-msgstr "まいどあり〜♥"
+msgstr "Thanks as always~♥"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_1"
-msgstr "まいどで〜す"
+msgstr "Thanks so much~"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_2"
-msgstr "どうも〜"
+msgstr "Thanks~"
 
 msgctxt "merchant_speech"
 msgid "first_morning"
-msgstr "こちらですよ〜"
+msgstr "Over here~"
 
 msgctxt "merchant_speech"
 msgid "first_day_farewell"
-msgstr "がんばれ〜♥"
+msgstr "Good luck~♥"
 
 msgctxt "merchant_speech"
 msgid "greeting"
-msgstr "こんにちは〜"
+msgstr "Hey there~"
 
 # === Merchant Chat (Shop Level) ===
 msgctxt "merchant_chat_shop"

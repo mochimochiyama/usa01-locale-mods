@@ -14,7 +14,7 @@ msgstr ""
 # --- notebook ---
 msgctxt "item_name"
 msgid "notebook"
-msgstr "魔導書(たぶん)"
+msgstr "Grimoire (Probably?)"
 
 msgctxt "item_description"
 msgid "notebook"
@@ -136,11 +136,11 @@ msgstr "ミヌキ券を購入すると解放"
 # --- drop_0 ---
 msgctxt "item_name"
 msgid "drop_0"
-msgstr "スライムゼリー"
+msgstr "Slime Jelly"
 
 msgctxt "item_description"
 msgid "drop_0"
-msgstr "スライムから取れたゼリー ぷるぷるしている"
+msgstr "Jelly from a slime. It's jiggly."
 
 # --- drop_1 ---
 msgctxt "item_name"
@@ -246,11 +246,11 @@ msgstr "ゴールド・ドラゴンからとれた鱗 ぴか〜"
 # --- weapon_0 ---
 msgctxt "item_name"
 msgid "weapon_0"
-msgstr "木の棒"
+msgstr "Wooden Stick"
 
 msgctxt "item_description"
 msgid "weapon_0"
-msgstr "ただの棒"
+msgstr "Just some wooden stick."
 
 # --- weapon_1 ---
 msgctxt "item_name"
@@ -401,11 +401,11 @@ msgstr "{weapon_10}を購入すると解放"
 # --- armor_0 ---
 msgctxt "item_name"
 msgid "armor_0"
-msgstr "木の鎧"
+msgstr "Wooden Armor"
 
 msgctxt "item_description"
 msgid "armor_0"
-msgstr "木材を使った鎧？ささくれだらけ…"
+msgstr "Armor made of... wood? It's full of splinters..."
 
 # --- armor_1 ---
 msgctxt "item_name"
