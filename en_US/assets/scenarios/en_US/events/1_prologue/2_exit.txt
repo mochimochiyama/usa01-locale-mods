@@ -1,94 +1,95 @@
 
 bg: shop
 
-クエストを終えて、道具屋に戻ってきた。
+Finishing the quest, I return to the same place.
 
-店の前では、道具屋さんが店じまいをしている。
+I happen to catch the shopkeeper closing up shop.
 
-me:「ﾂ……疲れた…………………………」
+me:"Phew... I'm spent..."
 
 usa00:
   posure: front
   口: o
 
-usa00@rt:お
+usa00@rt:Oh?
 
 usa00:
   目: close_smile
   口: normal
 
-usa00@lb:[wave]生きてた〜♥[/wave]
+usa00@lb:[wave]You're alive~♥[/wave]
 
-me:「[shake]死ぬかと思った！!![/shake]」
+me:「[shake]I THOUGHT I ALMOST DIED!!![/shake]」
 
 usa00:
   目: normal
 
-usa00@lb:大丈夫でした〜?
+usa00@lb:Are you alright~?
 
-me: 「めちゃめちゃギリギリでした…」
+me:"I lived by the skin of my teeth..."
 
-スライムなんて初めて倒したけど、あいつら意外と強いな……
+It was my first time fighting slimes...
+They were way tougher than I expected...
 
-usa00@rt:なんか色々\nもらえたんじゃないですか〜?
+usa00@rt:Did you get rewarded\nfor your efforts~?
 
-クエストのあと、ギルドから報酬をもらえた。
-あと、もう一個難しいクエストを次回からは受けられるようになるらしい。
+After completing the quest, I received a reward from the guild.
+Also, apparently I can take on a harder quest next time.
 
-me:「まあ……ちょっとだけ」
+me:"Well... Kinda."
 
-usa00@rt:でしょ〜？
+usa00@rt:See~?
 
-……なんでそっちが得意げなんだ！
+...What's she getting so smirk about!?
 
-usa00@lb:そうだ！
+usa00@lb:Oh, right!
 
-usa00@rt:うち、素材の買い取りも\nやってるんで〜
+usa00@rt:I also buy\nmonster materials,\nyou see~
 
-me:「買い取り？」
+me:"Monster materials?"
 
-usa00@lb:スライムとか倒したら\n素材落ちた〜？
+usa00@lb:Didn't the slimes\ndrop something after\nyou beat them~?
 
-me:「忘れてた！なんかぷるぷるしたやつが手に入ったぞ！」
+me:"I totally forgot! I got some bouncy, jiggly stuff!"
 
-ギルドから近くにある店に卸してくれって言われてたんだった
-すっかり忘れてこっちに来てしまった。
+The guild people told me to sell them at a shop near the guild.
+I came straight to this item shop, forgetting all about that.
 
-usa00@rt:持ってきてくれたら買い取りますよ〜
+usa00@rt:I'll buy them off you if you bring them here~
 
-me:「……え〜」
+me:"...Huh."
 
-なんか怒られたりしないんだろうか
+I wonder if the guild people might get mad at me for doing that.
 
-usa00@rt:こういうとき\nなんて言うんでしたっけか…
-usa00@lb:あ〜
+usa00@rt:Hmm...\nWhat's the phrase again\nfor this situation?
+usa00@lb:Ah~
 
 usa00:
   目: close_smile
   body: ひろげ
 
-usa00@rt:[wave]精一杯努力させていただきます〜♥[/wave]
+usa00@rt:[wave]I'll give you the best prices~♥[/wave]
 
-me:「……うーん」
+me:"Hmm..."
 
 usa00:
   目: normal
   body: normal
-usa00@lb:明日も来てくださいね〜
+usa00@lb:Come back again tomorrow~
 
-me:「……ｱ、ﾊｲ、 それでは…」
+me:"U-Uh, okay... Be seeing you..."
 
 usa00:exit
 
 ...
 
-……なんか上手いこと丸め込まれたぞ。
+...I feel like she's playing me like a fiddle.
 
-……まあいいか！大丈夫だろ！
+...Well, whatever! Everything will work out fine! Probably!
 
 
 
-me:(とりあえず、今日は遅いしもう寝るか……)
+me:(It's late. I should go to sleep...)
 
 ...
 
@@ -102,7 +103,7 @@ bg: black
 .........
 
 
-.........次の日
+The next day...
 
 bg: street0
 
