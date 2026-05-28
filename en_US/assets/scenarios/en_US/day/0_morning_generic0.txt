@@ -4,64 +4,64 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@lb:ね〜、前から気になってたんだけどさ〜
+usa00@lb:Hey~\nI've meant to ask, you see~
 
-me:「なんすか〜」
+me:"Yes~?"
 
-usa00@rt:冒険者さんって、共用語ぺらぺらだよね〜
+usa00@rt:Mr. Adventurer,\nyou speak the Common Tongue so well, huh~
 
-me:「え？ まあ……」
+me:"Oh? I guess so..."
 
-usa00@lb:いいな〜
-usa00@rt:元から〜?
+usa00@lb:How nice~
+usa00@rt:Were you always\nso good at it~?
 
-me:「うちの村、フツーに共用語圏だったんで」
+me:"Well, that's what we spoke in my hometown."
 
-usa00@lb:なるほど〜
+usa00@lb:I see~
 
-me: 「いや、いいな〜って 全然喋れてるじゃないですか!」
+me:"Hey, you're pretty good at it yourself!"
 
-usa00@lb:やった〜♥
+usa00@lb:Yay~♥
 
-usa00@rt:この島来る前に覚えた〜
+usa00@rt:I learnt it before\ncoming to this island~
 
-me:「へえ……」
+me:"I see..."
 
-usa00@lb:[wave]「いらっしゃいませ〜♥」[/wave]
-usa00@rt:[wave]「ありがとうございま〜す」[/wave]
+usa00@lb:[wave]"Welcome~♥"[/wave]
+usa00@rt:[wave]"Thanks for the purchase~"[/wave]
 
-me:「商売用語から覚えたんすね……」
+me:"You started with all the retail phrases, huh..."
 
-…
+...
 
-そういえば、前から地味に気になったことがあったんだ!
+This reminds me, I've been bothered by this one thing the whole time!
 
-me:「あの〜」
+me:"Um..."
 
-usa00@lb:ん〜？
+usa00@lb:Hmm~?
 
-me:「商品の値段なんか中途半端なの、なんなんすか?」
+me:"Is there a reason why your prices are all in weird numbers?"
 
-usa00@rt:え〜?
+usa00@rt:Huh~?
 
-me:「いや、小銭がそのせいで余るんすよ」
+me:"I'm drowning in small change because of that."
 
-usa00@lb:あ〜?
-usa00@rt:このほうが桁が下がって安く見えるでしょ〜
+usa00@lb:Ah~?
+usa00@rt:The left digit goes down\nand it looks cheaper, see~?
 
-me:「……？？？？？？」
+me:"...??????"
 
-usa00@lb:わかんない〜？
+usa00@lb:Don't get it~?
 
-me:「……桁?」
+me:"...What's a digit?"
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!
