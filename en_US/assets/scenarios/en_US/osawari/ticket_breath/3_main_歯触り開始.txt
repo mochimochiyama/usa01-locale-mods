@@ -1,79 +1,79 @@
 
-usa00@rt:[tornado]っぽ[/tornado]
+usa00@rt:[tornado]Pop~[/tornado]
 
 usa00@rt:
   口: normal
 
-usa00@lb:[tornado]ぱあ♥[/tornado]
+usa00@lb:[tornado]Puh♥[/tornado]
 
-…!
+...!
 
-usa00@rt:はーい♥
+usa00@rt:Okay~♥
 
 usa00:
   目: close_smile
 
-usa00@lb:おしま〜い
+usa00@lb:The end~
 
-…
+...
 
 usa00:
   目: normal
 
-usa00@rt:なんか〜
-usa00@lb:違うとこさわられてたような〜?
+usa00@rt:I feel like~
+usa00@lb:You touched some weird place~?
 
-me: 「よく、 わかりませんでした!!!!!!」
+me: "MAYBE, I DON't KNOW!!!!!!"
 
 usa00:
   目: close_smile
-usa00@rt:え〜♥
+usa00@rt:Huh~?♥
 usa00:
   目: normal
-usa00@lb:ホントかなあ〜
+usa00@lb:Really~?
 
-me: 「ぷにぷにではありました!!!!!!!」
+me: "They were really squooshy!!!!!!"
 usa00:
   目: close_smile
-usa00@rt: ぷに〜?
+usa00@rt: Squooshy~?
 
-me: 「もうちょっとだけ、おねがいできませんか!!」
+me: "Can I maybe, uh, get a little more...?!"
 
 
-usa00@rt: え〜
+usa00@rt: Huh~
 
 usa00:
   目: normal
-usa00@lb: ほんとはもうおわるつもりだったけど〜
-usa00@rt: しかたないな〜
+usa00@lb: That was supposed to be the end~
+usa00@rt: I guess it can't be helped~
 
-me: 「仕方ないｷﾀ! やさしい! やさしい!」
+me: "CAN'T BE HELPED, YAY! SO KIND! KINDEST BUNNY!"
 
-usa00@rt: やさしいので〜
-usa00@lb:トクベツに〜
-usa00@lb: はみがき〜？
+usa00@rt: Because I'm kind~
+usa00@lb:Just this once~ I'll let you~
+usa00@lb: Brush my teeth~?
 
-me: 「[shake]!!!!! はみがき??????????!!!![/shake]」
+me: "[shake]!!!!! BRUSH YOUR TEETH?!?!?!?!?!?!?![/shake]"
 
-usa00@rt: 声でか〜♥
+usa00@rt: So loud~♥
 
-me: 「[shake]でも!!!! はみがきいまないです!! 棒の 棒のやつが!!!!![/shake]」
+me: "[shake]BUT UH!!!! I don't have a toothbrush!! The stick-shaped thing!!!!![/shake]"
 
-usa00@rt: じゃあトクベツに〜\nしかたがないので〜
-usa00@lb: ゆびで〜
+usa00@rt: Okay then, just this one~ Since it can't be helped~
+usa00@lb: You can use your finger~
 
-me: アー……
+me: Oh...
 
 usa00:
   口: 舌出し
 
-usa00@rt:[tornado]あ〜っ[/tornado]
+usa00@rt:[tornado]Ah~[/tornado]
 
 
 usa00:
   目: close_smile
 
-usa00@lb:[tornado]ほっへはあっっへひーへっほ♥[/tornado]
+usa00@lb:[tornado]Hyull mhy heeeks haside♥[/tornado]
 
 usa00:
   area_口: none

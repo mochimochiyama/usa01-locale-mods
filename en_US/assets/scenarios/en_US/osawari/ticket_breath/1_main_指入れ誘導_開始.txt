@@ -3,39 +3,39 @@
 usa00:
   目: close_smile
 
-usa00@rt:おしまい〜
+usa00@rt:The end~
 
 usa00:
   目: normal
 
-usa00@lb:どうでしたか〜?
-usa00@rt:実はちょっと自信あった〜
+usa00@lb:How was it~?
+usa00@rt:I know it should be good~
 
-me:すごい、 スゴイ柔らかかったです!
-me:モチでした！
+me:It's so... SO SQUOOSHY!!
+me:Like MOCHI!!!
 
 usa00:
   目: close_smile
 
-usa00@rt: やった〜♥
+usa00@rt: Yay~♥
 
 usa00:
   目: normal
 
-usa00@lb: もち〜?
+usa00@lb: Mochi~?
 
-me:「ｱﾉ…」
+me:"Uh..."
 
 usa00:
   目: normal
-usa00@rt: あの〜?
-usa00@lb: なにか〜\n思ってることがあったり〜
+usa00@rt: Hmm~?
+usa00@lb: Anything on your mind~?
 
-me:「や...」
+me:"Nope..."
 
-何も思ってないぞ!
+NOTHING!
 
 usa00:
   目: close_smile
 
-usa00@rt:「ほっぺって♥ 普通じゃん♥」
+usa00@rt:"Quite normal cheeks, huh~?♥"

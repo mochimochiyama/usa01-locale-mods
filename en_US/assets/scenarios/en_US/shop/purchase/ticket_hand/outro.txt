@@ -1,17 +1,17 @@
 
 bg: shop
 
-…
+...
 
-……
+......
 
-………
+.........
 
-………もしかしてボッタクられた……? (冷静)
+...Did I just get scammed?
 
 usa00:
   posure: front
 
-usa00@rt:またね〜
+usa00@rt:See you again~
 
-……まあいいか!!
+...Well, whatever!!

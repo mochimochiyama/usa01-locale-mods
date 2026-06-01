@@ -1,79 +1,78 @@
 
 bg: shop
 
-me:「ちわ〜」
+me:"Howdy~"
 
-…
+...
 
-……反応がない
+...No reaction.
 
-………!
+...!
 
 usa00:
   posure: front
 
-usa00@rt:あ！\nいいとこに―――
+usa00@rt:Oh!\nYou came at the—
 
-me: 「それで…これは?」
+me: "Well... and what's this thing?"
 
-ぱしっ 唐突の白刃取りを決めた、話の速さに磨きがかかった! (?)
+THERE! I cut her off like catching a sword mid-swing. I'm catching on quicker than quicksilver! (What?)
 
-usa00@rt: これは〜
+usa00@rt: This here~
 
 usa00:
   body: ひろげ
 
-usa00@lb: ほんとにナゾ…です
+usa00@lb: ...is a complete mystery...
 
-なんか金のちっせーブローチ? みたいなものがカウンターの上に置かれ――――
+It's a small, golden, nut-shaped brooch? She places it on top of the counter...
 
-もぞもぞ勝手に動いている!!
+...And then it begins wriggling and writhing!!!
 
-me: 「マジでなにこれ!」
+me: "What the hell is this!?!?"
 
-usa00@rt: 素材は本物の金っぽい?
-usa00@rt: なんか半分の片割れっぽい?
+usa00@rt: "It's made of real gold, I think?"
+usa00@rt: "It's split in half, too?"
 
-指でちょんちょんつついているぞ!
+She's poking at it with her finger!
 
-me: 「.....え、 ほんとに知らないの?」
+me: "...Huh. You actually have no idea what it is?"
 
 usa00:
   body: normal
 
-usa00@lb: たぶん故郷から持ってきたやつなんですけど〜
-usa00@rt: なんかお守りみたいな見た目〜
+usa00@lb: I think I might have brought it here from my hometown~
+usa00@rt: Looks kind of like some talisman~
 
-me: 「ほんとにわかんないやつなんだ!」
+me: "It's a mystery even for you!?"
 
-usa00@lb: これ〜
-usa00@rt: あげま〜す♥
+usa00@lb: Here~
+usa00@rt: You have it~♥
 
-me: 「いや、いらないかも!!!」
-me: 「てか、買わされるんじゃん!!」
+me: "Uh, I'll pass!!!"
+me: "Wait, you're gonna force me to buy it, aren't you!?!?"
 
-usa00@lb: まあまあ〜
-usa00@rt: 最近結構がっぽり〜?
-usa00@lb: わたしの装備がなかったら、今頃どうなってたか〜
+usa00@lb: Come on~
+usa00@rt: You're getting plenty rich lately~
+usa00@lb: And without my gear, who knows where you'll be right now~
 
-me: 「くそッ...」
+me: "Darn it..."
 
-…あっ、そうだッ!!!
+...Which reminds me!!!
 
-me: 「言おうと思ってたんだッ! こないだッ 木剣 100G で売ってたのみたッ!!」
+me: "I've been wanting to mention it! I saw a wooden sword going for 100G recently!!!"
 
-usa00@rt:しかたないですね〜
-usa00@lb:今回はトクベツに〜\nこのアイテムの命名権もつけます〜♥
+usa00@rt:Alright~\nFine~
+usa00@lb:Just this once~\nI'll let you name this item~♥
 
-話題そらすな!
+Don't change the topic!
 
-ﾔ、でも名前つけていいのか… なんかちょっとワクワクするかも!
+But I get to name this thing, huh...? That's kinda exciting!
 
-me: 「……金で… たまで… おまもり…」
-
-me: 「……金玉のタリスマン?」
+me: "...It looks like a nut... and it's a talisman..."
+me: "...The nut talisman?"
 
 usa00:
   目: close_smile
 
-usa00@rt: [wave]きゃ〜♥[/wave]
+usa00@rt: [wave]Kyah~♥[/wave]

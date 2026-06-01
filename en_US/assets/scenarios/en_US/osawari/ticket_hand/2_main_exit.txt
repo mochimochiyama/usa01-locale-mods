@@ -3,36 +3,36 @@ usa00:
   前腕右: 待機
   右手: 待機
 
-usa00@rt:10回で〜す♥ 20か~い?
-usa00@lb:おしまい〜
+usa00@rt:That's ten times~♥ Or twenty?
+usa00@lb:The end~
 
-me:「………すごかった!!!!!!!!!」
+me:"...That was AMAZING!!!!!!"
 
-すごかったぞ!
+That was amazing!
 
-何というか…
+How should I put it...
 
-me: 「なんか毛はきめ細かいんだけど、 肉球のとこはちょっとぷにゃっとしててあとちょっとなんかちょっとだけ湿ってた!!」
+me: "The fur was quite delicate and smooth but the paw pads were squishy and they were kinda moist!!!"
 
-usa00@rt:声出して言うことですか〜？
+usa00@rt:Are you sure you should be saying that out loud~?
 
-me: 「すごい!」
+me: "AMAZING!"
 
 usa00:
   上腕: normal
   前腕右: none
   右手: none
 
-usa00@rt:今回はおしまいですけど〜
+usa00@rt:That's the end for this time~
 
-usa00@lb:もしかしたら〜
+usa00@lb:But maybe~
 
-usa00@rt:新しいやつ〜 入荷するかも〜♥
+usa00@rt:I might stock some new tickets~♥
 
-me:「新しい…やつ…？」
+me:"New... tickets...？"
 
-usa00@rt:気になる〜？
+usa00@rt:Interested~?
 
-me:「...ｷﾆﾅﾙ」
+me:"...INTERESTED."
 
-usa00@rt:お楽しみに〜
+usa00@rt:Look forward to it~

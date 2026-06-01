@@ -1,69 +1,69 @@
 
 bg: shop
 
-me: 「また買っちゃった……」
+me: "I bought another one..."
 
 usa00:
   posure: front
 
-usa00@rt: まいど〜♥
+usa00@rt: Thank you~♥
 
-me: 「これで最後か！」
+me: "So this is the last one!"
 
-usa00@lb: 最後ですよ〜
-usa00@rt: 3部作の完結編で〜す♥
+usa00@lb: The last indeed~
+usa00@rt: The final volume~♥
 
-usa00@rt: さっさと使っちゃいますか〜?
+usa00@rt: Are you using it right now~?
 
-me: 「いきますか！」
+me: "Let's go!"
 
-これで上級ってことだよな!!!!!
+So this makes me a magic master!!!!!!
 
-me: 「じゃあ、いきます」
+me: "Okay. Here I go."
 
-usa00@rt: はいはい〜
+usa00@rt: Go on~
 
-頭をくっつけて……
+Head to the book...
 
-me: 「……」
+me: "..."
 
-…
+...
 
 usa00:exit
 
 bg: black
 
-……
+......
 
-???: 「この"法"を極めんとする"者"よ……」
+???: "The One who seeks to Master this Law..."
 
-me: 「ﾁﾜｰｯｽ」
+me: "Ahoy."
 
-???:「ここまで"極めた"とは……」
+???:"To think you would reach such Mastery..."
 
-me:　「ｳｨｰｯｽ」
+me:　"Uh-huh."
 
-???:「……」
+???:"..."
 
-???:「では……」
+???:"Now..."
 
-???: 「この"法"は"認識"を"魂"から断ち切る…」
+???: "This Law severs Cognition from the Soul..."
 
-…
+...
 
 bg: shop
 
 usa00:
   posure: front
 
-usa00@rt: 終わった〜?
+usa00@rt: Done~?
 
-me: 「……はい」
+me: "...Yep."
 
-usa00@lb: どうでした〜?
+usa00@lb: How was it~?
 
-me: 「……なんか、よくわかんねですけど……ﾊｲ」
+me: "Not sure but uh, it did a thing... I think..."
 
-usa00@rt: よかったですね〜♥
+usa00@rt: Good to hear~♥
 
-なんか……睡眠魔法を極めたらしい!!!
+I mastered sleep magic!!! I think...!!!

@@ -1,15 +1,15 @@
 
 
-me:「あ,[font_size=24][shake]握手してください!!![/shake][/font_size]」
+me:"Pl-[font_size=24][shake]Please let me shake your hand!!![/shake][/font_size]"
 
-usa00@rt:[tornado]くぅくぅ♥[/tornado]
-usa00@lb:そんなにわたしの手\n触りたい〜?
+usa00@rt:[tornado]Khuu-khuu♥[/tornado]
+usa00@lb:Do you want to\nshake my hand\nthat much~?
 
-me: 「[shake]触りたいかも!!!![/shake]」
+me: "[shake]VERY MUCH!!!![/shake]"
 
-……純粋なやつな!!!!
+...I'M A SIMPLE MAN!!!
 
-usa00@rt:しょうがないですね〜
+usa00@rt:I guess it can't be helped~
 
 usa00:
   上腕: 握手待機_右手
@@ -17,11 +17,11 @@ usa00:
   右手: 待機
   手袋: あり
 
-usa00@lb:どうぞ〜♥
+usa00@lb:Here~♥
 
-me: 「ﾔｯﾀｰｰｰ」
+me: "YAY!"
 
-usa00@rt:あ, そうそう
-usa00@lb:10回だけですよ〜
+usa00@rt:Oh, but...
+usa00@lb:Only ten times~
 
-me: 「[shake]そんなこと書いてなかったぞ!![/shake]」
+me: "[shake]That's not on the ticket!!![/shake]"

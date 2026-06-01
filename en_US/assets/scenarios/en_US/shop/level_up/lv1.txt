@@ -1,39 +1,39 @@
 
 bg: shop
 
-me:「ちわ〜」
+me:"Howdy~"
 
-…
+...
 
-……反応がない
+No reaction, huh...
 
-me:「ｱﾉ(ひと呼吸) あの―――――
+me:"Um... (Pauses) UMM—"
 
 usa00:
   posure: front
 
-usa00@rt:あ！\nいいとこに来ましたね〜
+usa00@rt:Oh!\nYou came at the right time~
 
-usa00@lb:いまね\n商品切らしちゃってて〜
+usa00@lb:So, right now~\nI'm all run out~
 
-me: 「...ﾊｧ」
+me: "...Huh."
 
-ちらり 棚を見る
+I glance at the racks.
 
-普通にめっちゃあるな!!!!!
+There's a butt load of stock!!!
 
-me: 「あるじゃん」
+me: "There's stock."
 
-usa00@rt:[wave]なんもない、で〜す♥[/wave]
+usa00@rt:[wave]Nuh-uh~\nNothing for sale~♥[/wave]
 
-そうなると、こちらは有無が言えない、と行った形になるな…
+Well, it's not like I can do anything if that's how she wants to play...
 
-usa00@lb:その代わり〜\nこれだけあるんですけど〜
+usa00@lb:But I happen to have~\nthis one thing here for sale~
 
-usa00@rt:[font_size=23][wave]握手券で〜す♥[/wave][/font_size]
+usa00@rt:[font_size=23][wave]A handshake ticket~♥[/wave][/font_size]
 
 ...
 
 ......
 
-......握手券？
+...Handshake ticket?

@@ -1,74 +1,74 @@
 
 bg: shop
 
-me: 「たぶんって何!!!!!!!」
+me: "What's with the (probably?) thing!?!?!?"
 
 usa00:
   posure: front
 
-usa00@rt:あ、これですか〜？
+usa00@rt:Oh, this~?
 
-usa00@lb:魔導書~、たぶん
+usa00@lb:It's a grimoire~ probably~
 
-me: 「ﾀﾌﾞﾝｶ〜」
+me: "A probably grimoire, huh~"
 
-usa00@rt:むかし開いてみたんだけど、中身が真っ白で〜
-usa00@lb:でも見た目は魔導書… っぽい
+usa00@rt:It was all blank the last time I read it~
+usa00@lb:But it looks kinda like a grimoire~
 
-me: 「ふーん…」
+me: "Huh..."
 
-usa00@rt:日記でもかいたらどうですか～
+usa00@rt:Maybe you can use it as a journal~
 
-me: 「日記か〜。この島での生活を記録しておくのもいいかもな〜。」
+me: "A journal, huh... Could be helpful to record my life on this island, I suppose..."
 
-usa00@rt:そうですよ〜
-usa00@lb:じゃあお買い上げ〜〜♥
+usa00@rt:That's right~
+usa00@lb:Thanks for the purchase~~♥
 
 usa00:exit
 
-そういえば、魔導書って話だったし、 一応試してみるか
+It's supposedly a grimore, huh... I guess I might as well try.
 
-me: 「オリャッ」
+me: "Here I go!"
 
-…
+...
 
-……
+......
 
 
 bg: black
 
-………
+.........
 
-me: 「ﾜ!!!!!」
+me: "Woah!!!"
 
-???: 「この"法"を開いた"者"が現れたか…」
+???: "To think One who Evokes this Law would appear..."
 
-me: 「!?!」
+me: "!?!"
 
-???: 「この"法"は"魂"を"覗き見る"...」
+???: "This Law grants a Glimpse into the Soul..."
 
-???: 「対象を見つめ、念じるがいい」
+???: "Gaze at the subject, then focus."
 
-???: 「使い方は伝えた… 後は好きにしろ…」
+???: "I have given you the way... Now do as you like..."
 
-me: 「…」
+me: "..."
 
-…
+...
 
 bg: shop
 
 ...
 
-ほんとに魔導書だった!
+It's real!
 
-俺って実は結構魔法の才能あるのかな!
+Also, maybe I'm kind of a magic prodigy!?
 
-システム:「道具屋さんの体の開発度が見られるようになりました」
+System:"You can now check the shopkeeper's sexual status."
 
-me: 「ﾀﾞﾚ!?」
+me: "Who said that!?"
 
-…
+...
 
-(あとでこっそり見てみるか)
+(I guess I'll take a peek later...)
 
-…
+...

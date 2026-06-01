@@ -1,18 +1,19 @@
 
 bg: shop
 
-…
+...
 
-……
+......
 
-………ふぅ
+Phew...
 
-いや、 なんか すごい良かったのは良かったんだけど
-… いや、これはすごかったな… (冷静)
+That was quite, uh, amazing and great and all but uh...
+
+...Yeah, that was quite amazing.
 
 usa00:
   posure: front
 
-usa00@rt:またね〜
+usa00@rt:See you again~
 
-……頑張るぞ!!
+...I'LL DO MY BEST!!!

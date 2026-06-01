@@ -10,47 +10,47 @@ usa00:
   まんこ: normal
 
 
-me:「アノ~…」
+me:"Uhhh..."
 
 usa00:
   目: close_smile
-usa00@rt:なんですか〜?
+usa00@rt:Yes~?
 
-me:「今日はうしろからつかまっていいですかね…」
+me:"Can I hold you from the back today...?"
 
 usa00:
   目: close_hun
-usa00@rt:えー?
+usa00@rt:Huh~?
 
 
 usa00:
   me構図: すまた
 
-…ぎゅっ!
+...Grab!
 
 usa00:
   目: close_smile
 
-usa00@rt:あ〜♥
-usa00@lb:かってにぎゅするな〜♥
+usa00@rt:Ah~♥
+usa00@lb:Don't surprise grab me~♥
 
-…
+...
 
 usa00:
   目: normal
-usa00@lb:へんなとこさわってないか〜♥
+usa00@lb:I feel like you're touching me weird~♥
 
-usa00@rt:これめっちゃ触ってるような〜♥?
+usa00@rt:You're touching me, aren't you~♥?
 
-me: 「…ギリ、 ギリっす!」
+me: "...Barely! Just barely!!!"
 
 usa00:
   目: close_hun
-usa00@rt:しかたないな〜♥
+usa00@rt:You just can't be helped~♥
 
 usa00:
   目: normal
   すまた: normal
 
-…
+...
 

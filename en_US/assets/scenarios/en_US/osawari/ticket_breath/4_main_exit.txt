@@ -1,36 +1,36 @@
 
 
-usa00@rt:あ〜っ
+usa00@rt:Ah~
 
 usa00:
   口: う_指入れ待機
 
-usa00@lb: う〜♥
+usa00@lb: Ooo~♥
 
 usa00:
   口: normal
 
-usa00@lb:おしまいです〜
+usa00@lb:The end~
 
-me:………
+me:...
 
-usa00@rt:ちょっと〜
+usa00@rt:Hey, you~
 
 usa00:
   目: close_smile
 
-usa00@lb:なんか違うとこ〜? \n 触られてたような〜?
+usa00@lb:I feel like~\nYou touched some weird place~?
 
 
-me: …
+me: ...
 
 usa00:
   目: normal
-usa00@rt: はみがきできたかな〜？
+usa00@rt: Did you manage to clean my teeth~?
 
-usa00@lb: ちょっとちかづいて〜
+usa00@lb: Come closer~
 
-me: ﾊｲｯ…
+me: Okay...
 
 usa00:
   camera_focus: face
@@ -39,22 +39,22 @@ usa00:
   口: 舌出し
   舌: normal
 
-usa00@rt: あ〜♥
+usa00@rt: Ah~♥
 
-me: ………
+me: ...
 
 usa00:
   camera_focus: mouth
   目: close_smile
 
-usa00@rt: はぁ〜♥♥
+usa00@rt: Haaah~♥♥
 
-…!!!!!!!!!!!!!!!!!!!!!!
+...!!!!!!!!!!!!!!!!!!!!!!
 
 usa00:
   舌: でてる0
 
-usa00@rt: はぁぁぁ〜♥♥
+usa00@rt: Haaaaaah〜♥♥
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -63,25 +63,25 @@ usa00:
   口: normal
   camera_focus: face
 
-usa00@rt:どうでしたか〜
+usa00@rt:So did you~?
 
-me: 「めっちゃいいにおいした!!! できてたかも!!!!」
+me: "IT SMELLS SO NICE!!! I THINK I DID!!!"
 
 usa00:
   目: close_smile
 
-usa00@rt: きゃ〜♥
+usa00@rt: Kyah~♥
 
 usa00:
   目: normal
 
-usa00@lb: てんさいかも〜?
+usa00@lb: Maybe you're talented~?
 
-me: 「俺、天才なんです!!!」
+me: "I'M TALENTED!!!"
 
 usa00:
   camera_focus: normal
 
-…
+...
 
-……
+......

@@ -1,81 +1,81 @@
 
 bg: shop
 
-買ってしまった…
+I can't believe I bought this...
 
-me: 「…………」
+me: "..."
 
 usa00:
   posure: front
 
-usa00@rt: ありがとうございま〜す♥
+usa00@rt: Thanks for the purchase~♥
 
-me: 「……金玉のタリスマン」
+me: "...The nut talisman."
 
-usa00@lb: いい名前ですね〜♥
+usa00@lb: Such a great name~♥
 
-いや、絶対バカにしてるだろ!!!
+GAH! She's definitely making fun of me!!!
 
-usa00@rt: きっとご利益ありますよ〜♥
+usa00@rt: I'm sure it'll bring you blessings~♥
 
-me: 「なんのご利益だよ……」
+me: "Blessing what...?"
 
-usa00@rt: 強くなりそうじゃないですか〜♥
+usa00@rt: Maybe it'll make you stronger~?♥
 
-me: 「……適当に会話してない!?」
+me: "...Now you're making things up!"
 
-usa00@rt: またのご利用お待ちしてま〜す♥
+usa00@rt: Hope to see you again~♥
 
 usa00:exit
 
-me: 「コレまじでいらないやつだった?」
+me: "I'm pretty sure I bought some actual garbage..."
 
-…
+...
 
-…………
+......
 
-me: 「はあ……」
+me: "Sigh..."
 
-まあ、 今日はもう――
+Whatever, I'll just call it for today--
 
-…
+...
 
-……ん?
+...Huh?
 
-急に、なんか股間がズシリと重くなった気が…
+Why do I feel a certain weight in my groins...?
 
-気のせいか?
+Am I imagining things?
 
-me: 「……」
+me: "..."
 
-……念のため、確認しとくか。
+...Let me check just to be sure.
 
-……
+...
 
-…………
+......
 
-me: 「……え?」
+me: "...What?"
 
-me: 「[shake]え!?!?!?[/shake]」
+me: "[shake]WHAT!?!?!?[/shake]"
 
-ふ……
+Tw...
 
-金玉が2つになってる!!!!!!!!!!
+TWO NUTSSSSS!!!!!!
 
-俺はカタタマだったはずなのに……
+I only had one ball before...
 
-金玉が……
+Now, I have...
 
-me: 「[shake]二つある!?!?!?!?[/shake]」
+me: "[shake]TWO BALLS!?!?!?!?[/shake]"
 
-システム: 「射精回数が2回に増えました」
+System: "Your nut count has increased to two."
 
-me: 「ダレ!?」
+me: "Who said that!?"
 
-…
+...
 
-……
+......
 
-…………
+.........
 
-me: 「……こえ～～～～～～～～」
+me: "...Spoooooky."

@@ -3,26 +3,26 @@ usa00:
   focus: default
   目: close_smile
 
-usa00@rt:はい10回で〜す♥
+usa00@rt:Okay, that's ten~♥
 
 usa00:
   腕: normal
   目: close_humu
 
-usa00@lb:なんか〜 もみもみ〜 きもちいい〜?
+usa00@lb:It feels~ kinda good~ getting rubbed~?
 
-me: 「俺も、きもちいいです! (?)」
+me: "Me too, I feel good! (?)"
 
 usa00:
   腕: normal
   目: normal
 
-usa00@rt: でも〜 ずっと足上げてて〜
-usa00@lb: なんだかつかれちゃったな〜
+usa00@rt: You know~ Raising my legs like so~
+usa00@lb: Feeling kinda tired now~
 
-me: 「俺は、ぜんぜんつかれてないですね!」
+me: "I'm not tired at all!"
 
-usa00@rt: わたしはつかれたな〜
+usa00@rt: I am~
 
 
 usa00:
@@ -33,9 +33,9 @@ usa00:
   focus: 開脚足裏
 
 
-……!!!!
+...!!!!
 
-usa00@rt: は〜 らくち〜ん♥
-usa00@lb: もうちょっとつよく〜?\nマッサージ〜?おねがいします〜
+usa00@rt: Haah~ Better now~♥
+usa00@lb: Can you rub harder~?\nMassage more~? Thanks~
 
-me: 「……ッス!」
+me: "...Gladly!"

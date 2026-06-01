@@ -4,13 +4,13 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt: わー!!かったんですね
+usa00@rt: Wowww!\nYou bought it?
 
-me: 「ｵﾈｶﾞｲｼﾏｽ… 」
+me: "Please..."
 
-usa00@lb:こんなこと おてんとさまの下でてきないですよね~
+usa00@lb:We can't do this in broad daylight~
 
-usa00@rt:よるに、部屋に来てください〜♥
+usa00@rt:Come to my room at night~♥
 
-me: 「ﾔｯﾀｰｰｰｰｰ!!!!」
-me: 「絶対行きます!!!!」
+me: "YAY!!!"
+me: "WILL BE THERE, FOR SURE!!!"
