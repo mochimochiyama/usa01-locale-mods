@@ -4,43 +4,43 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@lb:…
+usa00@lb:...
 
-me:「…」
+me:"..."
 
-me:「…ｴｰﾄ」
+me:"...S-So."
 
-me:「……こ、この島、 いっつも晴れてますね!」
+me:"...This island is just always sunny, huh?"
 
 usa00:
   目: close_smile
 
-usa00@rt:ね〜
+usa00@rt:Sure is~
 
-me:「雨とか降らないんすか？」
+me:"Does it just never rain here?"
 
 usa00:
   目: normal
 
-usa00@lb:そうらしいね〜
+usa00@lb:Apparently no~
 
-me:「そうなんすね」
+me:"No, huh..."
 
-usa00@rt:うん〜
+usa00@rt:Mh-hm~
 
-…
+...
 
-……会話に困ったら、 天気の話すればいいって、 本当だったんだ!
+...People say talk about the weather when you have no topics, and it totally worked!
 
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

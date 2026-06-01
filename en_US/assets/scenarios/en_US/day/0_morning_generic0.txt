@@ -25,7 +25,7 @@ usa00@lb:I see~
 
 me:"Hey, you're pretty good at it yourself!"
 
-usa00@lb:Yay~♥
+usa00@lb:Yay~ Thanks~♥
 
 usa00@rt:I learnt it before\ncoming to this island~
 
@@ -44,7 +44,7 @@ me:"Um..."
 
 usa00@lb:Hmm~?
 
-me:"Is there a reason why your prices are all in weird numbers?"
+me:"Is there a reason why your prices are all weirdly numbered?"
 
 usa00@rt:Huh~?
 

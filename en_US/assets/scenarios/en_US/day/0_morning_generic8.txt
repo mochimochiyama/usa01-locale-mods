@@ -4,32 +4,32 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「チワース」
+me:"Howdy."
 
-usa00@rt:[tornado]バパン[/tornado] 語講座〜
+usa00@rt:[tornado]Bunnin[/tornado] language\nlesson time~
 
-me: 「ﾏｯﾃﾏｼﾀｰｰｰ」
+me:"Alright! I've been waiting for this!"
 
-usa00@rt:ありがとうは〜
-usa00@rt:[tornado]クニャ![/tornado]
+usa00@rt:You say "thank you" with~
+usa00@rt:[tornado]Khunya![/tornado]
 
-me: 「[shake]ｸﾆｬ[/shake]」
+me:"[shake]Khunya[/shake]"
 
-usa00@rt: ちっちっち
-usa00@lb: 喉を開けて 鼻から
+usa00@rt: Nuh-uh-uh.
+usa00@lb: Relax your throat~\nNasal voice too~
 
-usa00@rt:[tornado]クニャ![/tornado]
+usa00@rt:[tornado]Khunya![/tornado]
 
-me: 「[tornado][shake]ｸﾆｬ[/shake][/tornado]」
+me:"[tornado][shake]Coonya[/shake][/tornado]"
 
-あっちょっと回った!!
+Ah, the words spinned a little!
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

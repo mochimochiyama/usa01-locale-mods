@@ -4,75 +4,75 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはよ〜ございます」
+me:"Good~ morning~"
 
-usa00@lb:……
+usa00@lb:......
 
-usa00@rt:……
+usa00@rt:......
 
-道具屋さんがじ〜っとこっちを見ている。
+The shopkeep is giving me quite the stare.
 
-me:「……なん」
+me:"...Uh, what's the--"
 
-usa00@lb:ね〜
-usa00@rt:冒険者さんってさ〜
+usa00@lb:Hey~
+usa00@rt:Mr. Adventurer, you~
 
-me: 「…ｺﾞｸﾘ」
+me:"...Gulp."
 
-usa00@rt:なんで毎朝来るんですか〜?
+usa00@rt:You come here everyday, huh~?
 
-me: 「[shake]ｴｴ!!!迷惑だったやつ!!!!!?[/shake]」
+me:"[shake]ACK!!! Am I being a nuisance!!!!!?[/shake]"
 
-usa00@rt:そういうことじゃなくて〜
-usa00@lb:他の店しらないんですか〜?
+usa00@rt:Oh, I don't mean that~
+usa00@lb:But don't you know other shops~?
 
-びっくりしたぞ…
+Phew, thank goodness...
 
-me:「いや……ここしか知らないだけ…ｯｽﾈ…」
+me:"Uh... This is the only place I know... I guess..."
 
-なんやかんやこの店にずっと通ってしまっている。
-微妙に距離あるのに……
+For some reason, I just keep coming back here.
+Why, I wonder? It's kinda far from town too...
 
-me: 「でもまあ、 べつにここで足りてるので…」
 
-昨日飯の帰り、宿までの道の途中にあった武器屋を覗いたら
-なんかちっちゃい爺さんがめちゃくちゃ睨みつけてきてｺﾜｶｯﾀ…
+me:"But well, I can get everything I need here, so..."
 
-usa00@rt:[wave]え〜♥[/wave]
-usa00@lb:ほんとかなあ
+I took a peek at a weapon shop after dinner. Some short, old man inside the shop kept glaring at me and I got scared...
 
-me:「ﾎﾝﾄﾓﾅﾆﾓ」
+usa00@rt:[wave]Huh~♥[/wave]
+usa00@lb:Is that so~?
 
-usa00@rt:なんか~
-usa00@lb:ちらちら見てるような〜?
+me:"Very much so indeed yes."
 
-そういうとちらっと、おしりをこちらに向けてきた!
+usa00@rt:You know~
+usa00@lb:I feel like you might be stealing glances at me, hmm~?
 
-me:「[shake]…ﾜ![/shake]」
+And after she says that, she wiggles around and turns her butt toward me!
 
-me:「[shake]……[/shake]」
+me:"[shake]...Woah![/shake]"
 
-usa00@lb:ふ〜ん♥
+me:"[shake]...[/shake]"
 
-me:「い、いや……」
+usa00@lb:Hmmmmm♥
 
-usa00@rt:気になっちゃう〜?
-usa00@lb:うちの商品〜♥
+me:"U-Uh..."
 
-me:「ｿ そうっすね~~。気になります、商品が…」
+usa00@rt:Interested~?
+usa00@lb:In my wares~?♥
 
-me:「[shake]……[/shake]」
+me:"Uh. Yep. Interested. In the wares. Yes."
 
-なんかにやにやしているな…
+me:"[shake]......[/shake]"
 
-usa00@rt:♪〜
+She has the smuggest grin on her face...
+
+usa00@rt:♪~
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

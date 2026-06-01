@@ -4,55 +4,55 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「チース」
-
-usa00:
-  body: ひろげ
-
-なんか指をグニグニにしながらお金を数えているぞ！
-
-そういえば、前から気になってたんだった!
-
-me: 「それなんすか〜」
-
-usa00:
-  body: normal
-
-usa00@rt:どれ〜?
-
-me: 「その指の」
+me:"Heya."
 
 usa00:
   body: ひろげ
 
-するとこちらに手を向けてきた, 指を四本たてて…
+She's wriggling her fingers and counting money!
 
-me: 「4?」
+I remember her doing that before! Which reminds me, I've always wanted to ask her about that!
 
-usa00@rt: これは3〜
-
-me: 「どこが!?」
-
-指の形が変わったぞ!
-
-me: 「オッケー!」
-
-usa00@rt: これは6〜
-
-me: 「…変な数え方っスね〜」
+me:"What are you doing, by the way~"
 
 usa00:
   body: normal
 
-usa00@rt:変か〜?
+usa00@rt:Do what~?
 
-…
+me:"The finger thing."
+
+usa00:
+  body: ひろげ
+
+She spreads her palm toward me, four fingers raised...
+
+me:"Four?"
+
+usa00@rt: This is three~
+
+me:"Three how!?"
+
+She's moving her fingers now!
+
+me:"Okay!"
+
+usa00@rt: This is six~
+
+me:"...That's a funny way to count."
+
+usa00:
+  body: normal
+
+usa00@rt:Is it~?
+
+...
 
 
 usa00:exit
 
-……
+......
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

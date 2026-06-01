@@ -2,13 +2,13 @@
 
 bg: shop
 
-今日は遅いしもう寝るか〜〜…
+It's getting late. I think I should sleep...
 
 bg: black
 
 ...
 
-...次の日
+The next day...
 
 bg: street0
 

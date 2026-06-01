@@ -4,111 +4,111 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはよーございます」
+me:"Good morning."
 
-usa00@lb:ね〜、そういえば〜
+usa00@lb:Hey~\nBy the way~
 
-me:「なんすか〜」
+me:"Yes~?"
 
-usa00@rt:冒険者さんって、魔法使える？
+usa00@rt:Can you use magic, Mr. Adventurer?
 
-me:「魔法……」
+me:"Magic..."
 
-usa00@rt:魔法〜
+usa00@rt:Magic~
 
-me:「あー……いや、たぶん使えないっすね」
+me:"Uh... Probably no, I think?"
 
-usa00@lb:たぶん〜？
+usa00@lb:Probably~?
 
-me:「いや……わかんないっていうか ﾅﾝﾃｲｳｶ」
+me:"I mean... I don't really know, is the thing..."
 
-usa00@rt:わかんないってなんですか〜
-usa00@lb:使えるか使えないかでしょ〜
+usa00@rt:What do you mean~?
+usa00@lb:You either can or you cannot~
 
-me:「昔、村でなんかやったんすよ」
+me:"I did, you know, the thing back in my hometown."
 
-usa00@rt:うん
+usa00@rt:Uh-huh.
 
-me:「玉? なんか触るやつ」
+me:"I touched this... orb thingy?"
 
-me:「なんかの護衛で滞在してた魔術師のおっさんがヒマつぶしで、村の子供集めてやってくれて」
+me:"There was this old mage dude who was staying as a bodyguard or something, and he gathered up the kids to kill time."
 
-usa00@rt:へえ〜
+usa00@rt:Huh~
 
-me:「で、 「全然だめだな!!!!」 っていわれた」
+me:"And he said I'm 'A COMPLETE FAILURE!!!!', you see."
 
 usa00:
   目: close_smile
 
-usa00@rt:ダメだな〜♥
+usa00@rt:Failure~♥
 
-思い出したらあのおっさん、腹立ってきたな
+I'm getting kinda pissed now remembering that mage.
 
-そんな言うことないだろ、子供だぞ
+How could you say something like that to a kid?
 
 usa00:
   目: normal
 
-usa00@lb:ふ〜ん ありがと〜
+usa00@lb:Hmmm~\nThanks for\ntelling me~
 
-me:「……そちらは？」
+me:"...What about you?"
 
-usa00@rt:わたし〜？
+usa00@rt:Me~?
 
-me:「魔法使えるんすか〜!」
+me:"Can you use magic~?"
 
-usa00@lb:ん〜……
-usa00@rt:[wave]内緒〜♥[/wave]
+usa00@lb:Hmmmmm~
+usa00@rt:[wave]Secret~♥[/wave]
 
-me:「内緒って……」
+me:"Secret..."
 
-usa00@lb:……
+usa00@lb:......
 
 
 usa00:
   目: close_smile
 
-usa00@rt:……
-usa00@lb:[tornado]くぅ[/tornado]
+usa00@rt:......
+usa00@lb:[tornado]Khuu~[/tornado]
 
-me:「くぅ」
+me:"Khuu..."
 
 usa00:
   目: normal
 
 usa00@lb:[wave]{player_gold}G♥[/wave]
 
-え?
+Huh?
 
-me:「……ちょっとﾏｯﾃ」
+me:"...Hang on, lemme check."
 
-財布を開けて確認する。
+I check my wallet.
 
-me:「…………」
+me:"..."
 
-me:「俺の懐事情 ﾅﾝﾃﾞ」
+me:"Why do you know how much money I have left...?"
 
 
-usa00@lb:え〜？
+usa00@lb:Hmm~?
 
 usa00:
   目: close_smile
 
-usa00@rt:あは〜
+usa00@rt:Aha~
 
-me:「いや今…」
+me:"Wait, that just now..."
 
-usa00@rt:[tornado]くぅくぅ♥[/tornado]
+usa00@rt:[tornado]Khuu~khuu♥[/tornado]
 
-me:「…………」
+me:"............"
 
 
 usa00:exit
 
-…
+...
 
-……
+......
 
-………今日も一日頑張るぞ!
+...Time to do my best again today!

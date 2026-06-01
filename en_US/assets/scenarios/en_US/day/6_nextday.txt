@@ -1,108 +1,107 @@
 
 bg: shop
 
-今日は遅いしもう寝… 酒場にでも寄ってみるか…
+It's getting late. I should sleep... or actually, I suppose I can go to the tavern.
 
 bg: port1
 
-…
+...
 
 
-ﾜｲﾜｲ…ｶﾞﾔｶﾞﾔ…
+Hustle, bustle... Buzz, buzz...
 
-…
+...
 
-……ﾓｸﾞﾓｸﾞ
+(Munch, munch)...
 
-おっさん:「坊主、一人かァ?」
+Ol' Dude:"All by yer lonesome, kid?"
 
-……ﾓｸﾞﾓ… ﾜｯ!びっくりした!
+(Munch, munch)... Wah! Where'd this dude come from!?
 
-me: 「ｱ!?、はい。一人ですけど…」
+me:"Wh-Wha!? Y-Yeah, just by myself..."
 
-一人で飯を食べていると(エビを焼いたやつです)
-おっさんに声をかけられた。
+I'm enjoying my one man dinner (some fried shrimp thing) when this uncle-looking dude approaches me.
 
-me: 「何か用ですか〜?」
+me:"Can I help you or something?"
 
-おっさん:「いや、俺も一人でなァ。横座ってもいいか?」
+Ol' Dude:"Nah, just by meself too, yer see. Mind if I sit 'ere?"
 
-ｴ、こういうの、やっぱりあるんだ! 冒険者っぽいじゃん!
+Huh, so this is a thing that actually happens! I totally feel like an adventurer now!
 
-おっさん:「……」
+Ol' Dude:"..."
 
-おっさん:「坊主、なんか変な装備だなァ!」
+Ol' Dude:"Y'know kid, you got some real funny-looking gear!"
 
-me: 「ええ???」
+me:"Huh???"
 
-おっさん:「どこで買ったんだァ? ンなモン」
+Ol' Dude:"Where'd ye get that from, aye?"
 
-me:「いやケッコーいいっすよ!!!! コレ」
+me:"They actually work pretty well, you know!!!"
 
-これ、意外と気に入ってるのに!! たまにヌルっとした汁がでてくるけど!!!
+I've taken a liking to these equipment!! Weird juices spill out from time to time though!!!
 
-おっさん:「ハハ! 悪かったなァ!」
+Ol' Dude:"Harhar! Izzat so? Sorry 'bout that, kid!"
 
-そういうとおっさんは豪快に酒を飲み干す
+Saying that, the dude takes a fat swig and empties his beer.
 
-おっさん:「…この島来てどれくらいだァ?」
+Ol' Dude:"...How long 'ave you been here?"
 
-me: 「ｴｰ、まだ一週間くらいっすね」
+me:"Uh. Just about a week..."
 
-おっさん:「ペーペーじゃねえか!!」
+Ol' Dude:"Oh, so yer a baby, aye!!"
 
-なんかさっきからチョット失礼だな!!!
+This dude is being so rude!!!
 
-me: 「はい……」
+me:"Yes, I am..."
 
-おっさん:「女はいるのかァ?」
+Ol' Dude:"Got any bitches, kid?"
 
-me: 「え!?」
+me:"What!?"
 
-なんでいきなりそんな話!?
+Why is he even asking me this!?
 
-me: 「いや、いないっすよ……酔ってんすか〜?」
+me:"Uh, not at all, haha... Are you drunk, by the way?"
 
-おっさん:「なんだァ! 童貞かァ!」
+Ol' Dude:"OH! So yer a VIRGIN!"
 
-うるせーよ!!!!ちげーよ!!(ちがわない)
+SHUT UP!!! THAT'S NOT THE CASE AT ALL!!! (Okay fine, it is...)
 
-おっさん:「そうかァ! このあといい店連れて行ってやるよ!!」
+Ol' Dude:"ALRIGHT! I'll bring you to a real nice joint after this, aye!!"
 
-me: 「いや、そういうのは……」
+me:"Uh, I'm not really interested in..."
 
-おっさん:「とりあえず飲め! 飲め!」
+Ol' Dude:"Now drink up! DRINK!"
 
-me: 「あの、俺酒弱いんで……」
+me:"Um... I can't really handle alcohol..."
 
-おっさん:「なんだと!? ンな奴初めてみたぞ!」
+Ol' Dude:"You wot!? Well, that's a first for me!"
 
-me: 「ケッコー最近はいますよ……」
+me:"It's pretty common for the younger generation..."
 
-…
+...
 
 bg: black
 
-…
+...
 
 bg:port0
 
-…
+...
 
-……あのあとずっとエロ話を聞かされたぞ!!!
+...After that, he kept blabbering about his erotic escapades!!!
 
-もうちょっとなんか こう クエストの話とか そういう… まあこんなもんか…酒場って?
+I thought there'd be more quest-related gossip... But I suppose the bawdy stuff is what you talk about in taverns...?
 
 bg: black
 
-…
+...
 
-……次の日
+The next day...
 
 bg: street0
 
-…
+...
 
 bg: shop
 
-……
+......

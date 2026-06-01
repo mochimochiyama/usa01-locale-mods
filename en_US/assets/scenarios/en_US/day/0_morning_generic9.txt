@@ -4,33 +4,33 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「チース」
+me:"Hiya."
 
-me:「そういえば、この島ってなんて名前でしたっけ」
+me:"By the way, do you happen to know what this island is called?"
 
-usa00@lb:え〜っと……
+usa00@lb:Let me see...
 
-usa00@rt:……なんだっけ
+usa00@rt:...Whatsit?
 
-me:「……なんだっけ?」
+me:"...Whatsit?"
 
-usa00@lb:なんだっけ〜?
+usa00@lb:Whats-it-\ncalled-again~?
 
-usa00@rt:昔の人の名前がついてたような?
+usa00@rt:I think it's named after some historic figure?
 
-me:「そうだっけ…?」
+me:"Is that so...?"
 
-usa00@lb:もっと勉強しな〜？
+usa00@lb:You should study more~
 
-me:「そっちも覚えてなかったじゃん!!!」
+me:"Well, you're one to talk!!!"
 
-…
+...
 
 
 usa00:exit
 
-……
+......
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!
