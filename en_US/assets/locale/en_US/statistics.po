@@ -12,80 +12,80 @@ msgstr ""
 # --- Section Titles ---
 
 msgid "STAT_SECTION_WHOLE_BODY"
-msgstr "全身"
+msgstr "Overall"
 
 msgid "STAT_SECTION_HEAD"
-msgstr "頭"
+msgstr "Head"
 
 msgid "STAT_SECTION_MOUTH"
-msgstr "おくち"
+msgstr "Mouth"
 
 msgid "STAT_SECTION_SMELL"
-msgstr "におい"
+msgstr "Smell"
 
 msgid "STAT_SECTION_NIPPLES"
-msgstr "乳首"
+msgstr "Nipples"
 
 msgid "STAT_SECTION_CLITORIS"
-msgstr "クリ"
+msgstr "Clitoris"
 
 msgid "STAT_SECTION_VAGINA"
-msgstr "膣"
+msgstr "Pussy"
 
 # --- Stat Labels ---
 
 msgid "STAT_LABEL_CARESSED"
-msgstr "なでられた:"
+msgstr "Patted:"
 
 msgid "STAT_LABEL_KISSED"
-msgstr "キスされた:"
+msgstr "Kissed:"
 
 msgid "STAT_LABEL_CAME_MOUTH"
-msgstr "イッた♥:"
+msgstr "Came♥:"
 
 msgid "STAT_LABEL_FACIAL"
-msgstr "顔に射精された:"
+msgstr "Facialed:"
 
 msgid "STAT_LABEL_SMELL_SNIFF"
-msgstr "ちんかぎさせられた:"
+msgstr "Dicksniffed:"
 
 msgid "STAT_LABEL_CAME_SMELL"
-msgstr "においでイッた♥:"
+msgstr "Came♥:"
 
 msgid "STAT_LABEL_NIPPLE_PINCHED"
-msgstr "つままれた:"
+msgstr "Pinched:"
 
 msgid "STAT_LABEL_CAME_NIPPLE"
-msgstr "乳首でイった♥:"
+msgstr "Nipplegasmed♥:"
 
 msgid "STAT_LABEL_CHEST_EJAC"
-msgstr "胸に射精された:"
+msgstr "Bukkaked:"
 
 msgid "STAT_LABEL_CLIT_RUB"
-msgstr "クリぷにシコ:"
+msgstr "Rubbed:"
 
 msgid "STAT_LABEL_CAME_CLIT"
-msgstr "クリイキ♥:"
+msgstr "Clitgasmed♥:"
 
 msgid "STAT_LABEL_FINGER_IN"
-msgstr "指を入れられた:"
+msgstr "Fingered:"
 
 msgid "STAT_LABEL_INSERTED"
-msgstr "挿入された:"
+msgstr "Penetrated:"
 
 msgid "STAT_LABEL_CAME_VAGINA"
-msgstr "イッた♥:"
+msgstr "Came♥:"
 
 msgid "STAT_LABEL_CREAMPIE"
-msgstr "なかだし♥:"
+msgstr "Bun Filled♥:"
 
 # --- Format Strings ---
 
 msgid "STAT_FMT_COUNT"
-msgstr "%s %d回"
+msgstr "%s %d"
 
 msgid "STAT_UNKNOWN_ENTRY"
-msgstr "？？？: ？回"
+msgstr "???: ?"
 
 msgid "STAT_UNKNOWN"
-msgstr "？？？"
+msgstr "???"

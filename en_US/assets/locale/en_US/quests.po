@@ -17,44 +17,44 @@ msgstr "Slime Hunt"
 
 msgctxt "quest_name"
 msgid "quest_1"
-msgstr "ゴブリン討伐"
+msgstr "Goblin Hunt"
 
 msgctxt "quest_name"
 msgid "quest_2"
-msgstr "スケルトン討伐"
+msgstr "Skeleton Hunt"
 
 msgctxt "quest_name"
 msgid "quest_3"
-msgstr "インプ討伐"
+msgstr "Imp Hunt"
 
 msgctxt "quest_name"
 msgid "quest_4"
-msgstr "オーク討伐"
+msgstr "Orc Hunt"
 
 msgctxt "quest_name"
 msgid "quest_5"
-msgstr "ハーピー討伐"
+msgstr "Harpy Hunt"
 
 msgctxt "quest_name"
 msgid "quest_6"
-msgstr "トロル討伐"
+msgstr "Troll Hunt"
 
 msgctxt "quest_name"
 msgid "quest_7"
-msgstr "ゴーレム討伐"
+msgstr "Golem Hunt"
 
 msgctxt "quest_name"
 msgid "quest_8"
-msgstr "ワイバーン討伐"
+msgstr "Wyvern Hunt"
 
 msgctxt "quest_name"
 msgid "quest_9"
-msgstr "ナーガ討伐"
+msgstr "Naga Hunt"
 
 msgctxt "quest_name"
 msgid "quest_10"
-msgstr "クラーケン討伐"
+msgstr "Kraken Hunt"
 
 msgctxt "quest_name"
 msgid "quest_11"
-msgstr "ゴールド・ドラゴン討伐"
+msgstr "Golden Dragon Hunt"

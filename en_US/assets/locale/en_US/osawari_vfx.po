@@ -13,28 +13,28 @@ msgstr ""
 # MOMI
 msgctxt "osawari_vfx"
 msgid "momi_0"
-msgstr "もみ"
+msgstr "squeeze"
 
 msgctxt "osawari_vfx"
 msgid "momi_1"
-msgstr "むに"
+msgstr "pinch"
 
 msgctxt "osawari_vfx"
 msgid "momi_2"
-msgstr "もみ♥"
+msgstr "squeeze♥"
 
 # NADE
 msgctxt "osawari_vfx"
 msgid "nade_0"
-msgstr "なで"
+msgstr "pat"
 
 msgctxt "osawari_vfx"
 msgid "nade_1"
-msgstr "なで"
+msgstr "pat"
 
 msgctxt "osawari_vfx"
 msgid "nade_2"
-msgstr "なで♥"
+msgstr "pat♥"
 
 msgctxt "osawari_vfx"
 msgid "nade_3"
@@ -43,315 +43,315 @@ msgstr "♥"
 # SHIKO
 msgctxt "osawari_vfx"
 msgid "shiko_0"
-msgstr "しこ"
+msgstr "fap"
 
 msgctxt "osawari_vfx"
 msgid "shiko_1"
-msgstr "くちゅ"
+msgstr "sqrch"
 
 msgctxt "osawari_vfx"
 msgid "shiko_2"
-msgstr "ちゅこ"
+msgstr "shrrp"
 
 msgctxt "osawari_vfx"
 msgid "shiko_3"
-msgstr "ちゃっ♥"
+msgstr "fap♥"
 
 # ZURASHI_PANTS
 msgctxt "osawari_vfx"
 msgid "zurashi_pants_0"
-msgstr "ずっ"
+msgstr "tug"
 
 msgctxt "osawari_vfx"
 msgid "zurashi_pants_1"
-msgstr "ずりっ"
+msgstr "pull"
 
 # AKUSYU
 msgctxt "osawari_vfx"
 msgid "akusyu_0"
-msgstr "ぎゅっ"
+msgstr "squeeze"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_1"
-msgstr "にぎっ"
+msgstr "squoosh"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_2"
-msgstr "にぎ"
+msgstr "touch"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_3"
-msgstr "ぎゅ"
+msgstr "squeeze"
 
 msgctxt "osawari_vfx"
 msgid "akusyu_4"
-msgstr "にぎゅ♥"
+msgstr "squeeze♥"
 
 # SHIPPO
 msgctxt "osawari_vfx"
 msgid "shippo_0"
-msgstr "もふっ"
+msgstr "floof"
 
 msgctxt "osawari_vfx"
 msgid "shippo_1"
-msgstr "ぎゅっ"
+msgstr "squeeze"
 
 msgctxt "osawari_vfx"
 msgid "shippo_2"
-msgstr "ふあっ"
+msgstr "fwoo"
 
 msgctxt "osawari_vfx"
 msgid "shippo_3"
-msgstr "ふわっ"
+msgstr "fluff"
 
 # SHIPPO_HURI
 msgctxt "osawari_vfx"
 msgid "shippo_huri_0"
-msgstr "ふり"
+msgstr "wag"
 
 msgctxt "osawari_vfx"
 msgid "shippo_huri_1"
-msgstr "ふり♥"
+msgstr "wag♥"
 
 msgctxt "osawari_vfx"
 msgid "shippo_huri_2"
-msgstr "ぷり"
+msgstr "plip"
 
 # HOPPE_MUNI
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_0"
-msgstr "むに"
+msgstr "plump"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_1"
-msgstr "むみ"
+msgstr "chub"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_2"
-msgstr "むに♥"
+msgstr "plump♥"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_3"
-msgstr "むにゅ"
+msgstr "plomp"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_4"
-msgstr "み"
+msgstr "flmf"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_muni_5"
-msgstr "む"
+msgstr "plmf"
 
 # HOPPE_HIPPARI
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_0"
-msgstr "むぎゅ"
+msgstr "pull"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_1"
-msgstr "むみ"
+msgstr "puuul"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_2"
-msgstr "む"
+msgstr "nip"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_3"
-msgstr "にゅ"
+msgstr "sqz"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_4"
-msgstr "みゅ"
+msgstr "tug"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_5"
-msgstr "みぃ"
+msgstr "niiip"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_6"
-msgstr "もち"
+msgstr "squeeze"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_7"
-msgstr "にゃ"
+msgstr "plck"
 
 msgctxt "osawari_vfx"
 msgid "hoppe_hippari_8"
-msgstr "むにぃ"
+msgstr "tuuug"
 
 # KUTI_YUBIIRE_PRESSED
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_0"
-msgstr "ちま"
+msgstr "slrp"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_1"
-msgstr "ちゃ"
+msgstr "chrp"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_2"
-msgstr "ぽっ"
+msgstr "pop"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_3"
-msgstr "ちゅ"
+msgstr "schu"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_4"
-msgstr "にち"
+msgstr "nch"
 
 msgctxt "osawari_vfx"
 msgid "kuti_yubiire_pressed_5"
-msgstr "むちゃ"
+msgstr "mch"
 
 # KUTI_TIN_PRESSED
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_0"
-msgstr "ぬぽっ"
+msgstr "splp"
 
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_1"
-msgstr "ぬちゅ♥"
+msgstr "splp♥"
 
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_2"
-msgstr "にゅ♥"
+msgstr "slr♥"
 
 msgctxt "osawari_vfx"
 msgid "kuti_tin_pressed_3"
-msgstr "のぽ"
+msgstr "npop"
 
 # MUWA
 msgctxt "osawari_vfx"
 msgid "muwa_0"
-msgstr "むわっ♥"
+msgstr "steam♥"
 
 msgctxt "osawari_vfx"
 msgid "muwa_1"
-msgstr "むわ♥"
+msgstr "steamy♥"
 
 msgctxt "osawari_vfx"
 msgid "muwa_2"
-msgstr "むわぁ♥"
+msgstr "steam♥"
 
 # KOKAN_KARI
 msgctxt "osawari_vfx"
 msgid "kokan_kari_0"
-msgstr "かり♥"
+msgstr "scratch♥"
 
 msgctxt "osawari_vfx"
 msgid "kokan_kari_1"
-msgstr "すり♥"
+msgstr "scratch♥"
 
 msgctxt "osawari_vfx"
 msgid "kokan_kari_2"
-msgstr "すり"
+msgstr "slide"
 
 # KISS
 msgctxt "osawari_vfx"
 msgid "kiss_0"
-msgstr "ちゅっ"
+msgstr "kiss"
 
 msgctxt "osawari_vfx"
 msgid "kiss_1"
-msgstr "ちゅ♥"
+msgstr "smch♥"
 
 # SAWARI_PITYA
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_0"
-msgstr "ぴちゃ"
+msgstr "splip"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_1"
-msgstr "ちゃ"
+msgstr "tap"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_2"
-msgstr "ぺちゃ"
+msgstr "splap"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pitya_3"
-msgstr "ちゃ♥"
+msgstr "tap♥"
 
 # SAWARI_PITO
 msgctxt "osawari_vfx"
 msgid "sawari_pito_0"
-msgstr "ぴと"
+msgstr "touch"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pito_1"
-msgstr "ぴた♥"
+msgstr "touch♥"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pito_2"
-msgstr "ぴと♥"
+msgstr "tap♥"
 
 msgctxt "osawari_vfx"
 msgid "sawari_pito_3"
-msgstr "ぴた♥"
+msgstr "tap♥"
 
 # TINKO_SOUNYU_GU
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_gu_0"
-msgstr "ぐっ♥"
+msgstr "hng♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_gu_1"
-msgstr "ぐぐっ♥"
+msgstr "hngng♥"
 
 # TINKO_SOUNYU_PRE
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_0"
-msgstr "ちゃ"
+msgstr "nch"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_1"
-msgstr "ちゅ"
+msgstr "shch"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_2"
-msgstr "ぱ"
+msgstr "pl"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_3"
-msgstr "ぱっ"
+msgstr "plip"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_4"
-msgstr "ぶっ"
+msgstr "nph"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_5"
-msgstr "ぼ"
+msgstr "pop"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_6"
-msgstr "にゅ"
+msgstr "hnyuh"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_7"
-msgstr "ぱ"
+msgstr "pah"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_pre_8"
-msgstr "ちゃ"
+msgstr "ncha"
 
 # TINKO_SOUNYU_POST
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_0"
-msgstr "ごっ"
+msgstr "grk"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_1"
-msgstr "ぐっ♥"
+msgstr "ngh♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_2"
-msgstr "っ♥"
+msgstr "nh♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_3"
-msgstr "ぢゅ♥"
+msgstr "sqlch♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_4"
@@ -363,125 +363,125 @@ msgstr "♥"
 
 msgctxt "osawari_vfx"
 msgid "tinko_sounyu_post_6"
-msgstr "ご♥"
+msgstr "hng♥"
 
 # KISS_DEEP
 msgctxt "osawari_vfx"
 msgid "kiss_deep_0"
-msgstr "ぢゅ♥"
+msgstr "smch♥"
 
 msgctxt "osawari_vfx"
 msgid "kiss_deep_1"
-msgstr "ぢゅる♥"
+msgstr "smooch♥"
 
 msgctxt "osawari_vfx"
 msgid "kiss_deep_2"
-msgstr "じゅ"
+msgstr "shlrp"
 
 msgctxt "osawari_vfx"
 msgid "kiss_deep_3"
-msgstr "じゅっ"
+msgstr "schlrp"
 
 # MANKO_PUNI
 msgctxt "osawari_vfx"
 msgid "manko_puni_0"
-msgstr "ぷに"
+msgstr "squish"
 
 msgctxt "osawari_vfx"
 msgid "manko_puni_1"
-msgstr "ぷに♥"
+msgstr "plump♥"
 
 # TIKUBI_GYU
 msgctxt "osawari_vfx"
 msgid "tikubi_gyu_0"
-msgstr "ぎゅ"
+msgstr "pinch"
 
 msgctxt "osawari_vfx"
 msgid "tikubi_gyu_1"
-msgstr "ぎゅっ♥"
+msgstr "nip♥"
 
 # TINKO_SHIKO_HANA
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_0"
-msgstr "しこ"
+msgstr "fap"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_1"
-msgstr "くちゅ"
+msgstr "squich"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_2"
-msgstr "ちゅこ"
+msgstr "squelch"
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_3"
-msgstr "くん…"
+msgstr "sniff..."
 
 msgctxt "osawari_vfx"
 msgid "tinko_shiko_hana_4"
-msgstr "くん"
+msgstr "sniff"
 
 # SEIEKI_TORO
 msgctxt "osawari_vfx"
 msgid "seieki_toro_0"
-msgstr "とろっ♥"
+msgstr "drip♥"
 
 # SEIEKI_BYURU
 msgctxt "osawari_vfx"
 msgid "seieki_byuru_0"
-msgstr "びゅっ♥"
+msgstr "spurt♥"
 
 msgctxt "osawari_vfx"
 msgid "seieki_byuru_1"
-msgstr "びゅるっ♥"
+msgstr "spurt♥"
 
 # ORGASM_PUSI
 msgctxt "osawari_vfx"
 msgid "orgasm_pusi_0"
-msgstr "ぷしっ♥"
+msgstr "pst♥"
 
 msgctxt "osawari_vfx"
 msgid "orgasm_pusi_1"
-msgstr "ぷしゃっ♥"
+msgstr "psst♥"
 
 # KYAMI_GABA
 msgctxt "osawari_vfx"
 msgid "kyami_gaba_0"
-msgstr "がばっ♥"
+msgstr "open♥"
 
 # SUMATA_PANTSU
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_0"
-msgstr "しゅっ"
+msgstr "fwsh"
 
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_1"
-msgstr "ちゃっ"
+msgstr "tsh"
 
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_2"
-msgstr "しゃっ♥"
+msgstr "fwsh♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_pantsu_3"
-msgstr "ちゃ♥"
+msgstr "tsh♥"
 
 # SUMATA_NAMA
 msgctxt "osawari_vfx"
 msgid "sumata_nama_0"
-msgstr "くちゅ♥"
+msgstr "sqlch♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_1"
-msgstr "ちゃ♥"
+msgstr "sql♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_2"
-msgstr "じゅ♥"
+msgstr "slp♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_3"
-msgstr "むちゃ♥"
+msgstr "slrp♥"
 
 msgctxt "osawari_vfx"
 msgid "sumata_nama_4"
@@ -490,4 +490,4 @@ msgstr "♥"
 # CLOTH_BUTTON
 msgctxt "osawari_vfx"
 msgid "cloth_button_0"
-msgstr "ぱち"
+msgstr "click"

@@ -13,87 +13,87 @@ msgstr ""
 # ヒント本文 - 初期 (HINTS_INITIAL)
 msgctxt "osawari_hint"
 msgid "ticket_tail_initial_operation"
-msgstr "・尻尾を触る:クリック\n・服をたくし上げる:裾を上にドラッグ"
+msgstr "- Touch tail: Left click\n- Pull clothes: Drag the hem up"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_initial_hint"
-msgstr "尻尾を10回触るとリアクションがあります。\nそのリアクション後服をたくし上げると次のシナリオへ"
+msgstr "She will react after you touch her tail 10 times.\nPull her clothes up after that to continue."
 
 # ヒント本文 - 怒られ (HINTS_SCOLDED)
 msgctxt "osawari_hint"
 msgid "ticket_tail_scolded_operation"
-msgstr "・服を戻す:裾を下にドラッグ"
+msgstr "- Fix clothes: Drag the hem down"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_scolded_hint"
-msgstr "服をもとに戻すと次のシナリオへ"
+msgstr "Fix her clothes to continue."
 
 # ヒント本文 - キャミ待ち (HINTS_CAMI_WAIT)
 msgctxt "osawari_hint"
 msgid "ticket_tail_cami_operation"
-msgstr "・服をたくし上げる:裾を上にドラッグ"
+msgstr "- Pull clothes: Drag the hem up"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_cami_hint"
-msgstr "服を限界までたくし上げると次のシナリオへ"
+msgstr "Pull her clothes up all the way to continue."
 
 # ヒント本文 - シフト後 (HINTS_AFTER_SHIFT)
 msgctxt "osawari_hint"
 msgid "ticket_tail_after_operation"
-msgstr "・尻尾を触る:クリック\n・おしりを揉む:クリック/ドラッグ"
+msgstr "- Touch tail: Left click\n-Fondle butt: Left click / drag"
 
 msgctxt "osawari_hint"
 msgid "ticket_tail_after_hint"
-msgstr "尻尾を10回触ると終了"
+msgstr "Ends after you touch her tail 10 times."
 
 # バブル - Phase 1 (尻尾タッチ)
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_wa"
-msgstr "[wave]わ♥[/wave]"
+msgstr "[wave]Eep♥[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_kusuguta"
-msgstr "[wave]くすぐった〜[/wave]"
+msgstr "[wave]It tickles~[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_ahaha"
-msgstr "[wave]あはは〜♥[/wave]"
+msgstr "[wave]Ahaha~♥[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_hira"
-msgstr "[wave]ひら…ひら…[/wave]"
+msgstr "[wave]Flutter... Flitter...[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_hirari"
-msgstr "[wave]ひらり〜[/wave]"
+msgstr "[wave]Fwoooosh[/wave]"
 
 # バブル - Phase 4 (尻のせ)
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_nose_n"
-msgstr "ん〜?"
+msgstr "Hmm~?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_nose_shippo"
-msgstr "え〜♥ 尻尾かあ〜?"
+msgstr "Hmm~♥ My tail~?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_nose_a"
-msgstr "あ♥"
+msgstr "Ah♥"
 
 # バブル - Phase 4 (尻もみ)
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_a"
-msgstr "あ〜♥？"
+msgstr "Ah~♥?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_chigau"
-msgstr "なんかちがうような〜♥"
+msgstr "This doesn't feel right~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_e"
-msgstr "え〜♥"
+msgstr "Eh~♥"
 
 # 選択肢
 msgctxt "osawari_choice"
 msgid "ticket_tail_p0_shippo"
-msgstr "尻尾触らせてください"
+msgstr "Please let me touch your tail!"

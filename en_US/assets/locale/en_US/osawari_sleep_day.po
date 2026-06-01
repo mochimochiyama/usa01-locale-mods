@@ -13,16 +13,16 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "sleep_day_beginner"
-msgstr "・頭を撫でる\n・上着を脱がす(紐:クリック 脱衣:ドラッグ)\n・パンツを見る(ドラッグ)\n・ふともも見抜き♥"
+msgstr "- Pat head: Left click\n- Undress top I: Click the lacings\n- Undress top II: Drag the clothes\n\n- Check panties: Drag\n- Jerk it to thighs♥: Move dick"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_intermediate"
-msgstr "・胸めくり\n・ちゅー\n・まんぷに\n・顔見抜き(ちんかぎ)♥"
+msgstr "- Undress bra: Drag\n- Kiss: Left click\n- Squish pussy: Left click\n- Make her sniff dick♥: Move dick"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_advanced"
-msgstr "・全部脱がす\n・乳首をつまむ\n・乳首見抜き♥"
+msgstr "- Undress all: Drag\n- Pinch nipples: Left click\n- Jerk it to nipples♥: Move dick"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_operation"
-msgstr "対象部位をクリック、もしくはドラッグで操作します。\nちんちん: ドラッグして、対象部位(♥)にアサインできます。アサイン状態のちんちんをクリックで操作できます"
+msgstr "Left click or drag the body part you want to touch.\nDick: Drag your dick to the designated(♥) position to assign it there. Left click the assigned dick to use it."

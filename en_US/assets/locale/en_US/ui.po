@@ -101,31 +101,31 @@ msgid "SETTING_PAWN_ALPHA"
 msgstr "Transparency"
 
 msgid "TOOLTIP_ERROR_REPORTING"
-msgstr "Sends a bug report.\nNo personal data will be collected."
+msgstr "Sends bug report on crash.\nNo personal data will be collected."
 
 msgid "TOOLTIP_HAND_ALPHA"
-msgstr "Customizes hand transparency.\n(Some scenes might be harder to see if this is set to lowest.)"
+msgstr "Adjusts hand transparency.\n(Some scenes might be less visible if this is set to lowest.)"
 
 msgid "TOOLTIP_HAND_COLOR"
-msgstr "Customizes hand color between white to black."
+msgstr "Adjusts hand color between white to black."
 
 msgid "TOOLTIP_HEAD_ALPHA"
-msgstr "Customizes head transparency.\n(Some scenes might be harder to see if this is set to lowest.)"
+msgstr "Adjusts head transparency.\n(Some scenes might be less visible if this is set to lowest.)"
 
 msgid "TOOLTIP_HEAD_COLOR"
-msgstr "Customizes head color between white to black."
+msgstr "Adjusts head color between white to black."
 
 msgid "TOOLTIP_OCHIN_ALPHA"
-msgstr "Customizes dick transparency.\n(Some scenes might be harder to see if this is set to lowest.)"
+msgstr "Adjusts dick transparency.\n(Some scenes might be less visible if this is set to lowest.)"
 
 msgid "TOOLTIP_OCHIN_COLOR"
-msgstr "Customizes dick color between white to black."
+msgstr "Adjusts dick color between white to black."
 
 msgid "TOOLTIP_MSAA"
 msgstr "Increases the smoothness of speech bubbles and certain images."
 
 msgid "TOOLTIP_MONOCHROME"
-msgstr "Activates monochrome mode.\nSome scenes might be harder to see as this is only a filter."
+msgstr "Activates monochrome mode.\nSome scenes might be less visible as this is only a filter."
 
 # --- Home ---
 
@@ -136,16 +136,16 @@ msgid "HOME_SELL_MATERIALS"
 msgstr "Materials to sell!"
 
 msgid "HOME_PUT_TO_SLEEP"
-msgstr "Make Her Asleep"
+msgstr "Sleepify her"
 
 msgid "HOME_SECRETS"
-msgstr "Secrets"
+msgstr "View secrets"
 
 msgid "HOME_GO_TO_SLEEP"
-msgstr "Guess I should sleep..."
+msgstr "I should sleep..."
 
 msgid "HOME_GO_TO_ROOM"
-msgstr "Go to Her Room"
+msgstr "Go to her room"
 
 msgid "HOME_GO_ON_QUEST"
 msgstr "Time to go on a quest..."
@@ -163,7 +163,7 @@ msgid "TUTORIAL_QUEST"
 msgstr "Go on a quest here."
 
 msgid "HOME_KINTAMA"
-msgstr "Ball(s):"
+msgstr "Nut(s):"
 
 msgid "HOME_WEALTH"
 msgstr "Money:"
@@ -186,7 +186,7 @@ msgid "SHOP_PRICE"
 msgstr "Price"
 
 msgid "SHOP_REQUIRED_MATERIALS"
-msgstr "Materials Needed"
+msgstr "Required Items"
 
 msgid "SHOP_STOCK"
 msgstr "Amnt"
@@ -200,7 +200,7 @@ msgid "BATTLE_VICTORY"
 msgstr "VICTORY!"
 
 msgid "BATTLE_FAST_MODE"
-msgstr "FASTER COMBAT"
+msgstr "Faster Combat"
 
 msgid "BATTLE_STRENGTH"
 msgstr "Power:"
@@ -226,13 +226,13 @@ msgstr "Sleep Magic"
 # --- Room ---
 
 msgid "ROOM_REQUEST"
-msgstr "あの、お願いが"
+msgstr "Um, could you perhaps..."
 
 msgid "ROOM_USE_BOTTLE"
-msgstr "とっておきの小瓶をつかう"
+msgstr "Use the special vial"
 
 msgid "ROOM_GO_DOWNSTAIRS"
-msgstr "したにおりる"
+msgstr "Go downstairs"
 
 # --- Scenario ---
 
@@ -240,7 +240,7 @@ msgid "SCENARIO_BACKLOG"
 msgstr "History"
 
 msgid "SCENARIO_CONTROLS"
-msgstr "LMB: Next / Ctrl: Skip"
+msgstr "Left Click: Next / Ctrl: Skip"
 
 # --- Save/Load ---
 
@@ -259,57 +259,57 @@ msgstr "※The game auto saves when you sleep (max 10)."
 # --- Osawari ---
 
 msgid "OSAWARI_SLOW"
-msgstr "おそい"
+msgstr "Slow"
 
 msgid "OSAWARI_FAST"
-msgstr "はやい"
+msgstr "Fast"
 
 msgid "OSAWARI_RIGHT_HAND"
-msgstr "右手"
+msgstr "Right Hand"
 
 msgid "OSAWARI_LEFT_HAND"
-msgstr "左手"
+msgstr "Left Hand"
 
 msgid "OSAWARI_KISS"
-msgstr "キス"
+msgstr "Kiss"
 
 msgid "OSAWARI_WAIST"
-msgstr " 腰 "
+msgstr "Hips"
 
 msgid "OSAWARI_RESET_TOUCH"
-msgstr "おさわり状態をリセット"
+msgstr "Reset"
 
 msgid "OSAWARI_STOP"
-msgstr "やめる"
+msgstr "Stop"
 
 msgid "OSAWARI_CONTROLS"
-msgstr "操作"
+msgstr "Controls"
 
 msgid "HINT_PLACEHOLDER"
-msgstr "（ヒントが表示されます）"
+msgstr "（Hint）"
 
 # --- Ending ---
 
 msgid "ENDING_THE_END"
-msgstr "〜おわり〜"
+msgstr "~FIN~"
 
 msgid "ENDING_VIEW_SECRETS"
-msgstr "ひみつをみる"
+msgstr "View Secrets"
 
 msgid "DEMO_ENDING_MESSAGE"
-msgstr "体験版をプレイしていただきありがとうございます！\n\n製品版ではセーブデータを引き継ぎ、続きからプレイすることができます。\nよろしければ、ぜひ製品版もお楽しみください。"
+msgstr "Thanks for playing the demo!\n\nYour save is compatible with the full version.\nPlease consider buying it if you enjoyed the demo!"
 
 # --- Gallery ---
 
 msgid "GALLERY_HINT_LABEL"
-msgstr "ヒント:"
+msgstr "Hint:"
 
 # --- Format ---
 
 # --- Confirm ---
 
 msgid "CONFIRM_OVERWRITE_SAVE"
-msgstr "Overwrite %s?\nThe overwritten data will be gone."
+msgstr "Overwrite %s?\nThe overwritten data will be deleted."
 
 msgid "CONFIRM_DELETE_SAVE"
 msgstr "Delete %s?"
@@ -321,57 +321,57 @@ msgid "CONFIRM_RETURN_TITLE"
 msgstr "Exit to menu?\nYou will lost your current progress."
 
 msgid "CONFIRM_UNLOCK_GALLERY"
-msgstr "Unlock the whole gallery?"
+msgstr "Unlock the entire gallery?"
 
 # --- Hints ---
 
 msgid "HINT_GOAL_BOTTLE"
-msgstr "夜、へやに行って\nとっておきの小瓶を使おう!!"
+msgstr "Go to her room at night.\nUse the Special Vial!!"
 
 msgid "HINT_RETURN_KEY"
-msgstr "夜、へやに行ってカギを返そう!!"
+msgstr "Go to her room at night and return the key!!"
 
 msgid "HINT_MINUKI"
-msgstr "夜、へやに行って見抜きさせてもらおう!!"
+msgstr "Go to her rom at night and make her watch!!"
 
 msgid "HINT_VISIT_ROOM"
-msgstr "夜、へやに行こう!!"
+msgstr "Go to her room at night!"
 
 msgid "HINT_ACTION_SLEEP"
-msgstr "Go to sleep and welcome a new day"
+msgstr "Go to sleep and welcome a new day."
 
 msgid "HINT_ACTION_QUEST"
-msgstr "Open the quest menu"
+msgstr "Open the quest menu."
 
 msgid "HINT_ACTION_IDLE"
-msgstr "Pass time doing nothing"
+msgstr "Pass time doing nothing."
 
 msgid "HINT_ACTION_STATISTICS"
-msgstr "道具屋さんのひみつを閲覧します"
+msgstr "View the shopkeeper's hidden stats."
 
 msgid "HINT_ACTION_EVENING_VISIT"
-msgstr "道具屋さんのおうちを訪ねます…"
+msgstr "Visit the shopkeeper's room..."
 
 msgid "HINT_ACTION_BUY"
-msgstr "Buy stuff from the shopkeeper"
+msgstr "Buy stuff from the shopkeeper."
 
 msgid "HINT_ACTION_SELL"
-msgstr "Sell monster materials"
+msgstr "Sell monster drops."
 
 msgid "HINT_ACTION_GO_DOWNSTAIRS"
-msgstr "Go downstairs"
+msgstr "Go downstairs."
 
 msgid "HINT_NOT_SET"
-msgstr "（ヒント未設定）"
+msgstr "（No hint）"
 
 msgid "HINT_UNLOCK_NEXT_EVENT"
-msgstr "つぎの[color=gray][s]ぼったくり[/s][/color]イベントで開放"
+msgstr "Unlocks after the next [color=gray][s]scam[/s][/color] event."
 
 msgid "HINT_UNLOCK_SPECIFIC_ITEM"
-msgstr "特定のアイテムを入手すると解放"
+msgstr "Unlocks after obtaining a specific item."
 
 msgid "HINT_ACTION_UNKNOWN"
-msgstr "……？"
+msgstr "...?"
 
 # --- Battle (extended) ---
 
@@ -384,13 +384,13 @@ msgstr "You got nothing of value..."
 # --- Shop (extended) ---
 
 msgid "SHOP_NO_ITEMS"
-msgstr "アイテムがありません"
+msgstr "No items"
 
 msgid "SHOP_HINT_LABEL"
-msgstr "[b]ヒント[/b]"
+msgstr "[b]Hint[/b]"
 
 msgid "SHOP_DESCRIPTION_LABEL"
-msgstr "[b]説明[/b]"
+msgstr "[b]Description[/b]"
 
 # --- Scenario (extended) ---
 
@@ -400,13 +400,13 @@ msgstr "ME"
 # --- Item Description ---
 
 msgid "FMT_STRENGTH_SINGLE"
-msgstr "ATK: %d "
+msgstr "Power: %d "
 
 msgid "FMT_STRENGTH_RANGE"
-msgstr "ATK: %d-%d "
+msgstr "Power: %d-%d "
 
 msgid "FMT_STRENGTH_RANGE_LABEL"
-msgstr " (ATK: %d～%d)"
+msgstr " (Power: %d～%d)"
 
 msgid "FMT_ARMOR_HP_BONUS_LABEL"
 msgstr " (HP：+%d)"
