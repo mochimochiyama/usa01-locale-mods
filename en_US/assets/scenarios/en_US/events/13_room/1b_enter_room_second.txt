@@ -2,13 +2,13 @@
 
 bg: shop
 
-…
+...
 
-me: …そういえば鍵返してなかったな…
+me: I still have yet to return the key...
 
-ｺﾝｺﾝ
+Knock, knock...
 
-me: 「夜分遅くにスミマセン」
+me: "Sorry for coming over so late..."
 
 bg: room0
 
@@ -17,39 +17,39 @@ usa00:
   上着: なし
   手袋: なし
 
-usa00@rt:え、なに〜
+usa00@rt:Huh, what~?
 
-me: 「あのー、鍵返しにきたんスけど〜…」
+me: "Uh... I'm here to return the key..."
 
-ってまたなんかエッチな格好してるかも!!!
+She's dressed again in this kinda skimpy outfit!!!
 
-me: 「…スイヤセンッシタ!!!」
+me: "...SORRY!!!"
 
 usa00:
   口: o
 
-usa00@rt: なにが〜?
+usa00@rt: For what~?
 
-me: 「…え? その〜 服ぅ…?」
+me: "...Huh? I mean~ your clothes...?"
 
 usa00:
   口: normal
 
-usa00@rt: これ〜? ここ暑いんだもん〜
+usa00@rt: This~? It's hot in here, you see~
 
-me: 「…とりあえず鍵はここ置いとくんで〜…」
+me: "...Anyway, I'll just leave the key here then..."
 
-usa00@rt: え〜? 別に持ってていいのに〜
+usa00@rt: Hmm~? You can just have it~
 
-me: 「持ってていいの!?」
+me: "I can just have it!?"
 
-usa00@rt: 下のカウンターの鍵だし〜
-usa00@lb: 朝早くきたとき、先開けて\nちょこっと片付けておいて〜
-
-
-me: 「め… めんどくせ〜!」
-
-usa00@rt: あは〜♥
+usa00@rt: It's just the key to the counter below~
+usa00@lb: Help me open up if you're here early~\nAnd clean up a little too, okay~?
 
 
-…
+me: "Ga... GAH!"
+
+usa00@rt: Aha~♥
+
+
+...

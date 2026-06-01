@@ -4,52 +4,52 @@ bg: shop
 usa00:
   posure: front
 
-…
+...
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@rt: …
+usa00@rt: ...
 
-返事がない… とおもったらが、手紙のようなものを読んでいるようだ
+She's not responding... Then I realize that she's reading a letter.
 
 usa00:
   口: o
 
-usa00@rt:めんどい〜
+usa00@rt:Ugh~
 
-me:「どうしたんすか〜」
+me:"What's the matter~?"
 
 usa00:
   口: normal
 
-usa00@rt:あ、おはようございます〜
-usa00@lb:今度、故郷の村に帰ってこいって手紙がきてて〜
+usa00@rt:Oh~ Good morning~
+usa00@lb:It's a letter from my hometown~ Telling me to go back~
 
-me:「エエ!!」
+me:"HUH!!"
 
-ここなくなっちゃうってこと??!!
+Does this mean this shop will be gone!!??
 
-usa00@rt:なんですか〜そんな驚いて〜?
+usa00@rt:What's the matter~ Why so anxious~?
 
-me:「ﾔ! この店なくなったら普通に困る!!!!!! おれここしか知らないし!!!」
+me:"NOO! You can't close down!!!!! I only know this place!!!"
 
-usa00@lb:なくならないけど、しばらくお店閉めるかも〜
+usa00@lb:It won't close down~ Just not open for a while~
 
-me:「常連なのに!!!!!!!」
+me:"But I'm a regular!!!!!!!"
 
-me:「……いつ頃お店しまっちゃいますか!?」
+me:"...So when are you closing up!?"
 
-usa00@rt:ん〜
-usa00@lb:まだ決めてないけど〜
+usa00@rt:Hmm~
+usa00@lb:Not decided yet~
 
-me:「日付決まったら一言言ってくださいよ!!!!!!!」
+me:"Tell me when you decide on the date!!!!!!!"
 
-急にこの店しまったら、マジ困るぞ!!!!!
+I won't know what to do if this shop closes up!!!!!
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張る…ぞ!
+...Time to do my best again... today...!

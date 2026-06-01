@@ -2,140 +2,140 @@
 
 bg: shop
 
-me: 「…ちわーっす」
+me: "...Ello~"
 
-店のカウンターの奥に二階… "おうち" につながる階段があった!
+I find a staircase behind the counter... which leads to the second floor... her home!
 
-てか、家の鍵とか言っていたが、店のカウンター開けるための鍵だったし!!
+She said it's a key to her house, but it's actually just the key to the shop's counter!!
 
-me:「…」
+me:"..."
 
-me:「…ｱﾉ〜…」
+me:"...Hello~..."
 
-呼びかけても返事がない…では勝手に上がらせてもらうぞ!!!
+No response... then don't mind if I just barge right in!!!
 
 bg: room0
 
-ｺﾝｺﾝ
+Knock, knock...
 
 usa00:
   posure: front
 
-usa00@rt:お、きた〜
+usa00@rt:Oh, you're here~
 
-me:「…おじゃましま〜す…」
+me:"...Coming in now..."
 
-おぉ…
+Woah...
 
-狭い屋根裏? みたいな感じだ! 一応木造…? っていうのか…?
+So she lives in this small attic... space? Made of wood too... I think?
 
-岩肌をくりぬいて作ったような空間に木の床と壁が取り付けてあって、よくわからん木箱やらなんやらが ひしひし めいている…
+It's like someone cut out a hole from a rocky wall and covered everything in wood. Also there's a BUNCH of wooden crates just lying around...
 
-ていうか…なんか…
+Honestly... It's kinda...
 
-usa00@rt: なんですか〜ジロジロ見ちゃって〜
+usa00@rt: What~? Why are you staring~?
 
-me: 「なんか めちゃくちゃ きたないかも」
+me: "It's kind of a giant mess in here... I think?"
 
 usa00:
   目: close_smile
 
-usa00@rt:[wave]きゃあ〜♥[/wave]
+usa00@rt:[wave]Kyaa~♥[/wave]
 
-me: 「なんか イモを焼いたような匂い する!」
+me: "And it kinda smells like roasted potatoes?"
 
-usa00@lb:[wave]わ〜♥[/wave]
+usa00@lb:[wave]Wah~♥[/wave]
 
-me: 「なんか すごい毛がいっぱい落ちてる…」
+me: "And there's fur everywhere..."
 
-usa00@rt:[wave]いや〜♥[/wave]
+usa00@rt:[wave]Nooo~♥[/wave]
 
-me: 「こんなとこでﾈﾃﾙﾉ…」
+me: "You live like this...?"
 
-usa00@rt:まあ寝るだけですので〜
+usa00@rt:Well, I only use this place to sleep~
 
-別に人のこと言えたもんじゃないが、ちょっとダメかも!
+I'm not one to talk, but I think she might be kind of a girl failure!
 
-usa00@lb:じゃあ、この棚こっちに動かして〜
+usa00@lb:Okay, now help me move this shelf there~
 
-me: 「ﾊ……ﾊｲ…!!」
-…
+me: "Oh.. Okay...!!"
+...
 
-usa00@lb:つぎ、ここ掃いて〜
+usa00@lb:Now, sweep the floor here~
 
-me: 「ﾊｲ…!!」
+me: "Alright...!!"
 
-…
+...
 
-usa00@lb:つぎ、ここ拭いて〜
+usa00@lb:Now, wipe this here~
 
-me: 「ﾊｲ…」
+me: "Okee..."
 
-…
+...
 
-usa00@rt: ありがと～
+usa00@rt: Thanks~
 
-usa00@lb: 以上、"おへや券"でした〜♥
+usa00@lb: That's the Room Ticket service~♥
 
-me:「ただの片付け手伝いじゃねーか!!」
+me:"I'm only here to clean up!!??"
 
-usa00@rt: でもちゃんとおへや券だったでしょ〜
+usa00@rt: But you did get to see my room~
 
-me:「うーん…そうかあ……そうかあ…?」
+me:"Uhmmm... I guess... I suppose that's true...?"
 
-usa00@rt: じゃあね〜
+usa00@rt: Okay, bye~
 
-me:「じゃあね〜?」
+me:"Okay, bye~?"
 
 usa00:exit
 
-バタン!!!
+SLAM!!!
 
-me:…
+me:...
 
-なんか言われるがまま片付けさせられて、じゃあね~してしまった、おれはいつもこうです…
+Well, I slaved around cleaning up her room only to get an "okay, bye" from her. That's just my life, I guess...
 
 ...
 
 bg: shop
 
-me: 「あ、かぎかえしてねえ…」
+me: "Oh. I forgot to return the key..."
 
-階段を途中まで降りていたところを、へやに引き返し扉を開ける
+Midway through the stairs, I realize this and return to her room. I open the door.
 
-ｶﾞﾁｬ
+Click.
 
 bg:room0
 
 
-me: 「ｱﾉｰこれ――
+me: "Uh, I forgot to return the key..."
 usa00:
   posure: front
   上着: なし
   手袋: なし
   口: o
 
-…
+...
 
-usa00@rt: …
+usa00@rt: ...
 
 usa00:
   口: normal
 
-me: …
+me: ...
 
-服を着替えている途中の道具屋さんとバッチリ目があった。
+I catch the shopkeeper in the middle of changing.
 
-usa00@rt: きゃｰ♥
+usa00@rt: Kya~♥
 
-me: 「ｼ､ｼﾂﾚｲｼﾏｼﾀ」
+me: "S-Sorry about that...!"
 
 usa00: exit
 
 bg: shop
 
-ﾊﾞﾀﾝ
+Slam...
 
-…
+...
 
-……
+......

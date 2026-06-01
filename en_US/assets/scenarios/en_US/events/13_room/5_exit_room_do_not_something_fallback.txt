@@ -1,7 +1,7 @@
 
 bg: room0
 
-me: 「ﾔ、ｵﾔｽﾐﾅｻｰｲ」
+me: "Uh, g-goodnight..."
 
 usa00:
   posure: front
@@ -9,12 +9,12 @@ usa00:
   手袋: なし
   目: close_smile
 
-usa00@rt: なんだったんだ〜?
+usa00@rt: What was that~?
 
 usa00: exit
 
 bg: shop
 
-ﾊﾞﾀﾝ…
+Close...
 
-…
+...

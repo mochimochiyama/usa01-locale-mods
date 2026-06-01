@@ -19,7 +19,7 @@ usa00:
 
 usa00@lb:[wave]You're alive~♥[/wave]
 
-me:「[shake]I THOUGHT I ALMOST DIED!!![/shake]」
+me:"[shake]I THOUGHT I ALMOST DIED!!![/shake]"
 
 usa00:
   目: normal

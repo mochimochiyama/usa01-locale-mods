@@ -4,90 +4,90 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:お〜
+usa00@rt:Oh~
 
-me:「おはよーございます」
+me:"Good morning."
 
-usa00@lb:最近はぼちぼちですか〜
+usa00@lb:Doing alright~?
 
-me:「ぼちぼちっすね〜」
+me:"Alright, I suppose~"
 
-usa00@rt:ぼちぼち〜
+usa00@rt:Alright~
 
-me:「…」
+me:"..."
 
-me:「あ~あの おれも村行きたいっすね!」
-
-usa00:
-  口: o
-
-usa00@rt:あ〜……
-usa00@lb:うーん……
-
-me:「ダメっすか……？」
-
-usa00:
-  口: normal
-
-usa00@rt:いや、ダメじゃないんですけど〜
-usa00@lb:ちょっとだけ条件が〜
-
-me:「条件？」
+me:"U-Um... I want to go to your village!"
 
 usa00:
   口: o
 
-usa00@rt:まあ、その〜……
-usa00@lb:なんていうか〜……
+usa00@rt:Ah~...
+usa00@lb:Hmm...
 
-me:「いや、気になるんですけど……」
+me:"Can I...?"
 
 usa00:
   口: normal
 
-usa00@rt:そういえばさ〜
-usa00@lb:ゴールド・ドラゴンって知ってる?
+usa00@rt:Well~ Yes, you can, but~
+usa00@lb:There's just a thing you have to do~
 
-そういえばすぎるな!
+me:"A thing?"
 
-usa00@rt:最近なんか調子良さそうですし〜
-usa00@lb:もし素材もってきてくれたら――
+usa00:
+  口: o
 
-me: 「いや、 なんかこないだ倒したやつか。。?」
+usa00@rt:Well, so~...
+usa00@lb:How should I put it~...
 
-usa00@rt: え~~~~????
-usa00@lb:それ、ゴールド・ドラゴンの鱗じゃないですか〜
+me:"Come on, spill it already..."
 
-意外といけちゃったんだよな!
+usa00:
+  口: normal
 
-usa00@rt:[wave]くぅくぅ[/wave]
-usa00@lb:すご〜♥♥ つよ〜♥
+usa00@rt:So have you heard of...
+usa00@lb:Golden Dragons?
 
-usa00@rt:なんでもないです、 村一緒にいきましょ〜
+What's that got to do with everything!?
 
-me: 「え、マジっすか！？!! ヤッターーー」
+usa00@rt:You've been on a roll lately~
+usa00@lb:If you bring me a dragon scale~
 
-usa00@rt:ただ〜
-usa00@lb:ちょっとやってもらうことがあるんだけど〜
+me: "Uh, I think I beat one not so long ago...?"
+
+usa00@rt:Huh~~~???
+usa00@lb:That~ That's a Golden Dragon scale~
+
+I don't know how but I won somehow!
+
+usa00@rt:[wave]Khuu~khuu~[/wave]
+usa00@lb:Wow~♥♥ So strong~♥
+
+usa00@rt:Nothing then~ Let's go to my village together~
+
+me: "Oh, really!??! YAAAY--"
+
+usa00@rt:But~
+usa00@lb:There's a thing you need to do first~
 
 usa00: exit
 
-…どこいった!!?!?
+...Where did she go!?
 
-…
+...
 
 usa00:
   posure: front
 
-usa00@rt:あ！\nいいとこに来ましたね〜
+usa00@rt:Oh!\nYou came at the right time~
 
-me:「ｱｯ なんか久々!!!!!!」
+me:"Ah! Long time no see!!!!!!"
 
-usa00@lb:いまね\n商品切らしちゃってて〜
+usa00@lb:So, right now~\nI'm all run out~
 
 usa00:
   目: close_smile
 
-usa00@rt:その代わり〜\nこれだけあるんですけど〜♥
+usa00@rt:But I happen to~\nhave this one thing for sale~♥
 
-…
+...

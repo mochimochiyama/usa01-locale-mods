@@ -5,7 +5,7 @@ bg: port0
 
 ......
 
-Stepping off the ship, I see the port being fully crowded.
+Stepping off the ship, I see a fully crowded port.
 
 me:"Woah..."
 
@@ -130,7 +130,7 @@ usa00:
 
 Turning around, I see a small figure standing before--[font_size=25][shake]EARS!!![/shake][/font_size]
 
-What do they call this race again? Bappans... If I recall correctly...?
+What do they call this race again? Bunnins... If I recall correctly...?
 
 You don't see them often in the mainland.
 They have long ears and a soft, fluffy tail... and also--wait, no, not that I know much about them... It's not like I've seen them before...

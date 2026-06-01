@@ -6,7 +6,7 @@ usa00:
   上着: なし
   手袋: なし
 
-me: あの、すみません お願いが。
+me: Um, sorry, but is it okay if...
 
-usa00@lb:しょうがないにゃあ…
+usa00@lb:I guess it can't be helped...
 

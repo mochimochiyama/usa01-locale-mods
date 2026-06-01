@@ -4,72 +4,71 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:よ〜
+usa00@rt:Hey~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@lb:そういえばさ〜
-usa00@rt:昨日話した〜
+usa00@lb:So about~
+usa00@rt:The thing yesterday~
 
-me:「ああ〜〜 いつごろなんすか〜…」
+me:"Ah... When will it be...?"
 
-なんか故郷の村? に呼び出されてるらしい
+Apparently she has to go back to her hometown or village.
 
-ここ、引き払うとかではないっぽいが、物理的にめちゃ遠くて、数ヶ月は閉まるかもとかなんとか…
+She won't be closing this place down, but it's faraway and this place might close up for several months...
 
-俺も、あわてて表通りの店も開拓しようとしてはいるが
-どこもこんな装備売ってないんだよな!!
+I've been trying to find other shops in the main street, but they don't sell equipment like the ones here!!
 
-usa00@rt:もしかして〜
-usa00@lb:冒険者さん〜
-usa00@rt:[tornado]バパン[/tornado]の村興味あります〜?
+usa00@rt:By the way~
+usa00@lb:Mr. Adventurer~
+usa00@rt:Are you interested in seeing a [tornado]Bunnin[/tornado] village~?
 
-me:「いいんすか！？ ついてっても！？」
+me:"REALLY!? CAN I GO TOO!?"
 
-usa00@rt:話はや〜♥
+usa00@rt:So quick~♥
 
-俺、話がはやいんです!
+Yes, I'm so quick!
 
-usa00@rt:まあ、いいんじゃない〜
-usa00@lb:どうせ暇でしょ〜？
+usa00@rt:Well~ Why not~?
+usa00@lb:You're free, right~?
 
-me:「……え、マジっすか？冗談かとおもった!」
+me:"...For real? I thought you were kidding!"
 
-usa00@rt:ふ〜ん♥
-usa00@lb:興味あり〜？
+usa00@rt:Hmmm~♥
+usa00@lb:Interested~?
 
-me:「まあ……興味ありは 興味ありですけど……」
+me:"Well... Yes, if anything I'm interested..."
 
-usa00@rt:そっか〜
+usa00@rt:I see~
 
-usa00@rt:……
-usa00@lb:……ん〜
+usa00@rt:...
+usa00@lb:...Hmm~
 
-me:「…？」
+me:"...?"
 
-usa00@rt:いや、なんでもないです〜
-usa00@lb:冒険者さんって、体力ありますよね〜？
+usa00@rt:Oh, it's nothing~
+usa00@lb:You have stamina right~? Mr. Adventurer~?
 
-me:「まあ、ﾀﾌﾞﾝ…」
+me:"Well, I guess...?"
 
-usa00@lb:まあ、大丈夫かな〜
+usa00@lb:Then I suppose you'll be okay~
 
-me:「…ﾅﾆｶﾞ!?」
+me:"...Okay about what!?"
 
-usa00@rt:本当に来るかどうか〜
-usa00@lb:ちょっと考えといて〜♥
+usa00@rt:Tell me when you decide~
+usa00@lb:Whether you want to go or not~♥
 
-me:「あ、はい……」
+me:"Oh. I will..."
 
-バパンの村か〜……
+A Bunnin village, huh...
 
-この島のモンスターもケッコー倒せるようになってきたし、違う場所にに行くのもアリなのかもなあ……?
+The monsters in this island are beginning to pose less of a challenge. Maybe I should go somewhere else...?
 
-うーん…
+Hmmm...
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張る…ぞ!
+...Time to do my best again... today...!

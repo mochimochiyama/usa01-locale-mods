@@ -4,84 +4,84 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:お〜
+usa00@rt:Oh~
 
-me:「おはよーございます」
+me:"Good morning."
 
-usa00@lb:最近はぼちぼちですか〜
+usa00@lb:Doing alright~?
 
-me:「ぼちぼちっすね〜」
+me:"Alright, I suppose~"
 
-usa00@rt:ぼちぼち〜
+usa00@rt:Alright~
 
-me:「…」
+me:"..."
 
-me:「あ~あの おれも村行きたいっすね!」
-
-usa00:
-  口: o
-
-usa00@rt:あ〜……
-usa00@lb:うーん……
-
-me:「ダメっすか……？」
-
-usa00:
-  口: normal
-
-usa00@rt:いや、ダメじゃないんですけど〜
-usa00@lb:ちょっとだけ条件があってですね〜
-
-me:「条件？」
+me:"U-Um... I want to go to your village!"
 
 usa00:
   口: o
 
+usa00@rt:Ah~...
+usa00@lb:Hmm...
 
-usa00@rt:まあ、その〜……
-usa00@lb:なんていうか〜……
-
-me:「いや、気になるんですけど……」
+me:"Can I...?"
 
 usa00:
   口: normal
 
-usa00@rt:そういえばさ〜
-usa00@lb:ゴールド・ドラゴンって知ってる?
+usa00@rt:Well~ Yes, you can, but~
+usa00@lb:There's just a thing you have to do~
 
-そういえばすぎるな!
+me:"A thing?"
 
-me:「ゴールド・ドラゴン……?」
+usa00:
+  口: o
 
-なーんかギルドで見かけたような…なんだっけ
 
-usa00@rt: めちゃつよドラゴン〜
+usa00@rt:Well, so~...
+usa00@lb:How should I put it~...
 
-me:「ん〜?…… ああ」
+me:"Come on, spill it already..."
 
-そうだ、この島の南東のめちゃくちゃ小さい島にいるっていう、ドラゴン種のモンスターだ!
+usa00:
+  口: normal
 
-ドラゴンっていってもピンきりで、コイツはそんなに強いタイプじゃないらしいが…
+usa00@rt:So have you heard of...
+usa00@lb:Golden Dragons?
 
-usa00@rt:最近なんか調子良さそうですし〜
-usa00@lb:いっちょバシッとお願いしますよ〜
+What's that got to do with everything!?
 
-me: 「いっちょっすかあ!?」
+me:"Golden Dragons?"
 
-usa00@rt:もし素材もってきてくれたら〜
+I think I've seen something about it in the guild... Something...
 
-me: 「いっちょいきますか!!!」
+usa00@rt: Super duper strong dragons~
 
-usa00@rt:話はや〜♥
+me:"Huh... Ah."
 
-いや、 いけるか?!?
+I remember now. It's a dragon monster that lives in a small, south-eastern island.
 
-usa00@rt:[wave]くぅくぅ[/wave]
+But dragons vary greatly in strength, and these golden ones are on the weaker end, I think...
+
+usa00@rt:You've been on a roll lately~
+usa00@lb:Go and give 'em a spank~
+
+me: "Give 'em a spank!?"
+
+usa00@rt:If you bring me a dragon scale~
+
+me: "GOING RIGHT AWAY!!!"
+
+usa00@rt:So quick~♥
+
+Wait... Am I really doing this!?! Can I!?
+
+usa00@rt:[wave]Khuu-khuu.[/wave]
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

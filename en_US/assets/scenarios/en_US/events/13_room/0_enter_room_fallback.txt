@@ -1,13 +1,13 @@
 
 bg: room0
 
-me: 「夜分遅くにｽﾏｾﾝ〜っす」
+me: "Sorry for coming over so late at night~"
 
 usa00:
   posure: front
   上着: なし
   手袋: なし
 
-usa00@rt:なんだ〜?
+usa00@rt:What~?
 
 ...
