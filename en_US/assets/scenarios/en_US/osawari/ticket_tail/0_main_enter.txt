@@ -45,14 +45,14 @@ me:"[shake]YES! YES! ME! ME! ME! QUESTION!!![/shake]"
 
 usa00@rt:Okay~ You over there~♥
 
-me:"Handshake ticket (tail)! Does it mean I get to shake hands with your tail?!"
+me:"Handshake ticket (tail)!\nDoes it mean I get to shake hands with your tail?!"
 
 usa00@rt:[wave]Clever~♥[/wave]
 
 me: "I'M CLEVER!!!!!!"
 
 usa00@rt:My tail, you know~
-usa00@lb:I'm not supposed to let people touch it~
+usa00@lb:I'm not supposed to\nlet people touch it~
 
 me: "You said the same thing last time!!"
 
@@ -60,6 +60,6 @@ usa00@rt: The ones before were okay~\nThis one for real~♥
 
 me:"Uh, so is it really okay if I touch it?"
 
-usa00@rt:Stop here now~?
+usa00@rt:Are you\nnot going to~?
 
 me: "NO WAY! HERE I GO!!!"

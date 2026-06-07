@@ -5,7 +5,7 @@ me:"...Alright."
 
 Hmmmm...
 
-me: "Sorry, but uh... I'm not entirely sure what this ticket is about this time..."
+me: "Sorry, but uh... I'm not entirely sure\nwhat this ticket is about this time..."
 
 usa00:
   目: close_smile
@@ -14,9 +14,9 @@ usa00@rt: Huh~?♥
 
 usa00:
   目: normal
-usa00@lb: You aren't sure~ But you still bought it~?
+usa00@lb: You aren't sure~\nBut you still bought it~?
 
-me: "Uh, well, so like, it's been, uh... fun for me everytime, so uh..."
+me: "Uh, well, so like, it's been, uh... fun for me every time, so uh..."
 
 usa00@rt: Fun~?
 
@@ -24,7 +24,7 @@ me: "So uh, sorry but..."
 
 me: "Mind if I ask a question...?"
 
-usa00@rt:The handshake ticket (face) is~
+usa00@rt:The handshake ticket (face)~
 
 me: "Woah! TELEPATHY!"
 
@@ -34,7 +34,7 @@ me: "Okay."
 
 usa00:
   目: close_smile
-usa00@rt: A handshake with my cheeks~
+usa00@rt: A handshake\nwith my cheeks~
 
 me: "YOUR CHEEKS!?!?"
 

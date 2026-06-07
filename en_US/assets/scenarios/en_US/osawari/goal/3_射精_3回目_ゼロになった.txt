@@ -19,10 +19,10 @@ usa00@rt: Come on Once more
 
 me:"I can't! I'm all out! Huff... Huff..."
 
-usa00@lb: You can do it!\nCome once more\nand we are married
+usa00@lb: You can do it!\nCome once more\nAnd we're married
 
 me:"...M-Married?"
 
 usa00@rt: Huff Huff
 
-usa00@rt: More\nOnce More
+usa00@rt: More\nOnce more

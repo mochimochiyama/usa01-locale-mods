@@ -1,7 +1,7 @@
 
 bg: shop
 
-me: "I can't belive I bought this..."
+me: "I can't believe I bought this..."
 
 usa00:
   posure: front
@@ -10,17 +10,17 @@ usa00@rt: Thanks for the purchase♥
 
 me: "To think there's a book two..."
 
-usa00@rt: I found it underneath my bed~
+usa00@rt: I found it\nunderneath my bed~
 
 me: "Huh..."
 
-usa00@rt: It actually has three volumes in total~
+usa00@rt: It actually has\nthree volumes in total~
 
 me: "Three volumes!?"
 
 usa00@lb: This is the second one~
 
-So, does that mean I'll get a little stronger...?
+So, I suppose this makes me stronger...?
 
 me: "...Okay then. I'll use it."
 
@@ -40,15 +40,15 @@ bg: black
 
 .........
 
-me: "...Hello."
+me: "...Hello, mysterious voice."
 
 ???: "...Hello."
 
 ???: "Your prowess shall grow..."
 
-???: "The Law deepens... You shall sever greater Cognition from the Soul."
+???: "The Law deepens...\nYou shall sever greater Cognition from the Soul."
 
-me: "...！"
+me: "...!"
 
 me: "Does that mean I get stronger?"
 
@@ -72,9 +72,9 @@ usa00@lb: Everything alright~?
 me: "I talked a little with the voice!"
 
 usa00@rt: Hmm~?
-usa00@lb: Talk what~?
+usa00@lb: What voice~?
 
-me: "Like, talking with the voice in the book..."
+me: "Like, the voice in the book..."
 
 usa00@rt: Never heard of something like that before~
 

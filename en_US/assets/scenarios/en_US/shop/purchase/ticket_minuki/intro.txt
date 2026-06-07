@@ -4,11 +4,11 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt: Wowww!\nYou bought it?
+usa00@rt: Wowww!\nYou bought\nthe ticket?
 
 me: "Please..."
 
-usa00@lb:We can't do this in broad daylight~
+usa00@lb:We can't do this\nin broad daylight~
 
 usa00@rt:Come to my room at night~♥
 

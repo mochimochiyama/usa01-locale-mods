@@ -9,10 +9,10 @@ usa00:
   目: normal
 
 usa00@lb:How was it~?
-usa00@rt:I know it should be good~
+usa00@rt:I know it must be good~
 
-me:It's so... SO SQUOOSHY!!
-me:Like MOCHI!!!
+me:"It's so... SO SQUOOSHY!!"
+me:"Like MOCHI!!!"
 
 usa00:
   目: close_smile
@@ -24,18 +24,18 @@ usa00:
 
 usa00@lb: Mochi~?
 
-me:"Uh..."
+me:"But uh..."
 
 usa00:
   目: normal
-usa00@rt: Hmm~?
+usa00@rt: So~?
 usa00@lb: Anything on your mind~?
 
 me:"Nope..."
 
-NOTHING!
+It's not like I wanted more!
 
 usa00:
   目: close_smile
 
-usa00@rt:"Quite normal cheeks, huh~?♥"
+usa00@rt:"Cheeks are just\nchild's play, huh~?♥"

@@ -6,7 +6,7 @@ usa00:
 usa00@rt:Now~?
 usa00@lb:You bought the ticket~\nAren't you going to use it~?
 
-me:So this is supposed to be a consumable item...?
+me:(How do I even use this...?)
 
 me:"Uh, you know I came here to upgrade my gear originally..."
 
@@ -23,7 +23,7 @@ usa00:
 me:(Hmmm...)
 
 usa00@rt:Mr. Adventurer~
-usa00@lb:You also look at my tail from time to time, don't you~?
+usa00@lb:You also stare at my tail from time to time, don't you~?
 
 ...Sure I do.
 
@@ -37,11 +37,12 @@ usa00@rt:[tornado]Khuu-khuu♥[/tornado]
 usa00:
   目: normal
 
-usa00@lb:Are you maybe~\nThinking of touching it too~?
+usa00@lb:Are you maybe~\nthinking of touching it~?
 
 ...SURE I AM!!!
 
-I have uh, for a while now, been curious about the texture and so on! Just that! I'm just curious!!! YEAH!!!
+I have uh, for a while now, been curious about
+the texture and so on! YEAH! Just that! I'm just curious!!!
 
 me:"JUST A LITTLE!!!"
 
@@ -54,34 +55,34 @@ usa00:
   目: normal
 
 usa00@lb:Well, my tail is off limits~
-usa00@rt:[wave]But my hand, you can shake~♥[/wave]
+usa00@rt:[wave]But my hand,\nyou can shake~♥[/wave]
 
 me:"..."
 
 usa00@lb:Mr. Adventurer~
-usa00@rt:This is your first time seeing a [tornado]Bunnin[/tornado], am I right~?
+usa00@rt:This is your first time seeing\na  [tornado]Bunnin[/tornado] , am I right~?
 
 She puffs her chest as she says this.
 
-me:"Well, I never had the opportunity to meet one..."
+me:"Well, I never had the opportunity to meet one before..."
 
 Bunnins. That's the shopkeeper's race.
-They have long ears and tails, and I'm quite intrigued by them.
+They have long ears and a fluffy tail, and I'm quite intrigued by them.
 
-usa00@rt:You're not aversive to Bunnins~?
+usa00@rt:You don't mind Bunnins~?
 usa00@lb:It's my first time seeing someone like that~♥
 
 me:"Uh, I'm just uh, curious!!! Yes, CURIOSITY!!!"
 
 usa00@rt:Actually, you know~?
-usa00@lb:I don't usually show these to people~
+usa00@lb:I don't usually\nshow them to people, but~
 
-me:"Okay."
+me:"Huh."
 
 usa00:
   腕: 握手待機
 
-usa00@rt: But I actually have paw pads~♥
+usa00@rt: My hands have paw pads~♥
 
 me:"WOAH!!!"
 
@@ -96,7 +97,7 @@ me:"...Oh."
 
 me: "...IT SAYS I CAN SHAKE YOUR HAND!!!!!!"
 
-usa00@rt:You can maybe~ see how it feels~
+usa00@rt:You can maybe~\nsee how it feels~
 
 me: "See how it feels!!!"
 
@@ -107,7 +108,7 @@ me: "WAH!!! No, the handshake ticket! Don't tear it!!!"
 usa00@rt:Okay~ It begins, now~♥
 
 usa00@rt:But before that~
-usa00@lb:Say this~♥\n"Please let me shake your hand~"
+usa00@lb:Say this~♥\n"Please let me\nshake your hand~"
 
 me:"OH!?"
 

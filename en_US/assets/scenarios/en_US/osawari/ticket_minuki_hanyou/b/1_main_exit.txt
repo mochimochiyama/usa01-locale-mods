@@ -12,7 +12,7 @@ usa00:
 
 
 usa00@rt:This~
-usa00@lb: This doesn't feel right~♥
+usa00@lb:This doesn't feel\nlike just watching~♥
 
 ...
 

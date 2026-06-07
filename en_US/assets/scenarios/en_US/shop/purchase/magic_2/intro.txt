@@ -1,7 +1,7 @@
 
 bg: shop
 
-me: "I bought another one..."
+me: "Another hefty purchase..."
 
 usa00:
   posure: front
@@ -17,7 +17,7 @@ usa00@rt: Are you using it right now~?
 
 me: "Let's go!"
 
-So this makes me a magic master!!!!!!
+This should make me a magic master!!!!!!
 
 me: "Okay. Here I go."
 

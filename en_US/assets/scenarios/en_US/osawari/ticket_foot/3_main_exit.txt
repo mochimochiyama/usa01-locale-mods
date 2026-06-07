@@ -15,7 +15,7 @@ me:"I'm good at massages!!! It's my first time giving one though!!!"
 usa00:
   目: close_smile
 
-usa00@rt:Huh~? Maybe you're talented~?
+usa00@rt:Huh~?\nMaybe you're talented~?
 
 me: "I'M TALENTED!!!"
 

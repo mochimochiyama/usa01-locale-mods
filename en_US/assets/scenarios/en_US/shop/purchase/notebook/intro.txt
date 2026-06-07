@@ -12,21 +12,22 @@ usa00@lb:It's a grimoire~ probably~
 
 me: "A probably grimoire, huh~"
 
-usa00@rt:It was all blank the last time I read it~
-usa00@lb:But it looks kinda like a grimoire~
+usa00@rt:It was all blank\nthe last time I read it~
+usa00@lb:But it looks kinda\nlike a grimoire~
 
 me: "Huh..."
 
-usa00@rt:Maybe you can use it as a journal~
+usa00@rt:Maybe you can\nuse it as a journal~
 
-me: "A journal, huh... Could be helpful to record my life on this island, I suppose..."
+me: "A journal, huh... Could be helpful to record\nmy life on this island, I suppose..."
 
 usa00@rt:That's right~
 usa00@lb:Thanks for the purchase~~♥
 
 usa00:exit
 
-It's supposedly a grimore, huh... I guess I might as well try.
+It's supposed to be a grimoire, huh...
+I guess I might as well try.
 
 me: "Here I go!"
 

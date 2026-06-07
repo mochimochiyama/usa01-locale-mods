@@ -9,7 +9,7 @@ usa00:
   腕: normal
   目: close_humu
 
-usa00@lb:It feels~ kinda good~ getting rubbed~?
+usa00@lb:It feels~ kinda good~\ngetting rubbed~?
 
 me: "Me too, I feel good! (?)"
 
@@ -17,8 +17,8 @@ usa00:
   腕: normal
   目: normal
 
-usa00@rt: You know~ Raising my legs like so~
-usa00@lb: Feeling kinda tired now~
+usa00@rt: You know~\nRaising my legs like so~
+usa00@lb: Makes me kinda tired~
 
 me: "I'm not tired at all!"
 

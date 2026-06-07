@@ -5,9 +5,9 @@ usa00@lb:The end~
 me:...
 
 usa00@rt:I feel like~
-usa00@lb:You touched some weird place again~?
+usa00@lb:You touched me\nin weird places~?
 
-me: Uh, yep...
+me: (Uh, yep...)
 
 usa00:
   camera_focus: default
@@ -23,4 +23,4 @@ me:"I'll BUY!!! BUYING!!!!!! ALMOST CERTAINLY!!!!!!!!!!!"
 
 usa00@rt:Huh~?
 
-usa00@rt:I'll consider~♥
+usa00@rt:I'll consider it~♥

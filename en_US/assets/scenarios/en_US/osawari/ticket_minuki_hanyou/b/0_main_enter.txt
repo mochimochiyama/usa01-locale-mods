@@ -38,9 +38,9 @@ usa00@lb:Don't surprise grab me~♥
 
 usa00:
   目: normal
-usa00@lb:I feel like you're touching me weird~♥
+usa00@lb:I feel like you're\ntouching me weird~♥
 
-usa00@rt:You're touching me, aren't you~♥?
+usa00@rt:And you're touching me,\naren't you~♥?
 
 me: "...Barely! Just barely!!!"
 

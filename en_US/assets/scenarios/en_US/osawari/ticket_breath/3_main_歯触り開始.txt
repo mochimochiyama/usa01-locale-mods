@@ -21,9 +21,9 @@ usa00:
   目: normal
 
 usa00@rt:I feel like~
-usa00@lb:You touched some weird place~?
+usa00@lb:You touched me weirdly~?
 
-me: "MAYBE, I DON't KNOW!!!!!!"
+me: "MAYBE, I DON'T KNOW!!!!!!"
 
 usa00:
   目: close_smile
@@ -44,16 +44,16 @@ usa00@rt: Huh~
 
 usa00:
   目: normal
-usa00@lb: That was supposed to be the end~
-usa00@rt: I guess it can't be helped~
+usa00@lb: That was supposed\nto be the end~
+usa00@rt: But I guess it can't be helped~
 
 me: "CAN'T BE HELPED, YAY! SO KIND! KINDEST BUNNY!"
 
 usa00@rt: Because I'm kind~
 usa00@lb:Just this once~ I'll let you~
-usa00@lb: Brush my teeth~?
+usa00@lb: Brush my teeth~
 
-me: "[shake]!!!!! BRUSH YOUR TEETH?!?!?!?!?!?!?![/shake]"
+me: "[shake]BRUSH YOUR TEETH?!?!?!?!?!?!?![/shake]"
 
 usa00@rt: So loud~♥
 

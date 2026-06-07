@@ -36,30 +36,30 @@ usa00@lb:This is a [wave]grimoire[/wave]~♥
 
 me: "WOAH!!! Grimoire!!! Sounds cool!!"
 
-usa00@rt: Oh~ Don't know what it is~?
-usa00@lb: They say grimories record the Truth~
+usa00@rt: Oh~ Don't know\nwhat that is~?
+usa00@lb: They say grimories\nrecord magical truths~
 usa00@rt: And if you're talented for that school of magic, you can learn it instantly~♥
 
 me: "But I told you I can't use magic!!!"
 
-usa00@rt:"You said you weren't sure~ Right~?"
+usa00@rt: You said you weren't sure~\nRight~?
 
 me: "What magic does this grimoire teach, anyway?"
 
-usa00@rt: "It's written in the back~\nLet me see~"
-usa00@lb: "Better sleep quality when you fall asleep."
+usa00@rt:It's written in the back~\nLet me see~
+usa00@lb:"Better sleep quality when you fall asleep."
 
-me: "[shake]TOTAL GARBAGE~!!![/shake]"
+me: "[shake]THAT'S TOTAL GARBAGE~!!![/shake]"
 
-usa00@rt: So noisy so early...
+usa00@rt: It's early and\nyou're so noisy...
 
 me: For once, I really can't make use of this item!
 
-usa00@rt: But I got it for you, Mr. Adventurer~
+usa00@rt: But I got it for you,\nMr. Adventurer~
 me: "Thanks for the thought, but..."
 
 usa00@rt: You know, Mr. Adventurer,\nsleep is very important~
-usa00@lb: When you sleep, all these things happen...
+usa00@lb: When you sleep, all these good things happen...
 
 ...
 
@@ -67,7 +67,7 @@ usa00@lb: When you sleep, all these things happen...
 
 .........
 
-me:"I see! So you sleep better if you let your feet get some air!"
+me:"...I see! So you sleep better if you let your feet get some air!"
 
 WOAH! Sleep is amazing!!!
 
@@ -77,8 +77,8 @@ me: "Okay, I'll buy this!"
 
 usa00@lb:Really~?\nYay~♥
 
-me: "But how did you even find such an epic grimoire in the first place!?"
+me: "But how did you even find such\nan epic grimoire in the first place!?"
 
-usa00@rt:Oh~ It just popped out when I cleaned my room yesterday~
+usa00@rt:Oh~ It popped out\nwhen I was cleaning\nmy room yesterday~
 
 me: "So you're getting rid of trash after all!!!"

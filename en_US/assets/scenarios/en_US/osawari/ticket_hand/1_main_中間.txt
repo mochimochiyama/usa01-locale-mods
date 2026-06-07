@@ -11,7 +11,8 @@ usa00:
   前腕右: none
   右手: none
 
-It's even more... how should I say... It's even more squishier and plumper than I expected!!!
+It's even more... how should I say...
+It's even more squishier and plumper than I expected!!!
 
 me:"Um... Just a little more...?"
 
@@ -22,8 +23,8 @@ me: "Just three more times! Or five more seconds!!!"
 
 usa00@lb:I guess it can't be helped~
 
-usa00@rt:I'm not supposed to show people these~
-usa00@lb:But just this once~ Specially~
+usa00@rt:I'm not supposed to show it to people, but~
+usa00@lb:Just this once~ Here~
 
 me: "JUST THIS ONCE!!!!!!!!!!!"
 
@@ -33,7 +34,7 @@ usa00:
   右手: 待機
   手袋: なし
 
-usa00@lb:Bare hands~
+usa00@lb:My bare hand~
 
 me:"Woah..."
 

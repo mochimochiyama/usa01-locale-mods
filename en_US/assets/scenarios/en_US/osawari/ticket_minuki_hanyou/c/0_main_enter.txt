@@ -29,11 +29,11 @@ usa00:
 
 usa00:
   目: close_smile
-usa00@rt:Doing it on your own~♥
+usa00@rt:You're holding me~♥
 
 usa00:
   目: normal
-usa00@lb:I feel like~ this isn't right~♥?
+usa00@lb:I feel like this\nisn't what we agreed on~♥?
 
 
 usa00:

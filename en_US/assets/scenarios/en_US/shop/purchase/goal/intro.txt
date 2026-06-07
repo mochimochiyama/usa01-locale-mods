@@ -6,7 +6,8 @@ usa00:
 
 me: "So expensive...!"
 
-I just wanted to visit her hometown with her, and somehow that turned into me buying this weird thingamajig.
+I just wanted to visit her hometown with her, and
+somehow that turned into me buying this weird thingamajig.
 
 It's a small vial (made of amber?) filled with some kind of liquid.
 
@@ -38,12 +39,12 @@ me: "Is this necessary for going to your village?"
 usa00@rt:Men actually can't\nenter our village,\nyou see~
 
 me: "Oh! So it's THAT kind of village..."
-usa00@rt:I know I made you buy lots of stuff, but this is the last~ I promise~
-usa00@lb:Thanks for always playing along~
+usa00@rt:I know I made you buy lots of stuff, but this is the last~\nI promise~
+usa00@lb:Thanks for always\nplaying along~
 
 me: "Oh, it's okay~ You know~"
 
-usa00@lb:Bring this to my room, at night~♥
+usa00@lb:Bring this to my room,\nat night~♥
 
 me:"...Kay."
 

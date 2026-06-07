@@ -16,19 +16,19 @@ usa00@lb: Such a great name~♥
 
 GAH! She's definitely making fun of me!!!
 
-usa00@rt: I'm sure it'll bring you blessings~♥
+usa00@rt: I'm sure it'll bring\nyou blessings~♥
 
 me: "Blessing what...?"
 
 usa00@rt: Maybe it'll make you stronger~?♥
 
-me: "...Now you're making things up!"
+me: "...Now you're just making things up!"
 
 usa00@rt: Hope to see you again~♥
 
 usa00:exit
 
-me: "I'm pretty sure I bought some actual garbage..."
+me: "I'm pretty sure I bought actual garbage..."
 
 ...
 

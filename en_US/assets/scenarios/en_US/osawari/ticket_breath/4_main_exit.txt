@@ -19,16 +19,16 @@ usa00@rt:Hey, you~
 usa00:
   目: close_smile
 
-usa00@lb:I feel like~\nYou touched some weird place~?
+usa00@lb:I feel like~\nYou touched me weird~?
 
 
 me: ...
 
 usa00:
   目: normal
-usa00@rt: Did you manage to clean my teeth~?
+usa00@rt: Did you manage to\nclean my teeth~?
 
-usa00@lb: Come closer~
+usa00@lb: Come closer~\nCheck~
 
 me: Okay...
 

@@ -4,7 +4,7 @@ usa00@rt: Ah~~~♥???
 usa00:
   目: close_smile
 
-usa00@lb: I feel like~ You're touching~♥?
+usa00@lb: Did you...\ntouch me~♥?
 
 me: ...Barely touching! Technically not in contact!
 
@@ -13,7 +13,7 @@ usa00:
 usa00@rt: My clothes are in the way~
 usa00:
   目: close_smile
-usa00@lb: I can't see clearly~♥
+usa00@lb: I can't tell~♥
 
 usa00:
   目: normal

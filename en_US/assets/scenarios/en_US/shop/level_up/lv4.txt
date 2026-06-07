@@ -14,9 +14,10 @@ usa00:
 
 usa00@rt:Oh!\nYou came at the—
 
-me: "Well... and what's this thing?"
+me: "Well... and what's this thing for sale?"
 
-THERE! I cut her off like catching a sword mid-swing. I'm catching on quicker than quicksilver! (What?)
+THERE! I cut her off like catching a sword mid-swing.
+I'm catching on quicker than quicksilver! (What?)
 
 usa00@rt: This here~
 
@@ -25,26 +26,27 @@ usa00:
 
 usa00@lb: ...is a complete mystery...
 
-It's a small, golden, nut-shaped brooch? She places it on top of the counter...
+It's a small, golden, nut-shaped... brooch?
+She places it on top of the counter...
 
 ...And then it begins wriggling and writhing!!!
 
 me: "What the hell is this!?!?"
 
-usa00@rt: "It's made of real gold, I think?"
-usa00@rt: "It's split in half, too?"
+usa00@rt: It's made of real gold, I think?
+usa00@rt: It's split in half, too?
 
 She's poking at it with her finger!
 
-me: "...Huh. You actually have no idea what it is?"
+me: "...Huh. You're unsure about it yourself?"
 
 usa00:
   body: normal
 
 usa00@lb: I think I might have brought it here from my hometown~
-usa00@rt: Looks kind of like some talisman~
+usa00@rt: Looks kind of\nlike a talisman~
 
-me: "It's a mystery even for you!?"
+me: "So it's a mystery item even for you!?"
 
 usa00@lb: Here~
 usa00@rt: You have it~♥
@@ -53,14 +55,14 @@ me: "Uh, I'll pass!!!"
 me: "Wait, you're gonna force me to buy it, aren't you!?!?"
 
 usa00@lb: Come on~
-usa00@rt: You're getting plenty rich lately~
-usa00@lb: And without my gear, who knows where you'll be right now~
+usa00@rt: You're getting\nplenty rich lately~
+usa00@lb: And without my gear,\nwho knows where\nyou'd be right now~
 
 me: "Darn it..."
 
 ...Which reminds me!!!
 
-me: "I've been wanting to mention it! I saw a wooden sword going for 100G recently!!!"
+me: "I've been wanting to mention it!\nI saw a wooden sword going for 100G recently!!!"
 
 usa00@rt:Alright~\nFine~
 usa00@lb:Just this once~\nI'll let you name this item~♥

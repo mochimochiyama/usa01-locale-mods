@@ -51,7 +51,7 @@ usa00:
   目: close_smile
   右脚:上げ
 
-usa00@rt:[wave]Raise~♥[/wave]
+usa00@rt:[wave]Here~♥[/wave]
 
 usa00:
   目: close_smile
@@ -66,12 +66,12 @@ AMAZING!!! And there's a bunch of floof!!!!!
 
 me: "CAN I SEE MORE!?!?!?"
 
-usa00@rt:I'm not supposed to show people these~
+usa00@rt:I'm not supposed to show my feet~
 usa00@lb:But just this once~ Specially~
 
 me: "Didn't you say that the last time too!?"
 
-usa00@rt:I lied about my hands being special~
+usa00@rt:Well, I lied~
 usa00@lb:[wave]But these are special for real~♥[/wave]
 
 me: "SPECIAL FOR REAL!!!"

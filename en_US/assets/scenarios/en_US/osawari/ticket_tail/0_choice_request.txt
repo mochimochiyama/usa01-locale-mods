@@ -4,7 +4,7 @@ usa00:
   目: close_smile
   尻尾: normal
 
-usa00@rt:[wave]So loud~♥[/wave]
+usa00@rt:[wave]You're too excited~♥[/wave]
 
 usa00:
   目: normal
