@@ -13,7 +13,8 @@ usa00@rt: What~?
 
 me: "...Nothing."
 
-I need to touch her forehead to use sleep magic on her, which sounds... impossible?
+I need to touch her forehead to use sleep magic on her,
+which sounds... impossible?
 
 me: "...Um~!"
 
@@ -35,7 +36,7 @@ me: "WHY!?"
 usa00:
   目: normal
 usa00@rt: Why~?
-usa00@lb: It's a [tornado]Bunnin[/tornado] greeting~ You looked that up, didn't you~?
+usa00@lb: It's a  [tornado]Bunnin[/tornado]  greeting~ You looked that up, didn't you~?
 
 I had no idea at all!
 
@@ -43,10 +44,11 @@ usa00:
   目: close_smile
 
 usa00@rt: Here~
-usa00@lb: [tornado]Bunnin[/tornado] hi~
+usa00@lb: [tornado]Bunnin[/tornado]  hi~
 
 
-I feel bad for tricking her, but I'm just testing out the magic... just the tip...
+I feel bad for tricking her, but I'm just testing out the magic...
+Just the tip...
 
 me: "Okay then... Here I go with the Bunnin hi..."
 
@@ -64,7 +66,7 @@ Well, I knew it...
 
 me:"...Okay, thanks for letting me--"
 
-usa00@rt:[tornado]Kh[/tornado]
+usa00@rt:[tornado]Kh...[/tornado]
 
 usa00:
   目: close_doya

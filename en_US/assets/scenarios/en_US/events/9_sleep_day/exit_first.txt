@@ -18,14 +18,14 @@ usa00@rt: ...Hm?
 
 me: "..."
 
-usa00@lb: What were we talking about...?
+usa00@lb: What were we\ntalking about...?
 
 usa00:
   口: normal
   body: ひろげ
 
 usa00@rt: Oh~ Right~
-usa00@lb: My forehead, here~! [tornado]Bunnin[/tornado] hi~
+usa00@lb: My forehead, here~!\n[tornado]Bunnin[/tornado]  hi~
 
 ...
 

@@ -4,9 +4,10 @@ bg: shop
 
 me: "...Ello~"
 
-I find a staircase behind the counter... which leads to the second floor... her home!
+I find a staircase behind the counter...\nwhich leads to the second floor... her home!
 
-She said it's a key to her house, but it's actually just the key to the shop's counter!!
+She said it's a key to her room, but it's
+actually just the key to the shop's counter!!
 
 me:"..."
 
@@ -35,14 +36,14 @@ Honestly... It's kinda...
 
 usa00@rt: What~? Why are you staring~?
 
-me: "It's kind of a giant mess in here... I think?"
+me: "It's kind of a giant mess in here... Huh?"
 
 usa00:
   目: close_smile
 
 usa00@rt:[wave]Kyaa~♥[/wave]
 
-me: "And it kinda smells like roasted potatoes?"
+me: "And it kinda smells like roasted sweet potatoes?"
 
 usa00@lb:[wave]Wah~♥[/wave]
 
@@ -52,11 +53,11 @@ usa00@rt:[wave]Nooo~♥[/wave]
 
 me: "You live like this...?"
 
-usa00@rt:Well, I only use this place to sleep~
+usa00@rt:Well, I'm just\nhere to sleep~
 
 I'm not one to talk, but I think she might be kind of a girl failure!
 
-usa00@lb:Okay, now help me move this shelf there~
+usa00@lb:Okay, now help me\nmove this shelf there~
 
 me: "Oh.. Okay...!!"
 ...
@@ -75,11 +76,11 @@ me: "Okee..."
 
 usa00@rt: Thanks~
 
-usa00@lb: That's the Room Ticket service~♥
+usa00@lb: That's the room ticket service~♥
 
 me:"I'm only here to clean up!!??"
 
-usa00@rt: But you did get to see my room~
+usa00@rt: But you did\nget to see my room~
 
 me:"Uhmmm... I guess... I suppose that's true...?"
 
@@ -89,11 +90,12 @@ me:"Okay, bye~?"
 
 usa00:exit
 
-SLAM!!!
+Slam!!!
 
 me:...
 
-Well, I slaved around cleaning up her room only to get an "okay, bye" from her. That's just my life, I guess...
+I slaved around cleaning up her room only to
+get an "okay, bye" from her. That's just my life, I guess...
 
 ...
 
@@ -101,7 +103,9 @@ bg: shop
 
 me: "Oh. I forgot to return the key..."
 
-Midway through the stairs, I realize this and return to her room. I open the door.
+Midway down the stairs, I realize this and go back up.
+
+I open the door.
 
 Click.
 

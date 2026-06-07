@@ -20,7 +20,7 @@ usa00@rt: ...♥♥♥
 
 me:"...Huff...Puff..."
 
-...I'm at... my... limit... I'm been completely drained...
+...I'm at... my... limit... I've been completely drained...
 
 usa00:
   目: normal
@@ -40,7 +40,7 @@ usa00@rt:...Still alive~?
 
 me: "..."
 
-me: "......I think so...?"
+me: "...I think so...?"
 
 usa00:
   目: close_smile
@@ -50,13 +50,13 @@ usa00@rt:[tornado]Khuu~khuu~[/tornado]
 
 me:"..."
 
-me: "......You mentioned something about getting married--"
+me: "...You mentioned something about getting married--"
 
 usa00@rt:I don't remember such a thing~
 
 me:"..."
 
-me:"......I think I'll be sleeping now..."
+me:"...I think I'll be sleeping now..."
 
 usa00@rt:Me too~
 
@@ -84,9 +84,11 @@ usa00@rt:Ship so big~
 
 me:"So big~"
 
-We're at the port, getting ready to board the ship to the shopkeeper's hometown.
+We're at the port, getting ready to board
+the ship to the shopkeeper's hometown.
 
-The sailors are busy getting everything ready. Looks like we're almost about to set sail.
+The sailors are busy getting everything ready.
+Looks like we're almost about to set sail.
 
 usa00:
   目: normal
@@ -95,7 +97,7 @@ me:"By the way..."
 
 usa00@lb:Hmm~?
 
-me:"You said something about how men can't enter your village before. Is is really okay for me to tag along...?"
+me:"You said something about how men can't enter your village before.\nIs it really okay for me to tag along...?"
 
 usa00@rt:Oh~ That~?
 
@@ -116,16 +118,18 @@ usa00@lb:Ship is about to set sail~
 
 me:"[shake]Wait! But why, exactly!?[/shake]"
 
-Seeing her hop toward the ship, I suddenly recall my first day at this island... and the moment that I met her in that alley.
+Seeing her hop toward the ship, I suddenly recall my first day on this island... and the moment that I met her in that alley.
 
-I thought she was a... con artist or something at first. Never thought I'd end up going on a journey with her...
+I thought she was a... con artist or something at first.
+Never thought I'd end up going on a journey with her...
 
-But visiting the shopkeeper's hometown, huh? I wonder what it's like! I so look forward to actually seeing it!
+But visiting the shopkeeper's hometown, huh?
+I wonder what it's like! I'm kinda excited to actually see it!
 
 
 usa00:
   目: close_smile
-usa00@lb:Anchors aweigh〜
+usa00@lb:Anchors aweigh~
 
 me:"WAIT FOR ME!!!"
 

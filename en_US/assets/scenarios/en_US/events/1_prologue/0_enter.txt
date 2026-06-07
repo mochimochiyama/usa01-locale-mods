@@ -5,19 +5,20 @@ bg: port0
 
 ......
 
-Stepping off the ship, I see a fully crowded port.
+Stepping off the ship, I see a port filled with people.
 
 me:"Woah..."
 
-For a country bumpkin like me, just the sheer amount of people is more than enough to make me feel overwhelmed.
+For a country bumpkin like me, just the sheer amount 
+of people is more than enough to make me feel overwhelmed.
 
-But that won't stop me. This is an island where dreams come true. Anyone can become an adventurer here and rise to the top,
+But that won't stop me! This is an island where dreams come true. Anyone can become an adventurer here and rise to the top,
 as long as you have what it takes.
 
 [shake]RAGS TO RICHES!!!!!!!!!!!!!!!![/shake]
 
 I'm practically broke from the ship ticket,
-but my spirit is willing and my flesh is well... not that weak.
+but my spirit is willing and my flesh is well... not that flimsy.
 
 me:"Let's find the guild first..."
 
@@ -37,7 +38,7 @@ Their armor... swords... staves...
 
 They're all geared up, huh...
 
-Now look at me... basically naked.
+Now look at me... I might as well be naked.
 
 Guess I should buy some equipment after I'm done registrating...
 
@@ -88,7 +89,7 @@ bg: street0
 
 .........
 
-I wander around town and check out the shops, but it's the same everywhere. They definitely didn't expect people to come here butt-naked, huh?
+I wander around town and check out the shops, but it's the same everywhere. They definitely didn't expect people to come here completely unarmored, huh?
 
 me:"[font_size=25][shake]I'M DONE FOR!!![/shake][/font_size]"
 
@@ -103,7 +104,7 @@ This grubby, middle-aged dude just came out of nowhere!
 
 Food Hawker:"HERE! HAVE SOME FOOD! IT'LL MAKE YOU FEEL BETTER!"
 
-me:"Oh, uh... Th-thanks..."
+me:"Oh, uh... Th-Thanks..."
 
 ...
 
@@ -130,13 +131,14 @@ usa00:
 
 Turning around, I see a small figure standing before--[font_size=25][shake]EARS!!![/shake][/font_size]
 
-What do they call this race again? Bunnins... If I recall correctly...?
+What do they call this race again?
+Bunnins... If I recall correctly...?
 
 You don't see them often in the mainland.
 They have long ears and a soft, fluffy tail... and also--wait, no, not that I know much about them... It's not like I've seen them before...
 
 Reminds me that the guild receptionist also had ears, huh...
-WAIT, I also have ears...
+WAIT A SECOND, I also have ears...
 
 Random thoughts fly around in my mind...
 when suddenly she throws me a question.
@@ -169,25 +171,26 @@ usa00:
 
 ...Oh. Is that what's happening now?
 
-...Smells fishy.
+...Smells fishier than the port.
 
 ...Am I getting scammed?
 
 usa00:
   目: normal
 
-???@rt:It's okay~\nJust taking a look\nis okay too~
+???@rt:It's okay~\nJust taking a look\nis fine too~
 
 usa00:
   目: normal
 
-...Sounds perfectly okay then!!! ...Maybe?
+...Sounds perfectly okay then if she puts it like that!!! ...Probably?
 
 me:"W-Well but it's not like I really need anything right now, haha!"
 
 Gotta make sure she doesn't take me for an easy mark!
 
-But well, it's true I still haven't bought a weapon yet... And it's not like I found any candidates after going through the other shops...
+But come to think of it, I still haven't bought a weapon yet...
+And it's not like I found any candidates after going through the other shops...
 
 me:"J-Just a look then..."
 
@@ -217,7 +220,7 @@ Shopkeep: "Here we are~"
 bg: shop
 
 At the end of the alley, I see a small item shop (probably?).
-The whole place looks like a mess...
+The whole place looks like a giant dumpster...
 
 usa00:
   posure: front
@@ -227,7 +230,7 @@ usa00@rt:Welcome~
 usa00@lb:Do you need a weapon,\nMr. Adventurer~?
 
 
-me:(She saw right through me...)
+me:(She's reading me like a book...)
 
 me:"Well... It'll be great if... you can get me... something cheap..."
 
@@ -272,14 +275,14 @@ usa00:
 
 usa00@rt:[font_size=26][wave]They'll be 1000G~♥[/wave][/font_size]
 
-me:[font_size=25][shake](Sob)(Sob)(Sob)(Sob)(Sob)[/shake][/font_size]
+me:[font_size=25][shake](Sobs)(Sobs)(Sobs)(Sobs)(Sobs)[/shake][/font_size]
 
 That damned food hawker!!! Now I can't afford equipment!!!
 WELL, ALRIGHT FINE. I'm the one at fault for not getting prepared in the first place!!! 
 
 me:"[shake]C-Could...[/shake]"
 
-me:[shake]Could you perhaps go a little lower, maybe...?[/shake]
+me:"[shake]Could you perhaps go a little lower, maybe...?[/shake]"
 
 usa00:
   目: normal

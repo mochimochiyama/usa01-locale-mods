@@ -8,7 +8,7 @@ usa00:
 
 me: "I got the thing with me~"
 
-I can't even keep track of how many times she's forced me to buy her stuff...
+I can't even keep track of how many times she's made me buy stuff...
 I have the vial that she made me buy... I mean, that I willingly bought, with me.
 
 Apparently it's for some "ritual"...
@@ -24,11 +24,12 @@ usa00@lb:Okay, open the vial~
 
 Pop.
 
-...Wow, it's like someone crammed the most foresty parts of a forest inside! That kind of smell!
+...Wow, it's like someone crammed the most
+foresty parts of a forest inside! That kind of smell!
 
 usa00:
   目: close_smile
-usa00@rt: Now give me~ a whiff of that~
+usa00@rt: Now give me~\na whiff of that~
 
 me:"Like so~?"
 
@@ -59,7 +60,7 @@ Her face is getting kinda red!
 me: "A-Are you okay?"
 
 usa00@rt:...So~
-usa00@lb:...I probably won't remember any of this~
+usa00@lb:...I probably won't\nremember any of this~
 
 me: "...Huh?"
 
@@ -70,16 +71,17 @@ usa00:
 
 me: "WOAH!!! Why are you taking off your clothes!!??"
 
-usa00@rt:[wave]Estrus~?[/wave]
+usa00@rt:[wave]In heat~?[/wave]
 usa00@lb:[wave]Wow~♥[/wave]
 
-I can feel her heat even at this distance! The moisture, and the sweaty scent!!
+I can feel her heat even at this distance!
+The moisture, and the sweaty scent!!
 
 usa00:
   目: close_smile
   発情: 強
 
-usa00@lb:[wave]No idea what'll happen now~♥[/wave]
+usa00@lb:[wave]No idea what'll\nhappen now~♥[/wave]
 
 This... This is bad! Like, real BAD!!!
 
@@ -89,7 +91,8 @@ usa00@lb:[wave]Push~♥[/wave]
 
 me:"――Nyeouch!"
 
-How is her small figure mustering up such strength!? She has pushed me... wrestled me to the bed!
+How is her small figure mustering up such strength!?
+She has pushed me... wrestled me to the bed!
 
 usa00@rt:[wave]Time to work hard~♥[/wave]
 usa00@lb:[wave]Together~♥[/wave]

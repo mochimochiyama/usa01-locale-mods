@@ -1,13 +1,14 @@
 
 bg: shop
 
-It's getting late. I should sleep... or actually, I suppose I can go to the tavern.
+It's getting late. I should sleep...
+Or actually, I suppose I can go to the tavern.
 
 bg: port1
 
 ...
 
-~Tavern~
+... At the tavern.
 
 Hustle, bustle... Buzz, buzz...
 
@@ -52,11 +53,14 @@ me: "Well... That's true..."
 
 ...
 
-You get a lot of people coming here, but they usually leave after they've earned enough money.
+You get a lot of people coming here, but most
+people leave after they've earned enough money.
 
-Leaving, huh... I haven't even thought about it before... I kinda came to this island on a whim anyway...
+Leaving, huh... The thought never quite entered my mind...
+I kinda came to this island on a whim anyway...
 
-I won't get to see the ol' dude again, huh... Now that I'm thinking about it, it does make me feel a little lone--
+I probably won't get to see the ol' dude again...
+Now that I'm thinking about it, it does feel a little lone--
 
 Ol' Dude:"Oh yeah, kid! About your ball!"
 

@@ -12,12 +12,12 @@ usa00@rt:Wood, indeed~
 
 usa00@lb:Now, now~\nIt's still early, why don't you go on a quest~?
 
-me: "Uh, I suppose so..."
+me: "Uh, I suppose I should..."
 
 She's right. It's not like I have much else to do here.
 Or actually, that's what I came here for in the first place!
 
-me:"I'll be going then... Th-thanks..."
+me:"I'll be going then... Th-Thanks..."
 
 usa00@rt:If you make it back alive,\ndo come again, okay~?♥
 

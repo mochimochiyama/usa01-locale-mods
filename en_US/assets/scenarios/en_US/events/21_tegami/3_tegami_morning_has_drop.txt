@@ -46,9 +46,9 @@ usa00:
   口: normal
 
 usa00@rt:So have you heard of...
-usa00@lb:Golden Dragons?
+usa00@lb:...Golden dragons?
 
-What's that got to do with everything!?
+What's that got to do with her village!?
 
 usa00@rt:You've been on a roll lately~
 usa00@lb:If you bring me a dragon scale~
@@ -56,7 +56,7 @@ usa00@lb:If you bring me a dragon scale~
 me: "Uh, I think I beat one not so long ago...?"
 
 usa00@rt:Huh~~~???
-usa00@lb:That~ That's a Golden Dragon scale~
+usa00@lb:Oh~ That's a\ngolden dragon scale~
 
 I don't know how but I won somehow!
 

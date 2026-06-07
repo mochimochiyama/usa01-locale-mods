@@ -9,19 +9,21 @@ usa00@rt:Hey~
 me:"Good morning."
 
 usa00@lb:So about~
-usa00@rt:The thing yesterday~
+usa00@rt:The letter yesterday~
 
 me:"Ah... When will it be...?"
 
 Apparently she has to go back to her hometown or village.
 
-She won't be closing this place down, but it's faraway and this place might close up for several months...
+She won't be closing this place down, but it's faraway
+and this place might close up for several months...
 
-I've been trying to find other shops in the main street, but they don't sell equipment like the ones here!!
+I've been trying to find other shops in the main street,
+but they don't sell equipment like the ones here!!
 
 usa00@rt:By the way~
 usa00@lb:Mr. Adventurer~
-usa00@rt:Are you interested in seeing a [tornado]Bunnin[/tornado] village~?
+usa00@rt:Are you interested in seeing\na  [tornado]Bunnin[/tornado]  village~?
 
 me:"REALLY!? CAN I GO TOO!?"
 
@@ -51,18 +53,18 @@ usa00@lb:You have stamina right~? Mr. Adventurer~?
 
 me:"Well, I guess...?"
 
-usa00@lb:Then I suppose you'll be okay~
+usa00@lb:Then I suppose\nyou'll be okay~
 
 me:"...Okay about what!?"
 
 usa00@rt:Tell me when you decide~
-usa00@lb:Whether you want to go or not~♥
+usa00@lb:Whether you want\nto go or not~♥
 
 me:"Oh. I will..."
 
 A Bunnin village, huh...
 
-The monsters in this island are beginning to pose less of a challenge. Maybe I should go somewhere else...?
+The monsters in this island are beginning to pose less\nof a challenge. Maybe I should go somewhere else...?
 
 Hmmm...
 

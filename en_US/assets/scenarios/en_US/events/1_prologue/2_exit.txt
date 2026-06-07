@@ -29,12 +29,12 @@ usa00@lb:Are you alright~?
 me:"I lived by the skin of my teeth..."
 
 It was my first time fighting slimes...
-They were way tougher than I expected...
+Those bastards were way tougher than I expected...
 
 usa00@rt:Did you get rewarded\nfor your efforts~?
 
-After completing the quest, I received a reward from the guild.
-Also, apparently I can take on a harder quest next time.
+After completing the quest, I received some money from the guild.
+Also, I get to take on a harder quest next time, apparently.
 
 me:"Well... Kinda."
 
@@ -68,7 +68,7 @@ usa00:
   目: close_smile
   body: ひろげ
 
-usa00@rt:[wave]I'll give you the best prices~♥[/wave]
+usa00@rt:[wave]I'll give you\nthe best prices~♥[/wave]
 
 me:"Hmm..."
 

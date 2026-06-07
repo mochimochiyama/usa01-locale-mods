@@ -8,6 +8,6 @@ usa00:
   上着: なし
   手袋: なし
 
-usa00@rt:What~?
+usa00@rt:Hmm~?
 
 ...

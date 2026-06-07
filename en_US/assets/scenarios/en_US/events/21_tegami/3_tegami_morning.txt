@@ -30,9 +30,9 @@ usa00:
   口: normal
 
 usa00@rt:Well~ Yes, you can, but~
-usa00@lb:There's just a thing you have to do~
+usa00@lb:There's just this thing\nyou have to do~
 
-me:"A thing?"
+me:"What thing?"
 
 usa00:
   口: o
@@ -47,11 +47,11 @@ usa00:
   口: normal
 
 usa00@rt:So have you heard of...
-usa00@lb:Golden Dragons?
+usa00@lb:...Golden dragons?
 
-What's that got to do with everything!?
+What's that got to do with her village!?
 
-me:"Golden Dragons?"
+me:"Golden dragons?"
 
 I think I've seen something about it in the guild... Something...
 
@@ -59,16 +59,18 @@ usa00@rt: Super duper strong dragons~
 
 me:"Huh... Ah."
 
-I remember now. It's a dragon monster that lives in a small, south-eastern island.
+I remember now. It's a type of draconic monster
+that lives in a small, south-eastern island.
 
-But dragons vary greatly in strength, and these golden ones are on the weaker end, I think...
+But dragons vary greatly in strength,
+and these golden ones are on the weaker end, I think...
 
 usa00@rt:You've been on a roll lately~
 usa00@lb:Go and give 'em a spank~
 
 me: "Give 'em a spank!?"
 
-usa00@rt:If you bring me a dragon scale~
+usa00@rt:If you bring me\na dragon scale~
 
 me: "GOING RIGHT AWAY!!!"
 

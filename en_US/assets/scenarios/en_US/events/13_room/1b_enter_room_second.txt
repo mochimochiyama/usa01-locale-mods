@@ -35,7 +35,7 @@ me: "...Huh? I mean~ your clothes...?"
 usa00:
   口: normal
 
-usa00@rt: This~? It's hot in here, you see~
+usa00@rt: This~? It's hot\nin here, you see~
 
 me: "...Anyway, I'll just leave the key here then..."
 
@@ -43,8 +43,8 @@ usa00@rt: Hmm~? You can just have it~
 
 me: "I can just have it!?"
 
-usa00@rt: It's just the key to the counter below~
-usa00@lb: Help me open up if you're here early~\nAnd clean up a little too, okay~?
+usa00@rt: It's just the key to\nthe counter below~
+usa00@lb: Help me open up if you're here early~ And clean up a little too, okay~?
 
 
 me: "Ga... GAH!"

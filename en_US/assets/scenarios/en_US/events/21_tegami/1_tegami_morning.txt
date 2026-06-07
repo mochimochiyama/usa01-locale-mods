@@ -10,7 +10,7 @@ me:"Good morning."
 
 usa00@rt: ...
 
-She's not responding... Then I realize that she's reading a letter.
+She's not responding... then I realize that she's reading a letter.
 
 usa00:
   口: o
@@ -23,19 +23,19 @@ usa00:
   口: normal
 
 usa00@rt:Oh~ Good morning~
-usa00@lb:It's a letter from my hometown~ Telling me to go back~
+usa00@lb:A letter from my hometown~\nTelling me to go back~
 
 me:"HUH!!"
 
 Does this mean this shop will be gone!!??
 
-usa00@rt:What's the matter~ Why so anxious~?
+usa00@rt:What's the matter~\nWhy so anxious~?
 
-me:"NOO! You can't close down!!!!! I only know this place!!!"
+me:"NOOO! You can't close down!!!!! I only know this shop!!!"
 
-usa00@lb:It won't close down~ Just not open for a while~
+usa00@lb:I won't close down~\nJust closed for a while~
 
-me:"But I'm a regular!!!!!!!"
+me:"But this is the only place that I can be a regular!!!!!!!"
 
 me:"...So when are you closing up!?"
 

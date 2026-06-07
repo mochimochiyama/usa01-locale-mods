@@ -10,7 +10,7 @@ usa00@rt: Happy~?
 
 me: "Uh, thanks for showing me your panties too..."
 
-usa00@rt: What~? I was just feeling kinda stuffy~♥
+usa00@rt: Hmm~? I was just\nfeeling kinda stuffy~♥
 usa00@lb: What did you see~?
 
 me: "Oh uh... Nothing..."
@@ -37,6 +37,6 @@ usa00: exit
 
 bg: shop
 
-Close...
+(Closes door)...
 
 ...

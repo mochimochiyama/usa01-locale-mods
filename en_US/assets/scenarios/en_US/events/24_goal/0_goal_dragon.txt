@@ -3,7 +3,7 @@ bg: shop
 
 me: "Huff... Puff..."
 
-I beat a Golden Dragon somehow...
+I beat a golden dragon somehow...
 
 usa00:
   posure: front
@@ -18,15 +18,15 @@ me:"Sure I did!"
 usa00@rt:...Really~?
 usa00@lb:Wow~♥♥ So strong~♥
 
-She told me to beat up a Golden Dragon after I said I wanted to follow her to her village... I think? Is that what she said?
+She told me to beat up a golden dragon after I said I wanted to follow her to her village... I think? Is that all I need to do?
 
 usa00@rt:[wave]Khuu~khuu~[/wave]
-usa00@lb:Let's go to my village together~
+usa00@lb:Let's go to\nmy village together~
 
 me: "Oh, really!??! YAAAY--"
 
 usa00@rt:But~
-usa00@lb:There's a thing you need to do first~
+usa00@lb:There's a thing\nyou need to do first~
 
 usa00: exit
 
@@ -46,6 +46,6 @@ usa00@lb:So, right now~\nI'm all run out~
 usa00:
   目: close_smile
 
-usa00@rt:But I happen to~\nhave this one thing for sale~♥
+usa00@rt:But I happen to~\nhave this one thing\nfor sale~♥
 
 ...
