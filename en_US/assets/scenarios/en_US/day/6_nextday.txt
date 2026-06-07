@@ -1,7 +1,8 @@
 
 bg: shop
 
-It's getting late. I should sleep... or actually, I suppose I can go to the tavern.
+It's getting late. I should sleep...
+Or actually, I suppose I can go to the tavern.
 
 bg: port1
 
@@ -14,19 +15,21 @@ Hustle, bustle... Buzz, buzz...
 
 (Munch, munch)...
 
-Ol' Dude:"All by yer lonesome, kid?"
+Ol' Dude:"All by yer lonesome, KID?"
 
 (Munch, munch)... Wah! Where'd this dude come from!?
 
 me:"Wh-Wha!? Y-Yeah, just by myself..."
 
-I'm enjoying my one man dinner (some fried shrimp thing) when this uncle-looking dude approaches me.
+I'm enjoying my one man dinner (some fried shrimp thing)
+when this uncle-looking dude approaches me.
 
-me:"Can I help you or something?"
+me:"Can I help you with something?"
 
 Ol' Dude:"Nah, just by meself too, yer see. Mind if I sit 'ere?"
 
-Huh, so this is a thing that actually happens! I totally feel like an adventurer now!
+Huh, so this is a thing that actually happens!
+I totally feel like an adventurer now!
 
 Ol' Dude:"..."
 
@@ -34,13 +37,14 @@ Ol' Dude:"Y'know kid, you got some real funny-looking gear!"
 
 me:"Huh???"
 
-Ol' Dude:"Where'd ye get that from, aye?"
+Ol' Dude:"Where'd ya get that from, aye?"
 
 me:"They actually work pretty well, you know!!!"
 
-I've taken a liking to these equipment!! Weird juices spill out from time to time though!!!
+I've taken a liking to these equipment!!
+Weird juices spill out from time to time though!!!
 
-Ol' Dude:"Harhar! Izzat so? Sorry 'bout that, kid!"
+Ol' Dude:"Hahah! Izzat so? Sorry 'bout that, kid!"
 
 Saying that, the dude takes a fat swig and empties his beer.
 
@@ -48,7 +52,7 @@ Ol' Dude:"...How long 'ave you been here?"
 
 me:"Uh. Just about a week..."
 
-Ol' Dude:"Oh, so yer a baby, aye!!"
+Ol' Dude:"Oh, so yer a baby, AYE!!"
 
 This dude is being so rude!!!
 
@@ -74,7 +78,7 @@ Ol' Dude:"Now drink up! DRINK!"
 
 me:"Um... I can't really handle alcohol..."
 
-Ol' Dude:"You wot!? Well, that's a first for me!"
+Ol' Dude:"You shittin' me!? Well, that's a first for me!"
 
 me:"It's pretty common for the younger generation..."
 
@@ -90,7 +94,8 @@ bg:port0
 
 ...After that, he kept blabbering about his erotic escapades!!!
 
-I thought there'd be more quest-related gossip... But I suppose the bawdy stuff is what you talk about in taverns...?
+I thought there'd be more quest-related gossip...
+But I suppose the bawdy stuff is the default for tavern talk...?
 
 bg: black
 

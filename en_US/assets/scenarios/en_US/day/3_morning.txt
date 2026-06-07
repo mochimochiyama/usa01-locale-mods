@@ -1,18 +1,19 @@
 
 bg: shop
 
-The shopkeep is getting her wares ready.
+The shopkeeper is getting her wares ready.
 
 usa00:
   posure: front
 
-She's raising her hands high to reach the top shelf, and at times, crouching to unbox things.
+She's raising her hands high to reach the top shelf,
+and at times, crouching to unbox things.
 
 Overall, looking quite busy.
 
 ...
 
-...Her tail is wagging along, going up and down, as she moves.
+...Her tail wags along, going up and down as she moves.
 
 me:(...)
 
@@ -20,7 +21,7 @@ Wag. Wag.
 
 me:(......)
 
-me:(...nice.)
+me:(...Nice.)
 
 usa00@rt:[wave]~♪[/wave]
 
@@ -33,7 +34,7 @@ usa00@rt:Oh. Morning~
 me:"...'owdy."
 
 
-usa00@rt:Keep up the good work today too~
+usa00@rt:Keep up the\ngood work today too~
 
 me:"...too~"
 
@@ -43,4 +44,4 @@ usa00:exit
 
 ...
 
-...Time to do my best again today, I suppose~
+...Time to do my best again today, I suppose!

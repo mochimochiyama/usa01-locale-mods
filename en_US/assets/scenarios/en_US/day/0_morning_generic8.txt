@@ -8,21 +8,21 @@ usa00@rt:Morning~
 
 me:"Howdy."
 
-usa00@rt:[tornado]Bunnin[/tornado] language\nlesson time~
+usa00@rt:[tornado]Bunnin[/tornado]  language\nlesson time~
 
 me:"Alright! I've been waiting for this!"
 
 usa00@rt:You say "thank you" with~
 usa00@rt:[tornado]Khunya![/tornado]
 
-me:"[shake]Khunya[/shake]"
+me:"[shake]Khunya![/shake]"
 
 usa00@rt: Nuh-uh-uh.
 usa00@lb: Relax your throat~\nNasal voice too~
 
 usa00@rt:[tornado]Khunya![/tornado]
 
-me:"[tornado][shake]Coonya[/shake][/tornado]"
+me:[tornado][shake]"Coonya!"[/shake][/tornado]
 
 Ah, the words spinned a little!
 

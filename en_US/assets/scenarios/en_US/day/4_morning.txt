@@ -12,7 +12,7 @@ usa00@lb:......
 
 usa00@rt:......
 
-The shopkeep is giving me quite the stare.
+The shopkeeper is giving me quite the stare.
 
 me:"...Uh, what's the--"
 
@@ -26,9 +26,9 @@ usa00@rt:You come here everyday, huh~?
 me:"[shake]ACK!!! Am I being a nuisance!!!!!?[/shake]"
 
 usa00@rt:Oh, I don't mean that~
-usa00@lb:But don't you know other shops~?
+usa00@lb:But don't you know\nother shops~?
 
-Phew, thank goodness...
+Phew, thank goodness I'm not annoying her...
 
 me:"Uh... This is the only place I know... I guess..."
 
@@ -38,12 +38,12 @@ Why, I wonder? It's kinda far from town too...
 
 me:"But well, I can get everything I need here, so..."
 
-I took a peek at a weapon shop after dinner. Some short, old man inside the shop kept glaring at me and I got scared...
+I took a peek at a weapon shop after dinner yesterday. Some short old man inside kept glaring at me and I got scared...
 
 usa00@rt:[wave]Huh~♥[/wave]
 usa00@lb:Is that so~?
 
-me:"Very much so indeed yes."
+me:"Very much so indeed yes no other reasons."
 
 usa00@rt:You know~
 usa00@lb:I feel like you might be stealing glances at me, hmm~?

@@ -8,16 +8,16 @@ usa00@rt:Morning~
 
 me:"Howdy."
 
-usa00@rt:[tornado]Bunnin[/tornado] language\nlesson time~
+usa00@rt:[tornado]Bunnin[/tornado]  language\nlesson time~
 
 me:"Yay~!!!"
 
-usa00@rt:Today, we\ntalk about\n[tornado]Khuu[/tornado]~
+usa00@rt:Today, we\ntalk about\n[tornado]Khuu~[/tornado]
 
 me:"It's the thing you always say!!!"
 
 usa00@rt:Very useful word~
-usa00@lb:It means\nyes, I see, nice,\neverything~
+usa00@lb:It means\n"yes, I see, nice,"\neverything~
 
 me:"Everything?"
 
@@ -25,12 +25,12 @@ usa00@rt:[tornado]Khuu♪[/tornado]
 
 me:"Khuu."
 
-usa00@rt:That's "yes" the way you're saying it~
-usa00@lb:Try to tighten your throat more~
+usa00@rt:That's "yes" the\nway you're saying it~
+usa00@lb:Try to tighten\nyour throat more~
 
-me:"[tornado]Khuu[/tornado]"
+me:[tornado]"Khuu."[/tornado]
 
-I can feel the sound spinning!!!
+I can feel the word spinning!!!
 
 usa00@rt:Hmm...
 usa00@rt:Practice more, you see~

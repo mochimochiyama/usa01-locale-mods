@@ -8,8 +8,8 @@ usa00@rt:Morning~
 
 me:"Good morning!!!"
 
-usa00@rt:Are you getting~
-usa00@lb:Used to\nthis island~?
+usa00@rt:Are you getting...
+usa00@lb:...used to\nthis island~?
 
 me:"Well, I wonder... Kind of, I guess."
 

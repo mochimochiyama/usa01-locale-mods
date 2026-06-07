@@ -25,11 +25,13 @@ me:"There's a lot more stuff compared to my first visit."
 usa00@rt:Maybe my~
 usa00@lb:Business is booming~?
 
-Oh yeah! Recently, I started seeing people buy stuff here from time to time!
+Oh yeah! Recently, I started seeing
+people buy stuff here from time to time!
 
-Well, not that it matters! I come here when there's nobody else around!!!
+Well, not that it matters!
+I come here when there's nobody else around!!!
 
-me:"Booming, or you know... Cluttering."
+me:"Booming, or you know... cluttering."
 
 usa00@lb:But, hey~
 usa00@rt:Being cluttered~

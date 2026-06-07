@@ -18,7 +18,7 @@ me:"...Whatsit?"
 
 usa00@lb:Whats-it-\ncalled-again~?
 
-usa00@rt:I think it's named after some historic figure?
+usa00@rt:I think it's named after\nsome historical figure?
 
 me:"Is that so...?"
 

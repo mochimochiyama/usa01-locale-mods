@@ -8,11 +8,11 @@ usa00@rt:Morning~
 
 me:"Good morning."
 
-usa00@lb:Hey~\nHey~
+usa00@lb:Hey~\nHeeey~
 
-me:"What~?"
+me:"Yeees~?"
 
-usa00@rt:What else do you spend money on~?
+usa00@rt:What else do you\nspend money on~?
 
 me:"Stuff like eating dinner... I guess?"
 
@@ -25,7 +25,7 @@ What else, indeed... Buying stuff here?
 me:"Buying stuff here, I guess~"
 
 usa00@rt:Then could it be~
-usa00@lb:You actually have a lot of money saved up~?
+usa00@lb:You actually have a lot\nof money saved up~?
 
 me:"Wh-What do you want!?"
 

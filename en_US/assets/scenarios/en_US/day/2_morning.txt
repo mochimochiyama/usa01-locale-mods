@@ -24,7 +24,7 @@ me:"Really!?"
 
 Glancing at the shelves, I can see some weapony-looking things!
 
-I'd expect an item shop (is this even one?) to have books and weird potions and so on, so the weapons are looking a bit out of place here...
+I'd expect an item shop (is this even one?) to have books and weird potions and so on, so the weapons are looking a bit out of place...
 
 me:"Really? All just for me!?"
 
@@ -57,7 +57,7 @@ usa00@rt: Give me the slimes,\nyour current gear,\nand just a little coin~
 
 usa00@lb: And you can exchange\nfor better gear~
 
-me:"...Exchange?"
+me:"...Exchange for better gear?"
 
 usa00@rt: It's called\n"trading in"\nyou see~
 usa00@lb: You'll end up buying more stuff if you get stronger, after all~

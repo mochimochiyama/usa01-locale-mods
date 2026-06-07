@@ -12,7 +12,7 @@ usa00@lb:Hey~\nI've meant to ask, you see~
 
 me:"Yes~?"
 
-usa00@rt:Mr. Adventurer,\nyou speak the Common Tongue so well, huh~
+usa00@rt:Mr. Adventurer,\nyour Common Tongue is\nso good, huh~
 
 me:"Oh? I guess so..."
 
@@ -38,7 +38,7 @@ me:"You started with all the retail phrases, huh..."
 
 ...
 
-This reminds me, I've been bothered by this one thing the whole time!
+This reminds me, I've been bothered\nby this one thing the whole time!
 
 me:"Um..."
 

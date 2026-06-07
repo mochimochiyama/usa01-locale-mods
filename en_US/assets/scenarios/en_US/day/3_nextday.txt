@@ -1,7 +1,8 @@
 
 bg: shop
 
-It's getting late. I should sleep... or actually, I suppose I can check out the tavern.
+It's getting late. I should sleep...
+Or actually, I suppose I can check out the tavern.
 
 bg: port0
 
@@ -9,7 +10,8 @@ bg: port0
 
 I reach the tavern in the outskirts of the port.
 
-I noticed this place after I finished reporting to the guild. I've been dying to check it out!
+I discovered this place after reporting to the
+guild a while ago. I've been dying to check it out!
 
 The noises grow rowdier and cheerier as I approach the tavern.
 
@@ -54,7 +56,8 @@ bg:port0
 
 ...NOBODY TRIED TALKING TO ME OR ANYTHING!!!
 
-And here I was, thinking I'd get some adventurer talk! Well, FINE! At least the food was good!
+And here I was, thinking I'd get some adventurer talk!
+Well, FINE! At least the food was good!
 
 ...
 

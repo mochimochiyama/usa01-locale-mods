@@ -12,16 +12,16 @@ usa00@lb:Hey~\nHey~
 
 me:"What."
 
-usa00@rt:The potato that I ate yesterday~
+usa00@rt:The sweet potato that\nI ate yesterday~
 
-me:"...Potato."
+me:"...Sweet potato."
 
-usa00@rt:It was kinda... not fluffy at all~
+usa00@rt:It was kinda...\nnot fluffy at all~
 usa00@lb:More... splatty~?
 
 me:"..."
 
-...Does she have a thing for potatoes?
+...Does she have a thing for sweet potatoes?
 
 
 

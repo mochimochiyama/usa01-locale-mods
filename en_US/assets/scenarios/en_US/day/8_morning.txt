@@ -12,28 +12,28 @@ usa00@lb:Hey~\nBy the way~
 
 me:"Yes~?"
 
-usa00@rt:Can you use magic, Mr. Adventurer?
+usa00@rt:Can you use magic,\nMr. Adventurer?
 
 me:"Magic..."
 
-usa00@rt:Magic~
+usa00@rt:Yes, magic~
 
 me:"Uh... Probably no, I think?"
 
-usa00@lb:Probably~?
+usa00@lb:Probably no~?
 
 me:"I mean... I don't really know, is the thing..."
 
 usa00@rt:What do you mean~?
-usa00@lb:You either can or you cannot~
+usa00@lb:You either can\nor you cannot~
 
-me:"I did, you know, the thing back in my hometown."
+me:"I did, you know, the test thing back in my hometown..."
 
 usa00@rt:Uh-huh.
 
 me:"I touched this... orb thingy?"
 
-me:"There was this old mage dude who was staying as a bodyguard or something, and he gathered up the kids to kill time."
+me:"There was this old mage dude who was staying as a bodyguard\nor something, and he gathered up the kids to kill time."
 
 usa00@rt:Huh~
 
@@ -44,7 +44,7 @@ usa00:
 
 usa00@rt:Failure~♥
 
-I'm getting kinda pissed now remembering that mage.
+Now that I'm remembering the mage, I'm getting kinda pissed.
 
 How could you say something like that to a kid?
 

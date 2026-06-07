@@ -17,16 +17,17 @@ me:"I'm kinda a regular, aren't I?"
 usa00:
   目: normal
 
-usa00@rt:So sudden~
+usa00@rt:That came\noutta nowhere~
 usa00@lb:Are you~?
 
 me:"Well, I think I am!!!"
 
-Yesterday, I tried ordering "the usual" at the tavern and the staff looked at me like I'm stupid!!
+Yesterday, I tried ordering "the usual" at the tavern
+and the staff looked at me like I'm stupid!!
 But I'm a regular here... Right?
 
-usa00@rt:Are you~
-usa00@lb:Dreaming of\nbecoming a regular~?
+usa00@rt:Are you...
+usa00@lb:...dreaming of\nbecoming a regular~?
 
 me:"Give me the usual!!!"
 

@@ -1,7 +1,8 @@
 
 bg: shop
 
-It's getting late. I should sleep... or actually, I suppose I can go to the tavern.
+It's getting late. I should sleep...
+Or actually, I suppose I can go to the tavern.
 
 bg: port1
 
@@ -15,7 +16,8 @@ me:"Oh, hey there, ol' man!"
 
 Ol' Dude:"Aye, kid!"
 
-I see the ol' dude drinking alone and gravitate toward him. I guess we've become acquaintances now, kinda!
+I see the ol' dude drinking alone and gravitate toward him.
+I guess we're acquaintances now, kinda!
 
 Ol' Dude:"You want a bite, kid?"
 
@@ -25,15 +27,15 @@ me:"Don't mind if I do!"
 
 ......
 
-Ol' Dude:"Found any bitches yet?"
+Ol' Dude:"So, got any bitches yet?"
 
-me:"You asked me that just a short while back!!!???"
+me:"You asked me that already!!! It's only been a FEW DAYS!!!!!!"
 
 Why can't you remember anything, dude!!!???
 
 me:"Uh, no. Not really..."
 
-...The shopkeep's face suddenly pops up in my mind.
+...The shopkeeper's face suddenly pops up in my mind.
 
 me:"...Uh, I kinda know this item shop owner, I guess?"
 
@@ -63,7 +65,7 @@ bg: black
 
 ...
 
-......次の日
+...The next day.
 
 bg: street0
 

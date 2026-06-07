@@ -1,7 +1,8 @@
 
 bg: shop
 
-It's getting late. I should sleep... or actually, I suppose I can go to the tavern.
+It's getting late. I should sleep...
+Or actually, I suppose I can go to the tavern.
 
 bg: port1
 
@@ -35,7 +36,7 @@ Ol' Dude:"By the way, found any bitches after that, aye?"
 
 me:"Uh, no, I'm not really interested in..."
 
-Ol' Dude:"You wot? Yer still young an' spiffin, kid!"
+Ol' Dude:"You wot? But yer still young an' spiffin, kid!"
 
 me:"Well, because of... reasons..."
 
@@ -45,13 +46,14 @@ me:"..."
 
 me:"Actually... I only have one ball, you see..."
 
-...It's not something I bring up often, but I'm born with only one ball!!!
+...It's not something I bring up often,
+but I'm born with only one ball!!!
 
 Ol' Dude:"[shake]GAHAHA! YE ONLY HAVE ONE NUT, KID!?[/shake]"
 
-me:"I'm a little self-conscious about it actually, so please don't shout it out loud..."
+me:"I'm a little self-conscious about it actually,\nso please don't shout it out loud..."
 
-Ol' Dude:"Harhar! Izzat so? Sorry 'bout that, kid."
+Ol' Dude:"Hahah! Izzat so? Sorry 'bout that, kid."
 
 Ol' Dude:"But ye know, having one is good enough, aye?"
 
