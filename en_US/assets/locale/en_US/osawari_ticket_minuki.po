@@ -64,7 +64,7 @@ msgstr "Getting kinda hot~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_chira"
-msgstr "Peek~♥"
+msgstr "Flash~♥"
 
 # 選択肢
 msgctxt "osawari_choice"
@@ -73,4 +73,4 @@ msgstr "Please let me show you my dick!"
 
 msgctxt "osawari_choice"
 msgid "ticket_minuki_p1b_ochin"
-msgstr "Show dick"
+msgstr "Show dick!"

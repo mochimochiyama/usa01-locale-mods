@@ -134,7 +134,7 @@ msgstr "[tornado]Hnoho~[/tornado]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_breath_p4_tongue_hahahaihehuho"
-msgstr "[tornado]Hanya-hai-hnoh♥[/tornado]"
+msgstr "[tornado]Hyathothmaeeth♥[/tornado]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_breath_p4_tongue_ea"
@@ -173,4 +173,4 @@ msgstr "PLEASE LET ME TOUCH YOUR CHEEKS!!!"
 
 msgctxt "osawari_choice"
 msgid "ticket_breath_p1_hoppe_futsuu"
-msgstr "Quite normal♥ cheeks♥!!!!"
+msgstr "Cheeks are just child's play!!!!"

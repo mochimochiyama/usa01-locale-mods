@@ -104,19 +104,19 @@ msgid "TOOLTIP_ERROR_REPORTING"
 msgstr "Sends bug report on crash.\nNo personal data will be collected."
 
 msgid "TOOLTIP_HAND_ALPHA"
-msgstr "Adjusts hand transparency.\n(Some scenes might be less visible if this is set to lowest.)"
+msgstr "Adjusts hand transparency.\n(This will cover up parts of the images if this is set to lowest.)"
 
 msgid "TOOLTIP_HAND_COLOR"
 msgstr "Adjusts hand color between white to black."
 
 msgid "TOOLTIP_HEAD_ALPHA"
-msgstr "Adjusts head transparency.\n(Some scenes might be less visible if this is set to lowest.)"
+msgstr "Adjusts head transparency.\n(This will cover up parts of the images if this is set to lowest.)"
 
 msgid "TOOLTIP_HEAD_COLOR"
 msgstr "Adjusts head color between white to black."
 
 msgid "TOOLTIP_OCHIN_ALPHA"
-msgstr "Adjusts dick transparency.\n(Some scenes might be less visible if this is set to lowest.)"
+msgstr "Adjusts dick transparency.\n(This will cover up parts of the images if this is set to lowest.)"
 
 msgid "TOOLTIP_OCHIN_COLOR"
 msgstr "Adjusts dick color between white to black."
@@ -125,7 +125,7 @@ msgid "TOOLTIP_MSAA"
 msgstr "Increases the smoothness of speech bubbles and certain images."
 
 msgid "TOOLTIP_MONOCHROME"
-msgstr "Activates monochrome mode.\nSome scenes might be less visible as this is only a filter."
+msgstr "Activates monochrome mode.\nSome images might lose detail as this is a filter."
 
 # --- Home ---
 
@@ -245,16 +245,16 @@ msgstr "Left Click: Next / Ctrl: Skip"
 # --- Save/Load ---
 
 msgid "SAVE_SELECT_SLOT"
-msgstr "Select a save slot."
+msgstr "Select Save Slot"
 
 msgid "SAVE_SELECT_LOAD_SLOT"
-msgstr "Load from a save slot."
+msgstr "Select Save to Load"
 
 msgid "SAVE_AUTO_NEWEST"
-msgstr "Auto save(Latest⇧)"
+msgstr "Auto Saves (Latest⇧)"
 
 msgid "SAVE_AUTO_NOTE"
-msgstr "※The game auto saves when you sleep (max 10)."
+msgstr "Note: The game automatically saves when you sleep (max 10)."
 
 # --- Osawari ---
 
@@ -265,10 +265,10 @@ msgid "OSAWARI_FAST"
 msgstr "Fast"
 
 msgid "OSAWARI_RIGHT_HAND"
-msgstr "Right Hand"
+msgstr "Hand (R)"
 
 msgid "OSAWARI_LEFT_HAND"
-msgstr "Left Hand"
+msgstr "Hand (L)"
 
 msgid "OSAWARI_KISS"
 msgstr "Kiss"
@@ -297,7 +297,7 @@ msgid "ENDING_VIEW_SECRETS"
 msgstr "View Secrets"
 
 msgid "DEMO_ENDING_MESSAGE"
-msgstr "Thanks for playing the demo!\n\nYour save is compatible with the full version.\nPlease consider buying it if you enjoyed the demo!"
+msgstr "Thanks for playing the demo!\n\nYour save is compatible with the full version.\nPlease consider buying the full game if you enjoyed the demo!"
 
 # --- Gallery ---
 
@@ -315,10 +315,10 @@ msgid "CONFIRM_DELETE_SAVE"
 msgstr "Delete %s?"
 
 msgid "CONFIRM_LOAD"
-msgstr "Load this save?\nYou will lost your current progress."
+msgstr "Load this save?\nYou will lose your current progress."
 
 msgid "CONFIRM_RETURN_TITLE"
-msgstr "Exit to menu?\nYou will lost your current progress."
+msgstr "Exit to menu?\nYou will lose your current progress."
 
 msgid "CONFIRM_UNLOCK_GALLERY"
 msgstr "Unlock the entire gallery?"

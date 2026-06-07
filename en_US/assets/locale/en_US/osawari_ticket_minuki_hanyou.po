@@ -61,7 +61,7 @@ msgstr "What are you doing~♥?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_hanyou_b_atteru"
-msgstr "I feel something~ hard hitting me~♥?"
+msgstr "I feel something~\nhard hitting me~♥?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_hanyou_b_atyu"
@@ -81,7 +81,7 @@ msgstr "You're hugging me so tightly~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_hanyou_b_derune"
-msgstr "Coming~?♥ I know you are~♥"
+msgstr "Coming~?♥\nI know you are~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_hanyou_b_dase"
@@ -98,7 +98,7 @@ msgstr "Aaah♥♥♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_hanyou_c_chigau"
-msgstr "I'm making~ different sounds~♥?"
+msgstr "I'm making these~\nweird sounds~♥?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_minuki_hanyou_c_onaji"

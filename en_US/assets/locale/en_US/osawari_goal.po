@@ -230,7 +230,7 @@ msgstr "E-Enowgh nwipples..."
 # バブル - SPEECH_ORGASM (オーガズム)
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_0_chest"
-msgstr "NIPPLES♥ CUM♥"
+msgstr "NIPPLES♥ CUMMING♥"
 
 msgctxt "osawari_bubble"
 msgid "goal_orgasm_0_default"

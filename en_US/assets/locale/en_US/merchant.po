@@ -28,7 +28,7 @@ msgstr "Thanks so much~"
 
 msgctxt "merchant_speech"
 msgid "purchase_thanks_2"
-msgstr "Thanks~"
+msgstr "Thanks for\nthe purchase~"
 
 msgctxt "merchant_speech"
 msgid "first_morning"
@@ -65,12 +65,12 @@ msgstr "I sell stuff\nfor beginners too~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv0_5"
-msgstr "Within your budget~?"
+msgstr "Everything within\nyour budget~?"
 
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_0"
-msgstr "I'm slowly expanding my lineup~"
+msgstr "I'm slowly\nexpanding my lineup~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_1"
@@ -78,15 +78,15 @@ msgstr "Buy more expensive stuff, okay~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_2"
-msgstr "Function over... form~? You might regret buying things just based on the looks~"
+msgstr "Function over... form~?\nYou might regret\nbuying things just\nbased on the looks~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_3"
-msgstr "I thought I restocked this rack yesterday~"
+msgstr "I thought I restocked\nthis rack yesterday~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv1_4"
-msgstr "Are you the kind that can make do with the cheap stuff~?"
+msgstr "Are you the kind that\ncan make do with\nthe cheap stuff~?"
 
 
 msgctxt "merchant_chat_shop"
@@ -99,7 +99,7 @@ msgstr "You look better equipped than before, hmm~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_2"
-msgstr "Maybe it's time for a gear upgrade~?"
+msgstr "Maybe it's time for\na gear upgrade~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_3"
@@ -111,15 +111,15 @@ msgstr "Getting used to that gear~? You were fumbling around in it at first~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_5"
-msgstr "Huh~ I don't remember moving the shelves~..."
+msgstr "Huh~ I don't remember moving these shelves~..."
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_6"
-msgstr "Don't go too hard on yourself~ Not goof for me if you die~ I think."
+msgstr "Don't go too hard on yourself~ Not good for me if you die~ I think."
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_7"
-msgstr "What do you need next~ I wonder..."
+msgstr "What do you need next~\nI wonder..."
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_8"
@@ -127,7 +127,7 @@ msgstr "The stock around these racks runs out so fast~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv2_9"
-msgstr "I'll need to stock up on that, but before that, this too~..."
+msgstr "I'll need to stock up on that, but before that,\nthis too~..."
 
 
 
@@ -137,11 +137,11 @@ msgstr "You're not half bad~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_1"
-msgstr "Is the price tag right...? I'll check later."
+msgstr "Is the price tag right...?\nI'll check later."
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_2"
-msgstr "You move like an adventurer now~... kinda?"
+msgstr "You move like an adventurer now~\n...Kinda?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_3"
@@ -153,7 +153,7 @@ msgstr "Morning~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_5"
-msgstr "Help me get rid of that box, okay~?"
+msgstr "Help me get rid of\nthat crate, okay~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_6"
@@ -161,7 +161,7 @@ msgstr "Huh~ People normally don't go on that quest~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv3_7"
-msgstr "Don't get caught off guard〜"
+msgstr "Don't get caught\noff guard〜"
 
 
 
@@ -170,11 +170,11 @@ msgstr "Don't get caught off guard〜"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_0"
-msgstr "I placed the order right~ I hope~?"
+msgstr "I placed the order right~\nI hope~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_1"
-msgstr "The bill... Where did I put it..."
+msgstr "The bill... Now where\ndid I put it..."
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_2"
@@ -190,7 +190,7 @@ msgstr "Oh~ That fits you well~ Kinda~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_5"
-msgstr "Ah, the price tag is out of place..."
+msgstr "Ah, the price tag is\nout of place..."
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_6"
@@ -202,7 +202,7 @@ msgstr "What should I stock up on, next~? ...This, I guess~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv4_8"
-msgstr "You went on a quest like that~? Ew..."
+msgstr "You went on\nthat quest~? Ew..."
 
 
 msgctxt "merchant_chat_shop"
@@ -215,7 +215,7 @@ msgstr "Business, booming~♥"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_2"
-msgstr "Don't need me to tell you what to do~ Just buy~♥"
+msgstr "You know what to do~\nBuy something~♥"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_3"
@@ -223,23 +223,23 @@ msgstr "What did you beat up...? Woah..."
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_4"
-msgstr "You've gotten very adventurer-like~ before I knew it, huh~?"
+msgstr "You've gotten very adventurer-like~ before\nI knew it, huh~?"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_5"
-msgstr "Don't go on such a risky quest~"
+msgstr "Don't go on\nsuch a risky quest~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_6"
-msgstr "Morn~"
+msgstr "Mornin'~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_7"
-msgstr "Help me clean my room again~"
+msgstr "Help me clean\nmy room again~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_8"
-msgstr "Ehh~ Just take things easy~♥"
+msgstr "Ehh~ Just take it easy~♥"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_9"
@@ -267,7 +267,7 @@ msgstr "Oh, it's messy there~ Careful~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_15"
-msgstr "Seeya~"
+msgstr "Seeya around~"
 
 msgctxt "merchant_chat_shop"
 msgid "lv5_16"
@@ -305,11 +305,11 @@ msgstr "It all begins with a slime~"
 
 msgctxt "merchant_chat_quest"
 msgid "1_0"
-msgstr "Well, goblins are no match for you~ I knew it~"
+msgstr "Goblins are no match\nfor you~ I knew it~"
 
 msgctxt "merchant_chat_quest"
 msgid "1_1"
-msgstr "Things get messy when monsters group up~ Especially so for goblins..."
+msgstr "Things get messy when monsters group up~ Goblins, especially..."
 
 msgctxt "merchant_chat_quest"
 msgid "1_2"
@@ -319,15 +319,15 @@ msgstr "Don't get too ahead of yourself~ Okay~?"
 
 msgctxt "merchant_chat_quest"
 msgid "2_0"
-msgstr "Skeletons are just small fry, hmm~?"
+msgstr "Skeletons are just\nsmall fry, hmm~?"
 
 msgctxt "merchant_chat_quest"
 msgid "2_1"
-msgstr "Cracking some bones now? I see~"
+msgstr "Cracking some\nbones now? I see~"
 
 msgctxt "merchant_chat_quest"
 msgid "2_2"
-msgstr "Hmmm~ Looks like you're starting to get your hands on some better monster materials."
+msgstr "Looks like you're\nstarting to get your\nhands on some better\nmonster materials."
 
 
 msgctxt "merchant_chat_quest"
@@ -336,11 +336,11 @@ msgstr "Imps? Not much of a challenge, huh~?"
 
 msgctxt "merchant_chat_quest"
 msgid "3_1"
-msgstr "Getting the hang of things~?"
+msgstr "Getting the\nhang of things~?"
 
 msgctxt "merchant_chat_quest"
 msgid "3_2"
-msgstr "You accepted that quest, huh~?"
+msgstr "You accepted\nthat quest, huh~?"
 
 
 msgctxt "merchant_chat_quest"
@@ -359,7 +359,7 @@ msgstr "Harpies are just so annoying, right~?"
 
 msgctxt "merchant_chat_quest"
 msgid "5_1"
-msgstr "How are you doing against the monsters of the sky~?"
+msgstr "How are you doing\nagainst the monsters\nof the sky~?"
 
 msgctxt "merchant_chat_quest"
 msgid "5_2"
@@ -368,7 +368,7 @@ msgstr "Harpy feathers~"
 
 msgctxt "merchant_chat_quest"
 msgid "6_0"
-msgstr "Troll fangs~ Authentic ones~?"
+msgstr "Troll fangs~\nAuthentic ones~?"
 
 msgctxt "merchant_chat_quest"
 msgid "6_1"
@@ -386,11 +386,11 @@ msgstr "Fighting a golem head-on~? Are you stupid~?♥"
 
 msgctxt "merchant_chat_quest"
 msgid "8_0"
-msgstr "Wvyerns can fly~ How'd you beat them~?"
+msgstr "Wvyerns can fly~\nHow'd you beat them~?"
 
 msgctxt "merchant_chat_quest"
 msgid "8_1"
-msgstr "These materials are kinda useless〜♥"
+msgstr "These materials are\nkinda useless〜♥"
 
 
 msgctxt "merchant_chat_quest"
@@ -404,7 +404,7 @@ msgstr "What's this material~?"
 
 msgctxt "merchant_chat_quest"
 msgid "10_0"
-msgstr "Krakens are actually beatable~?"
+msgstr "Krakens are\nactually beatable~?"
 
 msgctxt "merchant_chat_quest"
 msgid "10_1"

@@ -76,4 +76,4 @@ msgstr "...pls lemme shake hand."
 
 msgctxt "osawari_choice"
 msgid "ticket_hand_p0_nigitte"
-msgstr "PLEASE LET ME SHAKE YOUR HAND!"
+msgstr "PLEASE LET ME SHAKE YOUR HAND!!!!!"

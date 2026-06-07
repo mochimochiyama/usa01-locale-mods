@@ -17,12 +17,12 @@ msgstr "- Pat head: Left click\n- Move blanket: Drag\n- Move clothes: Drag\n- Ki
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_intermediate"
-msgstr "- Undress underwear (bra/panties): Drag\n- Rub nipples: Drag\n- Pinch nipples: Drag\n- Jerk it to nipples♥: Move dick\n-Play with clit: Left click"
+msgstr "- Undress underwear (bra/panties): Drag\n- Rub nipples: Drag\n- Pinch nipples: Drag\n- Jerk it to nipples♥: Move dick\n- Play with clit: Left click"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_advanced"
-msgstr "- Undress: Drag\n- Deep kiss: Drag\nSpread legs: Take off panties then drag\n- Squish pussy: Left click\n- Finger pussy: Drag\n- Jerk it to belly♥: Move dick\n- Sex♥: Move dick and drag"
+msgstr "- Undress: Drag\n- Deep kiss: Drag\n- Spread legs: Take off panties then drag\n- Squish pussy: Left click\n- Finger pussy: Drag\n- Jerk it to belly♥: Move dick\n- Sex♥: Move dick and drag"
 
 msgctxt "osawari_hint"
 msgid "sleep_night_on_back_operation"
-msgstr "Left click or drag the body part you want to touch.\nDick: Drag your dick to the designated(♥) position to assign it there. Left click the assigned dick to use it."
+msgstr "Left click or drag the body part you want to touch.\nDick: Drag your dick and assign it to special(♥) positions. Left click the assigned dick to use it."

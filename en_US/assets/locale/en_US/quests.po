@@ -57,4 +57,4 @@ msgstr "Kraken Hunt"
 
 msgctxt "quest_name"
 msgid "quest_11"
-msgstr "Golden Dragon Hunt"
+msgstr "Dragon Hunt"

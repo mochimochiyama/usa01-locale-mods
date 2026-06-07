@@ -29,12 +29,12 @@ msgstr "Hint"
 
 msgctxt "osawari_hint_tab"
 msgid "beginner"
-msgstr "A"
+msgstr "Basic"
 
 msgctxt "osawari_hint_tab"
 msgid "intermediate"
-msgstr "B"
+msgstr "Intermediate"
 
 msgctxt "osawari_hint_tab"
 msgid "advanced"
-msgstr "C"
+msgstr "Advanced"

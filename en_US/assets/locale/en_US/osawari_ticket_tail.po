@@ -61,11 +61,11 @@ msgstr "[wave]Ahaha~♥[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_hira"
-msgstr "[wave]Flutter... Flitter...[/wave]"
+msgstr "[wave](Flutter... Flitter...)[/wave]"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p1_hirari"
-msgstr "[wave]Fwoooosh[/wave]"
+msgstr "[wave]Fwoooosh...[/wave]"
 
 # バブル - Phase 4 (尻のせ)
 msgctxt "osawari_bubble"
@@ -87,7 +87,7 @@ msgstr "Ah~♥?"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_chigau"
-msgstr "This doesn't feel right~♥"
+msgstr "Where are you\ntouching me~?♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_tail_p4_momi_e"

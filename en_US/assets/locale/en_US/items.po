@@ -559,7 +559,7 @@ msgstr "Sleep Grimore I"
 
 msgctxt "item_description"
 msgid "magic_0"
-msgstr "-1 to all enemy rolls. Apparently this teaches you to put things to sleep..."
+msgstr "-1 to all enemy rolls. Apparently this teaches you how to put things to sleep..."
 
 # --- magic_1 ---
 msgctxt "item_name"

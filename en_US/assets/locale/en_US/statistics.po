@@ -50,7 +50,7 @@ msgid "STAT_LABEL_SMELL_SNIFF"
 msgstr "Dicksniffed:"
 
 msgid "STAT_LABEL_CAME_SMELL"
-msgstr "Came♥:"
+msgstr "Smellgasmed♥:"
 
 msgid "STAT_LABEL_NIPPLE_PINCHED"
 msgstr "Pinched:"

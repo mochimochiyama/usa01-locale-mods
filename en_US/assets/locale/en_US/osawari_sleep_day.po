@@ -13,7 +13,7 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "sleep_day_beginner"
-msgstr "- Pat head: Left click\n- Undress top I: Click the lacings\n- Undress top II: Drag the clothes\n\n- Check panties: Drag\n- Jerk it to thighs♥: Move dick"
+msgstr "- Pat head: Left click\n- Undress I: Click the lacings\n- Undress II: Drag the clothes\n- Check panties: Drag\n- Jerk it to thighs♥: Move dick"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_intermediate"
@@ -21,8 +21,8 @@ msgstr "- Undress bra: Drag\n- Kiss: Left click\n- Squish pussy: Left click\n- M
 
 msgctxt "osawari_hint"
 msgid "sleep_day_advanced"
-msgstr "- Undress all: Drag\n- Pinch nipples: Left click\n- Jerk it to nipples♥: Move dick"
+msgstr "- Undress top: Drag\n- Pinch nipples: Left click\n- Jerk it to nipples♥: Move dick"
 
 msgctxt "osawari_hint"
 msgid "sleep_day_operation"
-msgstr "Left click or drag the body part you want to touch.\nDick: Drag your dick to the designated(♥) position to assign it there. Left click the assigned dick to use it."
+msgstr "Left click or drag the body part you want to touch.\nDick: Drag your dick and assign it to special(♥) positions. Left click the assigned dick to use it."
