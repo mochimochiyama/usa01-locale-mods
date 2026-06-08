@@ -1,39 +1,39 @@
 
-usa00@rt:おわりで〜す♥
+usa00@rt:The end~♥
 
-me:「………!!!!!!!!!」
+me:"...!!!"
 
-usa00@rt:なんだか〜
+usa00@rt:That was kinda~
 
 usa00:
   目: close_humu
 
-usa00@lb:ほぐれた〜? こりがとれた〜?
+usa00@lb:Relaxing~? Like I'm refreshed~?
 
-me:「俺、マッサージうまいんです!!!!!初めてやりましたけど!!!」
+me:"I'm good at massages!!! It's my first time giving one though!!!"
 
 usa00:
   目: close_smile
 
-usa00@rt:え〜? てんさいかも〜?
+usa00@rt:Huh~?\nMaybe you're talented~?
 
-me: 「俺、天才なんです!!!」
+me: "I'M TALENTED!!!"
 
 usa00:
   目: normal
 
-usa00@rt:はいっ! 今回はおしまい〜
+usa00@rt:Okay! The end for now~
 
-me: 「おしまいヤダ!!!」
+me: "No! No end!"
 
-me:「次回開催希望!!!ｶｳ!! ｶｲﾏｽ!!!!! 絶対!!!!!!!!!!!」
+me:"Next handshake PLEASE!!! ME BUY!! DEFINITELY BUY!!!!! PLEEEEAAASSSEEE!!!!"
 
 usa00:
   目: close_humu
 
-usa00@rt:え~？
+usa00@rt:Hmmm~?
 
 usa00:
   目: close_smile
 
-usa00@rt:かんがえときま〜す♥
+usa00@rt:I'll think about it~♥

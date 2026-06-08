@@ -8,58 +8,58 @@ usa00:
   パンツ: normal
   上着: normal
 
-usa00@rt:あ〜♥
+usa00@rt:Oh~♥
 
-me:「ﾁﾜｰｽ...」
+me:"Hey there..."
 
 usa00:
   尻尾: ふりふり
 
-usa00@rt:ふり♥
+usa00@rt:Wag♥
 
-usa00@lb:ふりふり♥
+usa00@lb:Wag wag♥
 
 me: ...
 
-尻尾が目の前で揺れているぞ。
+Her tail is wagging before my eyes.
 
 usa00:
   尻尾: ふりふり
 
-usa00@rt:ふり♥
+usa00@rt:Wag♥
 
-usa00@lb:ふりふり♥
+usa00@lb:Wag wag♥
 
-ふりふりしているぞ!!!!
+IT'S WAGGING!!!
 
-usa00@rt:…
+usa00@rt:...
 
 usa00:
   尻尾: normal
 
-usa00@lb:……
+usa00@lb:...
 
-usa00@rt:……触んないんですか~？
+usa00@rt:...Not touching it~?
 
-me:「[shake]はい! はい! はい!!!!!!!質問!!!![/shake]」
+me:"[shake]YES! YES! ME! ME! ME! QUESTION!!![/shake]"
 
-usa00@rt:では〜そちらのかた〜♥
+usa00@rt:Okay~ You over there~♥
 
-me:「握手券（尻尾）って! 尻尾と握手!?」
+me:"Handshake ticket (tail)!\nDoes it mean I get to shake hands with your tail?!"
 
-usa00@rt:[wave]えら〜い♥[/wave]
+usa00@rt:[wave]Clever~♥[/wave]
 
-me: 「俺、 えらいんです!!!!!!!!!」
+me: "I'M CLEVER!!!!!!"
 
-usa00@rt:こんなとこ〜
-usa00@lb:ホントは絶対触っちゃダメなとこなんですよ〜
+usa00@rt:My tail, you know~
+usa00@lb:I'm not supposed to\nlet people touch it~
 
-me: 「前もなんか同じこと言ってた!!」
+me: "You said the same thing last time!!"
 
-usa00@rt: 前のは全然フツー\nほんとはね〜♥
+usa00@rt: The ones before were okay~\nThis one for real~♥
 
-me:「ｴｴｯさわっちゃっていいんですか」
+me:"Uh, so is it really okay if I touch it?"
 
-usa00@rt:やめときますか〜?
+usa00@rt:Are you\nnot going to~?
 
-me: 「いや、 いきます!!!!」
+me: "NO WAY! HERE I GO!!!"

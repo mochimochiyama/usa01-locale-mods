@@ -4,42 +4,42 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「チワース」
+me:"Howdy."
 
-usa00@rt:[tornado]バパン[/tornado] 語講座〜
+usa00@rt:[tornado]Bunnin[/tornado]  language\nlesson time~
 
-me: 「やった〜!!!」
+me:"Yay~!!!"
 
-usa00@rt:今日は〜 [tornado]クゥ[/tornado] について〜
+usa00@rt:Today, we\ntalk about\n[tornado]Khuu~[/tornado]
 
-me: 「いつも言ってるやつじゃん!!!!!」
+me:"It's the thing you always say!!!"
 
-usa00@rt:これは 便利〜
-usa00@lb:うん も へぇ も いいね も\n全部これ〜
+usa00@rt:Very useful word~
+usa00@lb:It means\n"yes, I see, nice,"\neverything~
 
-me: 「全部？」
+me:"Everything?"
 
-usa00@rt:[tornado]クゥ♪[/tornado]
+usa00@rt:[tornado]Khuu♪[/tornado]
 
-me: 「くぅ」
+me:"Khuu."
 
-usa00@rt:それだと "うん"〜
-usa00@lb:もっと喉を閉じて〜
+usa00@rt:That's "yes" the\nway you're saying it~
+usa00@lb:Try to tighten\nyour throat more~
 
-me: 「[tornado]くぅ[/tornado]」
+me:[tornado]"Khuu."[/tornado]
 
-ちょっとまわったぞ!!!
+I can feel the word spinning!!!
 
-usa00@rt:ンー
-usa00@rt:練習あるのみ〜
+usa00@rt:Hmm...
+usa00@rt:Practice more, you see~
 
-くぅ……
+Khuu...
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

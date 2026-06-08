@@ -13,28 +13,28 @@ msgstr ""
 
 msgctxt "osawari_hint_tab"
 msgid "operation"
-msgstr "操作"
+msgstr "Controls"
 
 msgctxt "osawari_hint_tab"
 msgid "operation1"
-msgstr "操作1"
+msgstr "Controls I"
 
 msgctxt "osawari_hint_tab"
 msgid "operation2"
-msgstr "操作2"
+msgstr "Controls II"
 
 msgctxt "osawari_hint_tab"
 msgid "hint"
-msgstr "ヒント"
+msgstr "Hint"
 
 msgctxt "osawari_hint_tab"
 msgid "beginner"
-msgstr "初級"
+msgstr "Basic"
 
 msgctxt "osawari_hint_tab"
 msgid "intermediate"
-msgstr "中級"
+msgstr "Intermediate"
 
 msgctxt "osawari_hint_tab"
 msgid "advanced"
-msgstr "上級"
+msgstr "Advanced"

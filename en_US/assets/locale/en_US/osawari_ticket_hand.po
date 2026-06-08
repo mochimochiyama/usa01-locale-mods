@@ -13,67 +13,67 @@ msgstr ""
 # ヒント本文
 msgctxt "osawari_hint"
 msgid "ticket_hand_operation"
-msgstr "・握手:手をクリック"
+msgstr "- Shake hand: Left click her hand"
 
 msgctxt "osawari_hint"
 msgid "ticket_hand_hint"
-msgstr "・握手してみよう！"
+msgstr "- Try shaking her hand!"
 
 # バブル - Phase 1 (手袋握手)
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p1_kyaa"
-msgstr "きゃあ〜♥"
+msgstr "Kyah~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p1_go"
-msgstr "ご〜"
+msgstr "Fiiive~"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p1_yoon"
-msgstr "よ〜ん"
+msgstr "Fooour~"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p1_saan"
-msgstr "さ〜ん"
+msgstr "Three~"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p1_ni"
-msgstr "に〜"
+msgstr "Twooo~"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p1_ichi"
-msgstr "い〜ち♥"
+msgstr "One~~♥"
 
 # バブル - Phase 2 (素手握手)
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p2_heart"
-msgstr "〜♥"
+msgstr "~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p2_go"
-msgstr "ご〜♥"
+msgstr "Fiiive~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p2_yoon"
-msgstr "よ〜ん♥"
+msgstr "Fooour~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p2_saan"
-msgstr "さ〜ん♥"
+msgstr "Three~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p2_ni"
-msgstr "に〜♥"
+msgstr "Twooo~♥"
 
 msgctxt "osawari_bubble"
 msgid "ticket_hand_p2_ichi"
-msgstr "い〜ち♥"
+msgstr "One~~♥"
 
 # 選択肢
 msgctxt "osawari_choice"
 msgid "ticket_hand_p0_akusyu"
-msgstr "ｱｸｼｭｼﾃｸﾀﾞｻｲ"
+msgstr "...pls lemme shake hand."
 
 msgctxt "osawari_choice"
 msgid "ticket_hand_p0_nigitte"
-msgstr "握手してください！"
+msgstr "PLEASE LET ME SHAKE YOUR HAND!!!!!"

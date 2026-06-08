@@ -7,18 +7,18 @@ usa00:
   乳首_左: normal
   乳首_右: normal
 
-me:「…あの〜」
+me:"Uh..."
 
-usa00@rt:[wave]はっはやく[/wave]
+usa00@rt:[wave]C-Come on[/wave]
 
-…様子がおかしいですが…
+She doesn't look right...
 
 usa00:
   目: close_smile
 
-usa00@rt:[wave]いれてっいれてっ[/wave]
+usa00@rt:[wave]Put it in\nPUT IT IN[/wave]
 
-…
+...
 
 usa00:
   目: normal

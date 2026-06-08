@@ -4,29 +4,29 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@lb:ね〜ね〜
+usa00@lb:Hey~\nHey~
 
-me:「ﾅﾝｽｶ」
+me:"What."
 
-usa00@rt:昨日のごはんのおイモがさ〜
+usa00@rt:The sweet potato that\nI ate yesterday~
 
-me:「……おイモ」
+me:"...Sweet potato."
 
-usa00@rt:なんかこう……ほくほくしないっていうか
-usa00@lb:べちゃ?
+usa00@rt:It was kinda...\nnot fluffy at all~
+usa00@lb:More... splatty~?
 
-me:「……」
+me:"..."
 
-…イモ好きなのか?
+...Does she have a thing for sweet potatoes?
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

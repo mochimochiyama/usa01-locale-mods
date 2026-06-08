@@ -4,46 +4,46 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます!!!」
+me:"Good morning!!!"
 
-usa00@rt:そろそろ
-usa00@lb:この島、けっこう回った?
+usa00@rt:Are you getting...
+usa00@lb:...used to\nthis island~?
 
-me:「どうっすかね……まだまだかも」
+me:"Well, I wonder... Kind of, I guess."
 
-usa00@rt:ふ〜ん
+usa00@rt:Hmmm~
 
-usa00@rt: 最初はあんなのだったのに〜
+usa00@rt:At first, you were all like~
 
-me:「あんなの……」
+me:"All like..."
 
-usa00@lb:木の剣〜
-usa00@rt:フラフラ～
+usa00@lb:Wooden sword~
+usa00@rt:Wimpy~
 
-me:「うーむ… まあ確かに」
+me:"Hmm... I suppose so."
 
-usa00@lb:それが今じゃ〜
-usa00@rt:けっこう立派〜?
+usa00@lb:And now~
+usa00@rt:You're kinda\nhandling your own~?
 
-me:「……そうかも!」
+me:"...I guess I am!"
 
-usa00@lb:わたしのおかげ〜？
+usa00@lb:All thanks to me~?
 
-me:「え……」
+me:"Uh..."
 
-確かに、声かけられてなかったら今頃どうなってたことやら…
+I do wonder where I'd be today if she hadn't spoken to me...
 
-おかげ、おかげかもなぁ〜…
+So it's all thanks to her? I guess it's all thanks to her...
 
-me:「まあ……それはそう」
+me:"Well... I suppose so..."
 
-usa00@lb:まだまだ頑張っていこ〜
+usa00@lb:Keep it up~
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

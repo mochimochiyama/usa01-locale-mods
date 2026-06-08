@@ -1,26 +1,26 @@
 
 
-usa00@lb:おしまいです〜
+usa00@lb:The end~
 
-me:………
+me:...
 
-usa00@rt:ちょっと〜
-usa00@lb:なんか違うとこ〜だったよな〜?
+usa00@rt:I feel like~
+usa00@lb:You touched me\nin weird places~?
 
-me: ﾊｲ…
+me: (Uh, yep...)
 
 usa00:
   camera_focus: default
 
-usa00@rt:今回はおしまい〜
+usa00@rt:That's the end for this time~
 
-me: 「ﾂ、つぎは!」
+me: "W-What about the next?!"
 
-usa00@lb:もうないかも〜
-usa00@rt:あるかも〜?♥
+usa00@lb:Maybe there won't be one~
+usa00@rt:Or maybe there will~?♥
 
-me:「ｶｳ!! ｶｲﾏｽ!!!!! 多分!!!!!!!!!!!」
+me:"I'll BUY!!! BUYING!!!!!! ALMOST CERTAINLY!!!!!!!!!!!"
 
-usa00@rt:え~？
+usa00@rt:Huh~?
 
-usa00@rt:かんがえときま〜す♥
+usa00@rt:I'll consider it~♥

@@ -4,60 +4,60 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@lb:そういえばさ〜
-usa00@rt:冒険者さんって\nどこに泊まってるんですか〜?
+usa00@lb:By the way~
+usa00@rt:Where are you staying,\nMr. Adventurer~?
 
-me:「俺っすか」
+me:"Me, you ask?"
 
-usa00@lb:うん
-usa00@rt:毎日、どっから来てんの〜
+usa00@lb:Mh-hm.
+usa00@rt:Where do you\ncome from, everyday~?
 
-me:「ああ……港の方の安宿っすね」
+me:"Ah... Just some shoddy inn near the port."
 
-usa00@lb:やすやど〜
+usa00@lb:Shoddy inn~
 
-me:「一泊いくらの……まあ、ボロいとこです」
+me:"Just some cheap and run-down place, basically."
 
-usa00@rt:へ〜
-usa00@lb:毎日そこから歩いてくるんですか〜？
+usa00@rt:Hmm~
+usa00@lb:And you walk\nall the way here\neveryday~?
 
-me:「そうっすね〜」
+me:"Sure I do~"
 
-usa00@rt:ヘンピだからね〜♥
+usa00@rt:All the way to the\nmiddle of nowhere~♥
 
-me:「…すみません……」
+me:"...I'm so sorry for calling your shop that already."
 
-そういわれたらこっちも気になってきたぞ
+Now that she's mentioning it,\nI'm getting curious as to where she is living.
 
-me:「……どこ住んでるんすか？」
+me:"...So where do you live yourself?"
 
-usa00@rt:わたしはね〜
+usa00@rt:Me~
 
-後ろを指さしているぞ!
+She's pointing behind!
 
-usa00@lb:[wave]上~♥[/wave]
+usa00@lb:[wave]Up~♥[/wave]
 
-me:「……上？」
+me:"Up?"
 
-me:「ｱｰ 二階あったんすね」
+me:"Ah, there's a second floor?"
 
-usa00@rt:あるよ〜
-usa00@lb:狭いけどね〜
+usa00@rt:Sure is~
+usa00@lb:Tiny place, though〜
 
-usa00@rt:興味ありありって感じですね〜
+usa00@rt:Looks like your\nintrigue is colored~
 
-me:「いやいや、流石に興味ありって感じですね」
+me:"Yep. You can color me intrigued."
 
 
 
 usa00:exit
 
-…
+...
 
-……
+......
 
-………今日も一日頑張るぞ!
+...Time to do my best again today!

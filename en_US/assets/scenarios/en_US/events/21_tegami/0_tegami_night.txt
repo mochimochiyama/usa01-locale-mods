@@ -1,79 +1,83 @@
 
 bg: shop
 
-今日は遅いしもう寝… 酒場にでも寄ってみるか…
+It's getting late. I should sleep...
+Or actually, I suppose I can go to the tavern.
 
 bg: port1
 
-…
+...
 
-〜酒場〜
+... At the tavern.
 
-ﾜｲﾜｲ…ｶﾞﾔｶﾞﾔ…
+Hustle, bustle... Buzz, buzz...
 
-……いつもの席を見る。
+...I look over at my usual spot.
 
-おっさん最近いなかったんだよな!
+I haven't see the ol' dude in a while!
 
-……
+...
 
-…いるし!
+...Wait, he's here!
 
-me: 「おっさん!」
+me: "Ol' man!"
 
-おっさん:「おお、坊主!」
+Ol' Dude:"Hey, kid!"
 
-me: 「どっかいってたんすか〜? ひさびさっすね」
+me: "Where have you been~? It's been a while, huh."
 
-おっさん:「お前に話があってなァ」
+Ol' Dude:"There's something I need to tell ya."
 
-me: 「なんすか?」
+me: "What thing?"
 
-おっさん:「俺、そろそろこの島出るわァ」
+Ol' Dude:"Y'know, I'm thinking of leaving this island."
 
-me: 「え……マジっすか」
+me: "Huh... For real?"
 
 
-おっさん:「稼ぎ終わったからなァ 次の場所に行く」
+Ol' Dude:"Done with the work, ya see. Time to hop."
 
-me: 「そうなんすか〜」
+me: "I see..."
 
-おっさん:「なんだァ、寂しいかァ?」
+Ol' Dude:"What, feelin' lonely?"
 
-me: 「いや……寂しいというか、急っすね〜」
+me: "Uh... not exactly, just a little sudden, that's all."
 
-おっさん:「お前も、いつかはこの島出るんだろ?」
+Ol' Dude:"Well, you aren't gonna stay here for life, aye?"
 
-me: 「……どうっすかね」
+me: "Well, I wonder..."
 
-おっさん:「この島だけが全てじゃねェ」
+Ol' Dude:"There's a whole world outside of this island, kid."
 
-me: 「……それは…そうっすね〜」
+me: "Well... That's true..."
 
-…
+...
 
-この島は人の出入りが多く、サッサと稼いで次に行く奴も多い。
+You get a lot of people coming here, but most
+people leave after they've earned enough money.
 
-いつかか〜 まだなんも考えてないなぁ〜 そもそもこの島にもかなりテキトーにきたし…
+Leaving, huh... The thought never quite entered my mind...
+I kinda came to this island on a whim anyway...
 
-とはいえ、オッサンもう会えないのかぁ なんやかんやあったが少しさみ――
+I probably won't get to see the ol' dude again...
+Now that I'm thinking about it, it does feel a little lone--
 
-おっさん:「ところで坊主! 金玉の話だがな」
+Ol' Dude:"Oh yeah, kid! About your ball!"
 
-……うーん、まあ別に寂しくないな!
+...Nevermind! I'm not lonely at all!
 
-…
+...
 
 bg: black
 
-…
+...
 
-……次の日
+...The next day.
 
 bg: street0
 
-…
+...
 
 bg: shop
 
-……
+......

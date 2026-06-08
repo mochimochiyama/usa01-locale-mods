@@ -1,51 +1,51 @@
 
 bg: shop
 
-me: 「はぁ… はあ…」
+me: "Huff... Puff..."
 
-ゴールド・ドラゴン、 意外となんとかなったぞ…
+I beat a golden dragon somehow...
 
 usa00:
   posure: front
 
-usa00@rt:[tornado]わ〜![/tornado]
-usa00@lb:[tornado]え〜![/tornado]
+usa00@rt:[tornado]Wow~![/tornado]
+usa00@lb:[tornado]Really~![/tornado]
 
-usa00@rt:ほんとに取ってきたの〜
+usa00@rt:You got me a golden scale~?
 
-me:「取ってきましたよ！」
+me:"Sure I did!"
 
-usa00@rt:……まじ〜？
-usa00@lb:すご〜♥♥ つよ〜♥
+usa00@rt:...Really~?
+usa00@lb:Wow~♥♥ So strong~♥
 
-なんか、村についていきたいって言ったら "ゴルドラ" 倒してこいって言われたんだよな、 言われたんだっけ?
+She told me to beat up a golden dragon after I said I wanted to follow her to her village... I think? Is that all I need to do?
 
-usa00@rt:[wave]くぅくぅ[/wave]
-usa00@lb:村、一緒にいきましょ〜
+usa00@rt:[wave]Khuu~khuu~[/wave]
+usa00@lb:Let's go to\nmy village together~
 
-me: 「え、マジっすか！？!! ヤッターーー」
+me: "Oh, really!??! YAAAY--"
 
-usa00@rt:ただ〜
-usa00@lb:ちょっとやってもらうことがあるんだけど〜
+usa00@rt:But~
+usa00@lb:There's a thing\nyou need to do first~
 
 usa00: exit
 
-…どこいった!!?!?
+...Where did she go!?
 
-…
+...
 
 usa00:
   posure: front
 
-usa00@rt:あ！\nいいとこに来ましたね〜
+usa00@rt:Oh!\nYou came at the right time~
 
-me:「ｱｯ なんか久々!!!!!!」
+me:"Ah! Long time no see!!!!!!"
 
-usa00@lb:いまね\n商品切らしちゃってて〜
+usa00@lb:So, right now~\nI'm all run out~
 
 usa00:
   目: close_smile
 
-usa00@rt:その代わり〜\nこれだけあるんですけど〜♥
+usa00@rt:But I happen to~\nhave this one thing\nfor sale~♥
 
-…
+...

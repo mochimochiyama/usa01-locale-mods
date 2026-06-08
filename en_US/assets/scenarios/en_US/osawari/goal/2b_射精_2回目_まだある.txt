@@ -8,8 +8,8 @@ usa00:
 usa00@rt:[wave][/wave]
 
 
-……っ!!!!!!
+......!!!!!!
 
-usa00@lb:まっ まだっ
+usa00@lb:N-Not enough
 
-usa00@lb:まだやって まだやっれ
+usa00@lb:More MORE

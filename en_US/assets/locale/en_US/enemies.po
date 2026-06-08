@@ -13,48 +13,48 @@ msgstr ""
 
 msgctxt "enemy_name"
 msgid "enemy_0"
-msgstr "スライム"
+msgstr "Slime"
 
 msgctxt "enemy_name"
 msgid "enemy_1"
-msgstr "ゴブリン"
+msgstr "Goblin"
 
 msgctxt "enemy_name"
 msgid "enemy_2"
-msgstr "スケルトン"
+msgstr "Skeleton"
 
 msgctxt "enemy_name"
 msgid "enemy_3"
-msgstr "インプ"
+msgstr "Imp"
 
 msgctxt "enemy_name"
 msgid "enemy_4"
-msgstr "オーク"
+msgstr "Orc"
 
 msgctxt "enemy_name"
 msgid "enemy_5"
-msgstr "ハーピー"
+msgstr "Harpy"
 
 msgctxt "enemy_name"
 msgid "enemy_6"
-msgstr "トロル"
+msgstr "Troll"
 
 msgctxt "enemy_name"
 msgid "enemy_7"
-msgstr "ゴーレム"
+msgstr "Golem"
 
 msgctxt "enemy_name"
 msgid "enemy_8"
-msgstr "ワイバーン"
+msgstr "Wyvern"
 
 msgctxt "enemy_name"
 msgid "enemy_9"
-msgstr "ナーガ"
+msgstr "Naga"
 
 msgctxt "enemy_name"
 msgid "enemy_10"
-msgstr "クラーケン"
+msgstr "Kraken"
 
 msgctxt "enemy_name"
 msgid "enemy_11"
-msgstr "ゴールド・ドラゴン"
+msgstr "Golden Dragon"

@@ -6,24 +6,24 @@ usa00:
   上着: なし
   手袋: なし
 
-usa00@rt: まんぞく〜?
+usa00@rt: Happy~?
 
-me: 「あのーぱんつまでみせてくれて、ﾄﾞｳﾓ……」
+me: "Uh, thanks for showing me your panties too..."
 
-usa00@rt: なに〜? あつかっただけだけど〜♥
-usa00@lb: なんかみてた〜?
+usa00@rt: Hmm~? I was just\nfeeling kinda stuffy~♥
+usa00@lb: What did you see~?
 
-me: 「ｲﾔｰ なんでもないです…」
+me: "Oh uh... Nothing..."
 
-usa00@rt:ミヌキこんなのでよかったの〜?
+usa00@rt:Are you satisfied~?
 
-me: 「ありがとうございます」
+me: "Yes. Thank you so much."
 
-usa00@rt:あしたからもやってあげようか〜♥
+usa00@rt:Same thing again tomorrow~?♥
 
-me: 「ｴｪｯ!!!!!!!!」
+me: "HUH!!!???!!!???"
 
-usa00@lb:あは〜 冗談〜♥
+usa00@lb:Aha~ Just kidding~♥
 
 usa00:
   posure: front
@@ -31,12 +31,12 @@ usa00:
   手袋: なし
   目: close_smile
 
-usa00@rt: じゃあまたあした〜
+usa00@rt: Okay~ See you tomorrow~
 
 usa00: exit
 
 bg: shop
 
-ﾊﾞﾀﾝ
+(Closes door)...
 
-…
+...

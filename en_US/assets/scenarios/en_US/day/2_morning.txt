@@ -5,77 +5,79 @@ usa00:
   posure: front
 
 
-usa00@rt: あ, おはよーございます, 来てくれたんですか〜
+usa00@rt: Ah, good morning~\nYou're here again~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@rt:ちょうどさっき開けたとこなんですよ〜
+usa00@rt:I was just opening up shop~
 
-……ボンヤリ歩いていたら、なんとなく来てしまったぞ!
+...I was wandering and found myself here somehow!
 
-usa00@rt:あ、そうそう
+usa00@rt:Oh, right~
 
 usa00:
   目: close_smile
 
-usa00@lb:必要かと思いまして、新しい装備も仕入れておきましたよ〜
+usa00@lb:I thought you might need it, so I ordered some new equipment~
 
-me: 「エエっ!」
+me:"Really!?"
 
-ちらりと棚を見ると、なにやら武器っぽいものが並んでいる!
+Glancing at the shelves, I can see some weapony-looking things!
 
-本来は、道具屋? 本やらよくわからん薬品やらが並んでいるお店で、なんだが少し似つかわしくないような…
+I'd expect an item shop (is this even one?) to have books and weird potions and so on, so the weapons are looking a bit out of place...
 
-me: 「ｴ、おれのためにっすか!!」
+me:"Really? All just for me!?"
 
 usa00:
   目: normal
 
-usa00@rt: ためじゃない〜
-usa00@lb: 前から武器の仕入れ、キョーミありというか〜?
+usa00@rt:Not just for you~
+usa00@lb:I've been wanting to stock up on weapons, you see~?
 
-…きっぱり言われたぞ!
+...Not just for me, I guess!
 
-me: 「…ﾔ, でも金がねえ〜っす ｽﾏｾﾝ…」
+me:"Uh, but I'm broke... Sorry..."
 
-usa00@rt: そんな〜…
-usa00@lb: ばしばしクエスト行ってがっぽがっぽですよ〜
+usa00@rt: Oh no~
+usa00@lb: Then you better go\nquesty-quest and\nbecome richy-rich~
 
-ばしばし がっぽがっぽ かあ……
+Questy-quest and richy-rich, huh...
 
-大丈夫かなあ… 大丈夫か!!
+I hope it works out... I'm sure it will!!!
 
-usa00@rt: そういえば昨日のスライム〜
+usa00@rt: By the way,\nthe slimes yesterday~
 
-me: 「ああ!」
+me:"Right!"
 
-昨日の宿、メチャクチャなせんべい布団だったから、寝る時枕にしようとしたら後ろ髪ちょっと溶けて最悪だった!
+The inn I stayed at had the flimsiest mattress of the century.
+I tried using the slime as a pillow and some of my hair melted!
+It was the worst!
 
-usa00@rt: あれと、今持ってる装備、それからちょこっとお金を足せば〜
+usa00@rt: Give me the slimes,\nyour current gear,\nand just a little coin~
 
-usa00@lb: 新しい装備に交換できますよ〜
+usa00@lb: And you can exchange\nfor better gear~
 
-me: 「……交換？」
+me:"...Exchange for better gear?"
 
-usa00@rt: "シタドリ" ってやつですね〜
-usa00@lb: 冒険者さんが強くなればなるほど、もっと買ってくれますし〜
+usa00@rt: It's called\n"trading in"\nyou see~
+usa00@lb: You'll end up buying more stuff if you get stronger, after all~
 
-me: 「……なるほど〜〜」
+me:"...I see~"
 
-…?
+...?
 
-me: 「…ｴｰﾄ もしかしてこれって、ずっと通えってｺﾄ?」
+me:"Uh, does that mean I have to keep coming here!?"
 
-usa00@rt: 今日もがんばっていきましょ〜♥
+usa00@rt: Keep it up,\nMr. Adventurer~♥
 
-me: 「あ、頑張っていきましょう…」
+me:"Uh. Sure... I'll keep it up."
 
-me: 「……」
+me:"..."
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るか〜
+...Time to do my best again today, huh~

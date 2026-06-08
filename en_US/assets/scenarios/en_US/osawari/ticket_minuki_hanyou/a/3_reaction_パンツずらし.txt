@@ -1,19 +1,19 @@
 
-usa00@rt: あ〜〜〜♥???
+usa00@rt: Ah~~~♥???
 
 usa00:
   目: close_smile
 
-usa00@lb: なんかさわってる〜\nような〜♥?
+usa00@lb: Did you...\ntouch me~♥?
 
-me: …ギリ触ってない! ギリセーフ!
+me: ...Barely touching! Technically not in contact!
 
 usa00:
   目: close_hun
-usa00@rt: 服がじゃまで〜
+usa00@rt: My clothes are in the way~
 usa00:
   目: close_smile
-usa00@lb: よくみえないな〜♥
+usa00@lb: I can't tell~♥
 
 usa00:
   目: normal

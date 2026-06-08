@@ -9,38 +9,38 @@ usa00:
   口: normal
   まんこ: normal
 
-me:「アノ~…」
+me:"Uhhh..."
 
-me:「今日もうしろからぎゅーってしていいですかね…」
+me:"Can I hold you from the back, like before...?"
 
 usa00:
   目: close_smile
-usa00@rt:え〜?♥
+usa00@rt:Huh~?♥
 
 usa00:
   目: close_hun
-usa00@lb:また〜♥
+usa00@lb:Again~♥?
 
 
 usa00:
   me構図: すまた
 
-…ぎゅっ!
+...Grab!
 
 usa00:
   目: close_smile
-usa00@rt:勝手〜♥
+usa00@rt:You're holding me~♥
 
 usa00:
   目: normal
-usa00@lb:これ やっぱりアウトのような〜♥?
+usa00@lb:I feel like this\nisn't what we agreed on~♥?
 
 
 usa00:
   目: close_hun
-usa00@rt: あん♥
+usa00@rt: Ahn♥
 
-……?
+...?
 
 
 
@@ -49,5 +49,5 @@ usa00:
   すまた: normal
 
 
-…
+...
 

@@ -9,75 +9,75 @@ usa00:
 
 usa00:
   目: close_smile
-usa00@rt:[wave]まいどあり〜♥[/wave]
+usa00@rt:[wave]Thanks so much~♥[/wave]
 
-me:「…ヘ…ヘヘッ… どうも… (鼻を掻く)」
+me:"Heh... Ehehe... N-No problem... (Rubs nose)"
 
 usa00:
   目: normal
-usa00@rt:なにか質問ありますか〜?
+usa00@rt:Any questions~?
 
-me:「[shake]はい! はい! はい!!!!!!![/shake]」
+me:"[shake]HERE! ME! ME! ME!!![/shake]"
 
 usa00:
   目: close_smile
-usa00@rt:そちらのかた〜♥
+usa00@rt:Okay, you over there~♥
 
-me:「握手券（足）ってなんですか!?」
+me:"What's a handshake ticket (feet)!?"
 
 usa00:
   目: normal
-usa00@rt:足との握手じゃないですか〜
+usa00@rt:You can shake hands with my feet~
 
-me:それは………握足……?
+me:So that's a... feetshake...?
 
 usa00:
   目: close_humu
 
-usa00@rt: そんなコトバあるんですか〜?
+usa00@rt: Is that an actual word~?
 
 usa00:
   目: normal
 
-me:「いや, 知らないけど...」
+me:"Uh, maybe...? I dunno..."
 
-いや、そんなことはどうでもよくてだな…
+I should get to the point...
 
-me:「もしかして足も… あの〜 ﾓｼｶｼﾃ〜 ぷにぷにの〜 …」
+me:"So, uh... your feet... do they also have those... uh, soft, squishy..."
 
-usa00@rt: …………
+usa00@rt: ............
 
 usa00:
   目: close_smile
   右脚:上げ
 
-usa00@rt:[wave]ちら〜♥[/wave]
+usa00@rt:[wave]Here~♥[/wave]
 
 usa00:
   目: close_smile
 
-me: 「ﾜｰｰｰｰｰｰｰ!ﾆｸｷｭｳｷﾀ!!!」
+me: "WOAH!!! TOE BEANS!!!"
 
 usa00:
   目: normal
   右脚: normal
 
-すごい!!! なんか毛がいっぱい生えてたかも!!!!!
+AMAZING!!! And there's a bunch of floof!!!!!
 
-me: 「ﾓｯﾄﾐﾀｲｶﾓ!!!!!!!」
+me: "CAN I SEE MORE!?!?!?"
 
-usa00@rt:ホントはヒト前で出しちゃいけないんですけど〜
-usa00@lb:今回だけトクベツですよ〜
+usa00@rt:I'm not supposed to show my feet~
+usa00@lb:But just this once~ Specially~
 
-me: 「なんか前も同じこと言ってなかった!??」
+me: "Didn't you say that the last time too!?"
 
-usa00@rt:手がトクベツってのは嘘〜
-usa00@lb:[wave]ほんとのトクベツ〜♥[/wave]
+usa00@rt:Well, I lied~
+usa00@lb:[wave]But these are special for real~♥[/wave]
 
-me: 「ほんとのトクベツじゃん!!!」
+me: "SPECIAL FOR REAL!!!"
 
-usa00@rt:は〜い ビリビリ〜〜
+usa00@rt:Okay~ Tear, tear~
 
-me: 「わー!! ｱｸｼｭｹﾝｶｯｺｱｼ!!ﾔﾌﾞｶﾅｲﾃﾞ!!」
+me: "WAH!!! No, the handshake ticket (feet)! Don't tear it!!!"
 
-usa00@rt:じゃあ〜開始〜♥
+usa00@rt:Okay~ Beginning, now~♥

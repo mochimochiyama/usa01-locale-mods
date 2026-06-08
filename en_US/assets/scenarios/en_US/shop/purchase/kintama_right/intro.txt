@@ -3,81 +3,82 @@
 bg: shop
 
 
-me: 「買っちゃった...」
+me: "I ended up buying this too..."
 
 usa00:
   posure: front
 
-usa00@rt: きゃ〜♥
+usa00@rt: Kyah~♥
 
-me: 「もう片方でてきたんすね〜…」
+me: "So you found the other nut, huh~..."
 
-usa00@lb: そう♥
-usa00@rt: そもそも、こないだその話しようとしてたら〜
-usa00@rt: なんか変なこといわれてさ〜
+usa00@lb: Uh-huh♥
+usa00@rt: I was about to tell you that~
+usa00@rt: But then you said all\nthose weird watch-me stuff~
 
-me: 「…ヘエッ その説はすんません…」
+me: "Uh, yep... Sorry about that..."
 
-usa00@rt: まあいいんですけど〜♥
+usa00@rt: It's okay~♥
 
-me: 「…これも"金玉のタリスマン"っすか？」
+me: "...So is this also a nut talisman?"
 
-usa00@lb: 右の金タリだね〜♥
+usa00@lb: The right nut tally~♥
 
-me: 「そっすね……」
+me: "Indeed..."
 
-usa00@rt: これで揃いましたね〜♥
-usa00@lb: おめでとうございま〜す♥
+usa00@rt: Now, you have a\nwhole pair of nuts~♥
+usa00@lb: Congratulations~♥
 
-me: 「……いや、何がめでたいんだか」
+me: "...Is this even worth congratulating?"
 
-usa00@lb: 揃えるとなんか、いいことあるかもですよ〜?
+usa00@lb: Maybe something good\nhappens if you get the whole set~?
 
-me: 「……確かに、前買ったやつとペアっぽいな」
+me: "...Well, it does kinda look like the missing piece of the previous nut."
 
-usa00@rt:　右と左でワンセットなんですよ~
+usa00@rt:Right and left~\nOne set~
 
-me:　「なんで、セットで売ってくれなかったんすか？」
+me:　"Why didn't you sell them as a whole set in the first place?"
 
-usa00@rt: へ〜♥
+usa00@rt: Huh~♥
 
-usa00@lb: 順番に買うほうが、ありがたみ~? が増しそうだし~
+usa00@lb: Feels better to complete the set one piece at a time~? Maybe~?
 
-me: 適当に会話してる?
+me: Now you're just brushing me off!
 
-usa00@rt: またのご利用お待ちしてま〜す♥
+usa00@rt: Please come again~♥
 
 usa00:exit
 
-…
+...
 
-……
+......
 
-路地裏に移動したおれは 誰もいないことを確認してズボンの中を見る
+I move to an unpopulated alleyway and check my nuts.
 
-me:　「…まだ2つだな!」
+me:　"...Two, still!"
 
-今回も嫌な予感がしたので、増えるところが見れるかと思ったのだが
+I had this bad feeling something might happen.
+Thought I'd see my balls increase in numbers.
 
-さすがに3つには───
+Thankfully, they don't go up to three--
 
-me:　「イテテテ!!!!」
+me:"Oww!!!"
 
-わっ!!! なんか金玉がモゾモゾ動いてる!!
+Wah!!! My balls are wriggling around!!!
 
-me:　「イテーー!!!」
+me:"OUCH!!!"
 
-意識していたから、 よけいに痛みがリアルだ!!
+Now that I'm focusing on my balls, the pain is even more visceral!!!
 
-……おそるおそる、確認してみる
+...Slowly and carefully, I check them once more.
 
-me:　「金玉が……3つ……!?」
+me:"I have... THREE BALLS!?"
 
-システム: 「射精回数が3回に増えました」
+System: "Your nut count has increased to three."
 
-me: 「ダレ!?」
+me:"Who said that!?"
 
-…
+...
 
-me: 「……こえ～～～～～～」
+me:"...Spoooooky."
 

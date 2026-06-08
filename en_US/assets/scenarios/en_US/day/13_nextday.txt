@@ -1,75 +1,76 @@
 
 bg: shop
 
-今日は遅いしもう寝… 酒場にでも寄ってみるか…
+It's getting late. I should sleep...
+Or actually, I suppose I can go to the tavern.
 
 bg: port1
 
-…
+...
 
-ﾜｲﾜｲ…ｶﾞﾔｶﾞﾔ…
+Hustle, bustle... Buzz, buzz...
 
-…
+...
 
-me: 「おっさん〜」
+me:"Oh, hey there, ol' man!"
 
-おっさん:「坊主!」
+Ol' Dude:"Aye, kid!"
 
-オッサンが一人で飲んでたのでぷら〜っと近づく
-なんやんかんやで、すっかり顔見知りだ!
+I see the ol' dude drinking alone and gravitate toward him.
+I guess we're acquaintances now, kinda!
 
-おっさん:「食ってくかァ?」
+Ol' Dude:"You want a bite, kid?"
 
-me: 「失礼します!」
+me:"Don't mind if I do!"
 
-…
+...
 
-……
+......
 
-おっさん:「女はできたかァ?」
+Ol' Dude:"So, got any bitches yet?"
 
-me: 「前もその話しましたよ!!!!!!!!」
+me:"You asked me that already!!! It's only been a FEW DAYS!!!!!!"
 
-オッサン、ホントに何も覚えてないじゃん!!!!!
+Why can't you remember anything, dude!!!???
 
-me: 「いや、いないっすよ……」
+me:"Uh, no. Not really..."
 
-……道具屋さんの顔が浮かんだ。
+...The shopkeeper's face suddenly pops up in my mind.
 
-me: 「…いや、道具屋? の子とかたまに話すくらいで…」
+me:"...Uh, I kinda know this item shop owner, I guess?"
 
-おっさん:「どんなムスメだァ?」
+Ol' Dude:"What kinda gal is she, aye?"
 
-me: 「……ｴｰｯﾄ "バパン" の――」
+me:"...Uh, she's a Bunnin--"
 
-おっさん:「[shake]獣人かァ!![/shake]」
+Ol' Dude:"[shake]A BEASTIE, Y'SAY!?[/shake]"
 
-びっくりした! 声デケえな!!
+What the hell! Why are you so loud!!!
 
-me: 「いまその言い方よくないっすよ〜」
+me:"You can't be calling them that in this day and age, old man..."
 
-おっさん:「ハハ」
+Ol' Dude:"Gahaha!"
 
-おっさん:「アイツらはなァ! すごいぞォ!!」
+Ol' Dude:"Well, y'know! They're the mutt's nuts!!"
 
-me: 「…え?」
+me:"...What?"
 
-おっさん:「…いや、がんばれよォ!」
+Ol' Dude:"...Well, good luck, kid!"
 
-me: 「はあ……」
+me:"Sigh..."
 
-……
+......
 
 bg: black
 
-…
+...
 
-……次の日
+...The next day.
 
 bg: street0
 
-…
+...
 
 bg: shop
 
-……
+......

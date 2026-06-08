@@ -3,42 +3,43 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます!!!」
+me:"Good morning!!!"
 
 usa00:
   目: close_smile
 
-usa00@rt:元気〜
+usa00@rt:So zesty~
 
-me:「俺ってけっこう常連っすよね」
+me:"I'm kinda a regular, aren't I?"
 
 usa00:
   目: normal
 
-usa00@rt:いきなり〜
-usa00@lb:そうかな〜?
+usa00@rt:That came\noutta nowhere~
+usa00@lb:Are you~?
 
-me:「いや、だいぶ常連だとおもう!!!」
+me:"Well, I think I am!!!"
 
-昨日、酒場で "いつもの" って言ったら、なんだこいつ? って顔された!!
-でも、ここは常連だとおもう!
+Yesterday, I tried ordering "the usual" at the tavern
+and the staff looked at me like I'm stupid!!
+But I'm a regular here... Right?
 
-usa00@rt:もしかして〜
-usa00@lb:常連、あこがれ〜?
+usa00@rt:Are you...
+usa00@lb:...dreaming of\nbecoming a regular~?
 
-me:「いつものください!!!!」
+me:"Give me the usual!!!"
 
 usa00:
   目: close_smile
 
-usa00@rt:いつものとかないだろ〜
+usa00@rt:But you\ndon't have\na usual~
 
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

@@ -2,83 +2,83 @@
 bg: shop
 
 
-me:「ちわ〜」
+me:"Howdy~"
 
-…
+...
 
-……反応がない
+No reaction...
 
-………ムムッ、横から既視感!
+...Wait a second. Deja vu!!!
 
 usa00:
   posure: front
 
-usa00@rt:あ！\nいいとこに来ましたね〜
+usa00@rt:Oh!\nYou came at the right time~
 
-usa00@lb:いまね\n商品切らしちゃってて〜
+usa00@lb:So, right now~\nI'm all run out~
 
-クソッ、モロに食らってしまったぞ
+Dammit. This thing again?
 
-me: 「……付き合ってやろう!!」
+me: "...Fine, I shall play your game!!!"
 
-usa00@rt:よいしょ
+usa00@rt:Here we go~
 
-なんだかおっきな本がカウンターの上に置かれる
+She plunks a giant tome onto the counter.
 
-me: 「なんすかこの本」
+me: "What's this book?"
 
-表紙は色褪せてなんて書いてるのか 読めないような? 読めるような…
+The cover is discolored, making it hard to read... I think it says...
 
-me: 「ま ど う …?」
+me: "Gri-moi-re...?"
 
-usa00@rt:あたり〜
-usa00@lb:これは、[wave]魔導書[/wave] で〜す♥
+usa00@rt:Uh-huh~
+usa00@lb:This is a [wave]grimoire[/wave]~♥
 
-me: 「なんだそれ!! 魔導書!!! すごそう!!」
+me: "WOAH!!! Grimoire!!! Sounds cool!!"
 
-usa00@rt: え〜知らないんですか〜?
-usa00@lb: 真理が書かれていて〜
-usa00@rt: 系統があえば、 すぐに魔法がつかえるように〜♥
+usa00@rt: Oh~ Don't know\nwhat that is~?
+usa00@lb: They say grimories\nrecord magical truths~
+usa00@rt: And if you're talented for that school of magic, you can learn it instantly~♥
 
-me: 「魔法使えないって、言ったじゃん!!!」
+me: "But I told you I can't use magic!!!"
 
-usa00@rt:わかんないって話だったじゃないですか〜
+usa00@rt: You said you weren't sure~\nRight~?
 
-me: 「そもそもこれ、どんな魔法なんだ?」
+me: "What magic does this grimoire teach, anyway?"
 
-usa00@rt: 後ろに書いてて〜\nなになに
-usa00@lb: "眠いときに使うと、睡眠の質がよくなる"
+usa00@rt:It's written in the back~\nLet me see~
+usa00@lb:"Better sleep quality when you fall asleep."
 
-me: 「[shake]いらねえ〜!!![/shake]」
+me: "[shake]THAT'S TOTAL GARBAGE~!!![/shake]"
 
-usa00@rt: "朝から、大きな声がでる"
+usa00@rt: It's early and\nyou're so noisy...
 
-me: 「今回の、マジいらないっすわ!」
+me: For once, I really can't make use of this item!
 
-usa00@rt: せっかく冒険者さんのために\n持ってきたのにな〜
-me: 「気持ちはありがたいですけどね…」
+usa00@rt: But I got it for you,\nMr. Adventurer~
+me: "Thanks for the thought, but..."
 
-usa00@rt: でもね、冒険者さん\n睡眠は大事なんですよ〜
-usa00@lb: ヒトは睡眠中にね―――
+usa00@rt: You know, Mr. Adventurer,\nsleep is very important~
+usa00@lb: When you sleep, all these good things happen...
 
-…
+...
 
-……
+......
 
-………
+.........
 
-me:「なるほど! 足先、布団からだしたほうがよく眠れるんですね!」
+me:"...I see! So you sleep better if you let your feet get some air!"
 
-睡眠って、スッゲえ!!!!!
+WOAH! Sleep is amazing!!!
 
-usa00@rt: そう〜♥
+usa00@rt: Uh-huh~♥
 
-me: 「じゃあこれ、買います!」
+me: "Okay, I'll buy this!"
 
-usa00@lb:ほんとですか〜?\nわ〜い♥
+usa00@lb:Really~?\nYay~♥
 
-me: 「でもこんなスゴ魔導書、 どこで仕入れてきたんですか!?」
+me: "But how did you even find such\nan epic grimoire in the first place!?"
 
-usa00@rt:これ〜 昨日部屋を掃除していたら出てきて〜
+usa00@rt:Oh~ It popped out\nwhen I was cleaning\nmy room yesterday~
 
-me: 「在庫処分じゃね―か!!!!!」
+me: "So you're getting rid of trash after all!!!"

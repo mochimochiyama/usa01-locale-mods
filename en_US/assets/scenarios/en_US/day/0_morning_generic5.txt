@@ -4,44 +4,44 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます」
+me:"Good morning."
 
-usa00@lb:ね〜ね〜
+usa00@lb:Hey~\nHeeey~
 
-me:「なんすか〜」
+me:"Yeees~?"
 
-usa00@rt:他にお金ってなにに使ってるの〜？
+usa00@rt:What else do you\nspend money on~?
 
-me:「……夜メシ行ったり……とか？」
+me:"Stuff like eating dinner... I guess?"
 
-usa00@rt:ふ〜ん
+usa00@rt:Hmmm~
 
-usa00@lb:ほかは〜？
+usa00@lb:What else~?
 
-ほかは何だろう、ここくらいか…?
+What else, indeed... Buying stuff here?
 
-me:「ここくらいっすかね〜」
+me:"Buying stuff here, I guess~"
 
-usa00@rt:じゃあもしかして〜
-usa00@lb:結構お金余ってるかんじ〜？
+usa00@rt:Then could it be~
+usa00@lb:You actually have a lot\nof money saved up~?
 
-me:「えっなんすか!」
+me:"Wh-What do you want!?"
 
-そんなこと無いぞ! 多分…
+I don't have that much left! I think...
 
-usa00@rt:もっと色々買ってけ〜
+usa00@rt:Buy more stuff here~
 
-ニヤニヤしながらこっちを見てくる。
+She smiles smugly and stares at me.
 
-me:「結構使ってますよ!」
+me:"I already splurge a lot here!"
 
-……結構使ってるよな! 結構…
+Like a lot! Actually a lot...
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!

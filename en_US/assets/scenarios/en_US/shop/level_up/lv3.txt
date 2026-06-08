@@ -2,50 +2,50 @@
 
 bg: shop
 
-me:「ちわ〜」
+me:"Howdy~"
 
-…
+...
 
-……反応がない
+...No reaction.
 
-………あッ、これっ―――
+...Wait. I know what this is...
 
 usa00:
   posure: front
 
-usa00@rt:あ！\nいいとこに来ましたね〜
+usa00@rt:Oh!\nYou came at the right time~
 
-usa00@lb:いまね\n商品切らしちゃってて〜
+usa00@lb:So, right now~\nI'm all run out~
 
-くそっ、逃げようとしたが遅かった
+Dammit. I missed my chance to escape.
 
-me: 「……今回はなんですか」
+me: "...What is it this time?"
 
-usa00@rt:[font_size=23][wave]おへや券〜♥[/wave][/font_size]
+usa00@rt:[font_size=23][wave]A room ticket~♥[/wave][/font_size]
 
 ...
 
 ......
 
-………おへや？
+...Room?
 
-me: 「おへや……？」
+me: "What room...?"
 
-usa00@rt:わたしの部屋、ご案内です〜
-usa00@lb:"[shake]ﾐﾀｶｯﾀ!![/shake]"
+usa00@rt:A ticket to visit my room~
+usa00@lb:"[shake]SEE ROOM!!![/shake]"
 
-クソッ 俺のことなんだと思ってんだ
+Uh, I definitely don't sound that stupid.
 
-me: 「いや、別に……」
+me: "Uh, I'm not really all that..."
 
-usa00@rt:ほんとかなあ〜?
+usa00@rt: Really~?
 
-me: 「ていうか、俺は装備の更新がしたいの!!!」
+me:"Actually, I'm more interested in upgrading my gear!!!"
 
-前からちょいちょいあるけどこれ、買うまで他のアイテム無いって嘘つくじゃん!!
+This isn't her first time trying to hard sell me stuff. She'll just blatantly lie and say she's run out of until I buy the thing!!!
 
-usa00@rt:おへや〜?
+usa00@rt:But the room~?
 
-me: 「ﾐﾀｶｯﾀ!!」
+me: "SEE ROOM!!!"
 
-usa00@rt:きゃ〜♥
+usa00@rt:Kyah~♥

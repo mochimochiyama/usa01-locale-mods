@@ -4,28 +4,29 @@ usa00:
   右手: 待機
 
 
-usa00@rt:はい10回で〜す♥
+usa00@rt:Okay~ That's ten times~♥
 
 usa00:
   上腕: normal
   前腕右: none
   右手: none
 
-思ってたよりなんか...ぷにぷにというか...むにむにというか!!
+It's even more... how should I say...
+It's even more squishier and plumper than I expected!!!
 
-me:「ｱﾉ〜...もうちょっと...」
+me:"Um... Just a little more...?"
 
-usa00@rt:え〜？
-usa00@lb:まだ足りないんですか〜？
+usa00@rt:Huh~?
+usa00@lb:Haven't had enough~?
 
-me: 「あと3回!!! 5秒!!!」
+me: "Just three more times! Or five more seconds!!!"
 
-usa00@lb:しょうがないですね〜
+usa00@lb:I guess it can't be helped~
 
-usa00@rt:ホントはヒト前で出しちゃいけないんですけど〜
-usa00@lb:今回だけなんとトクベツで〜
+usa00@rt:I'm not supposed to show it to people, but~
+usa00@lb:Just this once~ Here~
 
-me: 「トクベツ!!!!!!!!!!!」
+me: "JUST THIS ONCE!!!!!!!!!!!"
 
 usa00:
   上腕: 握手待機_右手
@@ -33,21 +34,21 @@ usa00:
   右手: 待機
   手袋: なし
 
-usa00@lb:なま〜
+usa00@lb:My bare hand~
 
-me:「わぁ……(冷静)」
+me:"Woah..."
 
-すげえ! 肉球だ!!
-指は普通に5本なんだ!!
+WOW! Paw pads!!!
+And she has five fingers!!!
 
-usa00@rt:めっちゃ見てる〜♥
+usa00@rt:You're staring so much~♥
 
-me:「これさわってもいいんすか!」
+me:"Can I touch them!?!?"
 
-usa00@lb:いいですよ〜♥
+usa00@lb:Go ahead~♥
 
-me:「ﾔﾀｰｰｰｰｰｰｰｰ!!!!!」
-me:「ﾑﾆﾑﾆﾉﾅﾏﾆｸｷｭｰｰ!!!!!」
+me:"YAAAAAAY!!!!!"
+me:"SQUISHY MEATY BARE PAW PADS!!!!!"
 
-usa00@rt:はしゃぎすぎ〜♥
-usa00@rt:また10回ですよ〜
+usa00@rt:You're getting too excited~♥
+usa00@rt:Ten times only, okay~?

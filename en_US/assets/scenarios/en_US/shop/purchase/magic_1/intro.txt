@@ -1,87 +1,87 @@
 
 bg: shop
 
-me: 「買っちゃった……」
+me: "I can't believe I bought this..."
 
 usa00:
   posure: front
 
-usa00@rt: ありがとうございま〜す♥
+usa00@rt: Thanks for the purchase♥
 
-me: 「まさか続編が出てくるとは…」
+me: "To think there's a book two..."
 
-usa00@rt: こないだベッドの裏からでてきて~
+usa00@rt: I found it\nunderneath my bed~
 
-me: 「へー」
+me: "Huh..."
 
-usa00@rt: 前のやつ、実は3部作で〜
+usa00@rt: It actually has\nthree volumes in total~
 
-me: 「3部作！？」
+me: "Three volumes!?"
 
-usa00@lb: これはまんなか〜
+usa00@lb: This is the second one~
 
-じゃあ、ちょっとはツヨクなれるのか……?
+So, I suppose this makes me stronger...?
 
-me: 「……じゃあ、使ってみます」
+me: "...Okay then. I'll use it."
 
-usa00@rt: 見ててあげますね〜♥
+usa00@rt: I'll be watching~♥
 
-前と同じように……頭をくっつけて……
+Head to the book... like last time...
 
-me: 「……よっと」
+me: "...Here I go."
 
-…
+...
 
-……
+......
 
 usa00:exit
 
 bg: black
 
-………
+.........
 
-me: 「……ｺﾝﾁﾜｰ」
+me: "...Hello, mysterious voice."
 
-???: 「……こんにちは」
+???: "...Hello."
 
-???: 「少し力が増すであろう…」
+???: "Your prowess shall grow..."
 
-???: 「"法"は深化する……"認識"を"魂"からより深く断ち切る…」
+???: "The Law deepens...\nYou shall sever greater Cognition from the Soul."
 
-me: 「……！」
+me: "...!"
 
-me: 「強くなったってことすか？」
+me: "Does that mean I get stronger?"
 
-???: 「そうじゃ、さらば……」
+???: "Indeed... Farewell..."
 
-…
+...
 
 bg: shop
 
 usa00:
   posure: front
 
-……
+......
 
-usa00@rt: お〜　戻ってきた〜
+usa00@rt: Oh~\nYou're back~
 
-me: 「はあ……」
+me: "Huh..."
 
-usa00@lb: 大丈夫ですか〜?
+usa00@lb: Everything alright~?
 
-me: 「ちょっとしゃべれたかも！」
+me: "I talked a little with the voice!"
 
-usa00@rt: へ〜？
-usa00@lb: しゃべるって～?
+usa00@rt: Hmm~?
+usa00@lb: What voice~?
 
-me: 「いや、本の中のひとと……」
+me: "Like, the voice in the book..."
 
-usa00@rt: そんなの聞いたことないけど～
+usa00@rt: Never heard of something like that before~
 
-me:　「……」
+me:　"..."
 
-me: 「……なんか、ちょっとツヨクなったらしい」
+me: "...Apparently, now I'm a little stronger."
 
-usa00@rt: なにはともあれ、よかったですね〜♥
+usa00@rt: Good for you then~♥
 
-usa00@rt: またのご利用お待ちしてま〜す♥
+usa00@rt: Please come again~♥

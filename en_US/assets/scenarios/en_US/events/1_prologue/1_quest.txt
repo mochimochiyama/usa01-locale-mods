@@ -4,26 +4,26 @@ bg: shop
 usa00:
   posure: front
 
-usa00@lb:よかったですね〜♥\n立派ですよ〜
+usa00@lb:Look at you~♥\nAll decked out~♥
 
-me:「木だけどな……」
+me:"Decked out... in wood."
 
-usa00@rt:木ですね〜
+usa00@rt:Wood, indeed~
 
-usa00@lb:まあまあ〜\nまだ昼ですし、クエスト行ってみたらどうですか〜？
+usa00@lb:Now, now~\nIt's still early, why don't you go on a quest~?
 
-me: 「ｱ~ そうすっかね……」
+me: "Uh, I suppose I should..."
 
-まあ確かに なんか他にやることがあるわけでもないし
-そもそも、このために島に来たんだった!
+She's right. It's not like I have much else to do here.
+Or actually, that's what I came here for in the first place!
 
-me: 「それでは〜 ｱﾘｱﾄｼﾀ〜」
+me:"I'll be going then... Th-Thanks..."
 
-usa00@rt:帰ってこれたら\nまた来てくださいね〜♥
+usa00@rt:If you make it back alive,\ndo come again, okay~?♥
 
 usa00:
   目:close_smile
   body:ひろげ
 
 
-usa00@lb:がんばれ〜
+usa00@lb:Good luck~

@@ -4,15 +4,15 @@ usa00:
   目: close_smile
   尻尾: normal
 
-usa00@rt:[wave]声でか〜♥[/wave]
+usa00@rt:[wave]You're too excited~♥[/wave]
 
 usa00:
   目: normal
   尻尾: ふりふり
 
-usa00@rt:じゃあどうぞ~
+usa00@rt:Go ahead~
 
-me:「[shake]ﾔｯﾀｰｰｰｰｰｰｰｰ!!!![/shake]」
+me:"[shake]YAAAYYY!!!![/shake]"
 
 
 usa00:

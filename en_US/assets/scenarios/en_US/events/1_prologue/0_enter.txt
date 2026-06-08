@@ -1,123 +1,127 @@
 
 bg: port0
 
-…
+...
 
-……
+......
 
-船から降りると人々でごった返していた。
+Stepping off the ship, I see a port filled with people.
 
+me:"Woah..."
 
-me:「うおー……」
+For a country bumpkin like me, just the sheer amount 
+of people is more than enough to make me feel overwhelmed.
 
-田舎から出てきた俺には、人混みだけでも圧倒される。
+But that won't stop me! This is an island where dreams come true. Anyone can become an adventurer here and rise to the top,
+as long as you have what it takes.
 
-でも、この島には夢がある。誰でも冒険者になれて、腕一本で成り上がれるって話だぞ。
+[shake]RAGS TO RICHES!!!!!!!!!!!!!!!![/shake]
 
-[shake]俺も一発当てるぞ!!!!!!!!!!!!!!!![/shake]
+I'm practically broke from the ship ticket,
+but my spirit is willing and my flesh is well... not that flimsy.
 
-船賃で金はほぼ使い果たしたけど、
-マア体は丈夫だし、やる気だけはある。
-
-me:「とりあえずギルド行くか〜…」
-
-bg: port1
-
-…
-
-……
-
-ギルドに着くと、登録待ちの列ができていた。
-すこし前に並んでるのは、さっき船で一緒だったやつらだな。
-
-ぼーっと順番を待つ。
-……ふと、前のやつの装備が目に入った。鎧、剣、杖。
-
-みんな、ちゃんと準備してきてんな〜…
-
-俺はというと……素寒貧だ。
-
-登録終わったら買いに行くか……
-
-bg: black
-
-…
-
-……
-
-………
+me:"Let's find the guild first..."
 
 bg: port1
 
-…あっさりだったな!
+...
 
-名前を書いたら終わり。
-冒険者登録は名目で、どっちかというと入島管理みたいなもんらしい。
+......
 
+I reach the guild and see a massive lane waiting for registration.
+Some of the people here are from the same ship I took.
 
-me:「さーて、装備装備……」
+I wait until my turn.
+
+...Then I notice the equipment of the people waiting.
+Their armor... swords... staves...
+
+They're all geared up, huh...
+
+Now look at me... I might as well be naked.
+
+Guess I should buy some equipment after I'm done registrating...
 
 bg: black
 
-…
+...
 
-……
+......
+
+.........
+
+bg: port1
+
+...Well, that was easy!
+
+All I did was fill in my name.
+They call it an adventurer registration, but apparently
+it's more about keeping immigration records.
+
+
+me:"Now then, time to gear up..."
+
+bg: black
+
+...
+
+......
 
 bg: port0
 
-武器屋を覗く。
+I check out the weapon shop.
 
-me:「[font_size=25][shake]……た[/shake][/font_size]」
+me:"[font_size=25][shake]So...[/shake][/font_size]"
 
-防具屋を覗く。
+I check out the armor shop.
 
-me:「[font_size=25][shake]………高え！！[/shake][/font_size]」
+me:"[font_size=25][shake]...SO EXPENSIVE!!![/shake][/font_size]"
 
-魔術屋を覗く。
+I check out the magic shop.
 
-me: 「[font_size=29][shake]魔法、つかえねえ〜〜！！！！！[/shake][/font_size]」
+me: "[font_size=29][shake]I CAN'T EVEN USE MAGIC\nIN THE FIRST PLACE!!![/shake][/font_size]"
 
 bg: street0
 
-…
+...
 
-……
+......
 
-………
+.........
 
-街をうろついて一通り見てみたが, どこも同じだ。
-こんな丸腰で来るやつ、想定されてねえ〜〜
+I wander around town and check out the shops, but it's the same everywhere. They definitely didn't expect people to come here completely unarmored, huh?
 
-me:「[font_size=25][shake]詰んでるぞ!!!![/shake][/font_size]」
+me:"[font_size=25][shake]I'M DONE FOR!!![/shake][/font_size]"
 
-街の隅でしゃがみこむ。
-財布を除く、ちょうど 1000G, ボロボロの紙幣一枚…
+I curl up in a corner. All I have on me, outside of my wallet,
+is a crumpled paper note that says 1000G...
 
-屋台のおっさん:「どうしたボウズ！ 腹減ったのか!」
+Food Hawker:"HEY KID, WHAT'S THE MATTER? YOU HUNGRY?"
 
-ああ?! あぁ…!?
+Wha!? Huh...!?
 
-いきなりむさ苦しいおっさんに話しかけられたぞ。
+This grubby, middle-aged dude just came out of nowhere!	
 
-屋台のおっさん:「ほら! 元気出せ! これでも食え食え!」
+Food Hawker:"HERE! HAVE SOME FOOD! IT'LL MAKE YOU FEEL BETTER!"
 
-me: 「あ、 あぁ ありがとう…ｺﾞｻﾞｲﾏｽ」
+me:"Oh, uh... Th-Thanks..."
 
-…
+...
 
-……ﾓｸﾞﾓｸﾞ
+...(Gobble, gobble)...
 
-………
+.........
 
-財布を除く、ちょうど 900G、 ジャラジャラ……
+Now, all I have on me, outside of my wallet,
+is a grand total of 900G coins that go clink-clink...
 
-クソ！！ あの感じで普通に金とるのかよ……
+DAMMIT!!! I thought it'd be free!
 
-me:「……マジどうしよう」
+me:"...Seriously, what do I do?"
 
-???:「[wave]もしかして〜 困ってるカンジですか〜？[/wave]」
+???:"[wave]Hey there~ Do you need some help~?[/wave]"
 
-me: 「おっさん!もう腹いっぱ――
+me: "NO THANKS I'M ALREADY FULL--"
 
 bg: roji0
 
@@ -125,194 +129,198 @@ bg: roji0
 usa00:
   posure: front
 
-振り返るとなんかちっちゃい子が立ってい――[font_size=25][shake]耳生えてる![/shake][/font_size]
+Turning around, I see a small figure standing before--[font_size=25][shake]EARS!!![/shake][/font_size]
 
-なんて種族だっけ! たしか、、 "バパン"…?
+What do they call this race again?
+Bunnins... If I recall correctly...?
 
-大陸ではあまり見かけない種族だ。
-長い耳と、ふわふわの尻尾が特徴で……あと、なんか いや、全然しらない… 見たこと無かったし…
+You don't see them often in the mainland.
+They have long ears and a soft, fluffy tail... and also--wait, no, not that I know much about them... It's not like I've seen them before...
 
-そういえばギルドの受付のひとも耳はえてたな… 耳は俺も生えてるか…
+Reminds me that the guild receptionist also had ears, huh...
+WAIT A SECOND, I also have ears...
 
-とっさのことで思考の渦がぐるぐるぐる… していたところに質問が飛んできた。
-
-
-???@rt:お兄さん、冒険者ですか〜？
-
-
-me:「ｱ、ああ……今日来たばっかりで」
-
-usa00:
-  目: close_smile
-
-???@lb:[font_size=26][wave]なるほど〜♥[/wave][/font_size]
-
-usa00:
-  目: normal
-
-ニヤニヤしながら、つま先から頭までじろーっと見られたぞ。目があった。
+Random thoughts fly around in my mind...
+when suddenly she throws me a question.
 
 
-???@rt:わたし、この先で道具屋\nやってるんですけど〜
+???@rt:Are you an adventurer, Mister?
+
+
+me:"I arrived here today and uh..."
 
 usa00:
   目: close_smile
 
-???@lb:よかったら\n[wave]見ていきませんか〜？[/wave]♥
-
-…
-
-……え? そういうやつ?
-
-……怪しい。
-
-……ボッタクリ?
+???@lb:[font_size=26][wave]I see~♥[/wave][/font_size]
 
 usa00:
   目: normal
 
-???@rt:見るだけなんで〜
+She smirks and scans me from head to toe. Our eyes even meet.
 
-usa00:
-  目: normal
 
-…それなら大丈夫か!!! …大丈夫?
-
-me:「ｱﾉｰ俺別に特に欲しいﾓﾝとかないっすけどね〜!」
-
-足元見られないようにしとかないとな!
-
-…とはいえ事実、まだ何も買えていないし、
-一通り店を回ったものの、ほかの当てがあるわけでもなく…
-
-me:「…ﾐ、見るだけなら……」
+???@rt:I happen to run\nan item shop a little\nup ahead, you see~
 
 usa00:
   目: close_smile
 
-???@rt:[wave]やった♥[/wave]\nついてきて〜
+???@lb:Would you like to...\n[wave]take a look?[/wave]♥
+
+...
+
+...Oh. Is that what's happening now?
+
+...Smells fishier than the port.
+
+...Am I getting scammed?
 
 usa00:
   目: normal
 
-me:「…ｱｯ はい」
+???@rt:It's okay~\nJust taking a look\nis fine too~
+
+usa00:
+  目: normal
+
+...Sounds perfectly okay then if she puts it like that!!! ...Probably?
+
+me:"W-Well but it's not like I really need anything right now, haha!"
+
+Gotta make sure she doesn't take me for an easy mark!
+
+But come to think of it, I still haven't bought a weapon yet...
+And it's not like I found any candidates after going through the other shops...
+
+me:"J-Just a look then..."
+
+usa00:
+  目: close_smile
+
+???@rt:[wave]Yay♥[/wave]\nFollow me~
+
+usa00:
+  目: normal
+
+me:"...O-Okay."
 
 usa00:exit
 
 bg: street0
 
-…
+...
 
-……
+......
 
-道具屋さん？は薄暗い細い路地を歩いていく。
-ふわふわの尻尾が揺れてるのが見える。
+I follow the shopkeeper (probably?) into a dim and narrow alley.
+Her fluffy tail sways as she walks.
 
-道具屋さん: 「こちらで〜す」
+Shopkeep: "Here we are~"
 
 bg: shop
 
-路地の奥に、小さな道具屋?があった。
-なんだかごちゃっとしてるぞ…
+At the end of the alley, I see a small item shop (probably?).
+The whole place looks like a giant dumpster...
 
 usa00:
   posure: front
 
-usa00@rt:いらっしゃいませ〜
+usa00@rt:Welcome~
 
-usa00@lb:冒険者さん、武器とか欲しい感じですよね〜？
+usa00@lb:Do you need a weapon,\nMr. Adventurer~?
 
 
-me:（バレバレだったらしい）
+me:(She's reading me like a book...)
 
-me:「……まあ……安いものがあれば大変……助かります」
+me:"Well... It'll be great if... you can get me... something cheap..."
 
-usa00@rt:ちょっと待ってて〜
+usa00@rt:Hang on a minute~
 
 usa00:exit
 
-奥からガサゴソと何かを取り出してきた。
+She ruffles around the back and fetches something out.
 
 usa00:
   posure: front
   body: ひろげ
 
-usa00@lb:これなんてどうですか〜？
+usa00@lb:How about this~?
 
-木の剣と、木の鎧。
+A wooden sword. And wooden armor.
 
-me:「……」
+me:"..."
 
-me:「木じゃん」
+me:"It's wood."
 
 usa00:
   posure: front
   body: normal
 
-usa00@rt:木ですね〜
+usa00@rt:Wood, indeed~
 
-me:「木か〜〜〜……」
+me:"Wood, huhhh..."
 
-usa00@lb:でもお安いですよ〜？
+usa00@lb:But it's real cheap, you see~?
 
-me:「……いくらっすかね」
+me:"How much...?"
 
-耳をぴんっと立て、こちらをじろり。
+Her ears perk up, and she stares at me.
 
-usa00@rt:[tornado]くぅくぅ…[/tornado]
+usa00@rt:[tornado]Khuu-khuu...[/tornado]
 
-me:「…くぅ?」
+me:"...Khuu?"
 
 usa00:
   目: close_smile
 
-usa00@rt:[font_size=26][wave]1000Gで〜♥[/wave][/font_size]
+usa00@rt:[font_size=26][wave]They'll be 1000G~♥[/wave][/font_size]
 
-me:[font_size=25][shake](涙)(涙)(涙)(涙)(涙)[/shake][/font_size]
+me:[font_size=25][shake](Sobs)(Sobs)(Sobs)(Sobs)(Sobs)[/shake][/font_size]
 
-おっさんのせいで買えないじゃん!!!!!
-いや、何も用意してない俺が悪いな!!!(冷静)
+That damned food hawker!!! Now I can't afford equipment!!!
+WELL, ALRIGHT FINE. I'm the one at fault for not getting prepared in the first place!!! 
 
-me:「[shake]ﾓ、[/shake]」
+me:"[shake]C-Could...[/shake]"
 
-me:[shake]もうちょっとだけ安くなりませんか……[/shake]
+me:"[shake]Could you perhaps go a little lower, maybe...?[/shake]"
 
 usa00:
   目: normal
   body: ひろげ
 
-usa00@rt:[wave]え~~♥[/wave]
-usa00@lb:う~~ん じゃあピッタリ\n864G とかどうですか〜？
-usa00@rt:これ以上安い武器なんて\nもうどこにも無いと思いますよ〜
+usa00@rt:[wave]Hmm~~?♥[/wave]
+usa00@lb:Hmmm~~~\nOkay, then how does\na neat 864G sound~?
+usa00@rt:I don't think you can find\ncheaper stuff elsewhere,\nyou see~
 
-me: これって、、、!!
+me: This...!!
 
-me: これって、低い値段でふっかけて、 互いに落とし所探していくやつじゃん!!!
+This must be the thing where people keep lowballing
+and try to find a price that everyone can agree on!!!
 
-これ、やってみたかったんだ!!!!!!
+I've always wanted to do this!!!!!!
 
-あと、全然ピッタリじゃないぞ!!
+Also that's not a neat number at all!!
 
-me:「[font_size=25][shake]200G！！！[/shake][/font_size]」
+me:"[font_size=25][shake]200G!!![/shake][/font_size]"
 
 usa00:
   目: close_smile
 
-usa00@rt:[wave]862G〜♥[/wave]
+usa00@rt:[wave]862G~♥[/wave]
 
-強ぇ!! だめだ!!
+She's not budging at all!! I can't win!!
 
 usa00:
   body: normal
   目: normal
 
-usa00@rt:これ以上はもうムリ〜\nわきまえてくださいよ〜
+usa00@rt:I can't go lower than this~\nPlease understand, okay~?
 
-クソッ……ウウウ。
+Darn it... Aaaarrgh...
 
-me:「……買います」
+me:"...I'll take it."
 
 usa00:
   目: close_smile
 
-usa00@rt:[wave]まいどあり〜♥[/wave]
+usa00@rt:[wave]Thanks for the purchase~♥[/wave]

@@ -1,46 +1,46 @@
 
-usa00@rt: あ〜♥
+usa00@rt: Ah~♥
 
-me:「…ッス」
+me:"...Alright."
 
-うーん
+Hmmmm...
 
-me: 「すみません、 勉強不足で、 あのー 今回ヤツちょっと想像ついてないというか」
+me: "Sorry, but uh... I'm not entirely sure\nwhat this ticket is about this time..."
 
 usa00:
   目: close_smile
 
-usa00@rt: え〜♥
+usa00@rt: Huh~?♥
 
 usa00:
   目: normal
-usa00@lb: よくわかんないのに買った〜？
+usa00@lb: You aren't sure~\nBut you still bought it~?
 
-me: 「ﾔｯまあ、 ｱﾉｰ 毎回ちょっと ｴｰ こちらも楽しいことなんだろうなと」
+me: "Uh, well, so like, it's been, uh... fun for me every time, so uh..."
 
-usa00@rt: 楽しい〜?
+usa00@rt: Fun~?
 
-me: 「ｽﾝﾏｾﾝ 勉強不足で」
+me: "So uh, sorry but..."
 
-me: 「それで ｱﾉｰ 質問いいですかね」
+me: "Mind if I ask a question...?"
 
-usa00@rt:握手券(顔)は〜
+usa00@rt:The handshake ticket (face)~
 
-me: 「ｱｯ  以心伝心」
+me: "Woah! TELEPATHY!"
 
-usa00@lb: なんと〜
+usa00@lb: It's actually~
 
-me: 「ﾊｲ」
+me: "Okay."
 
 usa00:
   目: close_smile
-usa00@rt: ほっぺとの握手で〜す
+usa00@rt: A handshake\nwith my cheeks~
 
-me: 「ﾎｯﾍﾟｪ!?!?」
+me: "YOUR CHEEKS!?!?"
 
-絶対、
+THAT'S...
 
-me: 「絶対ぷにぷにじゃん!!!!!!!!!」
+me: "DEFINITELY SO SQUISHABLE!!!!!!!!!"
 
 
 usa00:

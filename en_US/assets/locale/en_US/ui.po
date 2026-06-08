@@ -12,407 +12,407 @@ msgstr ""
 # --- App ---
 
 msgid "APP_TITLE"
-msgstr "うさみみ道具屋さんとおさわり出稼ぎ冒険者生活"
+msgstr "Bunny Shopkeeper Touchy-Feely Adventurer Life"
 
 msgid "APP_TITLE_DEMO"
-msgstr "うさみみ道具屋さんとおさわり出稼ぎ冒険者生活 体験版"
+msgstr "Bunny Shopkeeper Touchy-Feely Adventurer Life Demo"
 
 # --- Common UI ---
 
 msgid "UI_CLOSE"
-msgstr "とじる"
+msgstr "Close"
 
 msgid "UI_BACK"
-msgstr "戻る"
+msgstr "Back"
 
 msgid "UI_CONFIRM"
-msgstr "決定"
+msgstr "Confirm"
 
 msgid "UI_RETURN_TO_TITLE"
-msgstr "タイトルに戻る"
+msgstr "Back to Title"
 
 msgid "UI_YES"
-msgstr "はい"
+msgstr "Yes"
 
 msgid "UI_NO"
-msgstr "いいえ"
+msgstr "No"
 
 msgid "UI_SAVE"
-msgstr "セーブ"
+msgstr "Save"
 
 msgid "UI_LOAD"
-msgstr "ロード"
+msgstr "Load"
 
 msgid "UI_CONFIG"
-msgstr "設定"
+msgstr "Settings"
 
 msgid "UI_HINT"
-msgstr "ヒント"
+msgstr "Hints"
 
 msgid "UI_NONE"
-msgstr "なし"
+msgstr "None"
 
 # --- Credit ---
 
 msgid "UI_CREDIT"
-msgstr "クレジット"
+msgstr "Credits"
 
 # --- Title ---
 
 msgid "TITLE_NEW_GAME"
-msgstr "はじめから"
+msgstr "New Game"
 
 msgid "TITLE_CONTINUE"
-msgstr "つづきから"
+msgstr "Load Game"
 
 msgid "TITLE_GALLERY"
-msgstr "回想"
+msgstr "Gallery"
 
 msgid "TITLE_QUIT_GAME"
-msgstr "ゲームを終了"
+msgstr "Quit Game"
 
 # --- Settings ---
 
 msgid "SETTING_FULL_SCREEN"
-msgstr "フルスクリーン"
+msgstr "Fullscreen"
 
 msgid "SETTING_RESOLUTION"
-msgstr "解像度"
+msgstr "Resolution"
 
 msgid "SETTING_MONOCHROME"
-msgstr "モノクロモード"
+msgstr "Monochrome"
 
 msgid "SETTING_MAIN_VOLUME"
-msgstr "メイン"
+msgstr "Master"
 
 msgid "SETTING_BGM_VOLUME"
-msgstr "環境音"
+msgstr "Environment"
 
 msgid "SETTING_SFX_VOLUME"
-msgstr "効果音"
+msgstr "Sound Effects"
 
 msgid "SETTING_SEND_ERROR_REPORTS"
-msgstr "エラー情報を送信"
+msgstr "Send Bug Report"
 
 msgid "SETTING_PAWN_COLOR"
-msgstr "カラー"
+msgstr "Color"
 
 msgid "SETTING_PAWN_ALPHA"
-msgstr "透明度"
+msgstr "Transparency"
 
 msgid "TOOLTIP_ERROR_REPORTING"
-msgstr "プレイ中に発生したエラー情報を送信します。\n個人を特定できる情報は収集していません。"
+msgstr "Sends bug report on crash.\nNo personal data will be collected."
 
 msgid "TOOLTIP_HAND_ALPHA"
-msgstr "手の透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+msgstr "Adjusts hand transparency.\n(This will cover up parts of the images if this is set to lowest.)"
 
 msgid "TOOLTIP_HAND_COLOR"
-msgstr "手の色を黒から白の間で設定します"
+msgstr "Adjusts hand color between white to black."
 
 msgid "TOOLTIP_HEAD_ALPHA"
-msgstr "頭の透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+msgstr "Adjusts head transparency.\n(This will cover up parts of the images if this is set to lowest.)"
 
 msgid "TOOLTIP_HEAD_COLOR"
-msgstr "頭の色を黒から白の間で設定します"
+msgstr "Adjusts head color between white to black."
 
 msgid "TOOLTIP_OCHIN_ALPHA"
-msgstr "ちんちんの透明度を設定します\n(最低値にすると見づらくなるシーンがあります)"
+msgstr "Adjusts dick transparency.\n(This will cover up parts of the images if this is set to lowest.)"
 
 msgid "TOOLTIP_OCHIN_COLOR"
-msgstr "ちんちんの色を黒から白の間で設定します"
+msgstr "Adjusts dick color between white to black."
 
 msgid "TOOLTIP_MSAA"
-msgstr "セリフ吹き出しや画像の滑らかさが向上します"
+msgstr "Increases the smoothness of speech bubbles and certain images."
 
 msgid "TOOLTIP_MONOCHROME"
-msgstr "モノクロモードを有効にします。\nフィルターでの表現のため、一部見づらいシーンが発生します"
+msgstr "Activates monochrome mode.\nSome images might lose detail as this is a filter."
 
 # --- Home ---
 
 msgid "HOME_SHOW_ITEMS"
-msgstr "商品みせて!"
+msgstr "Wares please!"
 
 msgid "HOME_SELL_MATERIALS"
-msgstr "素材売りたい"
+msgstr "Materials to sell!"
 
 msgid "HOME_PUT_TO_SLEEP"
-msgstr "ねむらせる"
+msgstr "Sleepify her"
 
 msgid "HOME_SECRETS"
-msgstr "ひみつ"
+msgstr "View secrets"
 
 msgid "HOME_GO_TO_SLEEP"
-msgstr "もう寝るか…"
+msgstr "I should sleep..."
 
 msgid "HOME_GO_TO_ROOM"
-msgstr "へやにいく"
+msgstr "Go to her room"
 
 msgid "HOME_GO_ON_QUEST"
-msgstr "クエストいくか…"
+msgstr "Time to go on a quest..."
 
 msgid "HOME_WANDER"
-msgstr "ぶらぶらする"
+msgstr "Wander around..."
 
 msgid "HOME_GALLERY"
-msgstr "回想"
+msgstr "Gallery"
 
 msgid "TUTORIAL_SHOP"
-msgstr "道具屋さんから\nアイテムを購入ができます"
+msgstr "You can buy items here\nfrom the shopkeeper."
 
 msgid "TUTORIAL_QUEST"
-msgstr "クエストに出発できます"
+msgstr "Go on a quest here."
 
 msgid "HOME_KINTAMA"
-msgstr "金玉:"
+msgstr "Nut(s):"
 
 msgid "HOME_WEALTH"
-msgstr "所持金:"
+msgstr "Money:"
 
 # --- Shop ---
 
 msgid "SHOP_NAME"
-msgstr "名前"
+msgstr "Name"
 
 msgid "SHOP_ITEM"
-msgstr "アイテム"
+msgstr "Item"
 
 msgid "SHOP_QUANTITY"
-msgstr "所持数"
+msgstr "Amnt"
 
 msgid "SHOP_SELL_PRICE"
-msgstr "売却価格"
+msgstr "Sell Price"
 
 msgid "SHOP_PRICE"
-msgstr "価格"
+msgstr "Price"
 
 msgid "SHOP_REQUIRED_MATERIALS"
-msgstr "必要素材"
+msgstr "Required Items"
 
 msgid "SHOP_STOCK"
-msgstr "在庫"
+msgstr "Amnt"
 
 msgid "SELECT_ITEM_PROMPT"
-msgstr "アイテムを選択してください"
+msgstr "Select an item"
 
 # --- Battle ---
 
 msgid "BATTLE_VICTORY"
-msgstr "勝利!"
+msgstr "VICTORY!"
 
 msgid "BATTLE_FAST_MODE"
-msgstr "高速戦闘モード"
+msgstr "Faster Combat"
 
 msgid "BATTLE_STRENGTH"
-msgstr "つよさ:"
+msgstr "Power:"
 
 msgid "BATTLE_ATTACK_POWER"
-msgstr "攻撃力:"
+msgstr "Attack:"
 
 msgid "BATTLE_MATERIALS"
-msgstr "素材:"
+msgstr "Drops:"
 
 msgid "BATTLE_REWARD"
-msgstr "報酬:"
+msgstr "Rewards:"
 
 msgid "BATTLE_CLEARED"
-msgstr "攻略済み!"
+msgstr "CLEARED!"
 
 msgid "BATTLE_BUFF_TALISMAN"
-msgstr "タリスマン"
+msgstr "Talisman"
 
 msgid "BATTLE_DEBUFF_SLEEP_MAGIC"
-msgstr "睡眠魔法"
+msgstr "Sleep Magic"
 
 # --- Room ---
 
 msgid "ROOM_REQUEST"
-msgstr "あの、お願いが"
+msgstr "Um, could you perhaps..."
 
 msgid "ROOM_USE_BOTTLE"
-msgstr "とっておきの小瓶をつかう"
+msgstr "Use the special vial"
 
 msgid "ROOM_GO_DOWNSTAIRS"
-msgstr "したにおりる"
+msgstr "Go downstairs"
 
 # --- Scenario ---
 
 msgid "SCENARIO_BACKLOG"
-msgstr "バックログ"
+msgstr "History"
 
 msgid "SCENARIO_CONTROLS"
-msgstr "クリック: 進める Ctrl: スキップ"
+msgstr "Left Click: Next / Ctrl: Skip"
 
 # --- Save/Load ---
 
 msgid "SAVE_SELECT_SLOT"
-msgstr "セーブするスロットを選択"
+msgstr "Select Save Slot"
 
 msgid "SAVE_SELECT_LOAD_SLOT"
-msgstr "スロットを選択してロード"
+msgstr "Select Save to Load"
 
 msgid "SAVE_AUTO_NEWEST"
-msgstr "オートセーブ (最新⇧)"
+msgstr "Auto Saves (Latest⇧)"
 
 msgid "SAVE_AUTO_NOTE"
-msgstr "※就寝時にオートセーブされます(最大10件)"
+msgstr "Note: The game automatically saves when you sleep (max 10)."
 
 # --- Osawari ---
 
 msgid "OSAWARI_SLOW"
-msgstr "おそい"
+msgstr "Slow"
 
 msgid "OSAWARI_FAST"
-msgstr "はやい"
+msgstr "Fast"
 
 msgid "OSAWARI_RIGHT_HAND"
-msgstr "右手"
+msgstr "Hand (R)"
 
 msgid "OSAWARI_LEFT_HAND"
-msgstr "左手"
+msgstr "Hand (L)"
 
 msgid "OSAWARI_KISS"
-msgstr "キス"
+msgstr "Kiss"
 
 msgid "OSAWARI_WAIST"
-msgstr " 腰 "
+msgstr "Hips"
 
 msgid "OSAWARI_RESET_TOUCH"
-msgstr "おさわり状態をリセット"
+msgstr "Reset"
 
 msgid "OSAWARI_STOP"
-msgstr "やめる"
+msgstr "Stop"
 
 msgid "OSAWARI_CONTROLS"
-msgstr "操作"
+msgstr "Controls"
 
 msgid "HINT_PLACEHOLDER"
-msgstr "（ヒントが表示されます）"
+msgstr "（Hint）"
 
 # --- Ending ---
 
 msgid "ENDING_THE_END"
-msgstr "〜おわり〜"
+msgstr "~FIN~"
 
 msgid "ENDING_VIEW_SECRETS"
-msgstr "ひみつをみる"
+msgstr "View Secrets"
 
 msgid "DEMO_ENDING_MESSAGE"
-msgstr "体験版をプレイしていただきありがとうございます！\n\n製品版ではセーブデータを引き継ぎ、続きからプレイすることができます。\nよろしければ、ぜひ製品版もお楽しみください。"
+msgstr "Thanks for playing the demo!\n\nYour save is compatible with the full version.\nPlease consider buying the full game if you enjoyed the demo!"
 
 # --- Gallery ---
 
 msgid "GALLERY_HINT_LABEL"
-msgstr "ヒント:"
+msgstr "Hint:"
 
 # --- Format ---
 
 # --- Confirm ---
 
 msgid "CONFIRM_OVERWRITE_SAVE"
-msgstr "%s を上書きしますか？\n以前のデータは失われます。"
+msgstr "Overwrite %s?\nThe overwritten data will be deleted."
 
 msgid "CONFIRM_DELETE_SAVE"
-msgstr "%s を削除しますか？"
+msgstr "Delete %s?"
 
 msgid "CONFIRM_LOAD"
-msgstr "ロードしますか？\n現在の進行状況は失われます"
+msgstr "Load this save?\nYou will lose your current progress."
 
 msgid "CONFIRM_RETURN_TITLE"
-msgstr "タイトルに戻りますか？\n現在の進行状況は失われます"
+msgstr "Exit to menu?\nYou will lose your current progress."
 
 msgid "CONFIRM_UNLOCK_GALLERY"
-msgstr "回想を全て解放しますか？"
+msgstr "Unlock the entire gallery?"
 
 # --- Hints ---
 
 msgid "HINT_GOAL_BOTTLE"
-msgstr "夜、へやに行って\nとっておきの小瓶を使おう!!"
+msgstr "Go to her room at night.\nUse the Special Vial!!"
 
 msgid "HINT_RETURN_KEY"
-msgstr "夜、へやに行ってカギを返そう!!"
+msgstr "Go to her room at night and return the key!!"
 
 msgid "HINT_MINUKI"
-msgstr "夜、へやに行って見抜きさせてもらおう!!"
+msgstr "Go to her rom at night and make her watch!!"
 
 msgid "HINT_VISIT_ROOM"
-msgstr "夜、へやに行こう!!"
+msgstr "Go to her room at night!"
 
 msgid "HINT_ACTION_SLEEP"
-msgstr "就寝して翌日の朝を迎えます"
+msgstr "Go to sleep and welcome a new day."
 
 msgid "HINT_ACTION_QUEST"
-msgstr "クエスト選択画面を開きます"
+msgstr "Open the quest menu."
 
 msgid "HINT_ACTION_IDLE"
-msgstr "特に何もせず、時間を進めます"
+msgstr "Pass time doing nothing."
 
 msgid "HINT_ACTION_STATISTICS"
-msgstr "道具屋さんのひみつを閲覧します"
+msgstr "View the shopkeeper's hidden stats."
 
 msgid "HINT_ACTION_EVENING_VISIT"
-msgstr "道具屋さんのおうちを訪ねます…"
+msgstr "Visit the shopkeeper's room..."
 
 msgid "HINT_ACTION_BUY"
-msgstr "道具屋さんからアイテムを購入します"
+msgstr "Buy stuff from the shopkeeper."
 
 msgid "HINT_ACTION_SELL"
-msgstr "道具屋さんにモンスターの素材を売却します"
+msgstr "Sell monster drops."
 
 msgid "HINT_ACTION_GO_DOWNSTAIRS"
-msgstr "1Fに戻ります"
+msgstr "Go downstairs."
 
 msgid "HINT_NOT_SET"
-msgstr "（ヒント未設定）"
+msgstr "（No hint）"
 
 msgid "HINT_UNLOCK_NEXT_EVENT"
-msgstr "つぎの[color=gray][s]ぼったくり[/s][/color]イベントで開放"
+msgstr "Unlocks after the next [color=gray][s]scam[/s][/color] event."
 
 msgid "HINT_UNLOCK_SPECIFIC_ITEM"
-msgstr "特定のアイテムを入手すると解放"
+msgstr "Unlocks after obtaining a specific item."
 
 msgid "HINT_ACTION_UNKNOWN"
-msgstr "……？"
+msgstr "...?"
 
 # --- Battle (extended) ---
 
 msgid "BATTLE_DEFEAT"
-msgstr "敗北..."
+msgstr "Defeated..."
 
 msgid "BATTLE_NO_LOOT"
-msgstr "何も獲得できませんでした..."
+msgstr "You got nothing of value..."
 
 # --- Shop (extended) ---
 
 msgid "SHOP_NO_ITEMS"
-msgstr "アイテムがありません"
+msgstr "No items"
 
 msgid "SHOP_HINT_LABEL"
-msgstr "[b]ヒント[/b]"
+msgstr "[b]Hint[/b]"
 
 msgid "SHOP_DESCRIPTION_LABEL"
-msgstr "[b]説明[/b]"
+msgstr "[b]Description[/b]"
 
 # --- Scenario (extended) ---
 
 msgid "SPEAKER_SELF"
-msgstr "自分"
+msgstr "ME"
 
 # --- Item Description ---
 
 msgid "FMT_STRENGTH_SINGLE"
-msgstr "つよさ: %d "
+msgstr "Power: %d "
 
 msgid "FMT_STRENGTH_RANGE"
-msgstr "つよさ: %d-%d "
+msgstr "Power: %d-%d "
 
 msgid "FMT_STRENGTH_RANGE_LABEL"
-msgstr " (つよさ：%d～%d)"
+msgstr " (Power: %d～%d)"
 
 msgid "FMT_ARMOR_HP_BONUS_LABEL"
 msgstr " (HP：+%d)"
 
 msgid "FMT_ITEM_COUNT"
-msgstr "%d個"
+msgstr "%d"
 
 msgid "NO_DESCRIPTION"
-msgstr "（説明なし）"
+msgstr "(No Description.)"

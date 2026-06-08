@@ -2,21 +2,21 @@
 
 bg: shop
 
-me: 「買ってもた...」
+me: "Welp, I bought it..."
 
 usa00:
   posure: front
 
-usa00@rt: きゃ~♥
+usa00@rt: Kyah~♥
 
-usa00@rt: じゃこれ、わたしの家の鍵です〜♥
+usa00@rt: Okay then~\nThis is my room key~♥
 
-me: 「マジ? ほんとぉ!?」
+me: "REALLLLLY!? FOR REAL!?"
 
-usa00@lb: よるきてね〜♥
-usa00@rt: クエスト終わったあととか〜♥
+usa00@lb: Come at night~♥
+usa00@rt: After you finish your quests~♥
 
-me: 「ﾔｯﾀｰｰｰﾔｯﾀﾔｯﾀ!!」
-me: 「絶対部屋行きます~~~!!」
+me: "YAY! WOOHOO!!!"
+me: "Definitely will be there!!!"
 
-usa00@lb: じゃあまた、よるまってるね〜♥
+usa00@lb: See you then~\nUntil night~♥

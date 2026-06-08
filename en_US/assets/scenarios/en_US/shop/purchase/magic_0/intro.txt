@@ -1,98 +1,98 @@
 bg: shop
 
-……
+...
 
-me: 「買っちゃった...」
+me: "I can't believe I bought this..."
 
 usa00:
   posure: front
 
-usa00@rt:やった〜♥
+usa00@rt:Yay~♥
 
-me: 「で、 これどうやって使うんだ?」
+me: "Okay, so how do I use it?"
 
-usa00@lb:え〜っとね〜
-usa00@rt:開いて〜
+usa00@lb:Let's see~
+usa00@rt:You open it~
 
-ペラリ
+Flip...
 
-なんかいっぱい絵が書いてあるぞ
+There's a bunch of pictures inside the thing.
 
-usa00@lb:頭をくっつける
+usa00@lb:Then stick your\nhead to the book~
 
-me: 「えっ そういう感じなんだ…」
+me: "Huh. That's how...?"
 
-usa00@rt: そしたら〜 目がチカチカして〜
-usa00@lb: 魔法が使えるようになるはず…です
+usa00@rt: Then~ your eyes\nwill go sparkly~
+usa00@lb: And then you can use magic... I think.
 
-me: 「えー… 不安…」
+me: "Uh, that's not entirely convincing."
 
-usa00@rt: 見ててあげますから〜
+usa00@rt: It's okay~\nI'll be watching~
 
-まあ…やってみるか…
+Well... Couldn't hurt, I guess...
 
-me: 「オリャッ」
+me: "Here I go!"
 
-…
+...
 
-……
+......
 
 usa00:exit
 
 bg: black
 
-………
+.........
 
-me: 「わっ!!!!!」
+me: "Woah!!!"
 
-???: 「この"法"を開いた"者"が現れたか…」
+???: "To think One who Evokes this Law would appear..."
 
-me: 「ダレ!?!」
+me: "Who said that!?!?"
 
-???: 「この"法"は"認識"を"魂"から断ち切る…」
+???: "This Law severs Cognition from the Soul..."
 
-me:「めちゃくちゃチョンチョンついてるじゃん!!!!!!」
+me:"So many capitalized words!!!!!!"
 
-???:「……こちらにも聞こえているので、静かに」
+???:"...Silence. I can hear you."
 
-me:「ﾊｲ…」
+me:"Sorry..."
 
-???: 「対象の額に手を添え、念じるがいい」
+???: "Place your hand upon the subject's forehead, then focus."
 
-me: 「…」
+me: "..."
 
-???: 「使い方は伝えた… 後は好きにしろ…」
+???: "I have given you the way... Now do as you like..."
 
-…
+...
 
 bg: shop
 
 usa00:
   posure: front
 
-……
+......
 
 
-usa00@rt:わっ おさまった
+usa00@rt:Woah.\nIt's over.
 
-me: 「なにが起きてた!?」
+me: "What happened!?"
 
-なんかめっちゃ怖いこと言ってた!!!!!!
+Someone said a bunch of weird spooky things to me!!!
 
-usa00@rt:目がチカチカしてましたよ〜
+usa00@rt:You eyes were all sparkly~
 
-me: 「コエーーー」
+me: "Eeeep..."
 
-usa00@lb: おぼえられたんですか?
+usa00@lb: Did you learn magic?
 
-me: 「わかんね〜〜〜〜〜! 大丈夫なのｺﾚ…?」
+me: "I don't know~!!! Was that even safe...?"
 
-usa00@rt: 大丈夫じゃないですか〜?
+usa00@rt: I don't know~ Maybe~?
 
-me: 「適当〜」
+me: "You don't really care, do you..."
 
-usa00@rt: こんど、寝れたかどうか\nきかせてくださいね〜
+usa00@rt: Tell me if\nyou get better sleep~
 
-うーん
+Hmm...
 
-…あとでこっそり試してみるか…
+Maybe I'll try it out later... sneakily...

@@ -4,49 +4,49 @@ bg: shop
 usa00:
   posure: front
 
-me: 「ちょ〜高え〜〜」
+me: "So expensive...!"
 
-そもそも、帰省についていきたいって話だったのに、ようわからん商品を買わされてしまった
+I just wanted to visit her hometown with her, and
+somehow that turned into me buying this weird thingamajig.
 
-なんかすこしくすんだ、コハク? みたいな小瓶に液体が満たされている
+It's a small vial (made of amber?) filled with some kind of liquid.
 
 usa00:
   目: close_doya
   口: o
 
-usa00@rt: こほん
+usa00@rt: Ahem.
 
-me:「…!」
+me:"...!"
 
 usa00:
   口: normal
 
-usa00@rt:説明します
+usa00@rt:Let me explain.
 
-me:「ﾊｲｯ!」
+me:"Okay!"
 
 usa00:
   目: normal
 
-usa00@lb:これは〜
-usa00@rt:ギシキで使うものでして〜
+usa00@lb:This is...
+usa00@rt:...a thing for a ritual~
 
-me:「儀式〜？」
+me:"A ritual~?"
 
-me: 「村に帰るのに必要なんスカ〜?」
+me: "Is this necessary for going to your village?"
 
-usa00@rt:ウチの村は〜\nそもそも オス は入っちゃダメ〜
+usa00@rt:Men actually can't\nenter our village,\nyou see~
 
-me: 「ｱｯ、そういうｶﾝｼﾞのとこなんだ…」
+me: "Oh! So it's THAT kind of village..."
+usa00@rt:I know I made you buy lots of stuff, but this is the last~\nI promise~
+usa00@lb:Thanks for always\nplaying along~
 
-usa00@rt:いろいろ頼んじゃいましたが、これがホントに最後〜
-usa00@lb:付き合ってくれてありがとう〜
+me: "Oh, it's okay~ You know~"
 
-me: 「いやまあそれはいいんすけど〜」
+usa00@lb:Bring this to my room,\nat night~♥
 
-usa00@lb:夜、おへやにこれ持ってきて〜♥
+me:"...Kay."
 
-me:「……うす」
-
-…なんだか大変なことになりそうな予感がする…
+...I have a feeling things will get very messy.
 

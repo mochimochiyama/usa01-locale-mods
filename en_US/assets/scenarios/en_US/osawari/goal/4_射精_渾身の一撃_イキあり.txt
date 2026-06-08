@@ -6,18 +6,18 @@ usa00:
   ちんこ_挿入: 挿入1
   口: シナリオキス
 
-usa00@rt:[wave]ぇあ[/wave]
+usa00@rt:[wave]Hnyeh[/wave]
 
-……!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+......!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 usa00:
   目: キス待機_normal
   口: キス待機
   ちんこ_挿入: 挿入0
 
-me:「もっ マジッ… 無理ッ…」
+me:"I... can't... anymore..."
 
-usa00@rt:[wave]えぁっ ぇ[/wave]
+usa00@rt:[wave]Hnyeh Nheh[/wave]
 
 usa00:
   目: normal

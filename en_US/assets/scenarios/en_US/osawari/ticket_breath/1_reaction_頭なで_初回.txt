@@ -2,12 +2,12 @@
 usa00:
   目: close_smile
 
-usa00@rt: あ〜♥
+usa00@rt: Ah~♥
 
 usa00:
   目: normal
 
-usa00@lb: あたま〜？
+usa00@lb: My head~?
 
 
-me:「顔、顔！ セーフ、セーフ!!」
+me:"Part of the face! Technically okay! OKAY!"

@@ -6,42 +6,42 @@ usa00:
   目: close_doya
   口: o
 
-…
+...
 
-usa00@rt:[tornado]くぅ…[/tornado]
-usa00@lb: [tornado]く…![/tornado]
+usa00@rt:[tornado]Khuu...[/tornado]
+usa00@lb: [tornado]Khuu...![/tornado]
 
 usa00:
   目: normal
 
-usa00@rt: …ん?
+usa00@rt: ...Hm?
 
-me: 「……」
+me: "..."
 
-usa00@lb: なんの話でしたっけ…?
+usa00@lb: What were we\ntalking about...?
 
 usa00:
   口: normal
   body: ひろげ
 
-usa00@rt: あっ そうだ〜
-usa00@lb: おでこ、 どうぞ〜! [tornado]バパン[/tornado] 式挨拶〜
+usa00@rt: Oh~ Right~
+usa00@lb: My forehead, here~!\n[tornado]Bunnin[/tornado]  hi~
 
-…
+...
 
-me: 「… あー 今日は大丈夫っす…」
+me: "Ah, it's okay. I'm good now..."
 
 usa00:
   口: o
 
-usa00@rt: え〜？
+usa00@rt: Huh~?
 
-…
+...
 
 usa00:exit
 
-…これ、使って大丈夫な魔法…??
+...Is this magic even legal???
 
-……まあいいか!!!!!
+...Well, whatever!!!!!
 
-…
+...

@@ -5,52 +5,54 @@ usa00:
   posure: front
 
 
-こそ~っ
+Peek...
 
 usa00:
   口: o
-usa00@rt: なんですか~?
+usa00@rt: What~?
 
-me: 「…ﾅﾝﾃﾞﾓﾅｲﾃﾞｽ」
+me: "...Nothing."
 
-…魔法を使うにはおでこを触らないといけないらしい…が… そんなん無理じゃん?
+I need to touch her forehead to use sleep magic on her,
+which sounds... impossible?
 
-me: 「…あの~!」
+me: "...Um~!"
 
 usa00:
   口: normal
 
-usa00@rt:さっきからなんですか〜?
+usa00@rt:You've been acting weird for a while now, you know~?
 
-me: 「…おでこさわりたいんｽけど~」
+me: "Can I touch your forehead...?"
 
-えい、直談判だ!!!!!!!
+THERE! I GO ALL IN!!!!!
 
 usa00:
   目: close_smile
-usa00@lb:いいですよ~
+usa00@lb:Sure~
 
-me: 「ﾅﾝﾃﾞ!?」
+me: "WHY!?"
 
 usa00:
   目: normal
-usa00@rt: なんでって~
-usa00@lb: [tornado]バパン[/tornado] の挨拶、 調べてくれたんじゃないんですか〜?
+usa00@rt: Why~?
+usa00@lb: It's a  [tornado]Bunnin[/tornado]  greeting~ You looked that up, didn't you~?
 
-全然知らなかったけど!
+I had no idea at all!
 
 usa00:
   目: close_smile
 
-usa00@rt: ほら〜
-usa00@lb: [tornado]バパン[/tornado] 式挨拶〜
+usa00@rt: Here~
+usa00@lb: [tornado]Bunnin[/tornado]  hi~
 
 
-騙しているようで気が悪いが、ちょっと試してみるだけなので… 先っぽだけ…
+I feel bad for tricking her, but I'm just testing out the magic...
+Just the tip...
 
-me: 「ｱｯｼﾞｬ、 ﾊﾞﾊﾟﾝ式ｱｲｻﾂ 失礼ｼﾏｽ…」
+me: "Okay then... Here I go with the Bunnin hi..."
 
-ぴとっ
+Pat...
 
 usa00:
   目: normal
@@ -58,21 +60,21 @@ usa00:
 
 usa00@rt:?
 
-…とくに何も起こらない……
+Nothing's happening...
 
-ですよね〜
+Well, I knew it...
 
-me:「……ｼﾞｬ そゆこと〜で…」
+me:"...Okay, thanks for letting me--"
 
-usa00@rt:[tornado]く[/tornado]
+usa00@rt:[tornado]Kh...[/tornado]
 
 usa00:
   目: close_doya
 
-usa00@lb: [tornado]くぅ…[/tornado]
+usa00@lb: [tornado]Khuu...[/tornado]
 
-me: 「…」
+me: "..."
 
-…
+...
 
-……もしも〜し?
+...Hellooo?

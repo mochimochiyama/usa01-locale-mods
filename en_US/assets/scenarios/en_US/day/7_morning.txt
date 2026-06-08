@@ -4,64 +4,66 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはよーございます」
+me:"Good morning."
 
-……
+...
 
-……そういえば前から気になってたことを思い出したぞ!
+...Oh right, I've been meaning to ask her something!
 
-me:「あの〜」
+me:"Um..."
 
-usa00@lb:ん〜？
-usa00@rt:なんですか〜？
+usa00@lb:Hmm~?
+usa00@rt:What's the matter~?
 
-me:「なんでこんな……辺鄙なとこで店やってるんすか」
+me:"Is there a reason why... your shop is in the middle of nowhere?"
 
-usa00@rt:ヘンピ?
+usa00@rt:The middle of nowhere?\nWhat does that mean?
 
-me:「路地裏っていうか……わかりづらいっていうか」
+me:"It's hidden in a back alley... and kinda hard to find, sorta."
 
-me:「もっと表通りとかのほうが、客来るんじゃ……」
+me:"You'd probably get more customers\nif you open up in the main street..."
 
-ていうか、俺以外この店使ってるやつ、見たこと無いかも!!
+In fact, I haven't seen anyone else use this shop but ME!!
 
-usa00@lb:あ〜
+usa00@lb:Ah~
 
 usa00:
   目: close_smile
 
-usa00@rt:悪口〜
+usa00@rt:It's an insult word~
 
-me: 「ｱｯ、 そういうつもりじゃ…」
+me:"Ah. That's not what I mean..."
 
 usa00:
   目: normal
 
-usa00@rt:わたしが来たときもう
-usa00@lb:いい場所もう全部埋まってて〜
+usa00@rt:When I arrived here...
+usa00@lb:All the good spots\nwere already taken~
 
-me:「あ〜 そっか〜 そういうのあるのか〜」
+me:"Ah... I see... didn't think of that..."
 
-usa00@rt:まあでもけっこ〜イイ感じじゃないですか〜\nここ
+usa00@rt:Well~ But this is nice too~\nAlmost like a...
 
 usa00:
   目: close_smile
   body: ひろげ
 
-usa00@lb:カクレガ？っぽいかんじ
+usa00@lb:Hidden gem?\nDon't you think~?
 
-me:「！！！！ え、 そう！！！」
+me:"Oh, yeah!!!"
 
-そうなのだ!
-ここはなんか、かなり、なんというか "ツウ" っぽい!
+She's so right!
+
+This place feels like, you know,
+a place that seasoned adventurers go to!
 
 usa00:
   目: close_smile
   body: normal
 
-昨日また港の武器屋を覗いたら、またちっこい爺さんに睨まれたし!あっちで買い物してる奴ら、よく考えたら ちょっとダサいしな!
+And yesterday, I got death glared by that short geezer in the weapon shop again! Come to think of it, the clientele there all look like dweebs!
 
 
 usa00:
@@ -69,18 +71,21 @@ usa00:
 
 usa00@rt:...
 
-ていうか、ギルドにもこないだ流れでモンスターの素材回収されそうになっていや俺そういうのいいんでっ断ったらめちゃくちゃ変な目で見られたし!あいつらって、 "わかってない" んだよな!!!!
+Reminds me... The guild tried to buy monster materials off me recently, and when I declined, they all looked at me like I'm crazy! Well, they just don't get it at all!!!
 
 usa00:exit
 
-まあここ来るのにちょっと時間かかるけど、クエスト行く前の準備運動を兼ねてるわけだし、
-ていうか…
+Sure, it takes some time to get here,
+but that's like warm-up before a quest...
 
-…
+And well...
 
-……
+...
+
+...
 
 
-……気づいてたら一人になっていたぞ！
+...Before I knew it, soloing became my life!
+I didn't choose to be a loner!
 
-とりあえず、 今日も一日頑張るぞ!
+Anyway... time to do my best again today!

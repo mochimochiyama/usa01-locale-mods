@@ -2,45 +2,45 @@
 usa00:
   目: close_smile
 
-usa00@rt: きゃ〜♥♥
-usa00@lb: やっぱり〜
+usa00@rt: Kyah~♥♥
+usa00@lb: I knew it~
 
 usa00:
   目: normal
 
 
-usa00@rt:じゃあ~
+usa00@rt:Okay then~
 
 usa00:
   area_口: 待機
 
-usa00@rt: う〜♥
+usa00@rt: Auh~♥
 
-me: [shake]う〜!?[/shake]
+me: [shake]Auh~!?[/shake]
 
 usa00:
   目: close_smile
 
-usa00@rt: くちびう〜♥
+usa00@rt: My lips~♥
 
 usa00:
   目: normal
 
-me: ｴ―――― だめじゃない!?
+me: HUH. Is that okay!?!?!?
 
 usa00:
   目: normal
   口: normal
 
-usa00@rt: え〜♥ だめか〜♥
+usa00@rt: Oh~?♥ Is it not~?♥
 
-me: だめじゃないかも!!!!!!
+me: IT'S OKAY!!!!!!
 
 usa00:
   目: close_smile
   口: う_指入れ待機
 
-usa00@rt: う〜♥
+usa00@rt: Auh~♥
 
 
 usa00:

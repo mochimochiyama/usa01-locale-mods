@@ -3,114 +3,113 @@ usa00:
   目: normal
   上腕: normal
 
-usa00@rt:で~？
-usa00@lb:せっかく買ったんだから\n使うんですよね〜？
+usa00@rt:Now~?
+usa00@lb:You bought the ticket~\nAren't you going to use it~?
 
-me:これって使うやつなんだ…
+me:(How do I even use this...?)
 
-me:「いや、本当は装備の更新を…するつもりだったんですね...」
-
-usa00:
-  目: close_smile
-
-usa00@rt:[wave]え〜♥[/wave]
-
-usa00@lb:[wave]売り切れで〜す♥[/wave]
-
-usa00:
-  目: normal
-
-me:(うーむ・・・)
-
-usa00@rt:冒険者さんって
-usa00@lb:しっぽとかチラチラ\nみてますよね〜
-
-……そうなのだ
-
-me:「それは…ﾊｲ…」
+me:"Uh, you know I came here to upgrade my gear originally..."
 
 usa00:
   目: close_smile
 
-usa00@rt:[tornado]くぅくぅ♥[/tornado]
+usa00@rt:[wave]Huh~♥[/wave]
+
+usa00@lb:[wave]All sold out~♥[/wave]
 
 usa00:
   目: normal
 
-usa00@lb:もしかして〜\n触ってみたいとか思ってますよね〜
+me:(Hmmm...)
 
-…………そうなのだ!!
+usa00@rt:Mr. Adventurer~
+usa00@lb:You also stare at my tail from time to time, don't you~?
 
-前々から、ちょっとだけ
-その純粋に 触感とかどんな感じかなあ!? とか
-純粋に!! ちょっとだけな!!!!!!!!!!
+...Sure I do.
 
-me:「本当にちょっとだけなんですけど!!!」
+me:"Well, that's... Yep."
 
 usa00:
   目: close_smile
 
-usa00@rt:[tornado]くぅくぅ♥[/tornado]
+usa00@rt:[tornado]Khuu-khuu♥[/tornado]
 
 usa00:
   目: normal
 
-usa00@lb:まあ、しっぽはダメですけど〜
-usa00@rt:[wave]握手くらいなら~♥[/wave]
+usa00@lb:Are you maybe~\nthinking of touching it~?
 
-me:「……」
+...SURE I AM!!!
 
-usa00@lb:冒険者さんってさ〜
-usa00@rt:たぶん [tornado]バパン[/tornado] 初めて見たんでしょ〜？
+I have uh, for a while now, been curious about
+the texture and so on! YEAH! Just that! I'm just curious!!!
 
-そう言いながら少し胸をはる。
+me:"JUST A LITTLE!!!"
 
-me:「……まあ 全然まわりにはいなかったな〜」
+usa00:
+  目: close_smile
 
-バパンとは、道具屋さんの種族のことだ
-耳や尻尾が生えていて、個人的にはかなり気になる
+usa00@rt:[tornado]Khuu-khuu♥[/tornado]
 
-usa00@rt:あんま抵抗とかないんですか〜？
-usa00@lb:そんなヒトはじめて見ました〜♥
+usa00:
+  目: normal
 
-me:「いや、 純粋にな!!!!!! ちょっとだけな!!!!!!!!!!!!!」
+usa00@lb:Well, my tail is off limits~
+usa00@rt:[wave]But my hand,\nyou can shake~♥[/wave]
 
-usa00@rt:じつは〜？
-usa00@lb:普段は隠してたんですけど〜
+me:"..."
 
-me:「ﾊｲ」
+usa00@lb:Mr. Adventurer~
+usa00@rt:This is your first time seeing\na  [tornado]Bunnin[/tornado] , am I right~?
+
+She puffs her chest as she says this.
+
+me:"Well, I never had the opportunity to meet one before..."
+
+Bunnins. That's the shopkeeper's race.
+They have long ears and a fluffy tail, and I'm quite intrigued by them.
+
+usa00@rt:You don't mind Bunnins~?
+usa00@lb:It's my first time seeing someone like that~♥
+
+me:"Uh, I'm just uh, curious!!! Yes, CURIOSITY!!!"
+
+usa00@rt:Actually, you know~?
+usa00@lb:I don't usually\nshow them to people, but~
+
+me:"Huh."
 
 usa00:
   腕: 握手待機
 
-usa00@rt: なんと、ニクキュー があるんです〜♥
+usa00@rt: My hands have paw pads~♥
 
-me:「ﾜｰｰｰｰｰｰｰｰ!!」
+me:"WOAH!!!"
 
-そうだったんだ!!!!!!
+IS THAT SO!?!?!?
 
 usa00:
   腕: normal
 
-usa00@rt: はい〜ここ読んでください〜♥
+usa00@rt: And here~ Read this~♥
 
-me:「…ｱ」
+me:"...Oh."
 
-me: 「…ｱｸｼｭｹﾝって書いてる!!!!!!!!」
+me: "...IT SAYS I CAN SHAKE YOUR HAND!!!!!!"
 
-usa00@rt:触感とか〜 わかるかも〜
+usa00@rt:You can maybe~\nsee how it feels~
 
-me: 「わかるかも!!」
+me: "See how it feels!!!"
 
-usa00@rt:は〜い ビリビリ〜〜
+usa00@rt:Okay~ Tear, tear~
 
-me: 「わー!! ｱｸｼｭｹﾝ!!ﾔﾌﾞｶﾅｲﾃﾞ!!」
+me: "WAH!!! No, the handshake ticket! Don't tear it!!!"
 
-usa00@rt:じゃあ〜開始〜♥
+usa00@rt:Okay~ It begins, now~♥
 
-usa00@rt:でもそのまえに〜
-usa00@lb:握手してくださいって\n言ってくださいよ〜♥
+usa00@rt:But before that~
+usa00@lb:Say this~♥\n"Please let me\nshake your hand~"
 
-me:「ｴｴｯ！!」
+me:"OH!?"
 
-usa00@rt:ほら〜
+usa00@rt:Come on~

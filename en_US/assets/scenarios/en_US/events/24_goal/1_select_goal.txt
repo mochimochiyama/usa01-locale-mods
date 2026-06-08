@@ -6,100 +6,103 @@ usa00:
   上着: なし
   手袋: なし
 
-me: 「もってきましたけど〜」
+me: "I got the thing with me~"
 
-何度目かはもうわからんが…
-[s]むりやり買わされた[/s] 自分で買いました、よくわからん小瓶? を持ってきた
+I can't even keep track of how many times she's made me buy stuff...
+I have the vial that she made me buy... I mean, that I willingly bought, with me.
 
-"ギシキ" とやらに使うらしいが…
+Apparently it's for some "ritual"...
 
 usa00:
   目: close_smile
 
-usa00@rt: わ〜♥
+usa00@rt: Wow~♥
 
 usa00:
   目: normal
-usa00@lb:じゃあ蓋あけて〜
+usa00@lb:Okay, open the vial~
 
-ぱかりっ
+Pop.
 
-……なんかすごい、 森の奥をいっぱいにして、ギュって固めたような匂い!
+...Wow, it's like someone crammed the most
+foresty parts of a forest inside! That kind of smell!
 
 usa00:
   目: close_smile
-usa00@rt: それを〜 嗅がせて〜
+usa00@rt: Now give me~\na whiff of that~
 
-me:「こうっすかあ〜?」
+me:"Like so~?"
 
-中身がこぼれないように、ゆっくりと小瓶を鼻元に近づける!
+I take care to not spill the vial and slowly move it near her nose!
 
 usa00:
   目: close_doya
 
-usa00@lb:す〜……
-usa00@rt:……ん……
+usa00@lb:Sniff~...
+usa00@rt:...Hnh...
 
-…
+...
 
-……
+......
 
 usa00:
   目: normal
   発情: 中
 
-usa00@rt:[tornado]くぅ……[/tornado]
+usa00@rt:[tornado]Khuu...[/tornado]
 
-me:「あ、あの……？」
+me:"U-Um...?"
 
-usa00@lb:……お〜
+usa00@lb:...Oh~
 
-なんか顔赤いかも！
+Her face is getting kinda red!
 
-me: 「ﾀﾞ、大丈夫?」
+me: "A-Are you okay?"
 
-usa00@rt:…とりあえず〜
-usa00@lb:……わたしはたぶんキオクがなくなるけど〜
+usa00@rt:...So~
+usa00@lb:...I probably won't\nremember any of this~
 
-me: 「…うん?」
+me: "...Huh?"
 
-usa00@rt:あち〜…
+usa00@rt:So hot~...
 
 usa00:
   キャミ:なし
 
-me: 「ﾜ!!!!!! なんで急に服ぬいだんすか!!」
+me: "WOAH!!! Why are you taking off your clothes!!??"
 
-usa00@rt:[wave]ハツジョー?[/wave]
-usa00@lb:[wave]すご〜♥[/wave]
+usa00@rt:[wave]In heat~?[/wave]
+usa00@lb:[wave]Wow~♥[/wave]
 
-むわ~っとこちらまで、すこし汗のような匂いが混じった熱気が伝わってくる!!
+I can feel her heat even at this distance!
+The moisture, and the sweaty scent!!
 
 usa00:
   目: close_smile
   発情: 強
 
-usa00@lb:[wave]なんもわからん〜♥[/wave]
+usa00@lb:[wave]No idea what'll\nhappen now~♥[/wave]
 
-これ、 なんか、やばい、やばいやつだ!!
+This... This is bad! Like, real BAD!!!
 
-me:「とりあえず！おれは下降りま――
+me:"I'll, uh! I'll leave for now--"
 
-usa00@lb:[wave]ばた〜♥[/wave]
+usa00@lb:[wave]Push~♥[/wave]
 
-me:「――ニャッ!」
+me:"――Nyeouch!"
 
-小さい体のどこからそんな力が出るのか、ベッドに押し倒… 組み伏せられる!
+How is her small figure mustering up such strength!?
+She has pushed me... wrestled me to the bed!
 
-usa00@rt:[wave]がんばって〜♥[/wave]
-usa00@lb:[wave]イッショに〜♥[/wave]
-usa00@lb:[wave]はっ♥[/wave]
+usa00@rt:[wave]Time to work hard~♥[/wave]
+usa00@lb:[wave]Together~♥[/wave]
+usa00@lb:[wave]Hnah♥[/wave]
 
-…!!!!
+...!!!
 
-usa00@rt:[wave]はっ♥ はやく♥[/wave]
-usa00@lb:[wave]えっち♥ えっちする♥[/wave]
+usa00@rt:[wave]Now♥ NOW♥[/wave]
+usa00@lb:[wave]Sex♥ SEX♥[/wave]
 
-……!!!!!!!!!!
+......!!!!!!!!!!
 
-…
+...

@@ -4,47 +4,49 @@ bg: shop
 usa00:
   posure: front
 
-usa00@rt:おはよ〜
+usa00@rt:Morning~
 
-me:「おはようございます」
+me:"Good morning."
 
-店に入る前、ふと周りを見回す。
+I take a good look at the entrance before entering the shop.
 
 
-me:「……なんか」
+me:"Your shop front..."
 
-usa00@lb:ん〜？
+usa00@lb:Hmm~?
 
-me:「店の前、ごちゃごちゃしてきてない？」
+me:"It's getting messier and messier, don't you think?"
 
-usa00@rt:あ〜
-usa00@lb:わかる〜？
+usa00@rt:Ah~
+usa00@lb:Can you tell~?
 
-me:「最初来た時より、明らかに物増えてますよね〜」
+me:"There's a lot more stuff compared to my first visit."
 
-usa00@rt:もしかして〜
-usa00@lb:繁盛〜？
+usa00@rt:Maybe my~
+usa00@lb:Business is booming~?
 
-そういえば! 最近ちょいちょい買い物に来てるやつを見かけるな!
+Oh yeah! Recently, I started seeing
+people buy stuff here from time to time!
 
-まあ、俺は誰もいないときから通ってたけどな!!!!!!
+Well, not that it matters!
+I come here when there's nobody else around!!!
 
-me:「繁盛っていうか……雑然としてきたっていうか」
+me:"Booming, or you know... cluttering."
 
-usa00@lb:でもさ〜
-usa00@rt:ごちゃごちゃしてる方が〜
-usa00@lb:"ツウ"っぽい〜?
+usa00@lb:But, hey~
+usa00@rt:Being cluttered~
+usa00@lb:Feels more\nhole-in-the-wall,\nhmm~?
 
-me: 「ツウっぽい!かっこいい!」
+me:"Hole-in-the-wall! Sounds badass!"
 
 usa00:
   目: close_smile
 
-usa00@rt:まいど〜
+usa00@rt:Thanks again~
 
 
 usa00:exit
 
-…
+...
 
-……今日も一日頑張るぞ!
+...Time to do my best again today!
