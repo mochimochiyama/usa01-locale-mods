@@ -1,60 +1,62 @@
-うさみみ道具屋さんとおさわり出稼ぎ冒険者生活
+Bunny Shopkeeper Touchy-Feely Adventurer Life
 
-異世界の道具屋のうさみみの女の子とイチャイチャするおさわりゲームです
+A game in which you get touchy-feely with a bunny item shop owner as an adventurer in a fantasy world!
 
-こちらの言語はコミュニティ翻訳により追加されました
-詳細はこちら https://github.com/mochimochiyama/usa01-locale-mods
+The English version is a fan translation.
+Details here: https://github.com/mochimochiyama/usa01-locale-mods
 
-うさぎの道具屋さんの店に通って喋ったりおさわりをします
-路地裏にある道具屋の店主とイチャイチャする おさわり+ノベル ゲームです。
-拠点からクエストや買い物を行い(なぜなら冒険者なので)、合間に会話パートがやおさわりパートが挟まる流れになります。
-基本的に一本道で、2時間程度でクリアできます。
+Talk to the bunny shopkeeper in her shop, grope her (Hey! She kinda invited!), and do lovey-dovey things with her in general.
+Go on quests and buy adventurer-ish stuff, and find your moment of peace in between by talking to and touching the bun!
+Estimated 2 hours of playtime with no major branching paths.
 
-登場人物
-【道具屋さん】
-冒険者があつまる島の片隅で道具屋を営んでいる(ちいさい)
-バパンという種族です。人間には無い部位を触らせてくれます。最後はベロチューえっちします。
-さいしょは敬語です
+THE CHARACTERS
 
-【主人公】
-新米冒険者、バカ
+THE SHOPKEEPER!
+A Bunnin who runs a teensy little item shop in a hidden alleyway on an island where adventurers gather.
+Touch her non-human, furry bits! Then have sweet, deep-kissing bunny sex at the end.
 
-おさわり
-ノベルパートとおさわりパートでは全体的にぬるぬる動きすぎないアニメーション表現を目指しました。絶妙にパカパカ動きます。
-Live2D 等の既存のツールは使用していないので、あんまみたことない表現になっている…気がします。体験版あるので触ってもらえると嬉しいです。
+THE ADVENTURER... YOU!
+A rookie adventurer. Kinda dumb.
 
-ゲームパート
-【拠点】
-拠点となる道具屋です。ここから買い物やクエスト選択を行います。一日二行動できます。
-進行に応じて店の見た目がちょっと変わっていきます。
-時限要素は無いのでテキトーに進められます。
+GROPING MECHANICS
+Enjoy the intentionally choppy animation in the talky bits and the touchy bits.
+Live2D or similar tools were not used in the production, so this could be a novel experience for you... maybe...? Play the demo and cop a feel for the art!
 
-【おさわりパート】
-中盤から解禁されます。進行に応じてできることが増えていきます。開発度、統計画面もあります。
+GAME LOOP
 
-【会話パート】
-ちょこちょこ挟まります。
+SHOP
+Loiter around the item shop. Buy equipment and stuff here, then choose quests to go on! Two quests per day!
+The shop will also change in appearance as you progress.
+There is no time limit so slay monsters at your own pace!
 
-一部の会話パートではおさわりで話が進行するような作りになっています
+GROPE
+Touch the bun after you become friendly with the bun.
+Touch EVEN MORE bun after you become friendlier.
+You also get a magical sex-tistics screen.
 
-【クエストパート】
-クエストに向かいます、モンスター素材やお金が入手できます。
-クエストを選択した後は、サイコロを振るだけで解決します。(詳細なルールについては Cien に書いています)
+TALK
+Poke the bun and talk to her.
+Go diplomacize as you grope her!
 
-仕様/その他
-【製品版仕様】
-・想定プレイ時間: 2時間
-・基本シーン数: ノベルおさわりシーン6(差分除く) + すやすやおさわりシーン2 (うち4シーンで射精)
-・シナリオ総文字数: 3万文字くらい
-・オートセーブ対応
-・Godot Engine 4.6 を使用しております、体験版の方で動作確認をお願いいたします。
+QUEST
+Go on quests to farm monster drops and earn money.
+Enjoy the simple but enticing dice combat! (Detailed explanation of the mechanics on Ci-en)
 
-【体験版仕様】
-・ゲーム内15日目までプレイできます (30日くらいでクリア想定です)
-・製品版にセーブデータを引き継げます
+SPECIFICATIONS
+[FULL GAME]
+- Expected playtime: 2 hours.
+- Basic scenes: 6 narrative groping scenes (Variations not included) + 2 sleepy bun groping scenes.
+(Ejaculation in 4 out of the total 8 scenes.)
+- Total word count: ~15,000.
+- Autosave feature included.
+- The game was developed using Godot Engine 4.6. Please download the demo to see if it runs properly before purchase.
 
-【その他】
-ゲームの詳細については Cien で紹介しています。
-不具合、質問、要望等がございましたら、Ci-enのコメント欄までお願いします。
+[DEMO]
+- Play until day 15 (Game should end around day 30).
+- Demo version save is compatible with the full version game.
 
-https://ci-en.dlsite.com/creator/35270/article/1745339 (ネタバレがあります)
+OTHERS
+You can check the Japanese articles about the development on our Ci-en.
+Feel free to leave comments on Ci-en if you have any questions, requests, or bugs to report!
+
+https://ci-en.dlsite.com/creator/35270/article/1745339 (Contains spoilers)
