@@ -13,7 +13,7 @@
 | 繁體中文 (zh_TW) | 🎉 | Jason.H | v1.2.0 |
 | ภาษาไทย (th_TH) | 🎉 | DiNoTong | v1.2.1 |
 | 简体中文 (zh_CN) | 🎉 | 贾白熊 | v1.2.2 |
-| English (en_US) | ✍️ | grimalkin | - |
+| English (en_US) | 🎉 | grimalkin | v1.2.3 |
 | 한국어 (ko_KR) | 😢 | - | - |
 
 担当したい言語があれば、ぜひ以下を読んでご参加ください。
