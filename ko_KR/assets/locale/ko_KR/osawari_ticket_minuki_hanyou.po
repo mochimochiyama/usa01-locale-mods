@@ -22,12 +22,12 @@ msgstr "パンツが見えているときに、ずらせます"
 # ヒント本文 - バリアント b
 msgctxt "osawari_hint"
 msgid "ticket_minuki_hanyou_b_operation"
-msgstr "・すまた:おかなをクリック"
+msgstr "・すまた:おなかをクリック"
 
 # ヒント本文 - バリアント c
 msgctxt "osawari_hint"
 msgid "ticket_minuki_hanyou_c_operation"
-msgstr "・すまた:おかなをクリック"
+msgstr "・すまた:おなかをクリック"
 
 # バブル - バリアント a (ERECTION_HINTS_A)
 msgctxt "osawari_bubble"
